@@ -3,9 +3,9 @@ title: Advertising Cloud DSP Macros
 description: Verwijs naar de beschikbare macro's voor het algemene volgen en om kliks op derdevertoningsadvertenties te volgen.
 feature: Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: e0166dbad4fec41fdc64a65cb3a8ac97496c681f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,9 @@ Als een klikmacro ontbreekt wanneer u een vertoningsadvertentie bouwt, DSP toont
 >[!MORELIKETHIS]
 >
 >* [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Instellingen voor aangesloten tv-advertentie](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Ad-instellingen weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Instellingen voor mobiele advertentie](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Instellingen voor eigen advertentie](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
 
