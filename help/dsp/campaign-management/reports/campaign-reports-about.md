@@ -3,9 +3,9 @@ title: Over rapporten in Platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: c1441fb6fddf56a0f0346a967da49efa0fb602ff
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,24 @@ Voor elke plaatsing, kunt u [een (detailmening [!UICONTROL Inspector])](placemen
    * het geschatte unieke aantal apparaten/browsers of personen (afhankelijk van het opgegeven [!UICONTROL Cross Device Level] voor de plaatsing) die op het opgegeven frequentieniveau afdrukken hebben ontvangen
    * het geschatte aantal indrukkingen op het opgegeven frequentieniveau
    * de geschatte gemiddelde frequentie voor het gespecificeerde frequentieniveau. Deze waarde is gelijk aan (Geschatte Impressies)/(Geschatte Uniques).
+
+* **[!UICONTROL Inventory]:** Informatie voor alle overeenkomsten die door de plaatsing in één enkele mening worden gericht.
+
+Het tabblad Overzicht bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en snelle actieknoppen in elke rij, zoals Rapport bewerken en Weergeven. Op het tabblad Overzicht vindt u een snelle oplossing van problemen door prestatiestatussen zoals veilingen, biedingen, Win Rate enz. weer te geven.
+
+# Probleeminventarisatie
+
+| Probleem | Mogelijke oorzaak | Te nemen handelingen |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | De uitgever is niet begonnen met het verzenden van biedingsaanvragen | Contacteer de uitgever voor het activeren van de overeenkomst |
+|  | De Kwesties van de Opstelling van de overeenkomst zoals het ingaan van onjuiste externe overeenkomstenidentiteitskaart enz. | Bevestig de overeenkomstendetails en geef overeenkomst uit |
+| [!UICONTROL Non-zero Auctions but no Bids] | De plaatsing richt zich past niet de inkomende biedingsverzoeken van overeenkomst aan. <br><br> Bijvoorbeeld, zou de plaatsing zich op verschillende geografie kunnen richten dan vereist zoals per overeenkomst | Bewerk de plaatsingsinstellingen op de juiste wijze om te voorkomen dat problemen met de deal worden aangepakt |
+|  | De plaatsing heeft geen actief advertentie of correct media type zoals vereist door overeenkomst | Advertentie met het juiste mediatype maken/koppelen aan de plaatsing |
+|  | Plaatsing heeft onvoldoende budget | Plaatsingsbudget op de juiste wijze bewerken om te kunnen bieden op binnenkomende aanvragen |
+|  | De datums van plaatsingsvluchten overlappen niet met de data waarop de indruk wordt gegeven, zoals per deal | De vliegdatums voor de plaatsing bewerken |
+| [!UICONTROL Low Win Rate] | Het maximumbod bij plaatsing is vastgesteld onder het minimum dat door de transactie wordt vereist (ondergrens of vast) | Maximumbod bij plaatsing op de juiste wijze bewerken |
+|  | De plaatsing gebruikt vooraf biedende filters die beperken | Verlaag de drempelwaarden voor filters vóór bod om meer biedingen mogelijk te maken |
+|  | Het publiek dat zich richt op plaatsing is te restrictief | Controleer of de opgegeven doelgroepen voldoende actieve gebruikers hebben en breid het publiek indien mogelijk uit |
 
 ![Plaatsingscontrole](/help/dsp/assets/placement-inspector-sites.png)
 
