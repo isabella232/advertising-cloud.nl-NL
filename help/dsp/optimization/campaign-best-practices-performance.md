@@ -1,11 +1,11 @@
 ---
 title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
-feature: Optimization, Best Practices
+feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: e2ee41c7e3e195f062ad1cc67080ed913d6d3d06
+source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1233'
 ht-degree: 0%
 
 ---
@@ -120,7 +120,7 @@ Om schaal te maximaliseren, gebruik [!UICONTROL Public] (Open Uitwisseling) en [
 * **[!UICONTROL Traffic Type]**:  [!UICONTROL Websites] alleen
 * **[!UICONTROL Site Tier]**:  [!UICONTROL All sites]
 
-### Doelgerichtheid publiek
+### Doelstelling publiek
 
 * **[!UICONTROL Included Audiences]:**
    * Voor prospectieve plaatsingen, groepeer gelijkaardige publiekscategorieën en gelijkaardige publieksgrootte in één plaatsing. Voer vervolgens op basis van prestaties een van de volgende handelingen uit:
