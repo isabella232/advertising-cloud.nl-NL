@@ -3,7 +3,7 @@ title: De sites, advertenties en frequentiedetails voor een plaatsing weergeven
 description: Leer hoe u de doelsites, advertenties en frequentiegegevens voor een plaatsing bekijkt.
 feature: DSP Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 14c484de177a6c5e3d4976076ecdbc4fa9086606
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
