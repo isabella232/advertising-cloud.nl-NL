@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 3cc617092f38d20bd01e487c985bb1d05c167506
+source-git-commit: cebe80fa8ed4f6410a7ea3ee7be6e0bf03631a49
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1266'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Naast centraal kwaliteitsbeheer geloven we in het vermogen van adverteerders om 
 
 ### Inventarisverificatie met ondersteuning [!DNL Ads.txt]
 
-[[!DNL Ads.txt]], dat staat voor [!DNL Authorized Digital Sellers](https://iabtechlab.com/ads-txt), is een initiatief dat door [!DNL Interactive Advertising Bureau] ([!DNL IAB]) in juni 2017 is gelanceerd om de correcte weergave van voorraden op de open markt te vergemakkelijken, en daarmee onwettige bronnen van verkeer en domeinspoofing te bestrijden. Deelnemende uitgevers en distributeurs geven publiekelijk aan welke bedrijven toestemming hebben om hun digitale inventaris en de aard van die relaties te verkopen, door een `ads.txt`-pagina op het hoogste niveau van het domein te houden (bijvoorbeeld `example.com/ads.txt`).
+[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) is een initiatief dat in juni 2017 door de  [!DNL Interactive Advertising Bureau] ([!DNL IAB]) is gelanceerd om de correcte weergave van voorraden op de open markt te vergemakkelijken en aldus onrechtmatige bronnen van verkeers- en domeinspoofing te bestrijden. Deelnemende uitgevers en distributeurs geven publiekelijk aan welke bedrijven toestemming hebben om hun digitale inventaris en de aard van die relaties te verkopen, door een `ads.txt`-pagina op het hoogste niveau van het domein te houden (bijvoorbeeld `example.com/ads.txt`).
 
 DSP ondersteunt [!DNL ads.txt] door het `ads.txt`-bestand van elke uitgever te lezen en u de optie te geven om alleen van geverifieerde [!DNL ads.txt]-verkopers aan te schaffen. Door bijvoorbeeld de verkopers te vergelijken die we zien benaderen `nytimes.com` tot het bestand `ads.txt` van de New York Times, kunnen we vaststellen welke wettig zijn en welke niet, en we zullen de overtreders blokkeren als de plaatsing is geconfigureerd om alleen van geverifieerde verkopers te kopen. <!-- can we actually mention NY Times? -->
 
@@ -126,7 +126,7 @@ Neem contact op met de leverancier van uw voorkeur of met uw Adobe-accountmanage
 
 ### [!DNL DoubleVerify Authentic Brand Safety]
 
-DSP heeft met [!DNL DoubleVerify] samengewerkt om zijn [!DNL Authentic Brand Safety] richtende oplossing aan te bieden, die u toestaat om een gecentraliseerde reeks van merkveiligheidseisen tot stand te brengen om op al uw koopplatforms voor consistentie te richten.
+DSP heeft met [!DNL DoubleVerify] samengewerkt om zijn [!DNL Authentic Brand Safety] richtende oplossing aan te bieden, die u toestaat om een gecentraliseerde reeks van merkveiligheidseisen tot stand te brengen om zich op al uw koopplatforms voor consistentie te richten.
 
 Als u eenmaal een [!DNL DoubleVerify]-merkveiligheidssegment hebt gemaakt met de vereiste focus, kunt u dit binnen DSP gebruiken om de regels voor blokregels na het bieden te repliceren met pre-bid voor webomgevingen.
 
