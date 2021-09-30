@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 61a5739a4f208cd0e9106015347570d66225c9bd
+source-git-commit: 4a70d7f8514531618dec257a1c0d32beabc03b51
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,11 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 30 september 2021 | Merkveiligheid | (release van 22 september) [!DNL DoubleVerify] producten die vooraf op het gebied van merkveiligheid zijn aangeboden, zijn bijgewerkt naar [!DNL Brand Suitability Tiers], waardoor adverteerders kunnen kiezen tussen drie risiconiveaus (laag, gemiddeld en hoog) voor specifieke segmenten zonder alle gevallen van een bepaald onderwerp te vermijden. In het verleden bevatten de segmenten geen tolerantieniveaus. | — |
+|  | Optimalisatie | De volgende optimalisatiedoelstellingen en voorbiedingsfilters zijn afgekeurd:<ul><li>Optimalisatiedoelstellingen:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Doelstellingen van filters vóór bod:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Zie &quot;[Optimalisatiedoelstellingen en hoe te om hen ](/help/dsp/optimization/optimization-goals.md)&quot;en &quot;[Plaatsing-vlakke pre-Bodfilters te gebruiken en hoe te om hen](/help/dsp/optimization/optimization-pre-bid-filters.md) te gebruiken.&quot; |
 | 28 september 2021 | Weergaven van Campagnebeheer | Een kolom &quot;[!UICONTROL Creation date]&quot; is nu beschikbaar in aangepaste kolomsets voor de weergaven [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] en [!UICONTROL Ads]. U kunt de weergaven [!UICONTROL Placements] en [!UICONTROL Ads] ook filteren door [!UICONTROL Creation date]. | Zie &quot;[Een aangepaste kolomweergave maken](/help/dsp/campaign-management/reports/column-view-create.md)&quot; en &quot;[Campagnegegevens filteren](/help/dsp/campaign-management/reports/campaign-data-filter.md)&quot;. |
-|  | Door programmacode gegarandeerde deals | U kunt [!UICONTROL Max Bid] voor de standaardplaatsing voor een programmatic gewaarborgde (PG) overeenkomst nu uitgeven. Omdat PG-deals echter altijd een vaste CPM hebben, dienen alleen internationale clients de [!UICONTROL Max Bid] te bewerken om rekening te houden met valutawisselkosten. | — |
-|  |  | Gebruikers met de machtiging &quot;[!DNL FreeWheel Programmatic Guaranteed]&quot; kunnen nu een advertentie verzenden naar [!DNL FreeWheel Programmatic Creative API] vanuit de weergave [!UICONTROL Ads] of de weergave [!UICONTROL Placements]. U kunt nog steeds een advertentie verzenden vanuit de weergave [!UICONTROL Deals]. | —<!-- Add link to page on submitting ads to Freewheel once it's edited. --> |
+|  | Door programmacode gegarandeerde deals | (8 September versie) U kunt [!UICONTROL Max Bid] voor de standaardplaatsing voor een programmatic gewaarborgde (PG) overeenkomst nu uitgeven. Omdat PG-deals echter altijd een vaste CPM hebben, dienen alleen internationale clients de [!UICONTROL Max Bid] te bewerken om rekening te houden met valutawisselkosten. | — |
+|  |  | (8 september) Gebruikers met de machtiging &quot;[!DNL FreeWheel Programmatic Guaranteed]&quot; kunnen nu een advertentie verzenden naar [!DNL FreeWheel Programmatic Creative API] vanuit de weergave [!UICONTROL Ads] of de weergave [!UICONTROL Placements]. U kunt nog steeds een advertentie verzenden vanuit de weergave [!UICONTROL Deals]. | —<!-- Add link to page on submitting ads to Freewheel once it's edited. --> |
 | 11 augustus 2021 | Weergaven vóór bod | Weergavefilters voor vooraf biedende objecten van [!DNL Oracle Advertising (Moat)] zijn nu beschikbaar voor uw plaatsingen. | Zie meer over [integratie van derden voor pre-bid gezichtsvermogen](/help/dsp/introduction/features/brand-safety-media-quality.md#pre-bid-viewability) en &quot;[Pre-Bodfilters op plaatsingsniveau en hoe te om hen te gebruiken](/help/dsp/optimization/optimization-pre-bid-filters.md).&quot; |
 | 15 juli | Help | Details over hoe Advertising Cloud DSP client accounts voor de aanschaf van media en services heeft toegevoegd. | Zie &quot;[Account Funding](/help/dsp/introduction/billing/account-funding.md)&quot;. |
 | 12 juni 2021 | Help | Het advertentiebeleid is bijgewerkt. | Zie &quot;[Beleid voor Adobe Advertising Cloud-vereisten](/help/policies/ad-requirements-policy.md)&quot;. |
