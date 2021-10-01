@@ -2,9 +2,9 @@
 title: Beschikbaar [!DNL Advanced Measurement Solutions]
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 216d316abe7fcc5bc04ae7cca211e2f11cc1e589
+source-git-commit: 209dfce05228be879d9ba744590ff52ce572a807
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,7 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 * Op mensen gebaseerd Bereik
 Begrijp hoe publiek en tactiek elkaar op een persoonniveau overlappen, met inbegrip van blootstelling over veelvoudige digitale milieu&#39;s, zoals Desktop, mobiel, inheems, en audio.
 
-* ・	[!DNL Dynata] Op deelvenster gebaseerde enquêtes
-Voer controle/blootgestelde onderzoeken uit om het effect van en blootstelling op metriek zoals bewustzijn, vertrouwdheid, en intentie te bepalen.
+* [!DNL Dynata] Op panel-gebaseerde Enquêtes voeren controle/blootgestelde onderzoeken uit om het effect van en de blootstelling op metriek zoals bewustzijn, vertrouwdheid, en intentie te bepalen.
 
 * Voetwielverkeer
 
@@ -55,6 +54,7 @@ Vergelijk het gedrag en de sentimenten van gerandomiseerde, wederzijds uitsluite
 ## De perfecte maateenheid zoeken: Oplossingen voor verticaal
 
 ### Willekeurig verticaal
+
 * Experimentontwerper (Placebo en A/B testen)
 * Op mensen gebaseerd Bereik
 elke organisatie die op zoek is naar meting over meerdere digitale tactieken; organisaties die de waarde van audio willen laten zien
@@ -66,10 +66,12 @@ Elke client die op zoek is naar inzicht in bereik/incrementele bereik en op kost
 Elke klant die op meerdere schermen merkbekendheid en perceptie wil meten; meest geschikt voor nichepubliek
 
 ### QSR, Retail (Steen en Mortier)
+
 * Transactiemeting
 * Meting van het voetverkeer
 
 ### QSR, Detailhandel, reizen
+
 * Transactiegegevens
 Elke client die een bepaald type winkel wil bereiken om in-store- en onlineverkoop te besturen
 
