@@ -2,9 +2,9 @@
 title: Beschikbaar [!DNL Advanced Measurement Solutions]
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 209dfce05228be879d9ba744590ff52ce572a807
+source-git-commit: d25e768fe5d277ef8d1c9ae7531b7a7d3c563622
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -77,4 +77,4 @@ Elke client die een bepaald type winkel wil bereiken om in-store- en onlineverko
 
 ## Meer informatie
 
-Neem contact op met het [!DNL Adobe Strategic Advertising Consultants]-team op [!DNL asg@adobe.com] voor meer informatie over het gebruik van geavanceerde meetservices om een aangepaste leeragenda voor uw campagne te maken, inclusief regionale beperkingen en prijzen.
+Als u meer wilt weten over het gebruik van geavanceerde meetoplossingen om een aangepaste leeragenda voor uw campagne te maken, inclusief de meetbare indelingen, regionale beperkingen en prijzen voor elk pakket, neemt u contact op met het [!DNL Adobe Strategic Advertising Consultants]-team op [!DNL asg@adobe.com].
