@@ -8,7 +8,7 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: acc5b7bb719b655d8b019eee3b5783fec49af0b9
+source-git-commit: e41938befafe54da1466e8faab08f1d7a263f4e0
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
       + [Beleid voor advertenties](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Richtlijnen voor gegevensgebruik](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
-   + [Beschikbaar [!DNL Advanced Measurement Services]](/help/dsp/introduction/advanced-measurement-services.md)
+   + [Beschikbaar [!DNL Advanced Measurement Solutions]](/help/dsp/introduction/advanced-measurement-services.md)
 + Campagnebeheer {#campaign-management}
    + [Overzicht van de structuur van het Campagnebeheer](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campagnes {#campaigns}

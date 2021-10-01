@@ -3,10 +3,10 @@ title: Een plaatsing maken
 description: Leer hoe u een plaatsing maakt.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 608774723f865c22bfdd5c911ac818600a495114
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,8 @@ ht-degree: 1%
    1. Geef de [!UICONTROL Basics]-instellingen op.
 
    1. Geef in de sectie [!UICONTROL Goals] [!UICONTROL Gross Budget] op en geef desgewenst aanvullende plaatsingsdoelen op.
-Sommige velden hebben standaardwaarden die u kunt overschrijven.
+
+      Sommige velden hebben standaardwaarden die u kunt overschrijven.
 
       Als het pakket waaraan de plaatsing wordt toegewezen pakketniveau het verpakken heeft, dan zullen uw doelstellingen en het verpakken montages de pakketmontages weerspiegelen.
 
