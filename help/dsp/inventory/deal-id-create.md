@@ -3,9 +3,9 @@ title: Handmatig details van deal-id maken
 description: Leer hoe te om details voor een identiteitskaart van de Overeenkomst manueel in te gaan.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 7e2a52e7b0d91f9206cd6e9a6ffb41a8399abf00
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    1. In de [!UICONTROL Ad & Campaign Selection] montages, selecteer de advertenties die voor de overeenkomst zullen worden gebruikt:
 
-      1. Selecteer de adverteerder, de campagne en het type advertentie.
+      1. Selecteer de adverteerder, de campagne en het type advertentie. Selecteer desgewenst een advertentiestatus waarmee de advertenties moeten worden gefilterd.
 
       1. Van de lijst van beschikbare advertenties, selecteer de controledoos naast elke advertentie die voor de overeenkomst zal worden gebruikt.
 
@@ -69,3 +69,4 @@ Nadat u de overeenkomst creeert, kunt u de overeenkomst als inventarisdoel voor 
 >* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst met [!DNL FreeWheel]](freewheel-submit.md)
 >* [Ongeveer Programma Gegarandeerde Overeenkomsten](programmatic-guaranteed-about.md)
 
+<!-- >* [Specify Placements and Ads for a Private Deal](private-deal-attach-placements.md)-->
