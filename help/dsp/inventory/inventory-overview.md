@@ -3,9 +3,9 @@ title: Overzicht van voorraadfuncties in Advertising Cloud DSP
 description: Meer informatie over de beschikbare voorraadfuncties.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 582823095b8d41876676f3f06489030d9950173f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Ontdek vooraf onderhandelde, niet-gegarandeerde deals die Adobe met onze eerstek
 
 ### Privévoorraad
 
-Stel PMP&#39;s (Private Marketplace deals) in en beheer deze. Dit zijn deals die u rechtstreeks met de uitgever hebt onderhandeld (1:1), zodat een of meer adverteerders in uw account zich daarop kunnen richten. Voer deze overeenkomsten via overeenkomst IDs of VAST (Video Ad Serving Template) markeringen uit. U kunt opstelling niet-gewaarborgde PMPs of opstelling programma gewaarborgde (PG) behandelt IDs met uitgezochte SSPs.
+Stel PMP&#39;s (Private Marketplace deals) in en beheer deze. Dit zijn deals die u rechtstreeks met de uitgever hebt onderhandeld (1:1), zodat een of meer adverteerders in uw account zich daarop kunnen richten. Voer deze overeenkomsten via deal IDs uit. U kunt opstelling niet-gewaarborgde PMPs of opstelling programma gewaarborgde (PG) behandelt IDs met uitgezochte SSPs.
 
 ### Eenvoudige advertentie voor
 
-[!DNL Simple Ad Serving] is gestroomlijnde technologie voor gegarandeerde, niet-beslaggelegde, levering en rapportage. Gebruik [!DNL Simple Ad Serving] wanneer uw uitgever uw overeenkomst via deal IDs niet kan uitvoeren. Alle doelen, budgetsnelheid en plafonnering en frequentiecapping worden door de uitgever verwerkt. Voer deze deals uit via advertentietags of gebeurtenispixels.
+[!DNL Simple Ad Serving] is gestroomlijnde technologie voor gegarandeerde, niet-beslaggelegde, levering en rapportage. Gebruik [!DNL Simple Ad Serving] wanneer uw uitgever uw overeenkomst via deal IDs niet kan uitvoeren. Alle doelen, budgetsnelheid en plafonnering en frequentiecapping worden door de uitgever verwerkt. Voer deze deals uit via pixels die gebeurtenissen bijhouden.
 
 >[!MORELIKETHIS]
 >

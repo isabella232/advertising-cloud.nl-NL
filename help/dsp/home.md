@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: ebb8c99da206fe17d5a15f4343b5ddd8485a59af
+source-git-commit: fddfd66f96f14bc72a8a7d4ed4e681c750b1af9e
 workflow-type: tm+mt
-source-wordcount: '971'
+source-wordcount: '1025'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
-| 30 september 2021 | Merkveiligheid | (release van 22 september) [!DNL DoubleVerify] producten die vooraf op het gebied van merkveiligheid zijn aangeboden, zijn bijgewerkt naar [!DNL Brand Suitability Tiers], waardoor adverteerders kunnen kiezen tussen drie risiconiveaus (laag, gemiddeld en hoog) voor specifieke segmenten zonder alle gevallen van een bepaald onderwerp te vermijden. In het verleden bevatten de segmenten geen tolerantieniveaus. | — |
+| 30 september 2021 | Merkveiligheid | (release van 22 september) [!DNL DoubleVerify] producten die vooraf op het gebied van merkveiligheid zijn aangeboden, zijn bijgewerkt naar [!DNL Brand Suitability Tiers], waardoor adverteerders kunnen kiezen tussen drie risiconiveaus (laag, gemiddeld en hoog) voor specifieke segmenten zonder alle gevallen van een bepaald onderwerp te vermijden. In het verleden bevatten de segmenten geen tolerantieniveaus.<br><br>Om zich aan de nieuwe  [!DNL DoubleVerify] segmentstructuur aan te passen, DSP migreerde uw bestaande merkveiligheidssegmenten aan hun nieuw, geadviseerd  *middelniveausegment*. U kunt optioneel de segmentlaag aanpassen aan *low*&quot;* of *high*.<br><br>**Opmerking:** Een kleine lijst met segmenten heeft geen lagen, maar heeft nieuwe namen, zoals &quot;Overtolligheid/Spyware/Malware,Warez&quot; -> Gerichte/Malware/Clutter.&quot; | — |
 |  | Optimalisatie | De volgende optimalisatiedoelstellingen en voorbiedingsfilters zijn afgekeurd:<ul><li>Optimalisatiedoelstellingen:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Doelstellingen van filters vóór bod:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Zie &quot;[Optimalisatiedoelstellingen en hoe te om hen ](/help/dsp/optimization/optimization-goals.md)&quot;en &quot;[Plaatsing-vlakke pre-Bodfilters te gebruiken en hoe te om hen](/help/dsp/optimization/optimization-pre-bid-filters.md) te gebruiken.&quot; |
 | 28 september 2021 | Weergaven van Campagnebeheer | Een kolom &quot;[!UICONTROL Creation date]&quot; is nu beschikbaar in aangepaste kolomsets voor de weergaven [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] en [!UICONTROL Ads]. U kunt de weergaven [!UICONTROL Placements] en [!UICONTROL Ads] ook filteren door [!UICONTROL Creation date]. | Zie &quot;[Een aangepaste kolomweergave maken](/help/dsp/campaign-management/reports/column-view-create.md)&quot; en &quot;[Campagnegegevens filteren](/help/dsp/campaign-management/reports/campaign-data-filter.md)&quot;. |
 |  | Door programmacode gegarandeerde deals | (8 September versie) U kunt [!UICONTROL Max Bid] voor de standaardplaatsing voor een programmatic gewaarborgde (PG) overeenkomst nu uitgeven. Omdat PG-deals echter altijd een vaste CPM hebben, dienen alleen internationale clients de [!UICONTROL Max Bid] te bewerken om rekening te houden met valutawisselkosten. | — |
