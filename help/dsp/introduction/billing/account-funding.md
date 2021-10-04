@@ -3,9 +3,9 @@ title: Accountfinanciering
 description: Meer informatie over accountfinanciering voor DSP.
 feature: DSP Introduction
 exl-id: c90e88a7-78dd-402c-baba-9bac360093a4
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 4d3020701caae4218aff2ecb7e7c063afebac4d5
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,8 @@ Financiering voor clientaccounts wordt in bijna realtime bijgewerkt in [!DNL DSP
 ![Bruikbare fondsen voor een rekening](/help/dsp/assets/account-usable-funds.png)
 
 Adobe behoudt zich het recht voor om uw account te blokkeren voor uitgaven op DSP om redenen die een schending van het DSP [ad requirements policy](/help/policies/ad-requirements-policy.md) of privacy terms inhouden. Als Adobe uw account blokkeert, wordt een geblokkeerde melding weergegeven in uw accountinstellingen. Werk met uw Advertising Cloud [!DNL Client Services] vertegenwoordiger om de reden voor het blok te bepalen en hoe u de fout kunt verbeteren.
+
+>[!MORELIKETHIS]
+>
+>* [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
+

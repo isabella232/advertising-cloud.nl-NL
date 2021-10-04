@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: e41938befafe54da1466e8faab08f1d7a263f4e0
+source-git-commit: ba80cbe9d44694c75f2cf46b448130d7bd29e419
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 0%
       + [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
+   + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
    + Ondersteuning voor consumentenprivacy {#privacy}
       + [Steun voor de algemene verordening inzake gegevensbescherming](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
       + Ondersteuning voor CCPA {#ccpa}
