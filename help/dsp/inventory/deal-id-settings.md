@@ -3,9 +3,9 @@ title: Instellingen voor handmatige deal-id
 description: Zie beschrijvingen van de montages voor manueel-binnengegaane overeenkomst IDs.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 0cd5e9e8-2b13-4b1e-a2e0-b8b492f75acf
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: c3d0783078adc8afafb55d6b6e7e48cdc875ce7c
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 |  | [!UICONTROL External deal ID] | Identiteitskaart die door uw uitgever en SSP wordt gebruikt om deze overeenkomst te identificeren. | Ja | Nee |
 |  | [!UICONTROL Publisher] | De naam van de uitgever die deze voorraad verkoopt. | Ja | Nee |
 |  | [!UICONTROL SSP] | Het platform aan de aanbodzijde (SSP) waardoor deze overeenkomst zal lopen. | Ja | Nee |
-|  | [!UICONTROL Media type] | Het type media dat door deze overeenkomst zal worden gekocht: [!UICONTROL Desktop video], [!UICONTROL Mobile video], [!UICONTROL Connected TV], [!UICONTROL Display] of [!UICONTROL Audio]. De opties variëren door SSP. | Ja | Nee |
+|  | [!UICONTROL Media type] | Het type media dat door deze overeenkomst zal worden gekocht: [!UICONTROL Desktop video], [!UICONTROL Mobile video], [!UICONTROL Connected TV], [!UICONTROL Display] of [!UICONTROL Audio]. De opties variëren door SSP.<br><br> Als de overeenkomst veelvoudige media types toestaat, selecteer het media type voor de standaardplaatsing wanneer u de overeenkomst creeert. Later kunt u een ander mediatype selecteren om een nieuwe plaatsing te maken met het extra mediatype.<!-- It would be ideal if this field was multi-select rather than a radio button, so you don't have to "change" the value later. --> | Ja | Nee |
 |  | [!UICONTROL Deal type] | De overeenkomst verplichting en prijsstructuur:<br><ul><li>*[!UICONTROL Non guaranteed (floor)]*: U en de uitgever hebben zich niet verbonden aan een vast aantal beeldleveringen. De transactie specificeert de minimumprijs voor de inventaris, hoewel het CPM kan fluctueren en stijgen afhankelijk van de marktvoorwaarden.</li><li>*[!UICONTROL Non guaranteed (fixed)]*: U en de uitgever hebben zich niet verbonden aan een vast aantal beeldleveringen. Prijzen worden vastgesteld tegen een door onderhandelingen bepaalde vaste koers.</li><li>*[!UICONTROL Guaranteed (fixed)]*: U en de uitgever zijn het eens geworden over een vooraf gedefinieerd aantal indrukken, doelframes, vliegdatums en vaste prijs.<br><br><b>Opmerking:</b> Gegarandeerde deals vereisen vluchtdatums en een opgegeven aantal indrukken in de  [!UICONTROL Tracking] sectie. U zult ook een standaard programmatic gegarandeerde plaatsing (PG) voor de overeenkomst moeten creëren, en u kunt naar keuze de overeenkomst voor andere plaatsen in plaats daarvan gebruiken.</li></ul> | Ja | Nee |
 |  | [!UICONTROL CPM] | De overeengekomen kosten per duizend impressies (CPM). | Ja | Ja |
 |  | [Valuta] | De valuta voor de deal.<br><br>Alle SSPs keurt overeenkomsten in USD goed. Wanneer het SSP de valuta voor uw DSP rekening goedkeurt, is die munt ook beschikbaar. | Ja | Nee |
