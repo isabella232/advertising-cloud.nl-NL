@@ -3,7 +3,7 @@ title: Opstelling een Programma Gegarandeerde Overeenkomst
 description: Leer hoe te opstelling een programma gewaarborgde (PG) overeenkomst u met een uitgever hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Nadat u een programmatic gewaarborgde (PG) overeenkomst met een gesteunde uitgev
 
 ## Opstelling een Programma Gegarandeerde Overeenkomst Gebruikend [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-Dit is de aangewezen methode voor [!DNL FreeWheel], [!DNL Google Authorized Buyers], en [!DNL Rubicon].
+Dit is de aangewezen methode voor [!DNL FreeWheel], [!DNL Google Authorized Buyers], en [!DNL Magnite DV+].
 
 1. [Accepteer de deal](deal-id-inbox-accept.md).
 

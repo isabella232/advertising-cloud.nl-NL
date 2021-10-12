@@ -1,11 +1,11 @@
 ---
 title: Accepteer een Overeenkomst in [!UICONTROL Deal ID Inbox]
-description: Leer hoe te om een privé overeenkomst goed te keuren u reeds met een uitgever op [!DNL Google Authorized Buyers], [!DNL FreeWheel], or [!DNL Rubicon] gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
+description: Leer hoe te om een privé overeenkomst goed te keuren u reeds met een uitgever op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+]  (vroeger [!DNL Rubicon]) gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Gebruikers in DSP accounts die alleen zijn toegewezen aan SSP-accounts*
 
-Gebruik [!UICONTROL Deal ID inbox] om een privé overeenkomst snel goed te keuren u reeds met een uitgever op [!DNL Google Authorized Buyers], [!DNL FreeWheel], of [!DNL Rubicon] hebt onderhandeld.
+Gebruik [!UICONTROL Deal ID inbox] om een privé overeenkomst snel goed te keuren u reeds met een uitgever op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (vroeger genoemd als [!DNL AdX]), en [!DNL Magnite DV+] (vroeger [!DNL Rubicon]) hebt onderhandeld.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Gebruik [!UICONTROL Deal ID inbox] om een privé overeenkomst snel goed te keure
 
 1. (Facultatief) om de overeenkomstendetails te verfrissen, klik **[!UICONTROL Refresh]**.
 
-   DSP vernieuwt automatisch alle overeenkomstendetails dagelijks om 4:30 a.m. EST. Ook worden alle [!DNL FreeWheel] deals vernieuwd en worden bestaande deals van [!DNL Google] en [!DNL Rubicon] per uur bijgewerkt.
+   DSP vernieuwt automatisch alle overeenkomstendetails dagelijks om 4:30 a.m. EST. Ook worden alle [!DNL FreeWheel] deals vernieuwd en worden bestaande deals van [!DNL Google] en [!DNL Magnite DV+] per uur bijgewerkt.
 
 1. (Als u eerder de overeenkomst genegeerd) klik **[!UICONTROL Ignored Deals]** tabel.
 

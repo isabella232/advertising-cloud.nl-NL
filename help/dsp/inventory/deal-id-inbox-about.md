@@ -1,18 +1,18 @@
 ---
 title: Informatie over [!UICONTROL Deal ID Inbox]
-description: Leer over de [!UICONTROL Deal ID inbox] eigenschap, die u toestaat om privé overeenkomsten goed te keuren u reeds met uitgevers op [!DNL Google Authorized Buyers], [!DNL FreeWheel], and [!DNL Rubicon] hebt onderhandeld.
+description: Leer over de [!UICONTROL Deal ID inbox] eigenschap, die u toestaat om privé overeenkomsten goed te keuren u reeds met uitgevers op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (vroeger [!DNL Rubicon]) hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
 
 # Informatie over [!UICONTROL Deal ID Inbox]
 
-DSP [!UICONTROL Deal ID inbox] staat u toe om overeenkomsten snel op te stellen die Advertising Cloud DSP van uitgevers door leveringszijplatforms (SSPs) heeft ingevoerd zodat moet u niet elke overeenkomst manueel opstelling. U kunt de gegarandeerde en niet-gegarandeerde privé inventarisovereenkomsten goedkeuren u reeds met uitgevers op [!DNL Google Authorized Buyers] (vroeger genoemd als [!DNL AdX]), [!DNL FreeWheel], en [!DNL Rubicon], van [!UICONTROL Deal ID inbox] hebt onderhandeld.
+DSP [!UICONTROL Deal ID inbox] staat u toe om overeenkomsten snel op te stellen die Advertising Cloud DSP van uitgevers door leveringszijplatforms (SSPs) heeft ingevoerd zodat moet u niet elke overeenkomst manueel opstelling. U kunt de gegarandeerde en niet-gegarandeerde privé inventarisovereenkomsten accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]) en [!DNL Magnite DV+] (voorheen [!DNL Rubicon]) van [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ DSP [!UICONTROL Deal ID inbox] staat u toe om overeenkomsten snel op te stellen 
 
 In [!UICONTROL Deal ID inbox], kunt u de details van de overeenkomst zien aangezien uw uitgever hen ziet, uw overeenkomstenopstelling versnellen, en handingangsfouten vermijden.
 
-DSP vernieuwt automatisch alle overeenkomstendetails dagelijks om 4:30 a.m. EST. Ook worden alle [!DNL FreeWheel] deals vernieuwd en worden bestaande deals van [!DNL Google] en [!DNL Rubicon] per uur bijgewerkt. U kunt de overeenkomstendetails ook manueel verfrissen om nieuwe overeenkomsten op elk ogenblik te bevolken.
+DSP vernieuwt automatisch alle overeenkomstendetails dagelijks om 4:30 a.m. EST. Ook worden alle [!DNL FreeWheel] deals vernieuwd en worden bestaande deals van [!DNL Google] en [!DNL Magnite DV+] per uur bijgewerkt. U kunt de overeenkomstendetails ook manueel verfrissen om nieuwe overeenkomsten op elk ogenblik te bevolken.
 
 <!-- MC: I'm not sure where I got the following. Is this currently true? -->
 >[!NOTE]
@@ -51,13 +51,13 @@ U kunt de volgende typen overeenkomsten niet accepteren:
 
 * [!DNL Google] deals die niet in USD staan.
 
-* [!DNL Rubicon] deals die niet in USD staan
+* [!DNL Magnite DV+] deals die niet in USD staan
 
 * [!DNL FreeWheel] aanbiedingen die niet in je accountvaluta staan.
 
 * Overeenkomsten die een einddatum vóór vandaag hebben.
 
-* Oude overeenkomsten [!DNL Rubicon] die als &quot;veelvoudige media types.&quot;werden geëtiketteerd
+* Oude overeenkomsten [!DNL Magnite DV+] die als &quot;veelvoudige media types.&quot;werden geëtiketteerd
 
 De overeenkomstendetails omvatten de reden de overeenkomst niet beschikbaar is te accepteren.
 

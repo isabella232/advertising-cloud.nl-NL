@@ -3,9 +3,9 @@ title: Ongeveer Programma Gegarandeerde Overeenkomsten
 description: Leer over programmatic gewaarborgde (PG) overeenkomsten en welke SSPs om hen te verstrekken wordt verklaard.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -31,10 +31,10 @@ Voor PG-deals is standaardplaatsing van PG en advertenties vereist, zodat DSP ee
 * [!DNL Ambient Digital]
 * [!DNL FreeWheel]
 * [!DNL Google Authorized Buyers]
+* [!DNL Magnite CTV](voorheen  [!DNL Telaria])
+* [!DNL Magnite DV+] (voorheen)  [!DNL Rubicon]
 * [!DNL OpenX]
-* [!DNL Rubicon]
 * [!DNL SpotX]
-* [!DNL Telaria]
 
 >[!MORELIKETHIS]
 >
