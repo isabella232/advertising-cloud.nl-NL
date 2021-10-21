@@ -2,9 +2,9 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 1f1dc0b4b38652beb9bc7392ee17fa4eefad987b
+source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
 ## De perfecte maateenheid zoeken: Oplossingen voor verticaal
 
-* Willekeurig verticaal
+* **Verticaal:**
 
    * Experimentontwerper (Placebo en A/B testen)
 
@@ -79,13 +79,13 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
       Elke klant die op meerdere schermen merkbekendheid en perceptie wil meten; meest geschikt voor nichepubliek
 
-* QSR, Retail (Steen en Mortier)
+* **QSR, Retail (Steen en Mortier):**
 
    * Transactiemeting
 
    * Meting van het voetverkeer
 
-* QSR, Detailhandel, reizen
+* **QSR, Retail, Travel:**
 
    * Transactiegegevens
 
