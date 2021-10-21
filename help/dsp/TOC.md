@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: ba80cbe9d44694c75f2cf46b448130d7bd29e419
+source-git-commit: 851b3e5ebb6f6e8dcd6ea672c7220ed28f52dba4
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -27,16 +27,16 @@ ht-degree: 0%
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
-   + Ondersteuning voor consumentenprivacy {#privacy}
+   + Steun voor Consumentenprivacy {#privacy}
       + [Steun voor de algemene verordening inzake gegevensbescherming](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-gdpr.html)
       + Ondersteuning voor CCPA {#ccpa}
          + [Ondersteuning voor de California Consumer Privacy Act: Toegang tot consumentengegevens en verwijderen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-access-delete.html)
          + [Ondersteuning voor de California Consumer Privacy Act: Consumenten kiezen voor uitverkoop](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ad-cloud-ccpa-opt-out-of-sale.html)
-   + Beleid en richtlijnen {#policies}
+   + Beleid en richtsnoeren {#policies}
       + [Beleid voor advertenties](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
       + [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Richtlijnen voor gegevensgebruik](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
-   + [Beschikbaar [!DNL Advanced Measurement Solutions]](/help/dsp/introduction/advanced-measurement-services.md)
+   + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campagnebeheer {#campaign-management}
    + [Overzicht van de structuur van het Campagnebeheer](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campagnes {#campaigns}
@@ -68,7 +68,7 @@ ht-degree: 0%
       + [Een plaatsing pauzeren of activeren](/help/dsp/campaign-management/placements/placement-pause-activate.md)
       + [Een plaatsing archiveren of archiveren](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
       + [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-   + Advertenties {#ads}
+   + Adds {#ads}
       + [Over Advertentiebeheer](/help/dsp/campaign-management/ads/ad-about.md)
       + [Beschikbare advertentietypen](/help/dsp/campaign-management/ads/ad-types.md)
       + Advertising Cloud-advertenties {#advertising-cloud-served}
@@ -81,7 +81,7 @@ ht-degree: 0%
             + [Instellingen voor eigen advertentie](/help/dsp/campaign-management/ads/ad-settings-native.md)
             + [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
          + [Aanbevolen procedures voor het ontwerpen van overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-      + Bulk externe advertenties {#bulk-third-party}
+      + Bulkadvertenties van derden {#bulk-third-party}
          + [Meerdere externe advertenties maken](/help/dsp/campaign-management/ads/ad-create-third-party.md)
          + [Advertenties maken met [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
          + [Certified Ad Serving Partners](/help/dsp/campaign-management/ads/certified-ad-servers.md)
@@ -125,12 +125,12 @@ ht-degree: 0%
    + [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 + Soorten publiek {#audiences}
    + [Over Audience Management](/help/dsp/audiences/audience-about.md)
-   + Segmenten {#segments} beheren
+   + Segmenten beheren {#segments}
       + [Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md)
-      + [!UICONTROL CCPA Opt-out-of-Sale] Segmenten  {#ccpa-opt-out-of-sale-segments}
-         + [Informatie over [!UICONTROL CCPA Opt-out-of-Sale] Segmenten](/help/dsp/audiences/ccpa-opt-out-about.md)
-         + [Een [!UICONTROL CCPA Opt-out-of-Sale]-segment maken en implementeren](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
-         + [[!UICONTROL Consumer Opt-Out-of-Sale]-rapporten ophalen](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [!UICONTROL CCPA Opt-out-of-Sale] Segmenten {#ccpa-opt-out-of-sale-segments}
+         + [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten](/help/dsp/audiences/ccpa-opt-out-about.md)
+         + [Een [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
+         + [Ophalen [!UICONTROL Consumer Opt-Out-of-Sale] Rapporten](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
    + Soorten doelgroepen beheren {#reusable-audiences}
       + [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md)
       + [Instellingen publiek](/help/dsp/audiences/audience-settings.md)
@@ -140,32 +140,32 @@ ht-degree: 0%
    + [Overzicht van voorraadfuncties](/help/dsp/inventory/inventory-overview.md)
    + [Gebruiken [!DNL Roku Inventory]](/help/dsp/inventory/roku-inventory.md)
    + [SSP-partners](/help/dsp/inventory/ssp-partners.md)
-   + [!DNL On Demand] Inventaris  {#on-demand}
+   + [!DNL On Demand] Inventaris {#on-demand}
       + [Info [!DNL On Demand] Premium-voorraad](/help/dsp/inventory/on-demand-inventory-about.md)
-      + Beschikbare [!DNL On Demand] Premium Inventory Publishers {#publishers}
+      + Beschikbaar [!DNL On Demand] Uitgevers van premiumvoorraden {#publishers}
          + [[!DNL On Demand] Premium-uitgevers in Azië Pacific](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
          + [[!DNL On Demand] Premium-uitgevers in Australië en Nieuw-Zeeland](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
          + [[!DNL On Demand] Premium Inventory Publishers in Europa, het Midden-Oosten en Afrika](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
          + [[!DNL On Demand] Premium-uitgevers in Noord-Amerika](/help/dsp/inventory/on-demand-inventory-publishers-na.md)
-      + [Abonneren en toegang aanvragen tot  [!DNL On Demand] Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-subscribe.md)
-      + [Nieuwe aanvraag [!DNL On Demand] Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-rerequest.md)
-      + [Bekijk de Status van Uw  [!DNL On Demand] Verzoeken en Abonnementen van de Overeenkomst](/help/dsp/inventory/on-demand-inventory-view-status.md)
-   + Privéinventarisatie {#private-inventory}
+      + [Abonneren en toegang aanvragen tot [!DNL On Demand] Premium-inventaristransacties](/help/dsp/inventory/on-demand-inventory-subscribe.md)
+      + [Opnieuw aanvragen [!DNL On Demand] Premium-inventaristransacties](/help/dsp/inventory/on-demand-inventory-rerequest.md)
+      + [De status van je [!DNL On Demand] Aanvragen en abonnementen voor deals](/help/dsp/inventory/on-demand-inventory-view-status.md)
+   + Privévoorraad {#private-inventory}
       + Deal IDs {#deal-ids}
          + [!UICONTROL Deal ID Inbox] {#inbox}
-            + [Informatie over [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
+            + [Over het [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
             + [Accepteer een Overeenkomst in [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-accept.md)
          + Handmatig ingevoerde deal-id&#39;s {#manual}
-            + [[!UICONTROL Deal ID] Details handmatig maken](/help/dsp/inventory/deal-id-create.md)
-            + [Handmatige instellingen [!UICONTROL Deal ID]](/help/dsp/inventory/deal-id-settings.md)
+            + [Handmatig maken [!UICONTROL Deal ID] Details](/help/dsp/inventory/deal-id-create.md)
+            + [Handmatig [!UICONTROL Deal ID] Instellingen](/help/dsp/inventory/deal-id-settings.md)
       + Door programmacode gegarandeerde deals {#programmatic-guaranteed-deal}
          + [Overzicht van door programma&#39;s gegarandeerde deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
          + [Tips voor onderhandelingen over een gegarandeerde programmatische deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
          + [Opstelling een Programma Gegarandeerde Overeenkomst](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
-         + [!DNL FreeWheel] Door programmacode gegarandeerde deals  {#freewheel}
-            + [Overzicht van Programmatic Gegarandeerde Overeenkomsten van de Opstelling in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+         + [!DNL FreeWheel] Door programmacode gegarandeerde deals {#freewheel}
+            + [Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
             + [Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
-            + [Controleer de Status van Advertenties voor [!DNL FreeWheel] Programmatische Gegarandeerde Overeenkomsten](/help/dsp/inventory/freewheel-check-status.md)
+            + [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](/help/dsp/inventory/freewheel-check-status.md)
             + [Foutcodes voor FreeWheel Ad-verzendingen](/help/dsp/inventory/freewheel-error-codes.md)
 + Aangepaste rapporten {#custom-reports}
    + [Aangepaste rapporten](/help/dsp/reports/report-about.md)

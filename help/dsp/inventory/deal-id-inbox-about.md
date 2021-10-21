@@ -3,9 +3,9 @@ title: Over het [!UICONTROL Deal ID Inbox]
 description: Meer informatie over de [!UICONTROL Deal ID inbox] functie, waarmee u persoonlijke deals kunt accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 2539d9b8ec7de7202dd6c3400dda85aa133853e3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,16 @@ DSP [!UICONTROL Deal ID inbox] staat u toe om opstellingsovereenkomsten snel te 
 >Advertising Cloud DSP is de eerste DSP die met de [!DNL FreeWheel] API.
 
 In de [!UICONTROL Deal ID inbox], kunt u de details van de overeenkomst zien aangezien uw uitgever hen ziet, uw overeenkomstenopstelling versnellen, en handingangsfouten vermijden.
+
+<!-- 
+Accepting a deal automatically pre-populates a new Deal ID record with details from the publisher, and you need to enter only the publisher [always? or just in some cases?], the media type, who can access the deal, and any attribute labels to apply to the deal so it's easy to find. [Are labels a dimension you can report on?]
+
+For each available deal, you can review the deal details sent directly from the publisher. Some deals are grouped as proposals (packages), and you can see the individual deal details by reviewing the deal.
+   
+You can accept any available deal or move an incorrect deal to the Ignored Deals tab. You can also un-ignore deals, which moves them back to the New Deals tab so you can potentially accept them.
+
+For each deal, you can select one publisher and one media type (Desktop Video, Mobile Video, Connected TV, Display, or Audio), and you can share the deal with specific advertisers and with all advertisers for a specific account.
+ -->
 
 DSP vernieuwt automatisch alle overeenkomstendetails dagelijks om 4:30 a.m. EST. Het verfrist ook alle [!DNL FreeWheel] deals en updates van bestaande deals van [!DNL Google] en [!DNL Magnite DV+] uur. U kunt de overeenkomstendetails ook manueel verfrissen om nieuwe overeenkomsten op elk ogenblik te bevolken.
 
