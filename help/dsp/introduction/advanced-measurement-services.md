@@ -2,9 +2,9 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: 851b3e5ebb6f6e8dcd6ea672c7220ed28f52dba4
+source-git-commit: 1f1dc0b4b38652beb9bc7392ee17fa4eefad987b
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -59,37 +59,37 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
 ## De perfecte maateenheid zoeken: Oplossingen voor verticaal
 
-### Willekeurig verticaal
+* Willekeurig verticaal
 
-* Experimentontwerper (Placebo en A/B testen)
+   * Experimentontwerper (Placebo en A/B testen)
 
-* Op mensen gebaseerd Bereik
+   * Op mensen gebaseerd Bereik
 
-   elke organisatie die op zoek is naar meting over meerdere digitale tactieken; organisaties die de waarde van audio willen laten zien
+      elke organisatie die op zoek is naar meting over meerdere digitale tactieken; organisaties die de waarde van audio willen laten zien
 
-* Meting van Bereik, frequentie en omrekening in huishoudens
+   * Meting van Bereik, frequentie en omrekening in huishoudens
 
-   Elke client die op zoek is naar inzicht in bereik/incrementele bereik en kostengebaseerde efficiëntiewaarden en/of conversiemetriek voor meerdere digitale tactieken
+      Elke client die op zoek is naar inzicht in bereik/incrementele bereik en kostengebaseerde efficiëntiewaarden en/of conversiemetriek voor meerdere digitale tactieken
 
-* Meting van Bereik, Frequentie en Omzetting op verschillende schermen
+   * Meting van Bereik, Frequentie en Omzetting op verschillende schermen
 
-   Elke client die op zoek is naar inzicht in bereik/incrementele bereik en op kosten gebaseerde efficiëntiewaarden en/of conversiemetriek voor meerdere digitale tactieken in verhouding tot lineaire tv-investeringen
+      Elke client die op zoek is naar inzicht in bereik/incrementele bereik en op kosten gebaseerde efficiëntiewaarden en/of conversiemetriek voor meerdere digitale tactieken in verhouding tot lineaire tv-investeringen
 
-* Op het deelvenster Dynata gebaseerde enquêtes
+   * Op het deelvenster Dynata gebaseerde enquêtes
 
-   Elke klant die op meerdere schermen merkbekendheid en perceptie wil meten; meest geschikt voor nichepubliek
+      Elke klant die op meerdere schermen merkbekendheid en perceptie wil meten; meest geschikt voor nichepubliek
 
-### QSR, Retail (Steen en Mortier)
+* QSR, Retail (Steen en Mortier)
 
-* Transactiemeting
+   * Transactiemeting
 
-* Meting van het voetverkeer
+   * Meting van het voetverkeer
 
-### QSR, Detailhandel, reizen
+* QSR, Detailhandel, reizen
 
-* Transactiegegevens
+   * Transactiegegevens
 
-   Elke client die een bepaald type winkel wil bereiken om in-store- en onlineverkoop te besturen
+      Elke client die een bepaald type winkel wil bereiken om in-store- en onlineverkoop te besturen
 
 ## Meer informatie
 
