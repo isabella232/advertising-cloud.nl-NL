@@ -3,9 +3,9 @@ title: Rapporten over verkoopopties voor consumenten ophalen
 description: Leer hoe u rapporten ophaalt van id's die zijn ingediend voor aanvragen om niet te verkopen.
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ U kunt maandelijkse rapporten ophalen van id&#39;s die klanten hebben ingediend 
 
 >[!NOTE]
 >
->U kunt optioneel rapporten met de Advertising Cloud [!DNL Trafficking API] opvragen. Raadpleeg de documentatie bij de [!DNL Trafficking API] voor instructies. Neem contact op met uw accountmanager van Adobe als uw organisatie [!DNL Trafficking API] niet gebruikt maar meer informatie nodig heeft.
+>U kunt optioneel rapporten met de Advertising Cloud opvragen waarin de consument zich afmeldt [!DNL Trafficking API]. Raadpleeg de documentatie bij de [!DNL Trafficking API]. Als uw organisatie de opdracht [!DNL Trafficking API] maar is geïnteresseerd in meer informatie, neem contact op met uw [!DNL Adobe] accountmanager.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 1. Klik boven de segmentlijst op **[!UICONTROL Access CCPA Reports]**.
@@ -25,7 +25,7 @@ U kunt maandelijkse rapporten ophalen van id&#39;s die klanten hebben ingediend 
 >[!MORELIKETHIS]
 >
 >* [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Support voor consumenten](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
->* [Informatie over  [!UICONTROL CCPA Opt-out-of-Sale] segmenten en rapporten](ccpa-opt-out-about.md)
->* [Een  [!UICONTROL CCPA Opt-Out-of-Sale] segment maken en implementeren](ccpa-opt-out-segment-create.md)
+>* [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en rapporten](ccpa-opt-out-about.md)
+>* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Over Audience Management](audience-about.md)
 

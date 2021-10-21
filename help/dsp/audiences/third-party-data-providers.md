@@ -3,9 +3,9 @@ title: Beschikbare gegevensleveranciers van derden in Advertising Cloud DSP
 description: Zie een lijst met alle beschikbare externe gegevensproviders.
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Beschikbare gegevensleveranciers van derden in Advertising Cloud DSP
 
-De categorieën en de segmenten van gegevens voor de volgende derdegegevensleveranciers zijn beschikbaar als plaatsingsdoelstellingen in [!DNL DSP]. Deze segmenten zijn voornamelijk beschikbaar voor het Amerikaanse publiek.
+De categorieën en de segmenten van gegevens voor de volgende derde gegevensleveranciers zijn beschikbaar als plaatsingsdoelstellingen in [!DNL DSP]. Deze segmenten zijn voornamelijk beschikbaar voor het Amerikaanse publiek.
 
 De vergoeding voor het gebruik van elk segment wordt naast de segmentnaam weergegeven in de plaatsingsinstellingen en de instellingen voor het opgeslagen publiek.
 
@@ -51,7 +51,7 @@ De vergoeding voor het gebruik van elk segment wordt naast de segmentnaam weerge
 * [!DNL TruSignal]
 * [!DNL Weborama]
 
-Neem voor meer informatie over het importeren van aangepaste segmenten van derden voor uw account contact op met uw Adobe-accountmanager.
+Neem voor meer informatie over het importeren van aangepaste segmenten van derden voor uw account contact op met uw [!DNL Adobe] accountmanager.
 
 >[!MORELIKETHIS]
 >

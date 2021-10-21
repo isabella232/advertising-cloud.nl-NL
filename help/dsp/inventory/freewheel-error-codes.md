@@ -1,18 +1,18 @@
 ---
-title: Foutcodes voor  [!DNL FreeWheel] Indieningen toevoegen
-description: Verwijs de foutencodes die voor ad inzendingen aan  [!DNL FreeWheel] zijn teruggekeerd.
+title: Foutcodes voor [!DNL FreeWheel] Advertentie verzenden
+description: Verwijs de foutencodes die voor ad voorlegging zijn teruggekeerd aan [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
 workflow-type: tm+mt
-source-wordcount: '695'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Foutcodes voor [!DNL FreeWheel] Admission
+# Foutcodes voor [!DNL FreeWheel] Advertentie verzenden
 
-De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertising Cloud DSP of van [!DNL FreeWheel]. Foutberichten worden weergegeven in de kolom [!UICONTROL API Response] in het dialoogvenster [[!UICONTROL Freewheel Status]](freewheel-check-status.md).
+De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertising Cloud DSP of [!DNL FreeWheel]. Foutberichten worden weergegeven in het dialoogvenster [!UICONTROL API Response] in de [[!UICONTROL Freewheel Status] dialoogvenster](freewheel-check-status.md).
 
 ## Interne Advertising Cloud DSP-fouten
 
@@ -21,10 +21,10 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 | [!DNL wacht statusantwoord van [!DNL FreeWheel]] | [!DNL FreeWheel] heeft nog niet gereageerd dat de verzending is gelukt of mislukt. | Controleer de status over 10 minuten opnieuw. |
 | [!DNL The submitted ad does not have a clock number assigned.] | [!DNL FreeWheel] Accepteert geen Britse advertenties zonder toegewezen kloknummers. | Wijs een kloknummer toe aan de advertentie en verzend de advertentie opnieuw. |
 | [!DNL The ad you are attempting to submit has not yet finished transcoding. Please wait ten minutes then try again.] | De transcoder had het transcoderen van de advertentie niet gebeëindigd toen u probeerde om de advertentie voor te leggen. | Wacht tien minuten en verzend de advertentie opnieuw. |
-| [!DNL The deal id you input is not setup as a guaranteed feed. Please submit guaranteed deals only.] | De voorgelegde overeenkomst wordt niet opgezet als programmatic gewaarborgde overeenkomst. [!DNL FreeWheel] accepteert alleen gegarandeerde deals. | Opstelling overeenkomstenidentiteitskaart als programmatic gewaarborgde overeenkomst. De advertentie wordt automatisch voorgelegd aan [!DNL FreeWheel] wanneer u sparen de programmatic gewaarborgde standaardplaatsing aan het eind van het werkschema van identiteitskaart van de overeenkomst. |
+| [!DNL The deal id you input is not setup as a guaranteed feed. Please submit guaranteed deals only.] | De voorgelegde overeenkomst wordt niet opgezet als programmatic gewaarborgde overeenkomst. [!DNL FreeWheel] accepteert alleen gegarandeerde deals. | Opstelling overeenkomstenidentiteitskaart als programmatic gewaarborgde overeenkomst. De advertentie wordt automatisch verzonden naar [!DNL FreeWheel] wanneer u sparen programmatic gewaarborgde standaardplaatsing aan het eind van het werkschema van identiteitskaart van de overeenkomst. |
 | [!DNL Invalid external_deal_id:] \&lt;deal_id> | Voorgelegde overeenkomstenidentiteitskaart of bestaat niet of is niet actief op het eind van de Adobe. | Zorg ervoor dat de overeenkomst actief is, en verzend dan de advertentie opnieuw. |
-| [!DNL \[public_id=]\&lt;deal>] bestaat niet | Voorgelegde overeenkomstenidentiteitskaart bestaat niet op [!DNL FreeWheel] eind. | Neem contact op met uw [!DNL FreeWheel]-vertegenwoordiger om de deal-id te bevestigen. |
-| [!DNL Ad with identifier] \&lt;>ad name *\>  [!DNL was not found.]* | De verzonden ad-toets bestaat niet of is niet actief aan de Adobe-zijde. | Zoek de juiste advertentiecode en verzend de advertentie opnieuw. |
+| [!DNL \[public_id=]\&lt;deal>] bestaat niet | De voorgelegde overeenkomstenidentiteitskaart bestaat niet op [!DNL FreeWheel] einde. | Neem contact op met uw [!DNL FreeWheel] vertegenwoordiger om deal ID te bevestigen. |
+| [!DNL Ad with identifier] \&lt;*advertentienaam*\> [!DNL was not found.] | De verzonden ad-toets bestaat niet of is niet actief aan de Adobe-zijde. | Zoek de juiste advertentiecode en verzend de advertentie opnieuw. |
 | [!DNL Pending Submission] | De indiening is nog in behandeling. | Vernieuw de pagina. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -33,13 +33,13 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 
 | Code | Betekenis | Beschrijving | Volgende stappen |
 |--- |--- |--- |--- |
-| 401 | Onbevoegd | Onjuiste, ontbrekende of ongeldige toegangsreferenties. | Neem contact op met uw Adobe-accountmanager. |
-| 403 | Verboden | De server begreep het verzoek maar weigert het te autoriseren. | Neem contact op met uw Adobe-accountmanager. |
-| 404 | Niet gevonden | De bron die u hebt aangevraagd, is niet beschikbaar. Als Creative ID niet wordt gevonden in de PUT bewerking, wordt een 404 geretourneerd. | Neem contact op met uw Adobe-accountmanager. |
-| 405 | Methode niet toegestaan | Er is een verzoek ingediend van een bron die een aanvraagmethode gebruikt die niet door die bron wordt ondersteund (bijvoorbeeld door GET te gebruiken voor een methode die vereist dat gegevens door POST worden verzonden of door PUT te gebruiken voor een alleen-lezen bron). | Neem contact op met uw Adobe-accountmanager. |
-| 408 | Tijdslimiet aanvraag | Er is een time-out opgetreden tijdens de verwerking van dit verzoek. De onderbrekingen worden gewoonlijk veroorzaakt door gezamenlijke verzoeken van exclusieve toegang tot bepaalde middelen. | Verzend het verzoek opnieuw wanneer u deze status ontvangt. Neem contact op met uw Adobe-accountmanager als het probleem zich blijft voordoen. |
-| 422 | Onbewerkbare entiteit | Ongeldige bron. Deze fout gebeurt wanneer het verzoeklichaam ongeldig is of het gecreeerde/bijgewerkte middel ongeldig is (bijvoorbeeld, als identiteitskaart van de Overeenkomst niet werd gevonden). Zie [FreeWheel API 422 Fouten](#freewheel-422-errors) voor meer informatie. | Neem contact op met uw Adobe-accountmanager. |
-| 500 | Interne serverfout | API-systeemfout. | Neem contact op met uw Adobe-accountmanager. |
+| 401 | Onbevoegd | Onjuiste, ontbrekende of ongeldige toegangsreferenties. | Neem contact op met uw [!DNL Adobe] accountmanager. |
+| 403 | Verboden | De server begreep het verzoek maar weigert het te autoriseren. | Neem contact op met uw [!DNL Adobe] accountmanager. |
+| 404 | Niet gevonden | De bron die u hebt aangevraagd, is niet beschikbaar. Als Creative ID niet wordt gevonden in de PUT bewerking, wordt een 404 geretourneerd. | Neem contact op met uw [!DNL Adobe] accountmanager. |
+| 405 | Methode niet toegestaan | Er is een verzoek ingediend van een bron die een aanvraagmethode gebruikt die niet door die bron wordt ondersteund (bijvoorbeeld door GET te gebruiken voor een methode die vereist dat gegevens door POST worden verzonden of door PUT te gebruiken voor een alleen-lezen bron). | Neem contact op met uw [!DNL Adobe] accountmanager. |
+| 408 | Tijdslimiet aanvraag | Er is een time-out opgetreden tijdens de verwerking van dit verzoek. De onderbrekingen worden gewoonlijk veroorzaakt door gezamenlijke verzoeken van exclusieve toegang tot bepaalde middelen. | Verzend het verzoek opnieuw wanneer u deze status ontvangt. Neem contact op met uw [!DNL Adobe] accountmanager. |
+| 422 | Onbewerkbare entiteit | Ongeldige bron. Deze fout gebeurt wanneer het verzoeklichaam ongeldig is of het gecreeerde/bijgewerkte middel ongeldig is (bijvoorbeeld, als identiteitskaart van de Overeenkomst niet werd gevonden). Zie [FreeWheel API 422-fouten](#freewheel-422-errors) voor meer informatie . | Neem contact op met uw [!DNL Adobe] accountmanager. |
+| 500 | Interne serverfout | API-systeemfout. | Neem contact op met uw [!DNL Adobe] accountmanager. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -55,7 +55,7 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 | DATA_CREATIVE_LINK_FAILURE | 422 | De creatieve was niet verbonden met de knooppunten van de advertentie-eenheid van de deal. Controleer het foutbericht voor meer informatie. |
 | DATA_CREATIVE_UPDATE_FAILURE | 422 | De creatieve functie is niet bijgewerkt. Controleer het foutbericht voor meer informatie. |
 | DATA_DSP_GET_FAILURE | 422 | De DSP bestaat niet binnen het systeem. |
-| DATA_CREATIVE_UNLINK_FAILURE | 422 | De creatieve objecten zijn niet losgekoppeld van advertentie-eenheden. |
+| DATA_CREATIVE_UNLINK_FAILURE | 422 | De creatieve objecten zijn niet losgekoppeld van advertentiefaciliteiten. |
 | DATA_CREATIVE_DELETE_FAILURE | 422 | De creatieve functie is niet verwijderd. |
 | DATA_CREATIVE_DETECTION_FAILURE | 422 | De URL is niet gedetecteerd. |
 | DATA_ENTITY_NOT_FOUND | 422 | De creatieve bestaat niet. |
@@ -67,5 +67,5 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 >* [Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
 >* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
 >* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst aan FreeWheel](/help/dsp/inventory/freewheel-submit.md)
->* [Controleer de Status van Ads  [!DNL FreeWheel] voor Programmatic Gegarandeerde Overeenkomsten](/help/dsp/inventory/freewheel-check-status.md)
+>* [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](/help/dsp/inventory/freewheel-check-status.md)
 

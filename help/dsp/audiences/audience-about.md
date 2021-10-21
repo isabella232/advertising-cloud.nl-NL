@@ -3,9 +3,9 @@ title: Over Audience Management in Advertising Cloud DSP
 description: Meer informatie over functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: 578651a458ffd505573df0e9a61e26bd2176ad17
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1024'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ In Advertising Cloud DSP kunt u publiekssegmenten en publiekssets maken en beher
 
 * U kunt uw eigen gegevens van het eerste publiek verzamelen door segmenten te creëren en uit te voeren. U kunt gebruikers in het segment later opnieuw toewijzen met advertenties of u kunt voorkomen dat gebruikers in het segment advertenties ontvangen. U kunt de volgende typen segmenten maken:
 
-   * [Aangepaste ](/help/dsp/audiences/custom-segment-create.md) segmenten om a) gebruikers bij te houden die worden blootgesteld aan advertenties van desktop-, mobiele- en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
+   * [Aangepaste segmenten](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers bij te houden die zijn blootgesteld aan advertenties van desktop-, mobiele- en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
 
-   * [CCPA-opt-out-of-sales-](/help/dsp/audiences/ccpa-opt-out-segment-create.md) segmentering om de gebruikers-id&#39;s te volgen van de consument-opt-out-of-sales-verzoeken op uw website, volgens de California Consumer Privacy Act (CCPA). U kunt maandelijkse rapporten van de gebruikers-id&#39;s ophalen uit aanvragen om niet te verkopen.
+   * [CCPA opt-out of-of-sale segmenten](/help/dsp/audiences/ccpa-opt-out-segment-create.md) om de gebruikers-id&#39;s op uw website te traceren van de door de consument ingediende opt-out-of-sale aanvragen, overeenkomstig de California Consumer Privacy Act (CCPA). U kunt maandelijkse rapporten van de gebruikers-id&#39;s ophalen uit aanvragen om niet te verkopen.
 
-      Voor meer informatie over de steun van Advertising Cloud voor de opt-out van CCPA verzoeken, zie [Steun van Adobe Advertising Cloud voor de Wet van de Privacy van de consument van Californië: Support voor de optie-out voor consumenten](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      Voor meer informatie over Advertising Cloud steun voor CCPA opt-out van verkoop verzoeken, zie [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Support voor consumenten](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
 
-* U kunt een publieksbibliotheek van [herbruikbaar publiek](/help/dsp/audiences/reusable-audience-create.md) tot stand brengen. Opgeslagen doelgroepen bestaan uit een van uw beschikbare doelsegmenten en een van uw andere opgeslagen doelgroepen. Wijzigingen die u aanbrengt in een opgeslagen publiek, worden automatisch toegepast op alle plaatsen die het publiek als doel hebben of uitsluiten en op alle andere soorten publiek die het opgeslagen publiek bevatten.
+* U kunt een publieksbibliotheek maken van [herbruikbaar publiek](/help/dsp/audiences/reusable-audience-create.md). Opgeslagen doelgroepen bestaan uit een van uw beschikbare doelsegmenten en een van uw andere opgeslagen doelgroepen. Wijzigingen die u aanbrengt in een opgeslagen publiek, worden automatisch toegepast op alle plaatsen die het publiek als doel hebben of uitsluiten en op alle andere soorten publiek die het opgeslagen publiek bevatten.
 
    Opgeslagen publiek stelt mediaplanners in staat om het publiek zo nodig te groeperen door meerdere segmenten met behulp van complexe Booleaanse logica in te sluiten en uit te sluiten. De grootte van elk individueel segment en de totale publieksgrootte worden vermeld aangezien u een publiek bouwt. De managers van de campagne kunnen één of meerdere bewaarde publiek dan eenvoudig selecteren als plaatsingsdoelstellingen eerder dan manueel publieksdoelstellingen voor elke plaatsing vormen.
 
@@ -34,7 +34,7 @@ Advertising Cloud DSP kan uw eigen gegevenssegmenten van de eerste partij van uw
 
 Advertising Cloud DSP kan ook aangepaste segmenten van derden importeren, waaronder complexe combinaties van segmenten van derden. U kunt de segmenten desgewenst aan elke set adverteerders aanbieden.
 
-Neem contact op met uw accountmanager voor meer informatie.
+Neem contact op met uw [!DNL Adobe] voor meer informatie.
 
 ## publiek beschikbaar als plaatsingsdoelen
 
@@ -52,13 +52,13 @@ U kunt uw plaatsingen aan alle volgende soorten publiek richten.
 
 * Alle geïmporteerde gegevenssegmenten van derden.
 
-* (Plaatsen die alleen op de VS gericht zijn) [Alle gegevenssegmenten van derden die beschikbaar zijn voor Advertising Cloud DSP-klanten van meer dan 30 providers](/help/dsp/audiences/third-party-data-providers.md), inclusief [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast] en nog veel meer.
+* (Plaatsen die zich richten op de V.S. slechts) [Alle gegevenssegmenten van derden die beschikbaar zijn voor Advertising Cloud DSP-klanten van meer dan 30 providers](/help/dsp/audiences/third-party-data-providers.md), met inbegrip van [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]en nog veel meer.
 
    U kunt zich richten op specifieke segmenten, die gebruikers richten die op publieksgegevens (bijvoorbeeld, gebruikers met specifieke demografie, belangen of intents, en/of gedragsprofielen) worden gebaseerd. U kunt bladeren door gegevensleverancier en categorie, naar segmenten door naam of segmentidentiteitskaart zoeken, of de resultaten door gegevensleverancier, totale segmentgrootte, Webbrowser telling, of apparatentelling filtreren.
 
    Voor segmenten van derden worden extra kosten aangerekend, die naast elke segmentnaam worden vermeld.
 
-* (Adverteerders met Adobe Experience Cloud, Adobe Audience Manager of Adobe Analytics die alleen Advertising Cloud JavaScript-conversietags gebruiken) Al uw beschikbare eerste-, tweede- of andere publiekssegmenten die in Adobe Experience Cloud zijn gemaakt, in Audience Manager zijn gemaakt of vanuit Audience Manager of [!DNL Analytics] naar Adobe Experience Cloud zijn gepubliceerd.
+* (Advertisers met Adobe Experience Cloud, Adobe Audience Manager of Adobe Analytics die alleen Advertising Cloud JavaScript-conversietags gebruiken) Al uw beschikbare eerste-, tweede- of andere publiekssegmenten die in Adobe Experience Cloud zijn gemaakt, in Audience Manager zijn gemaakt of vanuit Audience Manager naar Adobe Experience Cloud zijn gepubliceerd [!DNL Analytics].
 
    Prijzen voor het gebruik van de segmenten worden vooraf bepaald en zijn niet zichtbaar in Advertising Cloud.  <!-- Verify -->
 
@@ -66,7 +66,7 @@ U kunt uw plaatsingen aan alle volgende soorten publiek richten.
 
    >[!NOTE]
    >
-   >Zie de documentatie voor [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), en [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) voor informatie over vestiging en het verzamelen van gegevens voor segmenten in die oplossingen.
+   >Zie de documentatie voor [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analyse](https://experienceleague.adobe.com/docs/analytics.html), en [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) voor informatie over vestiging en het verzamelen van gegevens voor segmenten in die oplossingen.
 
 ## Gegevens over doelgrootte
 
@@ -84,15 +84,15 @@ Binnen de opgeslagen publieksinstellingen en plaatsingsinstellingen kunt u gedet
 
 ### De weergave Alle soorten publiek
 
-In de [!UICONTROL All Audiences] mening, of de Bibliotheek van het Publiek, kunt u herbruikbare publiek opslaan en beheren, die groepen publiekssegmenten en zelfs andere bewaarde publiek omvatten. U kunt doelgroepen gebruiken als doelen voor meerdere plaatsen. Het aantal plaatsen waarin elk publiek wordt gebruikt wordt vermeld naast de plaatsingsnaam.
+In de [!UICONTROL All Audiences] In de Audience Library kunt u herbruikbare soorten publiek opslaan en beheren, waaronder groepen publiekssegmenten en zelfs andere opgeslagen soorten publiek. U kunt doelgroepen gebruiken als doelen voor meerdere plaatsen. Het aantal plaatsen waarin elk publiek wordt gebruikt wordt vermeld naast de plaatsingsnaam.
 
 U kunt een publiek bewerken, klonen, verwijderen, exporteren of delen.
 
 ### De weergave Segmenten
 
-In de weergave [!UICONTROL Segments] kunnen alle gebruikers extra aangepaste segmenten maken.
+In de [!UICONTROL Segments] alle gebruikers kunnen extra aangepaste segmenten maken.
 
-In de weergave [!UICONTROL Segments] worden ook de volgende segmenttypen weergegeven:
+De [!UICONTROL Segments] in de weergave worden ook de volgende segmenttypen weergegeven:
 
 * Alle door de gebruiker gemaakte aangepaste segmenten zijn beschikbaar voor de gebruiker.
 
@@ -102,11 +102,11 @@ In de weergave [!UICONTROL Segments] worden ook de volgende segmenttypen weergeg
 
 * Alle geïmporteerde eerste-partijsegmenten zijn beschikbaar voor de gebruiker.
 
-   U kunt geen eerste-partijsegmenten uitgeven of delen die met u werden gedeeld. Neem contact op met uw accountmanager als u segmenten van de eerste partij met extra gebruikers wilt delen.
+   U kunt geen eerste-partijsegmenten uitgeven of delen die met u werden gedeeld. Neem contact op met uw [!DNL Adobe] accountmanager als u de eerste-partijsegmenten met extra gebruikers moet delen.
 
 * Alle aangepaste segmenten van derden zijn beschikbaar voor de gebruiker.
 
-   U kunt segmenten van derden die met u zijn gedeeld, niet bewerken of delen. Neem contact op met uw accountmanager als u segmenten van derden met extra gebruikers wilt delen.
+   U kunt segmenten van derden die met u zijn gedeeld, niet bewerken of delen. Neem contact op met uw [!DNL Adobe] accountmanager als u segmenten van derden met extra gebruikers wilt delen.
 
 >[!MORELIKETHIS]
 >
@@ -114,7 +114,7 @@ In de weergave [!UICONTROL Segments] worden ook de volgende segmenttypen weergeg
 >* [Instellingen publiek](audience-settings.md)
 >* [Syntaxis voor Audience Segment Logic](audience-segment-logic-syntax.md)
 >* [Een aangepast segment maken en implementeren](custom-segment-create.md)
->* [Een  [!UICONTROL CCPA Opt-Out-of-Sale] segment maken en implementeren](ccpa-opt-out-segment-create.md)
+>* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
 

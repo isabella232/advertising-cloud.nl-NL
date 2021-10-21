@@ -3,9 +3,9 @@ title: JavaScript-code voor [!DNL Analytics for Advertising Cloud]
 description: JavaScript-code voor [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
-source-git-commit: 56ac178bf10d8c934297521ca3075783e1bc2c36
+source-git-commit: 26709071be0fffb43bb3fa4666c6fa52229ad5be
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '855'
 ht-degree: 0%
 
 ---
@@ -16,39 +16,39 @@ ht-degree: 0%
 
 *Adverteerders met alleen Advertising Cloud DSP*
 
-Voor Advertising Cloud DSP houdt de integratie [!DNL Analytics for Advertising Cloud] de weergave en doorklikinteracties van de site bij. Doorklikbezoeken worden bijgehouden aan de hand van de standaard Adobe Analytics-code op uw webpagina&#39;s. Met de code [!DNL Analytics] worden de parameters AMO ID en EF ID in de URL van de landingspagina vastgelegd en in hun respectievelijke gereserveerde eVars bijgehouden. U kunt doorkijkbezoeken volgen door twee lijnen van code JavaScript in uw webpagina&#39;s op te stellen.
+Voor Advertising Cloud DSP: [!DNL Analytics for Advertising Cloud] de integratie houdt mening-door en klik-door plaatsinteractie. Doorklikbezoeken worden bijgehouden aan de hand van de standaard Adobe Analytics-code op uw webpagina&#39;s. de [!DNL Analytics] De parameters AMO ID en EF ID worden in de URL van de bestemmingspagina vastgelegd en in hun respectieve gereserveerde eVars bijgehouden. U kunt doorkijkbezoeken volgen door twee lijnen van code JavaScript in uw webpagina&#39;s op te stellen.
 
-In de eerste paginaweergave van een bezoek aan de site controleert de Advertising Cloud JavaScript-code of de bezoeker een advertentie heeft gezien of erop heeft geklikt. Als de gebruiker eerder via een doorklik de site is binnengekomen of geen advertentie heeft gezien, wordt de bezoeker genegeerd. Als de bezoeker een advertentie heeft gezien en de site niet is binnengekomen via een doorklik tijdens het [click lookback venster](/help/integrations/analytics/prerequisites.md#lookback-a4adc) dat in Advertising Cloud is ingesteld, gebruikt de Advertising Cloud JavaScript-code [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) om een aanvullende id (`SDID`) te genereren, die wordt gebruikt om gegevens van Advertising Cloud aan de Adobe Analytics-hit van de bezoeker te koppelen. Adobe Analytics vraagt vervolgens Advertising Cloud om de AMO-id en EF-id die aan de advertentie zijn gekoppeld. De AMO-id en EF-id&#39;s worden vervolgens in hun respectieve eVars ingevuld. Deze waarden blijven gedurende een bepaalde periode bestaan (standaard 60 dagen).
+In de eerste paginaweergave van een bezoek aan de site controleert de Advertising Cloud JavaScript-code of de bezoeker een advertentie heeft gezien of erop heeft geklikt. Als de gebruiker eerder via een doorklik de site is binnengekomen of geen advertentie heeft gezien, wordt de bezoeker genegeerd. Als de bezoeker een advertentie heeft gezien en de site niet via een doorklikverbinding heeft betreden tijdens het [klik terugkijkvenster](/help/integrations/analytics/prerequisites.md#lookback-a4adc) ingesteld in Advertising Cloud, gebruikt de Advertising Cloud JavaScript-code vervolgens de [Experience Cloud ID-service](https://experienceleague.adobe.com/docs/id-service/using/home.html) om een aanvullende id te genereren (`SDID`), dat wordt gebruikt om gegevens van Advertising Cloud aan de slag van Adobe Analytics van de bezoeker te binden. Adobe Analytics vraagt vervolgens Advertising Cloud om de AMO-id en EF-id die aan de advertentie zijn gekoppeld. De AMO-id en EF-id&#39;s worden vervolgens in hun respectieve eVars ingevuld. Deze waarden blijven gedurende een bepaalde periode bestaan (standaard 60 dagen).
 
-[!DNL Analytics] verzendt de metriek van het plaatsverkeer (zoals paginameningen, bezoeken, en bestede tijd) en om het even welke  [!DNL Analytics]  douane of standaardevenementen naar Advertising Cloud per uur, gebruikend EF identiteitskaart als sleutel. Deze [!DNL Analytics] metriek loopt dan door het attributiesysteem van Advertising Cloud om de omzettingen aan de klik en de belichtingsgeschiedenis aan te sluiten.
+[!DNL Analytics] verzendt de metriek van het plaatsverkeer (zoals paginameningen, bezoeken, en bestede tijd) en om het even welk [!DNL Analytics] aangepaste of standaardgebeurtenissen naar Advertising Cloud-uur, waarbij de EF-id als sleutel wordt gebruikt. Deze [!DNL Analytics] De metriek loopt dan door het attributiesysteem van Advertising Cloud om de omzettingen aan de klik en de blootstellingsgeschiedenis aan te sluiten.
 
 >[!NOTE]
 >
 >De JavaScript-traceringslogica van Advertising Cloud vindt plaats aan de Adobe-zijde en heeft dus vrijwel geen invloed op de laadtijd van de pagina.
 >
->De logica voor de [!DNL DCM] gegevensconnector naar [!DNL Analytics] (met [!DNL Google Campaign Manager 360]) voor Advertising Cloud DSP daarentegen vindt plaats aan de clientzijde. Door stitching aan de clientzijde wordt de pagina langzamer geladen en neemt het risico op gegevensverlies toe. Dit komt voor omdat [!DNL Analytics] JavaScript [!DNL DoubleClick] moet pingelen en op [!DNL DoubleClick] moet wachten om de laatste klik/de impeilingsgegevens aan [!DNL Analytics] terug te geven. Wanneer uw [!DNL DSP] team de [!DNL DCM] gegevensschakelaar opstelt, moet u specificeren hoe lang u bereid bent om de pagina te vertragen.
+>De logica voor de [!DNL DCM] gegevensaansluiting naar [!DNL Analytics] (gebruiken [!DNL Google Campaign Manager 360]) voor Advertising Cloud DSP wordt op de client uitgevoerd. Door stitching aan de clientzijde wordt de pagina langzamer geladen en neemt het risico op gegevensverlies toe. Dit gebeurt omdat de [!DNL Analytics] JavaScript moet pingelen [!DNL DoubleClick] en wachten op [!DNL DoubleClick] om de laatste klik-/afbeeldingsgegevens door te geven aan [!DNL Analytics]. Wanneer uw [!DNL DSP] team stelt [!DNL DCM] gegevensconnector, moet u opgeven hoe lang u de pagina wilt vertragen.
 
 ## JavaScript-code implementeren
 
-De JavaScript-bibliotheek bestaat uit twee regels waarmee [!DNL Analytics] en Advertising Cloud met elkaar kunnen communiceren. Als de [!DNL Analytics for Advertising Cloud] integratie tijdens de implementatie van Advertising Cloud werd voltooid, dan zou u deze code met instructies op moeten ontvangen hoe te om het op te stellen.
+De JavaScript-bibliotheek bestaat uit twee regels die [!DNL Analytics] en Advertising Cloud om met elkaar te communiceren. Als de [!DNL Analytics for Advertising Cloud] de integratie is voltooid tijdens de Advertising Cloud-implementatie, dan had u deze code moeten ontvangen met instructies voor het implementeren ervan.
 
 Als u nog geen code hebt, neemt u contact op met het Advertising Cloud-ondersteuningsteam.
 
 ### Plaats de code
 
-De JavaScript-functie [!DNL Analytics for Advertising Cloud] moet na de Experience Cloud ID-service komen, maar voordat de code voor meting van de Analytics App wordt uitgevoerd, zodat de aanvullende id (`SDID`) kan worden opgenomen in de oproep Analytics.
+De [!DNL Analytics for Advertising Cloud] De JavaScript-functie moet na de Experience Cloud-id-service komen, maar voordat de code voor metingen van de Analytics App wordt uitgevoerd, zodat de aanvullende id (`SDID`) kunt u opnemen in uw oproep Analytics.
 
 ![Codeplaatsing](/help/integrations/assets/a4adc-code-placement.png)
 
 ### Implementatie van code valideren
 
-U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DNL Fiddler] of [!DNL Chrome Developer Tools]) door de waarden van de vier id&#39;s te vergelijken tussen de aanvraag die naar Advertising Cloud gaat en de aanvraag die naar [!DNL Analytics] gaat, zoals hieronder wordt beschreven.
+U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DNL Fiddler], of [!DNL Chrome Developer Tools]) door de waarden van de vier id&#39;s te vergelijken tussen de aanvraag die naar Advertising Cloud gaat en de aanvraag die naar [!DNL Analytics], zoals hieronder beschreven.
 
-#### Hoe te om de Code met [!DNL Chrome Developer Tools] te bevestigen {#validate-js-chrome}
+#### De code bevestigen met [!DNL Chrome Developer Tools] {#validate-js-chrome}
 
-1. Open [!DNL Chrome Developer Tools] en klik **Netwerk** tabel.
-1. Laad een websitepagina die de JavaScript [!DNL Analytics for Advertising Cloud] bevat.
-1. Filter de tab [!UICONTROL Network] met `last` en bekijk twee rijen:
+1. Openen [!DNL Chrome Developer Tools] en klik op de knop **Netwerk** tab.
+1. Een websitepagina laden die de [!DNL Analytics for Advertising Cloud] JavaScript.
+1. Filter de [!UICONTROL Network] tab by `last` en bekijk twee rijen:
 
    ![Filteren op laatste](/help/integrations/assets/a4adc-code-validation-filter-last.png)
 
@@ -57,13 +57,13 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DN
 
       Als u de oproep aan Advertising Cloud niet ziet, is het mogelijk niet de eerste paginaweergave van uw bezoek. Voor testdoeleinden kunt u de cookie verwijderen zodat de volgende aanroep de eerste paginaweergave voor het bijbehorende bezoek wordt:
 
-      1. Zoek op het tabblad Toepassing naar het cookie `adcloud` en controleer of het cookie `_les_v` (laatste bezoek) bevat met de waarde `y` en een tijdstempel voor UTC-tijdperk die in 30 minuten vervalt.
-      1. Verwijder het cookie `ad cloud` en vernieuw de pagina.
-1. Filter op `/b/ss` om de treffer voor Analytics te zien.
+      1. Zoek op het tabblad Toepassing naar het tabblad `adcloud` cookie, en controleer of de cookie `_les_v` (laatste bezoek) met een waarde van `y` en een tijdstempel voor UTC-tijdperk die over 30 minuten verloopt.
+      1. Verwijder de `ad cloud` cookie maken en de pagina vernieuwen.
+1. Filter op `/b/ss` om de Analytics-hit te zien.
 
-   ![Filteren op  `/b/ss`](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
+   ![Filteren op `/b/ss`](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
 
-1. Vergelijk de id-waarden tussen de twee treffers. Alle waarden zullen in de parameters van het vraagkoord behalve rapportreeks identiteitskaart in de Bevolking van Analytics zijn, die de weg URL onmiddellijk na `/b/ss/` is.
+1. Vergelijk de id-waarden tussen de twee treffers. Alle waarden worden opgenomen in parameters van queryreeksen, behalve de id van de rapportsuite in de hit Analytics. Dit is het URL-pad dat onmiddellijk volgt `/b/ss/`.
 
    | ID | Parameter Analytics | Advertising Cloud-parameter |
    |--- |--- |--- |
@@ -72,19 +72,19 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DN
    | Analyserapportsuite | De waarde na `/b/ss/` | `_les_rsid` |
    | Experience Cloud-bezoeker-id | midden | `_les_mid` |
 
-   Als de id-waarden overeenkomen, wordt de JavaScript-implementatie bevestigd. Advertising Cloud stuurt de [!DNL Analytics]-server alle eventuele doorklikgegevens of doorkijkgegevens.
+   Als de id-waarden overeenkomen, wordt de JavaScript-implementatie bevestigd. Advertising Cloud stuurt de [!DNL Analytics] eventuele doorklikgegevens of doorlopende trackinggegevens op de server te plaatsen.
 
-#### Hoe te om de Code met [!DNL Adobe Experience Cloud Debugger] te bevestigen
+#### De code bevestigen met [!DNL Adobe Experience Cloud Debugger]
 
-1. Open [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html) op uw homepage.
-1. Ga naar het tabblad [!UICONTROL Network].
-1. Klik op [!UICONTROL Solutions Filter] op de werkbalk [!UICONTROL Advertising Cloud] en [!UICONTROL Analytics].
-1. Zoek in de parameterrij [!UICONTROL Request URL – Hostname] `lasteventf-tm.everesttech.net`.
-1. In [!UICONTROL Request – Parameters*] rij, controle de gegenereerde signalen, gelijkend op Stap 3 in &quot;[hoe te om de Code met [!DNL Chrome Developer Tools]](#validate-js-chrome) te bevestigen.&quot;
-   * Controleer of de parameter `SDID` overeenkomt met `Supplemental Data ID` in het Adobe Analytics-filter.
-   * Als de code niet genereert, controleert u of het Advertising Cloud-cookie is verwijderd op het tabblad [!UICONTROL Application]. Nadat de pagina is verwijderd, vernieuwt u de pagina en herhaalt u het proces.
+1. Open de [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html) op je homepage.
+1. Ga naar de [!UICONTROL Network] tab.
+1. In de [!UICONTROL Solutions Filter] werkbalk, klikt u op [!UICONTROL Advertising Cloud] en [!UICONTROL Analytics].
+1. In de [!UICONTROL Request URL – Hostname] parameterrij, zoeken `lasteventf-tm.everesttech.net`.
+1. In de [!UICONTROL Request – Parameters*] rij, controleer de geproduceerde signalen, gelijkend op Stap 3 in &quot;[De code bevestigen met [!DNL Chrome Developer Tools]](#validate-js-chrome).&quot;
+   * Controleer of de `SDID` parameter komt overeen met `Supplemental Data ID` in het Adobe Analytics-filter.
+   * Als de code niet wordt gegenereerd, controleert u of de Advertising Cloud-cookie is verwijderd in het dialoogvenster [!UICONTROL Application] tab. Nadat de pagina is verwijderd, vernieuwt u de pagina en herhaalt u het proces.
 
-   ![JavaScript- [!DNL Analytics for Advertising Cloud] code controleren in  [!DNL Experience Cloud Debugger]](/help/integrations/assets/a4adc-js-audit-debugger.png)
+   ![Controle [!DNL Analytics for Advertising Cloud] JavaScript-code in [!DNL Experience Cloud Debugger]](/help/integrations/assets/a4adc-js-audit-debugger.png)
 
 >[!MORELIKETHIS]
 >

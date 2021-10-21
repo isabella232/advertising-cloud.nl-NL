@@ -3,16 +3,16 @@ title: Apparaatoplossingen
 description: Meer informatie over functies voor verschillende apparaten.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
 workflow-type: tm+mt
-source-wordcount: '1111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Apparaatoplossingen
 
-Dankzij de Advertising Cloud DSP-integratie met [!DNL LiveRamp] en [!DNL Adobe Device Co-op] kunt u uw publiek uitbreiden naar alle bekende apparaten van een persoon, en niet alleen naar de apparaten die uw merk heeft bijgehouden. De integraties bieden ook frequentietoewijzing en attributiemeting op alle apparaten.
+Advertising Cloud DSP-integratie met [!DNL LiveRamp] en [!DNL Adobe Device Co-op] kunt u uw publiek uitbreiden naar alle bekende apparaten van een persoon, en niet alleen naar de apparaten die uw merk heeft bijgehouden. De integraties bieden ook frequentietoewijzing en attributiemeting op alle apparaten.
 
 Wanneer u een ondersteunde apparaatgrafiek gebruikt, kunt u:
 
@@ -33,7 +33,7 @@ Wanneer u een ondersteunde apparaatgrafiek gebruikt, kunt u:
    * Biedt een gelijkmatige dekking tussen cookie-id&#39;s en mobiele apparaat-id&#39;s
    * Inclusief gegevens voornamelijk uit de Verenigde Staten
    * Is gratis voor frequentiecalfakanalen en attribuutmetingen
-   * Geprijsd bij $0.35 CPM voor uitgebreide beelden (indrukkingen die uitsluitend door de [!DNL LiveRamp] apparatengrafiek te gebruiken eerder dan op apparaten worden geleverd die binnen de gerichte publiekssegmenten worden gevonden)
+   * Gekost bij $0.35 CPM voor uitgebreide beelden (indrukkingen die uitsluitend door het gebruiken van worden geleverd [!DNL LiveRamp] apparaatgrafiek in plaats van op apparaten die worden gevonden binnen de doelpubliekssegmenten)
 
       De snelheid wordt weergegeven op je creditcard met accounttarieven.
 
@@ -43,13 +43,13 @@ Met op personen gebaseerd frequentiebeheer kunt u frequentiecappen op persoonlij
 
 ### Frequentiebeheer op basis van personen activeren
 
-* **Campagnes:** Wanneer u een nieuwe campagne maakt, kunt u een  [!UICONTROL Cross-Device Level] instelling opgeven. Schakel &quot;[!UICONTROL Same Device]&quot; -> &quot;[!UICONTROL People]&quot; in en selecteer een apparaatgrafiek. De gespecificeerde apparatengrafiek wordt gebruikt voor zowel dwars-apparaat richtend op het plaatsingsniveau als voor op mensen-gebaseerd frequentiebeheer op de campagne, het pakket, en plaatsingsniveau. De frequentiecaps zijn van toepassing op alle bekende apparaten van een persoon.
+* **Campagnes:** Wanneer u een nieuwe campagne maakt, kunt u een [!UICONTROL Cross-Device Level] instellen. &quot;[!UICONTROL Same Device]&quot; -> &quot;[!UICONTROL People],&quot; en selecteert u een apparaatgrafiek. De gespecificeerde apparatengrafiek wordt gebruikt voor zowel dwars-apparaat richtend op het plaatsingsniveau als voor op mensen-gebaseerd frequentiebeheer op de campagne, het pakket, en plaatsingsniveau. De frequentiecaps zijn van toepassing op alle bekende apparaten van een persoon.
 
-Zie [Campagne-instellingen](/help/dsp/campaign-management/campaigns/campaign-settings.md) voor meer informatie.
+Zie voor meer informatie [Campagne-instellingen](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
-Wanneer u een campagne hebt opgeslagen, kunt u de instelling [!UICONTROL Cross Device Level] niet meer wijzigen.
+Als u een campagne eenmaal hebt opgeslagen, kunt u de campagne niet meer wijzigen [!UICONTROL Cross Device Level] instellen.
 
-* **Pakketten:**  U kunt desgewenst extra frequentiecappen op pakketniveau plaatsen. DSP zal de strengste frequentiegrens in de campagnehiërarchie respecteren.
+* **Pakketten:**  U kunt desgewenst extra frequentiecappen op pakketniveau instellen. DSP zal de strengste frequentiegrens in de campagnehiërarchie respecteren.
 
 * **Plaatsen:** U kunt desgewenst extra frequentiecappen instellen op plaatsingsniveau. DSP zal de strengste frequentiegrens in de campagnehiërarchie respecteren.
 
@@ -59,23 +59,23 @@ Door op mensen gebaseerde doelgroepen te kiezen, kunt u klanten zoeken op versch
 
 ### Activeren op basis van personen
 
-* **Campagnes:** Wanneer u een nieuwe campagne maakt, kunt u een  [!UICONTROL Cross-Device Level] instelling opgeven. Schakel &quot;[!UICONTROL Same Device]&quot; -> &quot;[!UICONTROL People]&quot; in en selecteer een apparaatgrafiek. De gespecificeerde apparatengrafiek wordt gebruikt voor zowel dwars-apparaat richtend op het plaatsingsniveau als voor op mensen-gebaseerd frequentiebeheer.
+* **Campagnes:** Wanneer u een nieuwe campagne maakt, kunt u een [!UICONTROL Cross-Device Level] instellen. &quot;[!UICONTROL Same Device]&quot; -> &quot;[!UICONTROL People],&quot; en selecteert u een apparaatgrafiek. De gespecificeerde apparatengrafiek wordt gebruikt voor zowel dwars-apparaat richtend op het plaatsingsniveau als voor op mensen-gebaseerd frequentiebeheer.
 
-Zie [Campagne-instellingen](/help/dsp/campaign-management/campaigns/campaign-settings.md) voor meer informatie.
+Zie voor meer informatie [Campagne-instellingen](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
-* **Plaatsen:** Wanneer u publieksdoelstellingen voor een plaatsing in een campagne met een gespecificeerde apparatengrafiek selecteert, staat een  [!UICONTROL Cross-Device Targeting] optie u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn.
+* **Plaatsen:** Wanneer u doelpubliek selecteert voor een plaatsing in een campagne met een opgegeven apparaatgrafiek, kunt u een [!UICONTROL Cross-Device Targeting] Met deze optie kunt u uw doelversie uitbreiden naar alle bekende apparaten van een persoon (per de apparaatgrafiek die is opgegeven in de campagnemontages), zelfs naar apparaten die zich niet in de opgegeven segmenten bevinden.
 
 ### Rapportage instellen voor op mensen gebaseerde doelen
 
 U kunt de volgende metriek in douanerapporten omvatten:
 
-* **Uitgebreide indrukkingen:** (In de  [!UICONTROL Build Your Report] sectie onder  [!UICONTROL Metrics] >  [!UICONTROL Std. Metrics]) Het volume van incrementele indrukkingen die worden geleverd door een apparaatgrafiek te gebruiken (en die niet worden gevonden binnen de oorspronkelijke publiekssegmenten). Deze maatstaf wordt ook gebruikt voor de berekening van de toepasselijke vergoedingen voor het gebruik van een apparaatgrafiek van derden.
+* **Uitgebreide afbeeldingen:** (In de [!UICONTROL Build Your Report] deel onder [!UICONTROL Metrics] > [!UICONTROL Std. Metrics]) Het volume van incrementele indrukkingen dat wordt geleverd door een apparaatgrafiek te gebruiken (en dat niet wordt gevonden binnen de oorspronkelijke publiekssegmenten). Deze maatstaf wordt ook gebruikt voor de berekening van de toepasselijke vergoedingen voor het gebruik van een apparaatgrafiek van derden.
 
-   Om de kosten van uw uitgebreide indrukkingen tijdens een tijdspanne te bepalen, stel een douanerapport in dat [!UICONTROL Extended Impressions] kolom omvat, en vermenigvuldig dan het totale aantal uitgebreide indrukkingen met $0.0035 ($0.35/1000 beelden).
+   Om de kosten van uw uitgebreide beelden tijdens een tijdspanne te bepalen, stel een douanerapport in werking dat omvat [!UICONTROL Extended Impressions] en vermenigvuldigt u vervolgens het totale aantal uitgebreide afdrukken met $0,00035 ($0,35/1000 afbeeldingen).
 
-   De geaggregeerde kosten worden ook opgenomen in de kolom [!UICONTROL Billable Other Net Spend] (onder [!UICONTROL Metrics] > [!UICONTROL Spend]), hoewel die metrische waarde ook andere campagnekosten omvat die u mogelijk hebt toegevoegd.
+   De geaggregeerde kosten worden ook opgenomen in de [!UICONTROL Billable Other Net Spend] kolom (onder [!UICONTROL Metrics] > [!UICONTROL Spend]), hoewel die maatstaf ook andere campagnekosten omvat die u wellicht hebt toegevoegd.
 
-* **Apparaatgrafiek:** (in de  [!UICONTROL Build Your Report] sectie onder  [!UICONTROL Dimensions] >  [!UICONTROL Campaign]) De geselecteerde apparaatgrafiek voor een bepaalde campagne, een bepaald pakket of een bepaalde plaatsing.
+* **Apparaatgrafiek:** (In de [!UICONTROL Build Your Report] deel onder [!UICONTROL Dimensions] > [!UICONTROL Campaign]) De geselecteerde apparaatgrafiek voor een bepaalde campagne, een bepaald pakket of een bepaalde plaatsing.
 
 ## Meting van op personen gebaseerde kenmerk
 
@@ -85,13 +85,13 @@ Met op mensen gebaseerde attributie, kunt u omzettingen verklaren die op een ver
 
 ### Meting van op personen gebaseerde kenmerken inschakelen
 
-Neem contact op met de accountmanager van de Adobe als u maten voor apparaattoewijzing wilt activeren. Voor [!DNL Adobe Device Co-op] accounts, zult u uw ondertekende [!DNL Adobe Device Co-op] contract en Experience Cloud [!DNL Organization ID] (vroeger genoemd [!DNL IMS org ID]) moeten verstrekken.
+Neem contact op met uw [!DNL Adobe] accountmanager. Voor [!DNL Adobe Device Co-op] accounts, moet u uw ondertekende [!DNL Adobe Device Co-op] contract en Experience Cloud [!DNL Organization ID] (voorheen [!DNL IMS org ID]).
 
 Om te zien of wordt een adverteerderaccount gevormd om een apparatengrafiek voor attributitemeting te gebruiken:
 
 1. Klik in het hoofdmenu op **[!UICONTROL Settings]>[!UICONTROL Advertiser]**.
-1. Plaats de cursor op de rij van de adverteerder en klik **[!UICONTROL Edit]**.
-1. Controleer in de sectie [!UICONTROL Integrations] van de advertentiemontages of de [!UICONTROL Cross-Device Attribution]-instelling actief is.
+1. Plaats de cursor op de rij van de adverteerder en klik op **[!UICONTROL Edit]**.
+1. In de [!UICONTROL Integrations] van de adverteerderinstellingen, controleer of de [!UICONTROL Cross-Device Attribution] instelling is actief.
 
    Voor actieve integratie wordt de apparaatgrafiek aangegeven.
 
@@ -99,17 +99,17 @@ Om te zien of wordt een adverteerderaccount gevormd om een apparatengrafiek voor
 
 #### Instellingen omzettingsrapport
 
-Wanneer een apparatengrafiek voor attributitemeting wordt toegelaten, omvat [!UICONTROL Conversion] het Rapport [!UICONTROL Cross-Device Breakout] het plaatsen, die u toestaat om maximaal drie afzonderlijke kolommen voor elke omzettingsmetrisch te omvatten:
+Wanneer een apparaatgrafiek is ingeschakeld voor attributiemeting, wordt [!UICONTROL Conversion] Rapport bevat een [!UICONTROL Cross-Device Breakout] het plaatsen, dat u toestaat om maximaal drie afzonderlijke kolommen voor elke omzettingsmetrisch te omvatten, die omvatten:
 
-* &lt;>Conversie *>[!UICONTROL (tp)]: Omvat de totale omzettingen (totaal aantal personen), die zowel de omzettingen van hetzelfde apparaat als de omzettingen van het apparaat (indien van toepassing) omvatten.* In het rapport wordt &quot;[!UICONTROL (tp)]&quot;toegevoegd aan de metrische naam van de omzetting, regeltype, en omzettingstypes in de omzettingsweg (bijvoorbeeld, &quot;Reacties (le)(tl)(tp)).
+* &lt;*Conversie*>[!UICONTROL (tp)]: Omvat de totale omzettingen (totaal aantal personen), die zowel de omzettingen van hetzelfde apparaat als de omzettingen van het apparaat (indien van toepassing) omvatten. In het verslag[!UICONTROL (tp)]&quot; wordt toegevoegd aan de metrische naam, het regeltype en de omzettingstypen in het conversiepad (bijvoorbeeld &quot;Reacties(le)(tl)(tp)).
 
-* &lt;>Conversie *>[!UICONTROL (sd)]: (Optioneel) Omvat alleen omzettingen waarvoor in het conversiepad slechts één apparaat is bijgehouden.* In het rapport wordt &quot;[!UICONTROL (sd)]&quot;toegevoegd aan de metrische naam van de omzetting, regeltype, en omzettingstypes in de omzettingsweg (bijvoorbeeld, &quot;Reacties (le)(tl)(sd))).
+* &lt;*Conversie*>[!UICONTROL (sd)]: (Optioneel) Omvat alleen omzettingen waarvoor in het conversiepad slechts één apparaat is bijgehouden. In het verslag[!UICONTROL (sd)]&quot; wordt toegevoegd aan de metrische naam, het regeltype en de omzettingstypen in het conversiepad (bijvoorbeeld &quot;Reacties(le)(tl)(sd)).
 
-* &lt;>Conversie *>[!UICONTROL (xd)]: (Optioneel) Omvat alleen omzettingen waarvoor meer dan één apparaat is bijgehouden in het conversiepad.* In het rapport wordt &quot;[!UICONTROL (xd)]&quot;toegevoegd aan de metrische naam van de omzetting, regeltype, en omzettingstypes in de omzettingsweg (bijvoorbeeld, &quot;Reacties (le)(tl)(xd)).
+* &lt;*Conversie*>[!UICONTROL (xd)]: (Optioneel) Omvat alleen omzettingen waarvoor meer dan één apparaat is bijgehouden in het conversiepad. In het verslag[!UICONTROL (xd)]&quot; wordt toegevoegd aan de metrische naam, het regeltype en de omzettingstypen in het conversiepad (bijvoorbeeld &quot;Reacties(le)(tl)(xd)).
 
 #### Hoe te om het Rapport van de Omzetting te interpreteren
 
-Als u het percentage van totale omzettingen sorteert die dwars-apparaat ([!UICONTROL (xd)]/[!UICONTROL (tl)]) van hoog aan laag zijn, zult u begrijpen wat boven-gemiddelde dwars-apparatenomzettingen drijft. U kunt dit gebruiken om uw creatieve of het richten strategie te informeren om overseinen en kanaalinvestering aan gebruikersgedrag aan te passen.
+Als u het percentage van totale omzettingen sorteert die dwars-apparaat zijn ([!UICONTROL (xd)]/[!UICONTROL (tl)]) van hoog naar laag, zult u begrijpen wat drijft boven-gemiddelde dwars-apparatenomzettingen. U kunt dit gebruiken om uw creatieve of het richten strategie te informeren om overseinen en kanaalinvestering aan gebruikersgedrag aan te passen.
 
 * Pakketten - Zie welke pakketten de meeste totale omzettingen drijven, en welke degenen een hoog percentage van dwars-apparatenomzettingen hebben. Dit kan u helpen begrijpen waar te om uitgaven te concentreren.
 

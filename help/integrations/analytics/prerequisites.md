@@ -1,16 +1,16 @@
 ---
-title: Vereisten en Belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
-description: Vereisten en Belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
+title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
+description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: e2ee41c7e3e195f062ad1cc67080ed913d6d3d06
+source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Vereisten en Belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
+# Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
 
 *Adverteerders met Advertising Cloud DSP en Advertising Cloud Search*
 
@@ -19,7 +19,7 @@ Bekijk de volgende informatie voordat u Advertising Cloud integreert met Adobe A
 ## Vereisten voor het rapporteren van Advertising Cloud-gegevens in [!DNL Analytics]
 
 * Experience Cloud-identiteitsdienst: `visitorAPI.js` versie 2.0 of hoger
-* Elke versie van Adobe Analytics (inclusief [!DNL Prime], [!DNL Premium] of [!DNL Ultimate])
+* Elke versie van Adobe Analytics (inclusief [!DNL Prime], [!DNL Premium], of [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` versie 2.1 of hoger
 
 >[!TIP]
@@ -31,20 +31,20 @@ Bekijk de volgende informatie voordat u Advertising Cloud integreert met Adobe A
 * Experience Cloud-identiteitsdienst: `visitorAPI.js` versie 2.1 of hoger
 * Adobe Analytics: `!DNL appMeasurement.js` versie 1.8 of hoger
 
-## Vereisten voor rapportage [!DNL Analytics] gegevens in Advertising Cloud
+## Voorschriften voor rapportage [!DNL Analytics] Gegevens in Advertising Cloud
 
 Geef het Advertising Cloud-implementatieteam de volgende informatie:
 
-* De [!DNL Analytics]-rapportsuite-id die wordt gebruikt voor rapportage over betaalde mediaconcentraties en voor het doorvoeren van siteactiviteiten voor optimalisatie en rapportage in Advertising Cloud
+* De [!DNL Analytics] rapportsuite-id die wordt gebruikt voor rapportage over betaalde mediaconcentraties en voor het doorvoeren van siteactiviteiten voor optimalisatie en rapportage in Advertising Cloud
 * De Experience Cloud Organisatie-id van het bedrijf (Org ID).
 
-U kunt beide id&#39;s vinden op het scherm [Samenvatting van de Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html).
+U kunt beide id&#39;s vinden op het tabblad [Samenvattingsscherm van de Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html).
 
 ![Experience Cloud Debugger Samenvattingsscherm](/help/integrations/assets/a4adc-debugger-summary.png)
 
 ## [!DNL Analytics] Gegevens in Advertising Cloud {#lookback-a4adc}
 
-Aangezien [!DNL Analytics] gegevens naar Advertising Cloud worden verzonden voor rapportage en optimalisatie, zijn de gegevens onderworpen aan de toewijzingsregels, inclusief de indruk en klik op terugzoekvensters, die zijn geconfigureerd voor de adverteerder in Advertising Cloud.
+Omdat [!DNL Analytics] gegevens voor rapportage en optimalisatie naar Advertising Cloud worden verzonden, zijn de gegevens onderworpen aan de toewijzingsregels, waaronder de indruk en klik op terugzoekvensters, die voor de adverteerder in Advertising Cloud zijn geconfigureerd.
 
 ![Instellingen voor terugzoekvensters op adverteerderniveau in Advertising Cloud](/help/integrations/assets/a4adc-lookbacks.png)
 
@@ -53,19 +53,19 @@ Aangezien [!DNL Analytics] gegevens naar Advertising Cloud worden verzonden voor
 
    >[!NOTE]
    >
-   > Het venster voor het terugzoeken van de indruk is specifiek voor Advertising Cloud en niet [!DNL Analytics for Advertising Cloud] voor het rapporteren.
+   > Het venster voor het terugzoeken van de indruk is specifiek voor Advertising Cloud, niet [!DNL Analytics for Advertising Cloud], rapportage.
 
-In de JavaScript [!DNL Analytics for Advertising Cloud] worden deze instellingen gebruikt om te bepalen hoe ver u terug kunt gaan om een doorkijkitem of doorklikitem voor de site als geldig te beschouwen. Voor meer informatie over hoe mening-door en klik-door worden bepaald, zie &quot;[Advertising Cloud IDs die door Analytics](ids.md) wordt gebruikt.&quot;
+De [!DNL Analytics for Advertising Cloud] JavaScript gebruikt deze instellingen om te bepalen hoe ver u een doorkijkitem of doorklikitem naar de site als geldig kunt beschouwen. Voor meer informatie over hoe de mening-productie en de klik-productie worden bepaald, zie &quot;[Advertising Cloud-id&#39;s gebruikt door Analytics](ids.md).&quot;
 
 ## Advertising Cloud-gegevens in [!DNL Analytics]
 
-[!DNL Analytics] Hiermee stelt u Advertising Cloud-id&#39;s (AMO-id&#39;s) in in de hit Analytics, afhankelijk van de persistentie-instelling van de eVar van de adverteerder. Deze instelling geldt voor zowel doorklikken als doorzoeken. De persistentie-instelling wordt geconfigureerd op de Advertising Cloud back-end en uw Adobe-accountmanager kan deze wijzigen.
+[!DNL Analytics] Hiermee stelt u Advertising Cloud-id&#39;s (AMO-id&#39;s) in in de hit Analytics, afhankelijk van de persistentie-instelling van de eVar van de adverteerder. Deze instelling geldt voor zowel doorklikken als doorzoeken. De persistentie-instelling wordt geconfigureerd op de achterkant van de Advertising Cloud en uw [!DNL Adobe] kan door accountmanager worden gewijzigd.
 
 * [!DNL Analytics for Advertising Cloud] Vervaldatum eVar: Standaard 60 dagen voor AMO-id&#39;s
 
 >[!NOTE]
 >
->Als u gegevens voor een ander tijdframe wilt segmenteren, kunt u [aangepaste segmenten](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html) instellen met verschillende opzoekvensters in Analysis Workspace.
+>Als u gegevens voor een ander tijdframe wilt segmenteren, kunt u [aangepaste segmenten instellen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html) met verschillende terugzoekvensters in Analysis Workspace.
 
 ## Ondersteunde advertentie-omgevingen
 
@@ -75,17 +75,17 @@ In de JavaScript [!DNL Analytics for Advertising Cloud] worden deze instellingen
 * Online video
 * Oorspronkelijk
 
-Neem contact op met uw Adobe-accountmanager voor de meest recente ondersteunde advertentieomgevingen in elk kanaal.
+Neem contact op met uw [!DNL Adobe] accountmanager voor de meest recente ondersteunde advertentieomgevingen in elk kanaal.
 
 ## Wat u moet weten voordat u gaat implementeren
 
-* Voor deze integratie worden geen extra kosten in rekening gebracht en serveraanroepen resulteren niet in extra [!DNL Analytics]- of Advertising Cloud-kosten.
+* Voor deze integratie worden geen extra kosten in rekening gebracht en serveraanroepen resulteren niet in extra [!DNL Analytics] of Advertising Cloud-kosten.
 
 * [!DNL Analytics for Advertising Cloud] is een advertentie voor serveragnost: kan een mening-door of klik-door van om het even welke advertentieserver voorkomen, en juiste IDs wordt geproduceerd bij plaatsingang.
 
-* De integratie geeft Advertising Cloud alleen standaard- en aangepaste gebeurtenissen voor het optimaliseren van biedingen voor daaropvolgende betaalde media en advertentiepogingen door. [!DNL Analytics] Het gaat [!DNL Analytics] geen segmenten, berekende metriek, en eVars aan Advertising Cloud voor biodoptimalisering door.
+* De integratie gaat alleen over [!DNL Analytics] standaard- en aangepaste evenementen voor Advertising Cloud voor het optimaliseren van biedingen voor daaropvolgende betaalde media- en reclameactiviteiten. Het gaat niet door [!DNL Analytics] segmenten, berekende maatstaven en Vars naar Advertising Cloud voor Bodoptimalisatie.
 
-* Advertising Cloud maakt permanente id&#39;s binnen [!DNL Analytics] op basis van de laatste advertentie die is geklikt of weergegeven voordat de gebruiker de site betreedt, op basis van de [click and view-through lookback windows](#lookback-a4adc) die in Advertising Cloud zijn geconfigureerd. Als een bezoeker van de site beide typen interactie voor site-invoer binnen zijn profiel zou hebben en de klik zich binnen de terugzoekperiode bevindt, zou de doorklikeid van de bezoeker de doorkijkID voor site-rapportage overschrijven.
+* Advertising Cloud maakt permanente id&#39;s binnen [!DNL Analytics] op basis van de laatste advertentie die is aangeklikt of bekeken voordat de gebruiker de site betreedt, op basis van de [klik en mening-door raadplegingsvensters](#lookback-a4adc) geconfigureerd in Advertising Cloud. Als een bezoeker van de site beide typen interactie voor site-invoer binnen zijn profiel zou hebben en de klik zich binnen de terugzoekperiode bevindt, zou de doorklikeid van de bezoeker de doorkijkID voor site-rapportage overschrijven.
 
 * [!DNL Analytics for Advertising Cloud] Voor het bijhouden van conversies in Adobe Analytics wordt een configureerbaar terugzoekvenster (standaard 60 dagen) gebruikt. Advertising Cloud-rapporten weerspiegelen de omzettingen van sites en de betrokkenheid aan het einde van dit terugzoekvenster.
 
@@ -97,21 +97,21 @@ Neem contact op met uw Adobe-accountmanager voor de meest recente ondersteunde a
 
 * [!DNL Analytics for Advertising Cloud] ondersteunt geen in-app weergave-through conversies.
 
-* Beeld-door volgen wordt niet gesteund voor adverteerders die een server-kant door:sturen implementatie van [!DNL Analytics] gebruiken.
+* Het volgen van mening-door wordt niet gesteund voor adverteerders die een server-zij door:sturen implementatie van [!DNL Analytics].
 
 ### Aanvullende id
 
-Als de Experience Cloud Identity Service voor een site is geïmplementeerd, bevatten hits die gegevens van [!DNL Analytics] of Advertising Cloud bevatten, een aanvullende id.
+Zodra de Dienst van de Identiteit van de Experience Cloud voor een plaats wordt uitgevoerd, klappen die gegevens van bevatten [!DNL Analytics] of Advertising Cloud bevat een aanvullende id.
 
 Voorbeeld: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
-Voor nauwkeurige gegevensintegratie, moeten alle vraag van Advertising Cloud die door een [!DNL Analytics for Advertising Cloud] activiteit wordt gebruikt om inhoud te leveren of het doel metrisch te registreren overeenkomstige [!DNL Analytics] hebben die zelfde supplementaire identiteitskaart deelt.
+Voor een nauwkeurige gegevensintegratie worden alle Advertising Cloud-aanroepen gebruikt door een [!DNL Analytics for Advertising Cloud] activiteit om inhoud te leveren of het doel te registreren metrisch moet overeenkomstige hebben [!DNL Analytics] hit die dezelfde aanvullende id deelt.
 
-Wanneer u het oplossen van problemen in [!DNL Analytics] bent, ben zeker om te bevestigen dat extra identiteitskaart voor [!DNL Analytics] treffers aanwezig is. In [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html), kunt u deze identiteitskaart op het lusje van Advertising Cloud als `sdid` parameter zien.
+Wanneer u het oplossen van problemen in bent [!DNL Analytics]moet u bevestigen dat de aanvullende id aanwezig is voor [!DNL Analytics] treffers. In de [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html)kunt u deze id op het tabblad Advertising Cloud zien als de `sdid` parameter.
 
 >[!NOTE]
 >
-> Deze implementatie werkt net als de integratie [!DNL Analytics for Target].
+> Deze implementatie werkt op dezelfde manier als de [!DNL Analytics for Target] integratie.
 
 >[!MORELIKETHIS]
 >
