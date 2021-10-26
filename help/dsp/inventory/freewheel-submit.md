@@ -1,24 +1,24 @@
 ---
-title: Verzend een Advertentie voor een Overeenkomst van PG aan  [!DNL FreeWheel]
+title: Verzend een Advertentie voor een Overeenkomst van PG aan [!DNL FreeWheel]
 description: Leer hoe te om goedkeuring voor een advertentie voor een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel te verzoeken.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: b149804bc3e9de5cd48a00f0611c09d1f2e7c7ca
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
 # Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst aan FreeWheel
 
-*Accounts met de  [!DNL FreeWheel] programmmatic-gegarandeerde machtiging*
+*Accounts met de [!DNL FreeWheel] Alleen via programmacode gegarandeerde machtiging*
 
-Zodra u [een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), met inbegrip van het selecteren van een advertentie en het creëren van de programmatic gewaarborgde standaardplaatsing om voor de overeenkomst te gebruiken, moet u de advertentie voorleggen aan FreeWheel voor goedkeuring.
+Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), met inbegrip van het selecteren van een advertentie en het creëren van programmatic gewaarborgde standaardplaatsing voor de overeenkomst, moet u de advertentie voorleggen aan FreeWheel voor goedkeuring.
 
 >[!PREREQUISITES]
 >
->Werk met uw Adobe-accountteam om ervoor te zorgen dat uw [!DNL DSP]-account toestemming heeft om de door het programma gegarandeerde workflow [!DNL FreeWheel] te gebruiken.
+>Werk met uw [!DNL Adobe] accountteam om te controleren of uw [!DNL DSP] account heeft toestemming om de [!DNL FreeWheel] programmatisch gegarandeerde workflow.
 
 1. Kopieer de advertentiesleutel voor de advertentie die met de overeenkomst FreeWheel wordt gebruikt:
 
@@ -26,7 +26,7 @@ Zodra u [een programmatic gewaarborgde overeenkomst met een uitgever op FreeWhee
 
    1. Klik in het submenu op **[!UICONTROL Ads]**.
 
-   1. Klik op **[!UICONTROL ...]>[!UICONTROL Edit]** naast de naam van de advertentie.
+   1. Klikken  **[!UICONTROL ...]>[!UICONTROL Edit]** naast de naam van de advertentie.
 
    1. Wanneer de advertentie-instellingen zijn geopend, kopieert u de alfanumerieke advertentietoets in de URL die wordt weergegeven in de adresbalk van de browser.
 
@@ -38,18 +38,18 @@ Zodra u [een programmatic gewaarborgde overeenkomst met een uitgever op FreeWhee
 
    1. In de [!UICONTROL Deals] mening, bepaal de plaats van de overeenkomst.
 
-   1. In de overeenkomstenrij, klik ![menu van Opties](/help/dsp/assets/options-menu.png) **[!UICONTROL submit to [!DNL FreeWheel]]**.
+   1. In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to [!DNL FreeWheel]]**.
 
-   1. Verifieer overeenkomstidentiteitskaart, ga **[!UICONTROL Ad Key]** in u in Stap 1 kopieerde, en klik dan **[!UICONTROL Submit]**.
+   1. Verifieer overeenkomstenidentiteitskaart, ga in **[!UICONTROL Ad Key]** u hebt gekopieerd in Stap 1 en klikt vervolgens op **[!UICONTROL Submit]**.
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
 
-1. [Controleer de verzendstatus](freewheel-check-status.md) van de advertentie.
+1. [De verzendstatus van de advertentie controleren](freewheel-check-status.md).
 
 >[!MORELIKETHIS]
 >
 >* [Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel](freewheel-overview.md)
 >* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
->* [Controleer de Status van Ads  [!DNL FreeWheel] voor Programmatic Gegarandeerde Overeenkomsten](freewheel-check-status.md)
+>* [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](freewheel-check-status.md)
 >* [Foutcodes voor FreeWheel Ad-verzendingen](freewheel-error-codes.md)
 
