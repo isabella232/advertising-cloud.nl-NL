@@ -3,9 +3,9 @@ title: Over rapporten in Platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: b2393d5e66ba5d3d2dc9816825c05eda076eaad1
+source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ U kunt desgewenst ook de drie metriek bedekken, zodat u op eenvoudige wijze anom
 
 U kunt [aanpassen van de trenddiagrammen](campaign-data-visualization-manage.md) per campagne en dezelfde cijfers blijven in alle trendgrafieken van de campagne bestaan .
 
-### Plaatsingscontrole
+### Plaatsing [!UICONTROL Inspector] {#placement-inspector}
 
 Voor elke plaatsing kunt u [openen a (detailweergave) [!UICONTROL Inspector])](placement-details-view.md), die de volgende gedetailleerde gegevens bevat:
 
@@ -63,7 +63,25 @@ Voor elke plaatsing kunt u [openen a (detailweergave) [!UICONTROL Inspector])](p
    * het geschatte aantal indrukkingen op het opgegeven frequentieniveau
    * de geschatte gemiddelde frequentie voor het gespecificeerde frequentieniveau. Deze waarde is gelijk aan (Geschatte Impressies)/(Geschatte Uniques).
 
-![Plaatsingscontrole](/help/dsp/assets/placement-inspector-sites.png)
+* **[!UICONTROL Inventory]:** Informatie over alle overeenkomsten waarop de plaatsing betrekking heeft.
+
+   De [!UICONTROL Inventory] tab bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en snelle actieknoppen in elke rij, zoals [!UICONTROL Edit] en [!UICONTROL View Report]. De [!UICONTROL Inventory] het lusje laat snelle het oplossen van problemen door prestatiesstatistieken te tonen, zoals [!UICONTROL Auctions], [!UICONTROL Bids], en [!UICONTROL Win Rate].
+
+#### Probleeminventarisatie
+
+| Probleem | Mogelijke oorzaak | Te nemen handelingen |
+| -----------| ---------- | ---------- |
+| [!UICONTROL Zero Auctions] | De uitgever is niet begonnen met het verzenden van biedingsaanvragen. | Contacteer de uitgever om de overeenkomst te activeren. |
+|  | De overeenkomst werd opstelling verkeerd, zoals door een onjuiste externe overeenkomstenidentiteitskaart in te gaan. | Bevestig de overeenkomstendetails en geef de overeenkomst uit. |
+| [!UICONTROL Auctions but no Bids] | De plaatsing richt zich niet op de inkomende biedingsverzoeken voor de overeenkomst. <br><br> Bijvoorbeeld, zou een plaatsing zich op een geografie kunnen richten die niet voor de overeenkomst in aanmerking komt. | Bewerk indien nodig de plaatsingsdoelen om te voorkomen dat problemen bij de plaatsing onder de aandacht worden gebracht. |
+|  | De plaatsing heeft geen actieve advertentie met het vereiste media type voor de overeenkomst. | Maak een advertentie met het juiste mediatype en koppel deze aan de plaatsing. |
+|  | De plaatsing heeft geen toereikend budget. | Verhoog het budget voor plaatsing zodat u op inkomende aanvragen kunt bieden. |
+|  | De datums van de plaatsingsvlucht overlappen niet met de data van de beeldlevering voor de overeenkomst. | Bewerk indien nodig de vluchtdatums van de plaatsing. |
+| [!UICONTROL Low Win Rate] | Het maximumbod van de plaatsing (ondergrens of vast) is lager dan het minimum dat door de transactie wordt vereist. | De plaatsing verhogen [!UICONTROL Max Bid] indien nodig. |
+|  | De plaatsing gebruikt vooraf geboden filters die het bieden beperken. | Verlaag de drempelwaarden van de filters vóór het bod om meer biedingen mogelijk te maken. |
+|  | De doelgerichtheid van het publiek voor de plaatsing is te restrictief. | Controleer of de opgegeven doelgroepen voldoende actieve gebruikers hebben en vouw zo mogelijk het publiek uit. |
+
+![Plaatsingscontrole](/help/dsp/assets/placement-inspector.png)
 
 U kunt de gegevens in de [!UICONTROL Sites], [!UICONTROL Ads], of [!UICONTROL Frequency] naar de standaarddownloadmap van uw browser als een rapport in XLSM-indeling.
 

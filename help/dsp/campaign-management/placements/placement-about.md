@@ -3,9 +3,9 @@ title: Informatie over Plaatsingsbeheer in Advertising Cloud DSP
 description: Meer informatie over plaatsingsbeheer.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 4a30463e9cb5783beab0ea3fa6989089e7f90457
+source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ U kunt een plaatsing manueel tot stand brengen of door bestaande te dupliceren. 
 * Audio
 * Verbonden tv
 
-## Het dashboard [!UICONTROL Placements]
+## De [!UICONTROL Placements] Dashboard
 
-Het [!UICONTROL Placements] dashboard centraliseert prestaties en economische rapportering over al uw plaatsen, die snelle momentopnamen verstrekken van hoe uw plaatsingen tijdens een gespecificeerde datumwaaier hebben uitgevoerd.
+De [!UICONTROL Placements] het dashboard centraliseert prestaties en economische rapportering over al uw plaatsen, die snelle momentopnamen verstrekken van hoe uw plaatsen tijdens een gespecificeerde datumwaaier hebben uitgevoerd.
 
 ![Plaatsingsdashboard](/help/dsp/assets/placement-dashboard.png)
 
@@ -37,7 +37,7 @@ Het dashboard bevat een aanpasbare trendgrafiek op hoog niveau met drie cijfers.
 
 Het dashboard toont ook het plaatsen en leveringsmetriek door plaatsing, door gebrek. U kunt naar keuze prestatiesmetriek voor de plaatsen bekijken, en douanekolom reeksen tot stand brengen. U kunt de volledige gegevenslijst aan de standaarddownloadomslag van uw browser als rapport in XLSM (macro-toegelaten spreadsheet van Excel) formaat downloaden.
 
-Voor elke plaatsing, kunt u een detailmening ([de [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)) openen, die prestatiesmetriek, het verpakken en leveringsmetriek, en douanekolom reeksen door plaats en door advertentie omvat; en frequentiemetriek. U kunt ook snel actie ondernemen op de opgenomen sites en advertenties, zoals het uitsluiten van een site of het pauzeren van een advertentie. Om de Inspecteur te openen, houd de curseur over de plaatsingsrij, klik **[!UICONTROL More]**, en klik dan **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, of **[!UICONTROL Frequency]**. U kunt de gegevens op [!UICONTROL Sites], [!UICONTROL Ads], of [!UICONTROL Frequency] lusje in de standaard downloadomslag van uw browser als rapport in formaat XLSM uitvoeren.
+Voor elke plaatsing kunt u een gedetailleerde weergave openen ([de [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)), waaronder prestatiewaarden, maatstaven voor aflevering en aflevering, en aangepaste kolomsets per site, advertentie en inventarisatie; en ook frequentiemetriek. U kunt ook snel actie ondernemen op de opgenomen sites, advertenties en voorraad, zoals het uitsluiten van een site, het pauzeren van een advertentie of het bewerken van een deal. Om de Inspecteur te openen, houd de curseur over de plaatsingsrij, klik **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, **[!UICONTROL Frequency]** of **[!UICONTROL Inventory]**. U kunt de gegevens in de [!UICONTROL Sites], [!UICONTROL Ads], [!UICONTROL Frequency], of [!UICONTROL Inventory]  naar de standaarddownloadmap van uw browser als een rapport in XLSM-indeling.
 
 >[!NOTE]
 >
