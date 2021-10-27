@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 07687a569ba9f24a944bd899524bb2a6a4070204
+source-git-commit: 99d0e178209af42a2e2c71f57980761baf0bfb36
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 28 oktober 2021 | Aangepaste rapporten | U kunt nu maken en beheren [!DNL Amazon S3] en verschillende typen FTP-leveringslocaties, *[!DNL report destinations]*, voor uw aangepaste rapporten. Zodra u rapportbestemmingen vormt, kunt u opstelling elk van uw nieuwe douanerapporten die aan één of meerdere plaatsen van één enkel bestemmingstype moeten worden geleverd, of aan e-mailontvangers. Updates voor uw [!DNL Amazon S3] en FTP-referenties onderbreken de levering van het rapport niet.<br><br>Uw bestaande rapporten worden nog steeds verzonden naar de opgegeven e-mailontvangers. Om levering aan een verschillende rapportbestemming te vormen, creeer een nieuw rapport met de nieuwe bestemming. | Zie &quot;[Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md),&quot; &quot;[Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md),&quot; &quot;[[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; en &quot;[Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md).&quot; |
 | 7 oktober 2021 | Help | Alles [DSP en andere Advertising Cloud-documentatie](https://experienceleague.adobe.com/docs/advertising-cloud.html) op [!DNL Experience League] is nu de machine vertaald in alle beschikbare talen. Als u de weergegeven taal wilt wijzigen, gebruikt u het menu &#39;Taal wijzigen&#39; linksonder op een pagina.<br>![Taal wijzigen](/help/dsp/assets/change-language.png) |
 | 30 september 2021 | Merkveiligheid | (release van 22 september) [!DNL DoubleVerify] merkveiligheid voorbiedingsproducten zijn bijgewerkt naar [!DNL Brand Suitability Tiers], die adverteerders in staat stelt te kiezen tussen drie risiconiveaus (laag, gemiddeld en hoog) voor specifieke segmenten zonder alle gevallen van een bepaald onderwerp te vermijden. In het verleden bevatten de segmenten geen tolerantieniveaus.<br><br>Uitlijnen met het nieuwe [!DNL DoubleVerify] segmentstructuur, DSP uw bestaande merkveiligheidssegmenten naar hun nieuwe, aanbevolen *medium*-level segment. U kunt de segmentlaag desgewenst aanpassen *laag* of *hoog*.<br><br>**Opmerking:** Een kleine lijst met segmenten heeft geen lagen maar heeft nieuwe namen, zoals &quot;Overtolligheid/Spyware/Malware,Warez&quot; > Gerichte/Malware/Clutter.&quot; | — |
 |  | Optimalisatie | De volgende optimalisatiedoelstellingen en voorbiedingsfilters zijn afgekeurd:<ul><li>Optimalisatiedoelstellingen:<ul><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – GroupM)]</li><li>[!UICONTROL Always Max Bid & Highest Viewability Rate (Moat – MRC)]</li></ul><li>Doelstellingen van filters vóór bod:<ul><li>[!UICONTROL Viewability IAS]</li><li>[!UICONTROL Viewability Moat]</li></ul></ul> | Zie &quot;[Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md)&quot; en &quot;[Filters op plaatsingsniveau vóór het bieden en hoe deze te gebruiken](/help/dsp/optimization/optimization-pre-bid-filters.md).&quot; |

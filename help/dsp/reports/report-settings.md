@@ -2,9 +2,9 @@
 title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '1129'
 ht-degree: 0%
 
 ---
@@ -107,11 +107,35 @@ Meer informatie over [oplossingen voor meerdere apparaten](/help/dsp/introductio
 
 * *[!UICONTROL Event Timestamp]:* Conversies worden gerapporteerd op basis van de datum van de indruk of klik die de conversie heeft veroorzaakt, zoals bepaald door het opgegeven [!UICONTROL Attribution Rule Settings].
 
-## [!UICONTROL Add Email Recipients] Sectie
+## [!UICONTROL Add Report Destinations] Sectie
 
-**[!UICONTROL Email]:** E-mailadres(sen) waarnaar ingevulde rapporten of meldingen moeten worden verzonden als het rapport door fouten is geannuleerd. Als u meerdere adressen wilt opgeven, scheidt u deze met komma&#39;s of spaties.
+**[!UICONTROL Destination Type]:** Kies een van de volgende doeltypen:
 
-**[!UICONTROL Frequency]:** Hoe vaak moet het rapport worden verzonden: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, of *[!UICONTROL Monthly]*.
+* *[!UICONTROL S3]:* Om het voltooide rapport naar één of meerdere te verzenden [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locaties, die u opgeeft in het dialoogvenster **[!UICONTROL Destination Name]** veld.
+* *[!UICONTROL sFTP]:* Om het voltooide rapport naar één of meerdere plaatsen te verzenden SFTP, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
+* *[!UICONTROL FTP]:* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
+* *[!UICONTROL FTP SSL](Momenteel in bèta):* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden SSL, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
+* *[!UICONTROL Email]:* E-mailadres(sen) opgeven waarnaar ingevulde rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd. Als u meerdere adressen wilt opgeven, scheidt u deze met komma&#39;s of spaties.
+
+>[!NOTE]
+>
+> U kunt niet het bestemmingstype veranderen zodra u het rapport opslaat.
+
+**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, en de bestemmingstypes van FTP SSL slechts) De namen van de rapportbestemmingen waarnaar het douanerapport zal worden verzonden.
+
+* Als u een bestaand doel wilt opgeven, selecteert u een doelnaam in de lijst. U kunt meerdere doelnamen afzonderlijk selecteren.
+
+* Een nieuw doel maken:
+
+   1. Klikken **Nieuw doel toevoegen**.
+
+   1. Voer de [doelinstellingen rapport](/help/dsp/reports/report-destinations/report-destination-settings.md)en klik op **Opslaan**.
+
+   1. Klik weer in de rapportinstellingen op **Doelnamen vernieuwen.**
+
+      De nieuwe bestemming is nu beschikbaar van de lijst van bestaande bestemmingen, en u kunt naar keuze het aan het rapport toevoegen.
+
+**[!UICONTROL Frequency]:** (Voor elke [!UICONTROL Destination Name] Hoe vaak om het rapport naar de bestemming te verzenden: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, of *[!UICONTROL Monthly]*.
 
 ## [!UICONTROL Save Report] Sectie
 
@@ -129,5 +153,6 @@ Meer informatie over [oplossingen voor meerdere apparaten](/help/dsp/introductio
 >* [Een aangepast rapport bewerken](/help/dsp/reports/report-edit.md)
 >* [Een aangepast rapport uitvoeren](/help/dsp/reports/report-run-now.md)
 >* [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
+>* [Info over Rapportdoelen](/help/dsp/reports/report-destinations/report-destination-about.md)
 
 * [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
