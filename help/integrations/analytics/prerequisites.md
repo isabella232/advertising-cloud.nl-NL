@@ -3,7 +3,7 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: 688aece01640647a61df730cbe464597b476b033
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -18,13 +18,15 @@ Bekijk de volgende informatie voordat u Advertising Cloud integreert met Adobe A
 
 ## Vereisten voor het rapporteren van Advertising Cloud-gegevens in [!DNL Analytics]
 
-* Experience Cloud-identiteitsdienst: `visitorAPI.js` versie 2.0 of hoger
+* een van de volgende twee handelingen:
+   * Adobe Experience Platform Web SDK: `alloy.js`
+   * Experience Cloud-identiteitsdienst: `visitorAPI.js` versie 2.0 of hoger
 * Elke versie van Adobe Analytics (inclusief [!DNL Prime], [!DNL Premium], of [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` versie 2.1 of hoger
 
 >[!TIP]
 >
->Voor een betere gegevenskwaliteit gebruikt u de meest recente versie van de Experience Cloud Identity Service met ondersteuning voor CNAME en de meest recente versie van Analytics AppMeasurement voor JavaScript.
+>Als u de gegevenskwaliteit wilt verbeteren, gebruikt u de meest recente versie van elke bibliotheek.
 
 ## Vereisten voor het delen van analysesegmenten met Advertising Cloud
 

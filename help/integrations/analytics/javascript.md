@@ -3,9 +3,9 @@ title: JavaScript-code voor [!DNL Analytics for Advertising Cloud]
 description: JavaScript-code voor [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
-source-git-commit: 26709071be0fffb43bb3fa4666c6fa52229ad5be
+source-git-commit: 594854f27d6a451167c90116b640781bbea11b63
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Voor Advertising Cloud DSP: [!DNL Analytics for Advertising Cloud] de integratie houdt mening-door en klik-door plaatsinteractie. Doorklikbezoeken worden bijgehouden aan de hand van de standaard Adobe Analytics-code op uw webpagina&#39;s. de [!DNL Analytics] De parameters AMO ID en EF ID worden in de URL van de bestemmingspagina vastgelegd en in hun respectieve gereserveerde eVars bijgehouden. U kunt doorkijkbezoeken volgen door twee lijnen van code JavaScript in uw webpagina&#39;s op te stellen.
 
-In de eerste paginaweergave van een bezoek aan de site controleert de Advertising Cloud JavaScript-code of de bezoeker een advertentie heeft gezien of erop heeft geklikt. Als de gebruiker eerder via een doorklik de site is binnengekomen of geen advertentie heeft gezien, wordt de bezoeker genegeerd. Als de bezoeker een advertentie heeft gezien en de site niet via een doorklikverbinding heeft betreden tijdens het [klik terugkijkvenster](/help/integrations/analytics/prerequisites.md#lookback-a4adc) ingesteld in Advertising Cloud, gebruikt de Advertising Cloud JavaScript-code vervolgens de [Experience Cloud ID-service](https://experienceleague.adobe.com/docs/id-service/using/home.html) om een aanvullende id te genereren (`SDID`), dat wordt gebruikt om gegevens van Advertising Cloud aan de slag van Adobe Analytics van de bezoeker te binden. Adobe Analytics vraagt vervolgens Advertising Cloud om de AMO-id en EF-id die aan de advertentie zijn gekoppeld. De AMO-id en EF-id&#39;s worden vervolgens in hun respectieve eVars ingevuld. Deze waarden blijven gedurende een bepaalde periode bestaan (standaard 60 dagen).
+In de eerste paginaweergave van een bezoek aan de site controleert de Advertising Cloud JavaScript-code of de bezoeker een advertentie heeft gezien of erop heeft geklikt. Als de gebruiker eerder via een doorklik de site is binnengekomen of geen advertentie heeft gezien, wordt de bezoeker genegeerd. Als de bezoeker een advertentie heeft gezien en de site niet via een doorklikverbinding heeft betreden tijdens het [klik terugkijkvenster](/help/integrations/analytics/prerequisites.md#lookback-a4adc) ingesteld in Advertising Cloud, gebruikt de Advertising Cloud JavaScript-code a) de [Experience Cloud ID-service](https://experienceleague.adobe.com/docs/id-service/using/home.html) om een aanvullende id te genereren (`SDID`) of b) gebruikt de Adobe Experience Platform [!DNL Web SDK] om een `[!DNL StitchID]`. Een van beide id&#39;s wordt gebruikt om gegevens van Advertising Cloud aan te sluiten op de hit Adobe Analytics van de bezoeker. Adobe Analytics vraagt vervolgens Advertising Cloud om de AMO-id en EF-id die aan de advertentie zijn gekoppeld. De AMO-id en EF-id&#39;s worden vervolgens in hun respectieve eVars ingevuld. Deze waarden blijven gedurende een bepaalde periode bestaan (standaard 60 dagen).
 
 [!DNL Analytics] verzendt de metriek van het plaatsverkeer (zoals paginameningen, bezoeken, en bestede tijd) en om het even welk [!DNL Analytics] aangepaste of standaardgebeurtenissen naar Advertising Cloud-uur, waarbij de EF-id als sleutel wordt gebruikt. Deze [!DNL Analytics] De metriek loopt dan door het attributiesysteem van Advertising Cloud om de omzettingen aan de klik en de blootstellingsgeschiedenis aan te sluiten.
 
@@ -36,7 +36,7 @@ Als u nog geen code hebt, neemt u contact op met het Advertising Cloud-ondersteu
 
 ### Plaats de code
 
-De [!DNL Analytics for Advertising Cloud] De JavaScript-functie moet na de Experience Cloud-id-service komen, maar voordat de code voor metingen van de Analytics App wordt uitgevoerd, zodat de aanvullende id (`SDID`) kunt u opnemen in uw oproep Analytics.
+De [!DNL Analytics for Advertising Cloud] De JavaScript-functie moet na de Experience Cloud-id-service komen, maar voordat de code voor metingen van de Analytics App wordt uitgevoerd, zodat de aanvullende id (`SDID`) of `[!DNL StitchID]` kan in uw vraag van Analytics worden omvat.
 
 ![Codeplaatsing](/help/integrations/assets/a4adc-code-placement.png)
 
@@ -80,7 +80,7 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DN
 1. Ga naar de [!UICONTROL Network] tab.
 1. In de [!UICONTROL Solutions Filter] werkbalk, klikt u op [!UICONTROL Advertising Cloud] en [!UICONTROL Analytics].
 1. In de [!UICONTROL Request URL – Hostname] parameterrij, zoeken `lasteventf-tm.everesttech.net`.
-1. In de [!UICONTROL Request – Parameters*] rij, controleer de geproduceerde signalen, gelijkend op Stap 3 in &quot;[De code bevestigen met [!DNL Chrome Developer Tools]](#validate-js-chrome).&quot;
+1. In de [!UICONTROL Request – Parameters] rij, controleer de geproduceerde signalen, gelijkend op Stap 3 in &quot;[De code bevestigen met [!DNL Chrome Developer Tools]](#validate-js-chrome).&quot;
    * Controleer of de `SDID` parameter komt overeen met `Supplemental Data ID` in het Adobe Analytics-filter.
    * Als de code niet wordt gegenereerd, controleert u of de Advertising Cloud-cookie is verwijderd in het dialoogvenster [!UICONTROL Application] tab. Nadat de pagina is verwijderd, vernieuwt u de pagina en herhaalt u het proces.
 
