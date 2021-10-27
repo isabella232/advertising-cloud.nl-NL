@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 202b537dba5af3e8926584ae2d5df04df0763a70
+source-git-commit: 4e09e4afe0befb40518c847b99d35689ed2f87a8
 workflow-type: tm+mt
-source-wordcount: '1362'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -50,3 +50,5 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 | 15 oktober 2020 | Privévoorraad | Alle gebruikers kunnen opstelling en de details van dealidentiteitskaart nu uitgeven gebruikend een nieuwe vorm van identiteitskaart van de deal, die een vereenvoudigde versie van de erfenis is [!UICONTROL Smart Ad Serving] formulier. Ga naar om nieuwe deal-id-details in te stellen [!UICONTROL Inventory] > [!UICONTROL Deals], klikt u op [!UICONTROL Create]en klik vervolgens op [!UICONTROL Deal ID Beta]. | Zie &quot;[Handmatig details van deal-id maken](/help/dsp/inventory/deal-id-create.md)&quot; en &quot;[Instellingen voor handmatige deal-id](/help/dsp/inventory/deal-id-settings.md).&quot; |
 |  | Placement Forecasting | Voor plaatsingen met plaatsingsniveau het plaatsen, [!UICONTROL Forecast] deel van de plaatsingsinstellingen bevat een nieuwe [!UICONTROL Estimated Maximums] sectie, die wijst op hoeveel meer capaciteit met de huidige het richten configuratie beschikbaar is. | — |
 | 2 september 2020 | Rapporten | Om het even welke organisatie met veelvoudige DSP rekeningen kan naar keuze dwars-rekeningsgegevens in douanerapporten toelaten, volgens de behoeften van de organisatie. | Zie het gedeelte &#39;Rapportage voor andere accounts&#39; in &quot;[Aangepaste rapporten](/help/dsp/reports/report-about.md#cross-account-reporting).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
