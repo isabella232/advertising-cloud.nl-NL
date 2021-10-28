@@ -3,9 +3,9 @@ title: Verzend een Advertentie voor een Overeenkomst van PG aan [!DNL FreeWheel]
 description: Leer hoe te om goedkeuring voor een advertentie voor een programma gewaarborgde overeenkomst met een uitgever te verzoeken op [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
+source-git-commit: 02dc96c5aeceb61762cf52c684ec8a607d6afb2a
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,8 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
 1. Kopieer de advertentiesleutel voor de advertentie die met de [!DNL Freewheel] deal:
 
    1. Klik op de naam van de campagne.
-
    1. Klik in het submenu op **[!UICONTROL Ads]**.
-
    1. Klikken  **[!UICONTROL ...]>[!UICONTROL Edit]** naast de naam van de advertentie.
-
    1. Wanneer de advertentie-instellingen zijn geopend, kopieert u de alfanumerieke advertentietoets in de URL die wordt weergegeven in de adresbalk van de browser.
 
       In de volgende URL is de ad-toets bijvoorbeeld `3NtNC5ZbaGZtqbei8jD3`
@@ -38,9 +35,8 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
 
    1. Voer een van de volgende handelingen uit:
 
-      * Klik naast de naam van de advertentie op  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
-
-      * Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].** In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+      * Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL submit to FreeWheel]**.
+      * Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**. In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
    1. Verifieer overeenkomstenidentiteitskaart, ga in **[!UICONTROL Ad Key]** u hebt gekopieerd in Stap 1 en klikt vervolgens op **[!UICONTROL Submit]**.
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
