@@ -1,26 +1,26 @@
 ---
 title: Verzend een Advertentie voor een Overeenkomst van PG aan [!DNL FreeWheel]
-description: Leer hoe te om goedkeuring voor een advertentie voor een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel te verzoeken.
+description: Leer hoe te om goedkeuring voor een advertentie voor een programma gewaarborgde overeenkomst met een uitgever te verzoeken op [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: a124f9cce3be5e68843c2d8df56640962644d5f4
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
-# Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst aan FreeWheel
+# Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL Freewheel]
 
 *Accounts met de [!DNL FreeWheel] Alleen via programmacode gegarandeerde machtiging*
 
-Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), met inbegrip van het selecteren van een advertentie en het creëren van programmatic gewaarborgde standaardplaatsing voor de overeenkomst, moet u de advertentie voorleggen aan FreeWheel voor goedkeuring.
+Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), met inbegrip van het selecteren van een advertentie en het creëren van programmatic gewaarborgde standaardplaatsing voor de overeenkomst te gebruiken, moet u de advertentie voorleggen aan [!DNL Freewheel] ter goedkeuring.
 
 >[!PREREQUISITES]
 >
 >Werk samen met uw Adobe-accountteam om ervoor te zorgen dat uw [!DNL DSP] account heeft toestemming om de [!DNL FreeWheel] programmatisch gegarandeerde workflow.
 
-1. Kopieer de advertentiesleutel voor de advertentie die met de overeenkomst FreeWheel wordt gebruikt:
+1. Kopieer de advertentiesleutel voor de advertentie die met de [!DNL Freewheel] deal:
 
    1. Klik op de naam van de campagne.
 
@@ -34,7 +34,7 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
 
       `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
-1. De advertentie verzenden naar FreeWheel:
+1. De advertentie verzenden naar [!DNL Freewheel]:
 
    1. Voer een van de volgende handelingen uit:
 
@@ -49,8 +49,8 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
 
 >[!MORELIKETHIS]
 >
->* [Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel](freewheel-overview.md)
+>* [Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL Freewheel]](freewheel-overview.md)
 >* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
 >* [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](freewheel-check-status.md)
->* [Foutcodes voor FreeWheel Ad-verzendingen](freewheel-error-codes.md)
+>* [Foutcodes voor [!DNL Freewheel] Advertentie verzenden](freewheel-error-codes.md)
 

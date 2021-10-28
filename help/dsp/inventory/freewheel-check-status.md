@@ -3,9 +3,9 @@ title: Controleer de status van advertenties voor een [!DNL [!DNL FreeWheel]] PG
 description: Meer informatie over de status van advertenties voor [!DNL Freewheel] programmatisch gegarandeerde deals.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 07b964aca7f634a29342e4d09a5e5352570f4d79
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -48,8 +48,8 @@ Neem contact op met uw [!DNL Adobe] accountmanager.
 
 >[!MORELIKETHIS]
 >
->* [Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel](freewheel-overview.md)
->* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst aan FreeWheel](freewheel-submit.md)
->* [Foutcodes voor FreeWheel Ad-verzendingen](freewheel-error-codes.md)
+>* [Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL Freewheel]](freewheel-overview.md)
+>* [Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL Freewheel]](freewheel-submit.md)
+>* [Foutcodes voor [!DNL Freewheel] Advertentie verzenden](freewheel-error-codes.md)
 >* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
 

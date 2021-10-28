@@ -1,18 +1,18 @@
 ---
-title: Overzicht van de Overeenkomsten van PG van de Opstelling in FreeWheel
-description: 'Meer informatie over de voorwaarden en extra stappen die nodig zijn om advertenties voor gegarandeerde programmatische deals met uitgevers op FreeWheel uit te voeren. '
+title: Overzicht van de Overeenkomsten van PG van de Opstelling in [!DNL Freewheel]
+description: 'Meer informatie over de vereisten en extra stappen die nodig zijn om advertenties voor gegarandeerde programmacontracten met uitgevers uit te voeren op [!DNL Freewheel]. '
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: dfd5992f059645622b3a75d092d3eb7fe1bfa696
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
-# Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel
+# Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL Freewheel]
 
-Voor het instellen van gegarandeerde programmatische deals met uitgevers op FreeWheel zijn extra machtigingen en stappen vereist.
+Programma&#39;s gegarandeerde deals met uitgevers opzetten op [!DNL Freewheel] vereist extra machtigingen en stappen.
 
 >[!PREREQUISITES]
 >
@@ -20,20 +20,20 @@ Voor het instellen van gegarandeerde programmatische deals met uitgevers op Free
 >
 >1. Machtiging om de [!DNL FreeWheel] programmatic gegarandeerde workflow, die vereist is om een advertentie voor een door het programma gegarandeerde deal in te dienen bij [!DNL FreeWheel].
 >
->1. (Als u met Britse uitgevers werkt die voor elke advertentie een Clearcast-kloknummer nodig hebben), kunt u kloknummers in uw advertenties opnemen.
+>1. (Als u met Britse uitgevers werkt die een [!DNL Clearcast] kloknummer bij elke advertentie) toestemming om kloknummers op te nemen in uw advertenties.
 
 
 ## Workflow
 
 1. Creeer een advertentie met het media type dat in de overeenkomst wordt gespecificeerd.
 
-   Voor sommige Britse uitgevers moet u een Clearcast-kloknummer opnemen bij uw advertentie.
+   Voor sommige Britse uitgevers moet u een [!DNL Clearcast] kloknummer met je advertentie.
 
-1. [Accepteer deal-id](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) u hebt reeds met een uitgever op FreeWheel gebruikend identiteitskaart Inbox van de Overeenkomst onderhandeld.
+1. [Accepteer deal-id](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) u hebt al onderhandeld met een uitgever op [!DNL Freewheel] het gebruiken van identiteitskaart van de Overeenkomst Inbox.
 
    Nadat u de overeenkomst goedkeurt, volg de herinneringen aan 1) selecteer de advertentie voor de overeenkomst te gebruiken en 2) creeer een programmatic gewaarborgde standaardplaatsing om de advertentie te dienen.
 
-1. [De advertentie verzenden naar FreeWheel](freewheel-submit.md)
+1. [De advertentie verzenden naar [!DNL Freewheel]](freewheel-submit.md)
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
 
@@ -42,7 +42,7 @@ Voor het instellen van gegarandeerde programmatische deals met uitgevers op Free
 >[!MORELIKETHIS]
 >
 >* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
->* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst aan FreeWheel](freewheel-submit.md)
+>* [Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL Freewheel]](freewheel-submit.md)
 >* [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](freewheel-check-status.md)
->* [Foutcodes voor FreeWheel Ad-verzendingen](freewheel-error-codes.md)
+>* [Foutcodes voor [!DNL Freewheel] Advertentie verzenden](freewheel-error-codes.md)
 

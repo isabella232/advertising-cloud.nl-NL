@@ -3,10 +3,10 @@ title: Foutcodes voor [!DNL FreeWheel] Advertentie verzenden
 description: Verwijs de foutencodes die voor ad voorlegging zijn teruggekeerd aan [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '684'
+ht-degree: 2%
 
 ---
 
@@ -29,7 +29,7 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 
 {style=&quot;table-layout:auto&quot;}
 
-## FreeWheel API-fouten
+## [!DNL Freewheel] API-fouten
 
 | Code | Betekenis | Beschrijving | Volgende stappen |
 |--- |--- |--- |--- |
@@ -43,7 +43,7 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 
 {style=&quot;table-layout:auto&quot;}
 
-## FreeWheel API 422-fouten {#freewheel-422-errors}
+## [!DNL Freewheel] API 422-fouten {#freewheel-422-errors}
 
 | Code | HTTP-code | Beschrijving |
 |--- |--- |--- |
@@ -64,8 +64,8 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 
 >[!MORELIKETHIS]
 >
->* [Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel](/help/dsp/inventory/freewheel-overview.md)
+>* [Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
 >* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
->* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst aan FreeWheel](/help/dsp/inventory/freewheel-submit.md)
+>* [Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
 >* [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](/help/dsp/inventory/freewheel-check-status.md)
 
