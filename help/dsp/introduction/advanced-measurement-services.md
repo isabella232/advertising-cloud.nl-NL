@@ -2,9 +2,9 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: 1a8b76ee-d38d-4ee4-981b-e29497fa4095
-source-git-commit: b4976cdce6b4d5870c5cc3a1a09c1b5545cd3200
+source-git-commit: 927fd18c39ff93fae6222c0376cbe41810c06ca2
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -93,4 +93,4 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
 ## Meer informatie
 
-Voor informatie over alle aangeboden metingen van [!DNL Strategic Advertising Consulting]Neem contact op met de succesmanager van uw klant, waarin prijsinformatie en beschikbare indelingen en regio&#39;s voor elke oplossing worden beschreven. Er zijn ook oplossingsspecifieke casestudies beschikbaar op verzoek.
+Voor informatie over alle geavanceerde meetoplossingen, het schetsen van prijsinformatie evenals beschikbare formaten en gebieden voor elke oplossing, contacteer uw [!DNL Adobe] de manager van het klantensucces. Er zijn ook oplossingsspecifieke casestudies beschikbaar op verzoek.
