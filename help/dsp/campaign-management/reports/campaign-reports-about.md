@@ -3,9 +3,9 @@ title: Over rapporten in Platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0b0f5df3ae9180dcbc2aeb5d7833956934767915
+source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Binnen een campagne kunt u gegevens filteren op basis van de campagneentiteit: [
 
 Op elk entiteitlusje, omvat elke rij het afvangen en leveringsmetriek, door gebrek, maar u kunt [de kolomweergave wijzigen](column-view-change.md) of zelfs [een aangepaste kolomweergave maken](column-view-create.md) om toe te passen op alle subtabbladen voor de campagne. U kunt [de gegevenstabellen aanpassen](campaign-data-views-about.md) op aanvullende manieren. Elke gegevenstabel bevat een [!UICONTROL Subtotals] rij, die of de som of de gemiddelde waarde van elke metrisch over alle zichtbare rijen toont.
 
-Voor elke campagne, kunt u de grafieken van de tijdreekstrendtrend met drie metriek ook aanpassen, die in elke entiteitmening beschikbaar zijn. Standaard, gegevens voor [!UICONTROL Net Spend], [!UICONTROL Impressions], en [!UICONTROL Net CPM] zijn opgenomen in afzonderlijke grafieken ( trellis - grafieken ) . U kunt de maatstaven desgewenst wijzigen.
+Voor elke campagne, kunt u de grafieken van de tijdreekstrendtrend met drie metriek ook aanpassen, die in elke entiteitmening beschikbaar zijn. Standaard, gegevens voor [!UICONTROL Net Spend], [!UICONTROL Impressions], en [!UICONTROL Net CPM] zijn opgenomen in afzonderlijke grafieken ( trellis - grafieken ) . U kunt de maatstaven desgewenst wijzigen. Om uurgegevens in de grafieken van de tijdreekstrendtrend toe te laten, verander uw datumselectie in één enkele dag ([!UICONTROL Today], [!UICONTROL Yesterday], of een specifieke dag).
 
 ![afzonderlijke trendgrafieken voor drie metriek](/help/dsp/assets/trend-chart-separate.png)
 
