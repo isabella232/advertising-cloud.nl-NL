@@ -3,9 +3,9 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: 688aece01640647a61df730cbe464597b476b033
+source-git-commit: d4d743ade0e2dad2b967b8316ff2261d0a82d5b0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '845'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,8 @@ De [!DNL Analytics for Advertising Cloud] JavaScript gebruikt deze instellingen 
 Neem contact op met uw [!DNL Adobe] accountmanager voor de meest recente ondersteunde advertentieomgevingen in elk kanaal.
 
 ## Wat u moet weten voordat u gaat implementeren
+
+* Het Advertising Cloud-implementatieteam zal de integratie opzetten.
 
 * Voor deze integratie worden geen extra kosten in rekening gebracht en serveraanroepen resulteren niet in extra [!DNL Analytics] of Advertising Cloud-kosten.
 
