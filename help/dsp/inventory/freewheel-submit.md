@@ -3,9 +3,9 @@ title: Verzend een Advertentie voor een Overeenkomst van PG aan [!DNL FreeWheel]
 description: Leer hoe te om goedkeuring voor een advertentie voor een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel te verzoeken.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 1f485caddf4d28fd19667a8f2a54538ec7fa8275
+source-git-commit: 99f1a9060aa90bb4110b4017573adb8e0effb989
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
 
       * Klik naast de naam van de advertentie op  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
 
-      * Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].** 1. In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+      * Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].** In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
    1. Verifieer overeenkomstenidentiteitskaart, ga in **[!UICONTROL Ad Key]** u hebt gekopieerd in Stap 1 en klikt vervolgens op **[!UICONTROL Submit]**.
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
