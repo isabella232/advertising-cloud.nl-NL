@@ -3,9 +3,9 @@ title: Verzend een Advertentie voor een Overeenkomst van PG aan [!DNL FreeWheel]
 description: Leer hoe te om goedkeuring voor een advertentie voor een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel te verzoeken.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: b149804bc3e9de5cd48a00f0611c09d1f2e7c7ca
+source-git-commit: c2caed80f0afc0cbe3572d01dc2c89f13ed13712
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -20,27 +20,41 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
 >
 >Werk met uw [!DNL Adobe] accountteam om te controleren of uw [!DNL DSP] account heeft toestemming om de [!DNL FreeWheel] programmatisch gegarandeerde workflow.
 
-1. Kopieer de advertentiesleutel voor de advertentie die met de overeenkomst FreeWheel wordt gebruikt:
+## Kopieer een advertentiesleutel naar het dialoogvenster [!DNL FreeWheel] Deal {#copy-ad-key}
 
-   1. Klik op de naam van de campagne.
+1. Klik op de naam van de campagne.
 
-   1. Klik in het submenu op **[!UICONTROL Ads]**.
+1. Klik in het submenu op **[!UICONTROL Ads]**.
 
-   1. Klikken  **[!UICONTROL ...]>[!UICONTROL Edit]** naast de naam van de advertentie.
+1. Klikken  **[!UICONTROL ...]>[!UICONTROL Edit]** naast de naam van de advertentie.
 
-   1. Wanneer de advertentie-instellingen zijn geopend, kopieert u de alfanumerieke advertentietoets in de URL die wordt weergegeven in de adresbalk van de browser.
+1. Wanneer de advertentie-instellingen zijn geopend, kopieert u de alfanumerieke advertentietoets in de URL die wordt weergegeven in de adresbalk van de browser.
 
-      In de volgende URL is de ad-toets bijvoorbeeld `3NtNC5ZbaGZtqbei8jD3`
+In de volgende URL is de ad-toets bijvoorbeeld `3NtNC5ZbaGZtqbei8jD3`
 
-      `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
+`https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
-1. De advertentie verzenden naar FreeWheel:
+## Een advertentie verzenden vanuit de [!UICONTROL Ads] Weergave
 
-   1. In de [!UICONTROL Deals] mening, bepaal de plaats van de overeenkomst.
+1. [De advertentiesleutel voor de advertentie kopiëren](#copy-ad-key).
 
-   1. In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to [!DNL FreeWheel]]**.
+1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]>[!UICONTROL submit to FreeWheel]**.
 
-   1. Verifieer overeenkomstenidentiteitskaart, ga in **[!UICONTROL Ad Key]** u hebt gekopieerd in Stap 1 en klikt vervolgens op **[!UICONTROL Submit]**.
+1. Verifieer overeenkomstenidentiteitskaart, ga binnen [de **[!UICONTROL Ad Key]**](#copy-ad-key)en klik vervolgens op **[!UICONTROL Submit]**.
+
+   De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
+
+1. [De verzendstatus van de advertentie controleren](freewheel-check-status.md).
+
+## Een advertentie verzenden vanuit de [!UICONTROL Deals] Weergave
+
+1. [De advertentiesleutel voor de advertentie kopiëren](#copy-ad-key).
+
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+
+1. In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL submit to FreeWheel]**.
+
+1. Verifieer overeenkomstenidentiteitskaart, ga binnen [de **[!UICONTROL Ad Key]**](#copy-ad-key)en klik vervolgens op **[!UICONTROL Submit]**.
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
 
