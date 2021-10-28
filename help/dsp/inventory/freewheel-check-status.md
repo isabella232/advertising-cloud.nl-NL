@@ -3,9 +3,9 @@ title: Controleer de status van advertenties voor een [!DNL [!DNL FreeWheel]] PG
 description: Meer informatie over de status van advertenties voor [!DNL Freewheel] programmatisch gegarandeerde deals.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: null
-source-git-commit: 55854d9ab1a535767315941fe4ca5777a8069b5e
+source-git-commit: 07b964aca7f634a29342e4d09a5e5352570f4d79
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,18 @@ ht-degree: 0%
 Zie of advertenties worden verzonden naar [!DNL Freewheel] zijn gelukt. U kunt elke advertentie naar wens opnieuw verzenden.
 
 Neem contact op met uw [!DNL Adobe] accountmanager.
+
+## Controleer de status via de [!UICONTROL Ads] Weergave
+
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+
+1. Klik op de naam van de campagne.
+
+1. Klik in het submenu op **[!UICONTROL Ads]**.
+
+1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]>[!UICONTROL see Freewheel status]**.
+
+1. (Optioneel) Als u een advertentie opnieuw wilt verzenden voor goedkeuring, houdt u de cursor boven de advertentierij en klikt u vervolgens op **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
 ## Controleer de status via de [!UICONTROL Deals] Weergave
 
@@ -31,18 +43,6 @@ Neem contact op met uw [!DNL Adobe] accountmanager.
    De [!UICONTROL Submission Status] de kolom geeft aan of de advertentie is ingediend en goedgekeurd.
 
    Voor mislukte indieningen [!UICONTROL API] De kolom van de Reactie wijst op de fout. Voor een volledige lijst met foutcodes voor mislukte verzendingen en de volgende stappen om deze te corrigeren, raadpleegt u &quot;[Foutcodes voor [!DNL FreeWheel] Advertentie verzenden](freewheel-error-codes.md).&quot;
-
-1. (Optioneel) Als u een advertentie opnieuw wilt verzenden voor goedkeuring, houdt u de cursor boven de advertentierij en klikt u vervolgens op **[!UICONTROL More]>[!UICONTROL Resubmit]**.
-
-## Controleer de status via de [!UICONTROL Ads] Weergave
-
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
-
-1. Klik op de naam van de campagne.
-
-1. Klik in het submenu op **[!UICONTROL Ads]**.
-
-1. Klik naast de naam van de advertentie op  **... >[!UICONTROL see Freewheel status]**.
 
 1. (Optioneel) Als u een advertentie opnieuw wilt verzenden voor goedkeuring, houdt u de cursor boven de advertentierij en klikt u vervolgens op **[!UICONTROL More]>[!UICONTROL Resubmit]**.
 
