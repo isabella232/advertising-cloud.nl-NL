@@ -3,7 +3,7 @@ title: Ongeveer Programma Gegarandeerde Overeenkomsten
 description: Leer over programmatic gewaarborgde (PG) overeenkomsten en welke SSPs om hen te verstrekken wordt verklaard.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
-source-git-commit: 2ebcaa488499485b1da549e0324d15ca8160512a
+source-git-commit: 96f756b0f5239e2378d0a4da18335d909f96ab94
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Een programmatic gewaarborgde (PG) overeenkomst is een gewaarborgde koop direct 
 * De overeenkomst wordt altijd gefactureerd door DSP.
 * De transactie heeft een vaste prijs en hoeveelheid.
 * Het uitgever of leveringsplatform (SSP) behandelt al begroting het verpakken, begroting het begrenzen, en om het even welk richten.
-* Typisch, heeft de overeenkomst een hogere prioriteit in de advertentieserver van de uitgever
+* Typisch, heeft de overeenkomst een hogere prioriteit in de advertentieserver van de uitgever.
 * Biedingsverzoeken zijn niet exclusief voor één transactie of koper.
 * Meerdere typen video worden ondersteund op één deal-id.
 * SSPs en uitgevers hebben levering SLAs.
@@ -31,8 +31,8 @@ Voor PG-deals is standaardplaatsing van PG en advertenties vereist, zodat DSP ee
 * [!DNL Ambient Digital]
 * [!DNL FreeWheel]
 * [!DNL Google Authorized Buyers]
-* [!DNL Magnite CTV] (voorheen  [!DNL Telaria])
-* [!DNL Magnite DV+] (voorheen  [!DNL Rubicon])
+* [!DNL Magnite CTV] (voorheen) [!DNL Telaria])
+* [!DNL Magnite DV+] (voorheen) [!DNL Rubicon])
 * [!DNL OpenX]
 * [!DNL SpotX]
 
