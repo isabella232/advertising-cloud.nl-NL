@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: ab6005d01e74c66cb1c95503d454f45e72fbc85b
+source-git-commit: 8721411c1cd9905d362dff6ea5da39767dcb2c9b
 workflow-type: tm+mt
-source-wordcount: '1376'
+source-wordcount: '1411'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 12 november 2021 | [!UICONTROL Deal IDs] | In de [!UICONTROL Deal ID] instellingen, &quot;[!DNL Rubicon]&quot; is gewijzigd in &quot;[!DNL Magnite DV+],&quot; waarbij [!DNL DV+] staat voor weergave, video en andere indelingen, zoals audio. Dit weerspiegelt de nieuwe branding voor [!DNL Magnite] SSP. **Opmerking:** [!DNL Magnite DV+] is nog steeds vermeld als &quot;[!DNL Rubicon]&quot; in de [!UICONTROL Deal ID Inbox]. | Zie &quot;[SSP-partners](/help/dsp/inventory/ssp-partners.md).&quot; |
 | 27 oktober 2021 | Aangepaste rapporten | U kunt nu maken en beheren [!DNL Amazon S3] en verschillende typen FTP-leveringslocaties, *[!DNL report destinations]*, voor uw aangepaste rapporten. Zodra u rapportbestemmingen vormt, kunt u opstelling elk van uw nieuwe douanerapporten die aan één of meerdere plaatsen van één enkel bestemmingstype moeten worden geleverd, of aan e-mailontvangers. Updates voor uw [!DNL Amazon S3] en FTP-referenties onderbreken de levering van het rapport niet.<br><br>Uw bestaande rapporten worden nog steeds verzonden naar de opgegeven e-mailontvangers. Om levering aan een verschillende rapportbestemming te vormen, creeer een nieuw rapport met de nieuwe bestemming. | Zie &quot;[Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md),&quot; &quot;[Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md),&quot; &quot;[[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md),&quot; en &quot;[Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md).&quot; |
 |  | [!UICONTROL Packages], [!UICONTROL Placements], en [!UICONTROL Ads] views | Wanneer u gegevens voor één enkele dag bekijkt, omvatten de trendgrafieken nu uurgegevens. Houd de cursor boven een willekeurig punt om de gegevens voor dat uur weer te geven. | Zie &quot;[Single Campaign Reporting](/help/dsp/campaign-management/reports/campaign-reports-about.md#single-campaign-reporting).&quot; |
 |  | [!UICONTROL Placements] | De plaatsing [!UICONTROL Inspector] bevat nu een [!UICONTROL Inventory] tab, waarin alle deals en de bijbehorende maatstaven voor de plaatsing worden weergegeven. Gebruik de informatie om snelle aanpassingen te maken of kwesties problemen op te lossen zonder een douanerapport te produceren. | Zie &quot;[Plaatsing [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md#placement-inspector).&quot; |
