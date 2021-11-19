@@ -3,9 +3,9 @@ title: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 description: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 1ba45d789c4ad365166df829ac74e0200cdc8851
+source-git-commit: 143e8e756d13597bf923d0b6f5b2510f834e6e0f
 workflow-type: tm+mt
-source-wordcount: '1156'
+source-wordcount: '1157'
 ht-degree: 0%
 
 ---
@@ -69,13 +69,13 @@ Voorbeeld `EF `ID: WcmibgAAHJK1RyY:1551968087687:d
 
 In [!DNL Analytics] rapporten, kunt u EF-ID-gegevens vinden door te zoeken naar de [!UICONTROL EF ID] dimensie en het gebruik van de [!UICONTROL EF ID Instance] metrisch.
 
-`EF IDs` zijn onderworpen aan de limiet van 500 kB voor unieke identificatoren in Analysis Workspace. Zodra de waarde van 500 k is bereikt, worden alle nieuwe volgcodes gerapporteerd onder de titel van één regel-item &quot;[!UICONTROL Low Traffic].&quot; Vanwege de mogelijkheid om een betrouwbaarheidsverklaring te missen, kan de `EF IDs` niet geclassificeerd zijn en u dient deze niet te gebruiken voor segmenten of voor rapportage in [!DNL Analytics].
+Voor EF-id&#39;s geldt de limiet van 500 kB voor unieke identificatiekenmerken in Analysis Workspace. Zodra de waarde van 500 k is bereikt, worden alle nieuwe volgcodes gerapporteerd onder de titel van één regel-item &quot;[!UICONTROL Low Traffic].&quot; Omdat het mogelijk is dat de rapportbetrouwbaarheid ontbreekt, worden de EF-id&#39;s niet geclassificeerd en mag u deze niet gebruiken voor segmenten of voor rapportage in [!DNL Analytics].
 
 ## Advertising Cloud AMO-id&#39;s
 
 De AMO-id volgt elke unieke advertentiecombinatie op een minder granulair niveau en wordt gebruikt voor [!DNL Analytics] gegevensclassificatie en opname van advertentiemetriek (zoals indrukken, klikken en kosten) van Advertising Cloud. De AMO-id is opgeslagen in een [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of de rVar-dimensie (AMO-id) en wordt uitsluitend gebruikt voor rapportage in [!DNL Analytics].
 
-De AMO-id wordt ook wel de `s_kwcid`, die soms &quot;de inktvis&quot; wordt genoemd.
+De AMO-id wordt ook wel de `s_kwcid`, die soms wordt uitgesproken als &quot;[!DNL the squid].&quot;
 
 ### AMO ID-indeling voor [!DNL DSP]
 
