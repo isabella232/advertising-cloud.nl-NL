@@ -3,9 +3,9 @@ title: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 description: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: 1ba45d789c4ad365166df829ac74e0200cdc8851
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1156'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 *Van toepassing op Advertising Cloud DSP en Advertising Cloud Search*
 
-Advertising Cloud gebruikt twee id&#39;s voor het on-site bijhouden van prestaties: de EF-id en de AMO-id.
+Advertising Cloud gebruikt twee id&#39;s voor het on-site bijhouden van prestaties: de *EF-id* en de *AMO-id*.
 
-Wanneer een advertentie-impositie optreedt, maakt Advertising Cloud de waarden voor de AMO-id en EF-id en slaat het deze op. Wanneer een bezoeker die een advertentie heeft gezien de site betreedt zonder op een advertentie te klikken, [!DNL Analytics] roept deze waarden van Advertising Cloud door [!DNL Analytics for Advertising Cloud] JavaScript-code. Voor doorkijkverkeer, [!DNL Analytics] Hiermee wordt een aanvullende id gegenereerd (`SDID`), dat wordt gebruikt om de EF-id en de AMO-id in te voegen [!DNL Analytics]. Voor doorklikverkeer worden deze id&#39;s opgenomen in de URL van de bestemmingspagina met behulp van de `s_kwcid` en `ef_id` querytekenreeksparameters.
+Wanneer een advertentie-impositie optreedt, maakt Advertising Cloud de waarden voor de AMO-id en EF-id en slaat het deze op. Wanneer een bezoeker die een advertentie heeft gezien, de site betreedt zonder op een advertentie te klikken, [!DNL Analytics] roept deze waarden van Advertising Cloud door [!DNL Analytics for Advertising Cloud] JavaScript-code. Voor doorkijkverkeer, [!DNL Analytics] Hiermee wordt een aanvullende id gegenereerd (`SDID`), dat wordt gebruikt om de EF-id en de AMO-id in te voegen [!DNL Analytics]. Voor doorklikverkeer worden deze id&#39;s opgenomen in de URL van de bestemmingspagina met behulp van de `s_kwcid` en `ef_id` querytekenreeksparameters.
 
 Advertising Cloud maakt een onderscheid tussen een doorklikitem of een doorkijkitem op de website aan de hand van de volgende criteria:
 
@@ -143,7 +143,7 @@ waarbij:
 * `{AdId}` is de [!DNL Microsoft Advertising] unieke numerieke id voor creatieve doeleinden.
 * `{OrderItemId}` is de [!DNL Microsoft Advertising] numerieke id voor het trefwoord.
 
-### AMO ID Dimension in [!DNL Analytics]
+### AMO ID-Dimension in [!DNL Analytics]
 
 In analyserapporten kunt u zoeken naar AMO ID-gegevens [!UICONTROL AMO ID] dimensie en het gebruik van de [!UICONTROL AMO ID Instance] metrisch. De [!UICONTROL AMO ID] dimensie bevat alle vastgelegde AMO-id-waarden, terwijl de [!UICONTROL AMO ID Instance] De metrische waarde geeft aan hoe vaak een AMO-id-waarde door de site is vastgelegd. Als bijvoorbeeld vier keer op dezelfde zoekopdracht is geklikt, maar Analytics zeven sitems heeft bijgehouden, [!UICONTROL AMO ID Instance] zou zeven (7) zijn en [!UICONTROL Clicks] zou vier (4) zijn.
 
