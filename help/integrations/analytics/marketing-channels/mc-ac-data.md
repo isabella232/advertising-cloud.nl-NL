@@ -1,40 +1,39 @@
 ---
-title: Het gebruiken van [!DNL Marketing Channels] met de Gegevens van Advertising Cloud
-description: Leer hoe u Advertising Cloud-gegevens gebruikt in [!DNL Analytics Marketing Channels].
+title: Gebruiken [!DNL Marketing Channels] met Advertising Cloud-gegevens
+description: Meer informatie over het gebruik van Advertising Cloud-gegevens in [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: null
-source-git-commit: 0f0a2e907d39900968b29c3b59c8034b604911ce
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '706'
 ht-degree: 0%
 
 ---
 
-# [!DNL Analytics Marketing Channels] gebruiken met Advertising Cloud-gegevens
+# Gebruiken [!DNL Analytics Marketing Channels] met Advertising Cloud-gegevens
 
 *Adverteerders met alleen Advertising Cloud-Adobe Analytics-integratie*
 
-Door zowel de Advertising Cloud- als de [!DNL Marketing Channels]-rapporten te gebruiken, kunt u meer inzicht krijgen in hoe uw digitale media de activiteit van de site beïnvloedt.
+Door zowel de Advertising Cloud als [!DNL Marketing Channels] rapporten, kunt u waardevol inzicht in krijgen hoe uw digitale media plaatsactiviteit beïnvloedt.
 
 <!-- from video: By using Marketing Channels with your Advertising Cloud data, you can get a more holistic view of how your advertising efforts are affecting site behavior. In particular, you can see the value of your view-through and click-through data, and how your advertising assists or is assisted by other channels. -->
 
-In het volgende voorbeeld wordt getoond hoe Advertising Cloud en [!DNL Marketing Channels] de individuele bezoeken volgen die de reis van één bezoeker omvatten. Advertising Cloud-rapporten in [!DNL Analytics] zijn beperkt tot betaalde weergave- en zoekadvertenties die via Advertising Cloud worden verhandeld, met de AMO-id. [!DNL Marketing Channels] houdt echter alle kanalen bij die in [!DNL Marketing Channels] de Regels van de Verwerking worden gevormd.
+In de volgende afbeelding ziet u hoe Advertising Cloud en [!DNL Marketing Channels] de individuele bezoeken van één bezoeker volgen. Advertising Cloud-rapporten in [!DNL Analytics] beperkt zijn tot alleen betaalde uitgeverij- en zoekadvertenties die via Advertising Cloud worden verhandeld, met behulp van de AMO-id. Maar [!DNL Marketing Channels] volgt alle kanalen die in [!DNL Marketing Channels] Verwerkingsregels.
 
-![Hoe Advertising Cloud en de individuele bezoeken op de reis van een bezoeker  [!DNL Marketing Channels] bijhouden](/help/integrations/assets/a4adc-mc-sample-journey2.png)
+![Hoe Advertising Cloud en [!DNL Marketing Channels] individuele bezoeken op de reis van een bezoeker volgen](/help/integrations/assets/a4adc-mc-sample-journey2.png)
 
-Tijdens het eerste bezoek heeft de gebruiker de website ingevoerd via een e-mailcampagne, tien paginaweergaven uitgevoerd en vervolgens vertrokken. Tijdens het tweede bezoek heeft de gebruiker de site ingevoerd via een advertentie, tien paginaweergaven uitgevoerd en vervolgens links. Tijdens het derde bezoek heeft de gebruiker de site betreden via een natuurlijke zoekopdracht, vijf paginaweergaven uitgevoerd, een conversie van € 250 uitgevoerd en links. Let op het verschil in reeksspatiëring tussen [!DNL Marketing Channels] en Advertising Cloud. Het enige kanaal dat Advertising Cloud in deze reis volgt is [!UICONTROL Display]. Advertising Cloud houdt het kanaalbezoek van [!UICONTROL Display] bij en wijst de daaropvolgende betrokkenheidsgegevens (zoals paginaweergaven) en conversies terug naar de invloed van die advertentie. [!DNL Marketing Channels]geeft daarentegen een volledig beeld van alle kanalen.
+Tijdens het eerste bezoek heeft de gebruiker de website ingevoerd via een e-mailcampagne, tien paginaweergaven uitgevoerd en vervolgens vertrokken. Tijdens het tweede bezoek heeft de gebruiker de site ingevoerd via een advertentie, tien paginaweergaven uitgevoerd en vervolgens links. Tijdens het derde bezoek heeft de gebruiker de site betreden via een natuurlijke zoekopdracht, vijf paginaweergaven uitgevoerd, een conversie van € 250 uitgevoerd en links. Let op het verschil in reeksspatiëring tussen [!DNL Marketing Channels] en Advertising Cloud. Het enige kanaal dat Advertising Cloud in deze reis volgt, is [!UICONTROL Display]. Advertising Cloud volgt de [!UICONTROL Display] kanaalbezoek en kenmerken de daaropvolgende betrokkenheidsgegevens (zoals paginaweergaven) en conversies terug naar de invloed van die advertentie. [!DNL Marketing Channels]geeft daarentegen een volledig beeld van alle kanalen.
 
-Omdat de AMO-id tijdens de reis van de bezoeker blijft bestaan, kunt u de AMO-id-gegevens gebruiken om te zien hoe Advertising Cloud andere marketingkanalen beïnvloedt. De AMO-id [blijft standaard 60 dagen bestaan](/help/integrations/analytics/overview.md), maar u kunt de persistentie naar wens configureren.
+Omdat de AMO-id tijdens de reis van de bezoeker blijft bestaan, kunt u de AMO-id-gegevens gebruiken om te zien hoe Advertising Cloud andere marketingkanalen beïnvloedt. De AMO-id [standaard 60 dagen aanhoudt](/help/integrations/analytics/overview.md), maar u kunt de persistentie naar wens configureren.
 
 ## Hoe te om de Gegevens van de Kanalen van Advertising Cloud en van de Marketing te combineren om de Prestaties van Media te analyseren
 
-Binnen [!DNL Analytics] kunt u de Advertising Cloud-gegevens voor blijvend betaalde advertenties combineren met de [!DNL Marketing Channels] uitgebreide bezoekgegevens om uw mediaprestaties beter te analyseren zodat u de reis van de klant beter kunt beïnvloeden.
+Within [!DNL Analytics], kunt u de Advertising Cloud-gegevens die nog betaalbaar zijn, combineren met de [!DNL Marketing Channels] uitgebreide bezoekgegevens om uw mediaprestaties beter te analyseren zodat u de reis van de klant beter kunt beïnvloeden.
 
 In de volgende analyse worden de Advertising Cloud-gegevens gebruikt om verschillende versies weer te geven van de invloed van een weergaveadvertentie op siteconversie. Alle drie de kolommen gebruiken de zelfde omzettingsmetriek, maar elke kolom vertelt een verschillend verhaal:
 
-* In kolom 1 worden de AMO-id-gegevens weergegeven die blijvend zijn over de reis van de bezoeker. Kolom 1 geeft aan dat 641 toepassingen op één punt zijn gekoppeld aan een Advertising Cloud-advertentie, via een doorkijkgebeurtenis of via een doorklikgebeurtenis. In deze weergave wordt geen rekening gehouden met een andere [!DNL Marketing Channels]-attributie.
+* In kolom 1 worden de AMO-id-gegevens weergegeven die blijvend zijn over de reis van de bezoeker. Kolom 1 geeft aan dat 641 toepassingen op één punt zijn gekoppeld aan een Advertising Cloud-advertentie, via een doorkijkgebeurtenis of via een doorklikgebeurtenis. Deze weergave neemt geen andere [!DNL Marketing Channels] toerekening in aanmerking genomen.
 
-* In de [!DNL Marketing Channels] gegevensset, echter, worden de 641 Toepassingen Begint toegeschreven aan andere marketing kanalen. De laatste twee kolommen nemen de 641 Toepassingen begint en beperken de gegevens tot [!UICONTROL Display Click-Through] en [!UICONTROL Display View-Through] kanalen, die de omzettingen tonen die in een laatste aanraakattributiemodel voorkomen.
+* In de [!DNL Marketing Channels] de gegevensset, echter, de 641 Toepassingen begint worden toegeschreven aan andere marketing kanalen. De laatste twee kolommen nemen 641 Toepassingen begint en beperken de gegevens tot [!UICONTROL Display Click-Through] en [!UICONTROL Display View-Through] kanalen, die de omzettingen tonen die in een laatste aanraakattributiemodel voorkomen.
 
 ![voorbeeld van hoe een weergave en de conversie van sites beïnvloeden](/help/integrations/assets/a4adc-mc-display-impact.png)
 
@@ -53,7 +52,7 @@ U kunt de analyse verder verbeteren door een Stapelgrafiek te gebruiken die aan 
 >[!MORELIKETHIS]
 >
 >* [Grondbeginselen van [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [Advertising Cloud-id&#39;s gebruiken om  [!DNL Marketing Channels] CreateProcessing-regels te maken](mc-ids.md)
+>* [Advertising Cloud-id&#39;s gebruiken om te maken [!DNL Marketing Channels] Verwerkingsregels](mc-ids.md)
 >* [Waarom kanaalgegevens kunnen variëren tussen Advertising Cloud en [!DNL Marketing Channels]](mc-data-variances.md)
 >* [Video: Rapporten met Advertising Cloud [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Overzicht van [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md)

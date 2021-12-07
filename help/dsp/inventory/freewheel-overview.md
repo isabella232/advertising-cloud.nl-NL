@@ -2,8 +2,7 @@
 title: Overzicht van de Overeenkomsten van PG van de Opstelling in [!DNL Freewheel]
 description: 'Meer informatie over de vereisten en extra stappen die nodig zijn om advertenties voor gegarandeerde programmacontracten met uitgevers uit te voeren op [!DNL Freewheel]. '
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: null
-source-git-commit: a0619f77aac5e6c527fc344570bbcedf17dcfe36
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%

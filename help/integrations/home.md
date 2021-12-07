@@ -4,10 +4,9 @@ description: Deze pagina bevat updates over de integratie tussen Advertising Clo
 cloud: Experience Cloud
 product: advertising cloud
 index: true
-exl-id: null
-source-git-commit: a4c8c2e0d50442e872b48577bde9c3fae7da18d5
+source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
