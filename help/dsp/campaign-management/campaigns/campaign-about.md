@@ -3,9 +3,9 @@ title: Informatie over Campagnebeheer in Advertising Cloud DSP
 description: Meer informatie over campagnebeheer.
 feature: DSP Campaigns
 exl-id: f9f3aba2-995c-45df-8e65-52999f9cc539
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,10 @@ Campagnes zijn het overkoepelende kader van vluchtinstellingen. Alle instellinge
 
 U kunt handmatig campagnes maken of bestaande campagnes dupliceren. U kunt ook bestaande campagnes bewerken.
 
-## Het dashboard [!UICONTROL Campaigns]
+## De [!UICONTROL Campaigns] Dashboard
 
 <!-- standardize on "dashboard" or "view" -->
-Het dashboard [!UICONTROL Campaigns] centraliseert prestaties en economische rapportering over al uw campagnes, die een snelle momentopname van verstrekken hoe uw campagnes tijdens een gespecificeerde datumwaaier hebben uitgevoerd.
+De [!UICONTROL Campaigns] het dashboard centraliseert prestaties en economische rapportering over al uw campagnes, die een snelle momentopname van verstrekken hoe uw campagnes tijdens een gespecificeerde datumwaaier hebben uitgevoerd.
 
 ![Campagne dashboard](/help/dsp/assets/campaign-dashboard.png)
 
@@ -35,4 +35,5 @@ Als u alle pakketten, plaatsen en advertenties in een campagne wilt weergeven, k
 >
 >* [Een campagne maken](campaign-create.md)
 >* [Campagne-instellingen](campaign-settings.md)
+>* [Video: Accountstructuur en gebruikersinterface DSP](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 
