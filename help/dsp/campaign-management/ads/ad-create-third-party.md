@@ -3,20 +3,20 @@ title: Meerdere externe advertenties maken
 description: Leer hoe u meerdere advertenties van derden tegelijk kunt maken.
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
 # Meerdere externe advertenties maken
 
-U kunt maximaal 500 advertenties van derden tegelijk maken door tags te uploaden die verwijzen naar creatieve elementen die worden gehost op externe advertentieservers. U kunt het volgen pixel voor de advertenties omvatten.<!-- The bulksheet template for other ad servers says you can include 200. Which is it: 200 or 500? -->
+U kunt maximaal 500 advertenties van derden tegelijk maken door tags te uploaden die verwijzen naar creatieve elementen die worden gehost op externe advertentieservers. U kunt overtrekpixels opnemen voor de advertenties.<!-- The bulksheet template for other ad servers says you can include 200. Which is it: 200 or 500? -->
 
-Met de meegeleverde sjabloon kunt u [!DNL DoubleClick]- en [!DNL Flashtalking]-tagbladen of een handmatig ingevuld bestand uploaden.
+U kunt beide uploaden [!DNL DoubleClick] en [!DNL Flashtalking] met de meegeleverde sjabloon of een handmatig ingevuld bestand.
 
-Zie [Een advertentie maken](ad-create.md) om één advertentie van derden te maken.
+Als u één advertentie van derden wilt maken, raadpleegt u [Een advertentie maken](ad-create.md).
 
 >[!TIP]
 >
@@ -26,29 +26,29 @@ Zie [Een advertentie maken](ad-create.md) om één advertentie van derden te mak
 
 1. Klik op de naam van de campagne waarin de advertentie wordt opgenomen.
 
-1. Klik boven de gegevenstabel op **[!UICONTROL Create]**. Klik in de sectie Typen toevoegen van het menu op **[!UICONTROL Bulk upload ads]**.
+1. Klik boven de gegevenstabel op **[!UICONTROL Create]**. Klik in het gedeelte Typen toevoegen van het menu op **[!UICONTROL Bulk upload ads]**.
 
-1. Selecteer de advertentieserver waarop de advertentie wordt gehost: *[!UICONTROL DoubleClick]*, *[!UICONTROL Flashtalking]* of *[!UICONTROL Other]*.
+1. Selecteer de advertentieserver waarop de advertentie wordt gehost: *[!UICONTROL DoubleClick]*, *[!UICONTROL Flashtalking]*, of *[!UICONTROL Other]*.
 
-1. ([!DNL DoubleClick]- en [!DNL Flashtalking]-advertenties) Selecteer het type code dat u wilt gebruiken voor elk video-element en elk weergaveelement. De beschikbare opties variëren per advertentieserver.
+1. ([!DNL DoubleClick] en [!DNL Flashtalking] advertenties) Selecteer het type code dat u voor elk video-element en elk weergaveelement wilt gebruiken. De beschikbare opties variëren per advertentieserver.
 
-1. (Toevoegen op alle advertentieservers behalve [!DNL DoubleClick] en [!DNL Flashtalking]) Klik **[!UICONTROL Download this template]** om een sjabloon te downloaden in [!DNL Microsoft Excel] spreadsheet (XLSX) formaat, dat u kunt vullen met advertentiegegevens en lokaal opslaan. De vereiste kolommen omvatten [!UICONTROL Ad Name], [!UICONTROL VAST/VPAID URL or Ad Tag], en [!UICONTROL Ad Types].
+1. (Toevoegen op alle advertentieservers behalve [!DNL DoubleClick] en [!DNL Flashtalking]) Klik **[!UICONTROL Download this template]** om een sjabloon te downloaden in [!DNL Microsoft Excel] spreadsheet (XLSX) formaat, dat u met ad gegevens kunt bevolken en plaatselijk bewaren. De vereiste kolommen bevatten [!UICONTROL Ad Name], [!UICONTROL VAST/VPAID URL or Ad Tag], en [!UICONTROL Ad Types].
 
-1. Klik **[!UICONTROL Upload]** en selecteer een dossier in .xlsx of .xls formaten van uw apparaat of netwerk.
+1. Klikken **[!UICONTROL Upload]** en selecteer een bestand in de indeling .xlsx of .xls van uw apparaat of netwerk.
 
-   Voor [!DNL DoubleClick]- en [!DNL Flashtalking]-advertenties uploadt u onbewerkte tagbladen van de advertentieserver. Voor andere advertentieservers, gebruik het malplaatje u in Stap 3 downloadde.
+   Voor [!DNL DoubleClick] en [!DNL Flashtalking] adverteert, uploadt u onbewerkte tagbladen van de advertentieserver. Voor andere advertentieservers, gebruik het malplaatje u in Stap 3 downloadde.
 
-1. Klik op **[!UICONTROL Start Building Ads]** nadat het uploaden is voltooid.
+1. Nadat het uploaden is voltooid, klikt u op **[!UICONTROL Start Building Ads]**.
 
 1. Bekijk de details en status van elke advertentie:
 
    1. Controleer de status van elke advertentie, die is gebaseerd op validatiecontroles van de geüploade tag.
    1. (Optioneel) Voer een van de volgende handelingen uit voor elke advertentie:
       * Als u een voorvertoning van een advertentie wilt weergeven, klikt u op ![play](/help/dsp/assets/play.png) in de advertentierij.
-      * Als u de advertentiedetails wilt bewerken, klikt u op ![bewerken](/help/dsp/assets/edit.png), bewerkt u de details en klikt u op **Opslaan**.
-      * Als u een advertentie wilt verwijderen, klikt u op **[!UICONTROL X]** in de rij met toevoegingen.
+      * Klik op ![bewerken](/help/dsp/assets/edit.png), bewerkt u de details en klikt u op **Opslaan**.
+      * Als u een advertentie wilt verwijderen, klikt u op **[!UICONTROL X]** in de advertentierij.
 
-1. Klik **[!UICONTROL Create *N *Advertentie(s)]**.
+1. Klikken **[!UICONTROL Create *N *Advertentie(s)]**.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -65,4 +65,5 @@ Zie [Een advertentie maken](ad-create.md) om één advertentie van derden te mak
 >* [Een advertentie maken](ad-create.md)
 >* [Beschikbare advertentietypen](ad-types.md)
 >* [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf)
+>* [Video: Hoe te om te bulken uploadt de Markeringen van de Derden Ad](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
 
