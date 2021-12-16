@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 7d158d5882bf23582c274ad49d632e0d937a1bd3
+source-git-commit: 6a0b863d1cdf31eb8a659196a83e9636a3a49ff5
 workflow-type: tm+mt
-source-wordcount: '1308'
+source-wordcount: '1315'
 ht-degree: 0%
 
 ---
@@ -114,13 +114,13 @@ U kunt standaardweergavefilters instellen voor elke adverteerder<!-- [default pr
 
 ### Doel van onderwerp
 
-DSP onderwerp het richten staat u toe om sleutelwoordlijsten te richten of te blokkeren door onze industrie-leidende contextafhankelijke partners te leveranteren [!DNL Comscore] en [!DNL Oracle Data Cloud] ([!DNL Grapeshot]).
-
-Met onderwerpgerichte toepassingen kunt u ervoor zorgen dat uw advertenties altijd worden aangeboden in een omgeving die op uw merk is afgestemd. Dit geldt zowel voor het blokkeren van schadelijke inhoud als voor het veiligstellen van uitgaven in een context die een groter resultaat biedt.
+DSP onderwerp het richten staat u toe om sleutelwoordlijsten te richten of te blokkeren door onze industrie-leidende contextafhankelijke partners te leveranteren [!DNL Comscore] en [!DNL Oracle Data Cloud] ([!DNL Grapeshot]). Met onderwerpgerichte toepassingen kunt u ervoor zorgen dat uw advertenties altijd worden aangeboden in een omgeving die op uw merk is afgestemd. Dit geldt zowel voor het blokkeren van schadelijke inhoud als voor het veiligstellen van uitgaven in een context die een groter resultaat biedt.
 
 Het richten van het onderwerp vereist u om de segmenten van het douaneonderwerp direct tot stand te brengen met [!DNL Comscore] of [!DNL Grapeshot] (gebruiken [!DNL Oracle Data Cloud]). Zodra deze in het partnerplatform worden gecreeerd, kunt u [doel of sluit een segmentID in uit [!UICONTROL Audience Targeting] sectie voor elke plaatsing](/help/dsp/campaign-management/placements/placement-settings.md). Voor deze functie kunnen extra kosten in rekening worden gebracht.
 
-* Als u een [!DNL Comscore] account en maak aangepaste segmenten, kunt u een aanmeldingsnaam aanvragen voor [!DNL Activation Segment Manager] op http://agents.comscore.com/. Zie de [[!DNL Comscore] helpcentrum](https://comscoreactivation.zendesk.com/hc/) voor volledige instructies voor het instellen van aangepaste segmenten. De kosten voor aangepaste segmenten zijn zichtbaar in [!DNL Segment Manager] als u ze maakt.
+Aangepaste onderwerpsegmenten maken:
+
+* Als u een [!DNL Comscore] account en maak aangepaste segmenten, kunt u een aanmeldingsnaam aanvragen voor [!DNL Activation Segment Manager] om [http://agents.comscore.com](http://agents.comscore.com). Zie de [[!DNL Comscore] helpcentrum](https://comscoreactivation.zendesk.com/hc/) voor volledige instructies voor het instellen van aangepaste segmenten. De kosten voor aangepaste segmenten zijn zichtbaar in [!DNL Segment Manager] als u ze maakt.
 
 * Aan de slag met [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] of uw [!DNL Adobe] accountmanager.
 
