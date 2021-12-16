@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: 7d158d5882bf23582c274ad49d632e0d937a1bd3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1308'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,13 @@ Advertising Cloud DSP biedt een reeks functies voor merkbescherming om ervoor te
 
 Ons team voor toezicht op fraude werkt nauw samen met toonaangevende partners uit de industrie, zoals de [!DNL Interactive Advertising Bureau], [!DNL Trust and Accountability Group] [!DNL (TAG)], en [!DNL WhiteOps]om de inventarisatie op ons platform zorgvuldig te beheren. Door ons aanbod proactief te beheren, zorgt DSP ervoor dat alle adverteerders op het platform beschermd zijn tegen niet-menselijk verkeer (bots, crawlers, datacenterverkeer en fraude) en alleen in merkveilige contexten leveren.
 
-Naast centraal kwaliteitsbeheer geloven wij in het vermogen van adverteerders om de controles te ontwerpen die op hun merk zijn afgestemd. Adobe Advertising Cloud biedt integratie met [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud], en [!DNL Peer39], waarbij elke adverteerder zijn gewenste niveau van fraudebescherming, contextafhankelijke filtering en trefwoordgerichtheid kan kiezen.
+Naast centraal kwaliteitsbeheer geloven we in het vermogen van adverteerders om de controles te ontwerpen die op hun merk zijn afgestemd. Adobe Advertising Cloud biedt integratie met [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud], en [!DNL Peer39], waarbij elke adverteerder zijn gewenste niveau van fraudebescherming, contextafhankelijke filtering en trefwoordgerichtheid kan kiezen.
 
 ## Advertising Cloud DSP-kwaliteitsinitiatieven
 
 ### Inventariscontrole met [!DNL Ads.txt] Ondersteuning
 
-[[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) is een initiatief van de [!DNL Interactive Advertising Bureau] ([!DNL IAB]) in juni 2017 om de correcte weergave van voorraden op de open markt te vergemakkelijken en aldus illegale bronnen van verkeer en domeinspoofing te bestrijden. Deelnemende uitgevers en distributeurs geven publiekelijk aan welke ondernemingen gemachtigd zijn hun digitale inventaris te verkopen en wat de aard van deze relaties is, door een `ads.txt` pagina op het hoogste niveau van het domein (zoals `example.com/ads.txt`).
+[[!DNL Ads.txt], die [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) is een initiatief van de [!DNL Interactive Advertising Bureau] ([!DNL IAB]) in juni 2017 om de correcte weergave van voorraden op de open markt te vergemakkelijken en aldus illegale bronnen van verkeer en domeinspoofing te bestrijden. Deelnemende uitgevers en distributeurs geven publiekelijk aan welke ondernemingen gemachtigd zijn hun digitale inventaris te verkopen en wat de aard van deze relaties is, door een `ads.txt` pagina op het hoogste niveau van het domein (zoals `example.com/ads.txt`).
 
 DSP [!DNL ads.txt] door elke uitgever te lezen `ads.txt` bestand te kopen en u de optie te geven alleen van geverifieerde [!DNL ads.txt] verkopers. Als je bijvoorbeeld de verkopers afstemt die we zien openen `nytimes.com` aan de New York Times&quot; `ads.txt` -bestand, kunnen we identificeren welke legitiem zijn en welke niet, en we zullen de overtreders blokkeren als de plaatsing is geconfigureerd om alleen van geverifieerde verkopers te kopen. <!-- can we actually mention NY Times? -->
 
@@ -118,9 +118,11 @@ DSP onderwerp het richten staat u toe om sleutelwoordlijsten te richten of te bl
 
 Met onderwerpgerichte toepassingen kunt u ervoor zorgen dat uw advertenties altijd worden aangeboden in een omgeving die op uw merk is afgestemd. Dit geldt zowel voor het blokkeren van schadelijke inhoud als voor het veiligstellen van uitgaven in een context die een groter resultaat biedt.
 
-Het richten van het onderwerp vereist u om onderwerpsegmenten direct met te creëren [!DNL Comscore] of [!DNL Grapeshot] (gebruiken [!DNL Oracle Data Cloud]). Zodra deze in het partnerplatform worden gecreeerd, kunt u [doel of sluit een segmentID in uit[!UICONTROL  Audience Targeting] sectie voor elke plaatsing](/help/dsp/campaign-management/placements/placement-settings.md). Voor deze functie kunnen extra kosten in rekening worden gebracht.
+Het richten van het onderwerp vereist u om de segmenten van het douaneonderwerp direct tot stand te brengen met [!DNL Comscore] of [!DNL Grapeshot] (gebruiken [!DNL Oracle Data Cloud]). Zodra deze in het partnerplatform worden gecreeerd, kunt u [doel of sluit een segmentID in uit [!UICONTROL Audience Targeting] sectie voor elke plaatsing](/help/dsp/campaign-management/placements/placement-settings.md). Voor deze functie kunnen extra kosten in rekening worden gebracht.
 
-Neem contact op met uw voorkeursleverancier of [!DNL Adobe] accountmanager.
+* Als u een [!DNL Comscore] account en maak aangepaste segmenten, kunt u een aanmeldingsnaam aanvragen voor [!DNL Activation Segment Manager] op http://agents.comscore.com/. Zie de [[!DNL Comscore] helpcentrum](https://comscoreactivation.zendesk.com/hc/) voor volledige instructies voor het instellen van aangepaste segmenten. De kosten voor aangepaste segmenten zijn zichtbaar in [!DNL Segment Manager] als u ze maakt.
+
+* Aan de slag met [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] of uw [!DNL Adobe] accountmanager.
 
 ![Comscore-logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot-logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
