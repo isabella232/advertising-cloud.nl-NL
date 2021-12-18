@@ -1,7 +1,7 @@
 ---
 title: Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau
 description: Meer weten over de lijst met geblokkeerde sites voor een account of adverteerder?
-source-git-commit: fd111b2d11b409b40aacde3cfd94a8865b7bc289
+source-git-commit: 32988f3bd4e4b63304f6b2a53949eda7842a60f0
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Lijsten op advertentieniveau overschrijven lijsten op accountniveau.
 
 >[!MORELIKETHIS]
 >
->* [Een geblokkeerde sitelijst op accountniveau of op adverteerderniveau bewerken](/help/dsp/admin/blocked-sites-list-edit.md)
+>* [Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken](/help/dsp/admin/blocked-sites-list-edit.md)
 >* [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
 

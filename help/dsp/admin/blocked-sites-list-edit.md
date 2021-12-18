@@ -1,14 +1,14 @@
 ---
-title: Een geblokkeerde sitelijst op accountniveau of op adverteerderniveau bewerken
+title: Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken
 description: Leer hoe u de lijst met geblokkeerde sites beheert voor een account of adverteerder.
-source-git-commit: bfed4856e9b67537a84bd3169b284e6e027ca957
+source-git-commit: 4a5c4a2f180eba26818137bf9c31f212b342543a
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Een geblokkeerde sitelijst op accountniveau of op adverteerderniveau bewerken
+# Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken
 
 1. Klik in het hoofdmenu op **Instellingen > Sites.**
 
