@@ -1,17 +1,12 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising Cloud
-product: advertising cloud
 title: Een geblokkeerde sitelijst op accountniveau of op adverteerderniveau bewerken
-description: Een geblokkeerde sitelijst op accountniveau of op adverteerderniveau bewerken
-source-git-commit: 27367fdee872cea9016cccd12aa082aa7455dbce
+description: Leer hoe u de lijst met geblokkeerde sites beheert voor een account of adverteerder.
+source-git-commit: bfed4856e9b67537a84bd3169b284e6e027ca957
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Een geblokkeerde sitelijst op accountniveau of op adverteerderniveau bewerken
 
@@ -43,6 +38,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
-> [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau](/help/dsp/admin/blocked-sites-list-about.md)
+   > [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
 
