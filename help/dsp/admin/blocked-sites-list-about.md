@@ -1,7 +1,7 @@
 ---
 title: Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau
 description: Meer weten over de lijst met geblokkeerde sites voor een account of adverteerder?
-source-git-commit: 32988f3bd4e4b63304f6b2a53949eda7842a60f0
+source-git-commit: 490147fb8479474ce95c17d59b512254596746c2
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Lijsten op advertentieniveau overschrijven lijsten op accountniveau.
 
 >[!NOTE]
 >
->* Naast de Advertising Cloud DSP worden lijsten met geblokkeerde sites op accountniveau en door adverteerders gebruikt [globaal geblokkeerde sitelijst](/help/dsp/introduction/features/brand-safety-media-quality.md), waaronder plaatsen die onveilig worden geacht voor advertenties.
+>* Naast de Advertising Cloud DSP worden lijsten met geblokkeerde sites op accountniveau en door adverteerders gebruikt [globaal geblokkeerde sitelijst](/help/dsp/introduction/features/brand-safety-media-quality.md#global-blocked-sites), waaronder plaatsen die onveilig worden geacht voor advertenties.
 >* Gebruikers kunnen ook gerichte sites toevoegen aan elke gewenste plaatsing.
 >* Lijsten met geblokkeerde sites hebben altijd voorrang op lijsten met doelsites. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.
 
