@@ -2,9 +2,10 @@
 title: Waarom kanaalgegevens kunnen variëren tussen Advertising Cloud en [!DNL Marketing Channels]
 description: Leer waarom de kanaalgegevens die door AMO ID worden gevolgd van kanaalgegevens kunnen variëren die door worden gevolgd [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 4605dc7d-43d7-414f-a509-6096c6cf5fd2
+source-git-commit: b99d0ce78dc2adc16e555ef618393ef2fc11067d
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ De twee gegevenssets hebben verschillende hoofdgebruikscenario&#39;s:
 
 * Advertising Cloud AMO-id: Het belangrijkste geval van de Advertising Cloud AMO ID-gegevens is dat Advertising Cloud&#39;s geavanceerde [!DNL Adobe Sensei]-powered bidding algorithms. De algoritmen maken automatisch duizenden biedbeslissingen op microniveau die dagelijks worden genomen om de uitgaven voor reclame te maximaliseren en de doelstellingen van de [!DNL DSP] campagne of [!DNL Search] portfolio. Hoe meer conversiegegevens de algoritmen kunnen verbinden met campagnes, hoe beter de algoritmen deze biedbeslissingen kunnen nemen.
 
-   Om deze gegevens te verzamelen, [!DNL Analytics for Advertising Cloud] integratie geeft onbewerkte AMO-id&#39;s door die kunnen worden vertaald als doorklikcodes en doorkijkcodes in de AMO-id-dimensie van Adobe Analytics. Deze worden opgeslagen als een aangepaste variabele (eVar) of een gereserveerde variabele (rVar). Doorklikken voor andere kanalen wordt niet ingesteld in de AMO ID-dimensie, zodat de AMO ID-dimensie de invoer van deze andere kanalen niet kan bijhouden. Het resultaat is dat de AMO-id doorloopt [!DNL Marketing Channes]l-ingangspunten.
+   Om deze gegevens te verzamelen, [!DNL Analytics for Advertising Cloud] integratie geeft onbewerkte AMO-id&#39;s door die kunnen worden vertaald als doorklikcodes en doorkijkcodes in de AMO-id-dimensie van Adobe Analytics. Deze worden opgeslagen als een aangepaste variabele (eVar) of een gereserveerde variabele (rVar). Doorklikken voor andere kanalen wordt niet ingesteld in de AMO ID-dimensie, zodat de AMO ID-dimensie de invoer van deze andere kanalen niet kan bijhouden. Het resultaat is dat de AMO-id doorloopt [!DNL Marketing Channels] toegangspunten.
 
 Voor meer informatie over mogelijke gegevensvariaties tussen door Advertising Cloud bijgehouden gegevens en [!DNL Analytics]-tracked data, zie &quot;[Verwachte gegevensvariaties tussen [!DNL Analytics] en Advertising Cloud](../data-variances.md).&quot;
 
