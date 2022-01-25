@@ -3,9 +3,9 @@ title: 'Adobe Advertising Cloud-steun voor de California Consumer Privacy Act: C
 description: Meer informatie over ondersteuning voor het vastleggen van aanvragen voor een opt-out voor consumenten.
 feature: CCPA
 exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
-source-git-commit: e00f87009fb36a057069caa53f30c7414a2ee444
+source-git-commit: adb3118d291d110e653a62cc1a323410b1a596b2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Je kunt de aanvraag voor een opt-out bij verkoop aan de consument doorgeven met 
 
 ### Methode 2: Deel CCPA uit-van-verkoop verzoeken gebruikend Adobe Experience Platform Privacy Service API
 
-*Adverteerders die alleen een Experience Cloud Organisatie-id (IMS Org ID) hebben toegewezen*
+*Adverteerders hebben een Adobe Experience Cloud toegewezen [!DNL Organization ID] ([!DNL IMS Org ID]alleen )*
 
 1. Implementeer een JavaScript-bibliotheek om de cookies van uw klant op te halen. Dezelfde bibliotheek, `AdobePrivacy.js`, wordt gebruikt voor alle Adobe Experience Cloud-oplossingen.
 
