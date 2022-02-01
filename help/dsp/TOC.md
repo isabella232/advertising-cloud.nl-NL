@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: af7027962a1b565ceef649f1abff2ff7f740d9cc
+source-git-commit: cf08c97a6a9fecd637f1776b186a18a5c5cc6435
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '845'
 ht-degree: 0%
 
 ---
@@ -151,6 +151,7 @@ ht-degree: 0%
       + [Opnieuw aanvragen [!DNL On Demand] Premium-inventaristransacties](/help/dsp/inventory/on-demand-inventory-rerequest.md)
       + [De status van je [!DNL On Demand] Aanvragen en abonnementen voor deals](/help/dsp/inventory/on-demand-inventory-view-status.md)
    + Privévoorraad {#private-inventory}
+      + [Informatie over privé-voorraad](/help/dsp/inventory/private-inventory-about.md)
       + Deal IDs {#deal-ids}
          + [!UICONTROL Deal ID Inbox] {#inbox}
             + [Over het [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
@@ -158,15 +159,28 @@ ht-degree: 0%
          + Handmatig ingevoerde deal-id&#39;s {#manual}
             + [Handmatig maken [!UICONTROL Deal ID] Details](/help/dsp/inventory/deal-id-create.md)
             + [Handmatig [!UICONTROL Deal ID] Instellingen](/help/dsp/inventory/deal-id-settings.md)
-      + Door programmacode gegarandeerde deals {#programmatic-guaranteed-deal}
-         + [Overzicht van door programma&#39;s gegarandeerde deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
-         + [Tips voor onderhandelingen over een gegarandeerde programmatische deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
-         + [Opstelling een Programma Gegarandeerde Overeenkomst](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
-         + [!DNL FreeWheel] Door programmacode gegarandeerde deals {#freewheel}
+         + Door programmacode gegarandeerde deals {#programmatic-guaranteed-deal}
+            + [Overzicht van door programma&#39;s gegarandeerde deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
+            + [Tips voor onderhandelingen over een gegarandeerde programmatische deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
+            + [Opstelling een Programma Gegarandeerde Overeenkomst](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
+            + [!DNL FreeWheel] Door programmacode gegarandeerde deals {#freewheel}
             + [Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
             + [Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
             + [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](/help/dsp/inventory/freewheel-check-status.md)
             + [Foutcodes voor FreeWheel Ad-verzendingen](/help/dsp/inventory/freewheel-error-codes.md)
+      + [Instellingen van deal-id bewerken](/help/dsp/inventory/deal-id-edit.md)
+      + [Plaatsingen en advertenties voor een identiteitskaart van de Overeenkomst specificeren](/help/dsp/inventory/deal-id-attach-placements.md)
+      + [Bewerk de accounts met toegang tot een deal-id](/help/dsp/inventory/deal-id-share.md)
+      + [Advertisers met Toegang tot identiteitskaart van de Overeenkomst uitgeven](/help/dsp/inventory/deal-id-edit-advertisers.md)
+      + [Bewerk de kenmerkcodes voor een deal-id](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
+      + [Maak een lijst van de Plaatsingen en Adverten voor een PrivéOvereenkomst](/help/dsp/inventory/private-deal-view-placements.md)
+      + [Bekijk een Gedetailleerd Rapport voor een Privé Overeenkomst](/help/dsp/inventory/private-deal-view-report.md)
+      + [Een persoonlijke deal archiveren of archiveren](/help/dsp/inventory/private-deal-archive-unarchive.md)
+      + [!UICONTROL Simple Ad Serving] Overeenkomsten {#sas}
+         + [Info [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
+         + [Een [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
+         + [[!UICONTROL Simple Ad Serving] Dealinstellingen](/help/dsp/inventory/simple-deal-settings.md)
+         + [Pixels voor het bijhouden van gebeurtenissen weergeven voor een [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
 + Aangepaste rapporten {#custom-reports}
    + [Aangepaste rapporten](/help/dsp/reports/report-about.md)
    + [Een aangepast rapport maken](/help/dsp/reports/report-create.md)
