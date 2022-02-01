@@ -8,7 +8,7 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: cf08c97a6a9fecd637f1776b186a18a5c5cc6435
+source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
 workflow-type: tm+mt
 source-wordcount: '845'
 ht-degree: 0%
@@ -168,19 +168,19 @@ ht-degree: 0%
             + [Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
             + [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](/help/dsp/inventory/freewheel-check-status.md)
             + [Foutcodes voor FreeWheel Ad-verzendingen](/help/dsp/inventory/freewheel-error-codes.md)
-      + [Instellingen van deal-id bewerken](/help/dsp/inventory/deal-id-edit.md)
-      + [Plaatsingen en advertenties voor een identiteitskaart van de Overeenkomst specificeren](/help/dsp/inventory/deal-id-attach-placements.md)
-      + [Bewerk de accounts met toegang tot een deal-id](/help/dsp/inventory/deal-id-share.md)
-      + [Advertisers met Toegang tot identiteitskaart van de Overeenkomst uitgeven](/help/dsp/inventory/deal-id-edit-advertisers.md)
-      + [Bewerk de kenmerkcodes voor een deal-id](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
-      + [Maak een lijst van de Plaatsingen en Adverten voor een PrivéOvereenkomst](/help/dsp/inventory/private-deal-view-placements.md)
-      + [Bekijk een Gedetailleerd Rapport voor een Privé Overeenkomst](/help/dsp/inventory/private-deal-view-report.md)
-      + [Een persoonlijke deal archiveren of archiveren](/help/dsp/inventory/private-deal-archive-unarchive.md)
+         + [Instellingen van deal-id bewerken](/help/dsp/inventory/deal-id-edit.md)
+         + [Plaatsingen en advertenties voor een identiteitskaart van de Overeenkomst specificeren](/help/dsp/inventory/deal-id-attach-placements.md)
+         + [Bewerk de accounts met toegang tot een deal-id](/help/dsp/inventory/deal-id-share.md)
+         + [Advertisers met Toegang tot identiteitskaart van de Overeenkomst uitgeven](/help/dsp/inventory/deal-id-edit-advertisers.md)
+         + [Bewerk de kenmerkcodes voor een deal-id](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
       + [!UICONTROL Simple Ad Serving] Overeenkomsten {#sas}
          + [Info [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
          + [Een [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-create.md)
          + [[!UICONTROL Simple Ad Serving] Dealinstellingen](/help/dsp/inventory/simple-deal-settings.md)
          + [Pixels voor het bijhouden van gebeurtenissen weergeven voor een [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
+      + [Maak een lijst van de Plaatsingen en Adverten voor een PrivéOvereenkomst](/help/dsp/inventory/private-deal-view-placements.md)
+      + [Bekijk een Gedetailleerd Rapport voor een Privé Overeenkomst](/help/dsp/inventory/private-deal-view-report.md)
+      + [Een persoonlijke deal archiveren of archiveren](/help/dsp/inventory/private-deal-archive-unarchive.md)
 + Aangepaste rapporten {#custom-reports}
    + [Aangepaste rapporten](/help/dsp/reports/report-about.md)
    + [Een aangepast rapport maken](/help/dsp/reports/report-create.md)

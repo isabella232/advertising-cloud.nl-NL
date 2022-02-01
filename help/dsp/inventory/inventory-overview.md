@@ -3,7 +3,7 @@ title: Overzicht van voorraadfuncties in Advertising Cloud DSP
 description: Meer informatie over de beschikbare voorraadfuncties.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 877771cbd3a8e0668add8da15bc2abe02ab4380b
+source-git-commit: 3039557f4929b716d86840cd3cb4a5aa54125145
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Tot de beschikbare voorraadtypen behoren:
 
 * **[!DNL On Demand]Inventaris:** Ontdek vooraf onderhandelde, niet-gegarandeerde deals die Adobe met onze eersteklas uitgeverspartners heeft gekweekt.
 
-* **Privévoorraad:** Stel PMP&#39;s (Private Marketplace Trajecten) in en beheer deze die u rechtstreeks met de uitgever hebt onderhandeld.
+* **Privévoorraad [!DNL Deal IDs]:** Stel PMP&#39;s (Private Marketplace Trajecten) in en beheer deze die u rechtstreeks met de uitgever hebt onderhandeld.
 
 * **[!DNL Simple Ad Serving]:** Gebruik gestroomlijnde technologie voor gewaarborgde, niet-beslist en levering en rapportering wanneer uw uitgever uw overeenkomst niet via overeenkomst IDs kan uitvoeren.
 
