@@ -3,7 +3,7 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: 3bca3d5b4a1ec0bf9bb23946248de350b8bbf2a6
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1315'
 ht-degree: 0%
@@ -100,7 +100,7 @@ Profiteer van onze integratie met derden [!DNL Comscore], [!DNL DoubleVerify], [
 
 Je kunt standaard blokkeringscontroles voor vooraf biedingen instellen voor elke adverteerder<!-- [default pre-bid fraud blocking controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->en vervolgens optioneel [de instellingen voor elke plaatsing aanpassen](/help/dsp/campaign-management/placements/placement-settings.md). Er kunnen extra kosten van toepassing zijn wanneer u deze functie gebruikt.
 
-Neem voor meer informatie over functionaliteit rechtstreeks contact op met de voorkeursleverancier of neem contact op met uw [!DNL Adobe] accountmanager.
+Neem voor meer informatie over functionaliteit rechtstreeks contact op met de voorkeursleverancier of neem contact op met uw [!DNL Adobe] accountteam.
 
 ![Comscore-logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify-logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science-logo](/help/dsp/assets/ias-logo.png) ![Peer39-logo](/help/dsp/assets/peer39-logo.png)
 
@@ -122,7 +122,7 @@ Aangepaste onderwerpsegmenten maken:
 
 * Als u een [!DNL Comscore] account en maak aangepaste segmenten, kunt u een aanmeldingsnaam aanvragen voor [!DNL Activation Segment Manager] om [https://agents.comscore.com](https://agents.comscore.com). Zie de [[!DNL Comscore] helpcentrum](https://comscoreactivation.zendesk.com/hc/) voor volledige instructies voor het instellen van aangepaste segmenten. De kosten voor aangepaste segmenten zijn zichtbaar in [!DNL Segment Manager] als u ze maakt.
 
-* Aan de slag met [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] of uw [!DNL Adobe] accountmanager.
+* Aan de slag met [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] of uw [!DNL Adobe] accountteam.
 
 ![Comscore-logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot-logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
@@ -134,7 +134,7 @@ Als u eenmaal een [!DNL DoubleVerify] met de vereiste focus, kunt u het segment 
 
 U kunt een [!DNL DoubleVerify] segment-id voor elke adverteerder<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->en vervolgens optioneel [in- of uitschakelen [!UICONTROL Authentic Brand Safety] voor elke plaatsing](/help/dsp/campaign-management/placements/placement-settings.md). DSP uw account aan voor gebruik van de segment-id.
 
-Voor meer informatie over functionaliteit, contacteer [!DNL DoubleVerify] rechtstreeks, of neem contact op met uw [!DNL Adobe] accountmanager.
+Voor meer informatie over functionaliteit, contacteer [!DNL DoubleVerify] rechtstreeks, of neem contact op met uw [!DNL Adobe] accountteam.
 
 ![DoubleVerify-logo](/help/dsp/assets/doubleverify-logo.png)
 

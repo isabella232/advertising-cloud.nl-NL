@@ -3,9 +3,9 @@ title: Opnieuw aanvragen [!DNL On Demand] Premium-inventaristransacties
 description: Meer informatie over opnieuw aanvragen [!DNL On Demand] deals die voorheen werden geweigerd.
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 U kunt opnieuw aanvragen [!DNL On Demand] voorraadtransacties waarvoor je bent geweigerd, inclusief aanbiedingen van een uitgever waarop je bent geabonneerd. Voer de volgende stappen uit om ervoor te zorgen dat alle toepasselijke accountinstellingen correct zijn voordat u een nieuwe aanvraag indient.
 
-Als een overeenkomst niet wordt goedgekeurd nadat u het opnieuw verzoekt, contacteer uw [!DNL Adobe] accountmanager om te controleren of de uitgever aanvullende beperkingen heeft die uw account beletten toegang te krijgen tot de deal.
+Als een overeenkomst niet wordt goedgekeurd nadat u het opnieuw verzoekt, contacteer uw [!DNL Adobe] accountteam om te controleren of de uitgever aanvullende beperkingen heeft die uw account beletten toegang te krijgen tot de deal.
 
 Zodra een overeenkomst is [goedgekeurd](/help/dsp/inventory/on-demand-inventory-view-status.md), is deze standaard opgenomen als een doel voor nieuwe plaatsen die zich richten op alle [!DNL On Demand] voorraad. De nieuwe overeenkomst is ook beschikbaar als doel voor bestaande plaatsingen, maar u moet de plaatsingsmontages manueel uitgeven om de overeenkomst als doel toe te voegen.
 
-1. Bevestig met uw [!DNL Adobe] accountmanager [!UICONTROL Account Type] voor de juiste DSP van uw organisatie.
+1. Bevestig met uw [!DNL Adobe] accountteam dat [!UICONTROL Account Type] voor de juiste DSP van uw organisatie.
 
 1. Bevestig dat de categorie adverteerders voor het desbetreffende adverteerderaccount correct is:
 

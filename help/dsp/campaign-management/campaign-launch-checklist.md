@@ -3,7 +3,7 @@ title: Controlelijst voor starten van campagne
 description: Leer wat u moet doen voordat u een campagne start.
 feature: DSP Placements, DSP Ads
 exl-id: bf0147d0-0b58-435d-a2de-5b98e0d3488c
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Accountfinanciering
 
-Zorg ervoor dat uw account voldoende creditering heeft om de hele campagne te kunnen uitvoeren. Je kunt accountgelden controleren en opnieuw invullen in [!UICONTROL Settings] > [!UICONTROL Account] of door contact op te nemen met uw [!DNL Adobe] accountmanager.
+Zorg ervoor dat uw account voldoende creditering heeft om de hele campagne te kunnen uitvoeren. Je kunt accountgelden controleren en opnieuw invullen in [!UICONTROL Settings] > [!UICONTROL Account] of door contact op te nemen met uw [!DNL Adobe] accountteam.
 
 ## Campagnestatus
 

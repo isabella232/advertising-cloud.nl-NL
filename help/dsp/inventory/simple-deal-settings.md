@@ -2,7 +2,7 @@
 title: '[!UICONTROL Simple Ad Serving] Dealinstellingen'
 description: Meer informatie over de beschikbare instellingen voor [!UICONTROL Simple Ad Serving] deals.
 feature: DSP Simple Ad Serving
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 | Parameter | Beschrijving |
 |-----------|-------------|
 | **[!UICONTROL Serving Type]** | Het mediatype voor deze deal: *[!UICONTROL Video],* *[!UICONTROL Display],* of *[!UICONTROL Audio].* |
-| **[!UICONTROL Publisher Site Served On]** | De naam van de uitgever die deze voorraad verkoopt. Zoek naar een uitgever door minstens de eerste twee karakters in de naam in te gaan. Als u een uitgever wilt toevoegen die niet in de lijst staat, neemt u contact op met uw [!DNL Adobe] accountmanager. |
+| **[!UICONTROL Publisher Site Served On]** | De naam van de uitgever die deze voorraad verkoopt. Zoek naar een uitgever door minstens de eerste twee karakters in de naam in te gaan. Als u een uitgever wilt toevoegen die niet in de lijst staat, neemt u contact op met uw [!DNL Adobe] accountteam. |
 | **[!UICONTROL Advertiser]** | Één enkele adverteerder in de rekening die tot deze overeenkomst kan toegang hebben. Selecteer ook de campagne en (naar keuze) het pakket waarin de overeenkomst beschikbaar is. |
 | **[!UICONTROL Media Quality Assessment?]** | (Sommige gebruikers) Laat de advertentie toe om op een andere DSP voor derdecontrole te lopen. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
 | **[!UICONTROL Ad Source]** | De enige optie is *[!UICONTROL Site Serve (Event Pixels)]*. |
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 | Parameter | Beschrijving |
 |-----------|-------------|
-| **[!UICONTROL Media CPM]** | De kosten per duizend beelden (CPM), zoals die in de tariefkaart voor uw contract worden weerspiegeld. Neem contact op met uw [!DNL Adobe] accountmanager voor deze waarde. <br><br>Specificeer ook de munt voor de overeenkomst. Alle gebruikers kunnen USD selecteren, of, als het SSP extra valuta&#39;s steunt, de munt voor de DSP rekening. |
+| **[!UICONTROL Media CPM]** | De kosten per duizend beelden (CPM), zoals die in de tariefkaart voor uw contract worden weerspiegeld. Neem contact op met uw [!DNL Adobe] accountteam voor deze waarde. <br><br>Specificeer ook de munt voor de overeenkomst. Alle gebruikers kunnen USD selecteren, of, als het SSP extra valuta&#39;s steunt, de munt voor de DSP rekening. |
 | **[!UICONTROL Third Party Billed Fees]** | (Optioneel) Een statische vergoeding voor derden die moet worden bijgehouden als niet-factureerbare kostprijs, en de valuta voor de transactie.<br><br>Alle gebruikers kunnen USD selecteren, of, als het SSP extra valuta&#39;s steunt, de munt voor de DSP rekening. **OPMERKING:** Facultatieve vergoedingen worden weerspiegeld in de [!UICONTROL Net CPM] metrisch. |
 | **[!UICONTROL Third Party Fee Description]** | (Optioneel) Een beschrijving van de vergoedingen van derden. |
 | **[!UICONTROL Flight Dates]** | De begin en einddata voor verkeer die deze overeenkomst gebruiken. De vluchtdata moeten worden opgenomen in de vluchtdata voor de campagne. De advertentietags retourneren alleen een reactie tijdens de opgegeven vlucht.<br><br> De beste praktijken om een afzonderlijke eenvoudige ad dienende campagne met een jaar-lange duur te creëren en het volgen pixel binnen het te bouwen. |

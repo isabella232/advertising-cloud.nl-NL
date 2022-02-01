@@ -2,13 +2,13 @@
 title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1129'
 ht-degree: 0%
 
 ---
-
 
 # Instellingen voor aangepaste rapporten
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 **[!UICONTROL Add Filters]:** (Optioneel) Aanvullende afmetingen waarmee de gegevens kunnen worden gefilterd, ongeacht of de afmetingen als kolommen in het rapport zijn opgenomen: *[!UICONTROL Account]*,\* *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Placement]*, *[!UICONTROL Ad]*, *[!UICONTROL Ad Type]*, *[!UICONTROL Video]*, *[!UICONTROL Video Duration]*, *[!UICONTROL Country]*, en *[!UICONTROL Package]*.
 
-\* *[!UICONTROL Account]* is beschikbaar voor de volgende rapporttypes slechts wanneer uw organisatie voor wordt gevormd [cross-account rapportage](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion]. Neem contact op met uw [!DNL Adobe] accountmanager voor meer informatie over de rapportage van kruisrekeningen.
+\* *[!UICONTROL Account]* is beschikbaar voor de volgende rapporttypes slechts wanneer uw organisatie voor wordt gevormd [cross-account rapportage](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion]. Neem contact op met uw [!DNL Adobe] -accountteam voor meer informatie over cross-account rapportage.
 
 Ga als volgt te werk om een of meer filters toe te passen:
 

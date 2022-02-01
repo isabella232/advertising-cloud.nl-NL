@@ -3,7 +3,7 @@ title: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 description: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 143e8e756d13597bf923d0b6f5b2510f834e6e0f
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1157'
 ht-degree: 0%
@@ -120,7 +120,7 @@ waarbij:
 * `{ef_userid}` Dit is de unieke numerieke gebruikersnaam die Advertising Cloud aan de adverteerder toewijst.
 * `{ef_sid}` is de numerieke id die Advertising Cloud gebruikt voor het opgegeven zoekprogramma, zoals `3` for [!DNL Google Ads] of `10` for [!DNL Microsoft Advertising].
 
-Hieronder ziet u de volledige AMO ID-indelingen voor een aantal zoekprogramma&#39;s. Neem voor AMO ID-indelingen voor andere zoekprogramma&#39;s contact op met uw [!DNL Adobe] accountmanager.
+Hieronder ziet u de volledige AMO ID-indelingen voor een aantal zoekprogramma&#39;s. Neem voor AMO ID-indelingen voor andere zoekprogramma&#39;s contact op met uw [!DNL Adobe] accountteam.
 
 AMO ID-indeling voor [!DNL Google Ads]:
 

@@ -3,9 +3,9 @@ title: De status van je [!DNL On Demand] Aanvragen en abonnementen voor deals
 description: Leer hoe u de status van uw [!DNL On Demand] deal verzoeken en abonnementen.
 feature: DSP On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Goedkeuring of weigering van uitgever kan worden gebaseerd op het accounttype en
 
    Om te zien waarom een aanvraag voor elke adverteerder is afgewezen, klikt u op ![ontkend](/help/dsp/assets/denied.png). Als de reden voor de ontkenning iets is dat kan worden opgelost, kunt u [verzoek de overeenkomst opnieuw](/help/dsp/inventory/on-demand-inventory-rerequest.md).
 
-Als u vragen hebt over het goedkeuringsproces, neemt u contact op met uw [!DNL Adobe] accountmanager.
+Als u vragen hebt over het goedkeuringsproces, neemt u contact op met uw [!DNL Adobe] accountteam.
 
 >[!MORELIKETHIS]
 >

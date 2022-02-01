@@ -3,9 +3,9 @@ title: Apparaatoplossingen
 description: Meer informatie over functies voor verschillende apparaten.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1110'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Wanneer u een ondersteunde apparaatgrafiek gebruikt, kunt u:
    * Biedt een gelijkmatige dekking tussen cookie-id&#39;s en mobiele apparaat-id&#39;s
    * Inclusief gegevens voornamelijk uit de Verenigde Staten
    * Is gratis voor frequentiecalfakanalen en attribuutmetingen
-   * Gekost bij $0.35 CPM voor uitgebreide beelden (indrukkingen die uitsluitend door het gebruiken van worden geleverd [!DNL LiveRamp] apparaatgrafiek in plaats van op apparaten die worden gevonden binnen de doelpubliekssegmenten)
+   * Geprijseerd bij $0.35 CPM voor uitgebreide beelden (indrukkingen die uitsluitend door het gebruiken van worden geleverd [!DNL LiveRamp] apparaatgrafiek in plaats van op apparaten die worden gevonden binnen de doelpubliekssegmenten)
 
       De snelheid wordt weergegeven op je creditcard met accounttarieven.
 
@@ -63,13 +63,13 @@ Door op mensen gebaseerde doelgroepen te kiezen, kunt u klanten zoeken op versch
 
 Zie voor meer informatie [Campagne-instellingen](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
-* **Plaatsen:** Wanneer u doelpubliek selecteert voor een plaatsing in een campagne met een opgegeven apparaatgrafiek, kunt u een [!UICONTROL Cross-Device Targeting] Met deze optie kunt u uw doelversie uitbreiden naar alle bekende apparaten van een persoon (per de apparaatgrafiek die is opgegeven in de campagnemontages), zelfs naar apparaten die zich niet in de opgegeven segmenten bevinden.
+* **Plaatsen:** Wanneer u doelpubliek selecteert voor een plaatsing in een campagne met een opgegeven apparaatgrafiek, kunt u een [!UICONTROL Cross-Device Targeting] Met deze optie kunt u uw doelversie uitbreiden naar alle bekende apparaten van een persoon (volgens de apparaatgrafiek die is opgegeven in de campagnemontages), zelfs naar apparaten die zich niet in de opgegeven segmenten bevinden.
 
 ### Rapportage instellen voor op mensen gebaseerde doelen
 
 U kunt de volgende metriek in douanerapporten omvatten:
 
-* **Uitgebreide afbeeldingen:** (In de [!UICONTROL Build Your Report] deel onder [!UICONTROL Metrics] > [!UICONTROL Std. Metrics]) Het volume van incrementele indrukkingen dat wordt geleverd door een apparaatgrafiek te gebruiken (en dat niet wordt gevonden binnen de oorspronkelijke publiekssegmenten). Deze maatstaf wordt ook gebruikt voor de berekening van de toepasselijke vergoedingen voor het gebruik van een apparaatgrafiek van derden.
+* **Uitgebreide afbeeldingen:** (In de [!UICONTROL Build Your Report] deel onder [!UICONTROL Metrics] > [!UICONTROL Std. Metrics]) Het volume van incrementele indrukkingen dat wordt geleverd door een apparaatgrafiek te gebruiken (en dat niet wordt gevonden in de oorspronkelijke publiekssegmenten). Deze maatstaf wordt ook gebruikt voor de berekening van de toepasselijke vergoedingen voor het gebruik van een apparaatgrafiek van derden.
 
    Om de kosten van uw uitgebreide beelden tijdens een tijdspanne te bepalen, stel een douanerapport in werking dat omvat [!UICONTROL Extended Impressions] en vermenigvuldigt u vervolgens het totale aantal uitgebreide afdrukken met $0,00035 ($0,35/1000 afbeeldingen).
 
@@ -85,7 +85,7 @@ Met op mensen gebaseerde attributie, kunt u omzettingen verklaren die op een ver
 
 ### Meting van op personen gebaseerde kenmerken inschakelen
 
-Neem contact op met uw [!DNL Adobe] accountmanager. Voor [!DNL Adobe Device Co-op] accounts, moet u uw ondertekende [!DNL Adobe Device Co-op] contract en Experience Cloud [!DNL Organization ID] (voorheen [!DNL IMS org ID]).
+Neem contact op met uw [!DNL Adobe] accountteam. Voor [!DNL Adobe Device Co-op] accounts, moet u uw ondertekende [!DNL Adobe Device Co-op] contract en Experience Cloud [!DNL Organization ID] (voorheen [!DNL IMS org ID]).
 
 Om te zien of wordt een adverteerderaccount gevormd om een apparatengrafiek voor attributitemeting te gebruiken:
 

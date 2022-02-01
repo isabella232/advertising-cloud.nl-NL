@@ -3,7 +3,7 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Advertising Cloud
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Advertising Cloud
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '3282'
 ht-degree: 0%
@@ -38,13 +38,13 @@ Als een terugkijkvenster of attributenmodel van het rapport in één product en 
 
 * **Voorbeeld van discrepanties veroorzaakt door verschillende attributiemodellen:**
 
-   Stel dat een gebruiker drie verschillende Advertising Cloud-advertenties gebruikt voordat deze worden geconverteerd, met inkomsten als het conversietype. Als in een Advertising Cloud-rapport een gelijkmatig distributiemodel wordt gebruikt voor toewijzing, worden de inkomsten gelijkmatig over alle advertenties verdeeld. Indien [!DNL Analytics] gebruikt echter het laatste aanraakattributiemodel, dan wordt de opbrengst aan de laatste advertentie toegewezen. In het volgende voorbeeld kent Advertising Cloud zelfs 10 USD van de 30 USD aan inkomsten toe die zijn opgenomen aan elk van de drie advertenties, terwijl [!DNL Analytics] Alle 30 USD aan inkomsten wordt toegeschreven aan de laatste advertentie van de gebruiker. Wanneer u rapporten van Advertising Cloud en [!DNL Analytics], kunt u de impact van het verschil in attributie verwachten.
+   Stel dat een gebruiker drie verschillende Advertising Cloud-advertenties gebruikt voordat deze worden geconverteerd, met inkomsten als het conversietype. Als in een Advertising Cloud-rapport een gelijkmatig distributiemodel wordt gebruikt voor toewijzing, worden de inkomsten gelijkmatig over alle advertenties verdeeld. Indien [!DNL Analytics] gebruikt echter het laatste aanraakattributiemodel, dan wordt de opbrengst aan de laatste advertentie toegewezen. In het volgende voorbeeld kent Advertising Cloud zelfs 10 USD van de 30 USD aan inkomsten toe die aan elk van de drie advertenties worden opgenomen, terwijl [!DNL Analytics] Alle 30 USD aan inkomsten wordt toegeschreven aan de laatste advertentie van de gebruiker. Wanneer u rapporten van Advertising Cloud en [!DNL Analytics], kunt u de impact van het verschil in attributie verwachten.
 
    ![Verschillende aan Advertising Cloud en [!DNL Analytics] op basis van verschillende toerekeningsmodellen](/help/integrations/assets/a4adc-attribution-example.png)
 
 >[!IMPORTANT]
 >
->U kunt het beste dezelfde terugzoekvensters en toewijzingsmodel gebruiken in zowel Advertising Cloud als [!DNL Analytics]. Werk met uw [!DNL Adobe] om de huidige instellingen te identificeren en de configuraties synchroon te houden.
+>U kunt het beste dezelfde terugzoekvensters en toewijzingsmodel gebruiken in zowel Advertising Cloud als [!DNL Analytics]. Werk met uw [!DNL Adobe] accountteam, indien nodig, om de huidige instellingen te identificeren en de configuraties synchroon te houden.
 
 Deze zelfde concepten zijn op een andere gelijkaardige kanalen van toepassing die verschillende raadplegingsvensters of attributiemodellen gebruiken.
 
@@ -161,7 +161,7 @@ In Advertising Cloud-rapporten kunt u klikken op vergelijkbare wijze vergelijken
 
 ```Clicks to [!UICONTROL EF ID Instances] = (ef_id_instances / Clicks)```
 
-Zorg dat de AMO-id en de EF-id goed overeenkomen. Verwacht echter niet dat de AMO-id en de EF-id allemaal op dezelfde manier overeenkomen. Dit verschil kan leiden tot kleine verschillen in het totaal [!UICONTROL AMO ID Instances] en [!UICONTROL EF ID Instances]. Indien het totaal [!UICONTROL AMO ID Instances] in [!DNL Analytics] verschillen van [!UICONTROL EF ID Instances] in Advertising Cloud met meer dan 1%, maar neem contact op met [!DNL Adobe] accountmanager voor hulp.
+Zorg dat de AMO-id en de EF-id goed overeenkomen. Verwacht echter niet dat de AMO-id en de EF-id allemaal op dezelfde manier overeenkomen. Dit verschil kan leiden tot kleine verschillen in het totaal [!UICONTROL AMO ID Instances] en [!UICONTROL EF ID Instances]. Indien het totaal [!UICONTROL AMO ID Instances] in [!DNL Analytics] verschillen van [!UICONTROL EF ID Instances] in Advertising Cloud met meer dan 1%, maar neem contact op met [!DNL Adobe] accountteam voor hulp.
 
 Zie voor meer informatie over de AMO-id en EF-id [Advertising Cloud-id&#39;s gebruikt door Analytics](ids.md).
 
@@ -187,7 +187,7 @@ waarbij de EF-id &quot;`test_ef_id`&quot; en de AMO-id &quot;`test_amo_id#redire
 
 In dit voorbeeld worden door het toevoegen van de ankertag onverwachte tekens aan de AMO-id toegevoegd. Dit leidt tot een waarde die Analytics niet herkent. Deze AMO-id zou niet geclassificeerd worden en conversies die eraan gekoppeld zijn, vallen onder &quot;[!UICONTROL unspecified]&quot; of &quot;[!UICONTROL none]&quot; in [!DNL Analytics] rapporten.
 
-Gelukkig, terwijl de kwesties als dit gemeenschappelijk zijn, resulteren zij typisch niet in een hoog percentage van discrepantie. Als u echter een grote discrepantie tussen AMO-id&#39;s constateert in [!DNL Analytics] en EF-id&#39;s in Advertising Cloud neemt u contact op met uw [!DNL Adobe] accountmanager voor hulp.
+Gelukkig, terwijl de kwesties als dit gemeenschappelijk zijn, resulteren zij typisch niet in een hoog percentage van discrepantie. Als u echter een grote discrepantie tussen AMO-id&#39;s constateert in [!DNL Analytics] en EF-id&#39;s in Advertising Cloud neemt u contact op met uw [!DNL Adobe] accountteam voor hulp.
 
 ## Andere metrische overwegingen
 

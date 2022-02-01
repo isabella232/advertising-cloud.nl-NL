@@ -2,13 +2,13 @@
 title: Een rapportdoel maken
 description: Leer hoe u een bestemming maakt voor de levering van aangepaste rapporten.
 feature: DSP Custom Reports
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 33c58a98-a7d3-4d05-99e7-5e55ba3e625a
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%
 
 ---
-
 
 # Een rapportdoel maken
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
-> Als het rapport is geconfigureerd voor levering aan elk type FTP of [!DNL Amazon S3] locatie, ontvangt u geen meldingen als het rapport wordt geannuleerd vanwege fouten. Als u niet de rapporten ontvangt die u verwacht, dan contacteer uw [!DNL Adobe] om te weten te komen waarom.
+> Als het rapport is geconfigureerd voor levering aan elk type FTP of [!DNL Amazon S3] locatie, ontvangt u geen meldingen als het rapport wordt geannuleerd vanwege fouten. Als u niet de rapporten ontvangt die u verwacht, dan contacteer uw [!DNL Adobe] accountteam om uit te zoeken waarom.
 
 >[!MORELIKETHIS]
 >

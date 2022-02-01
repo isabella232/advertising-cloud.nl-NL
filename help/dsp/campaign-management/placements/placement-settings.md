@@ -3,7 +3,7 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '3280'
 ht-degree: 0%
@@ -251,7 +251,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 
 **[!UICONTROL Site List Preview]:** (Alleen-lezen) Alle beoogde en geblokkeerde sites voor de plaatsing.
 
-U kunt desgewenst de lijst met doelsites en geblokkeerde sites exporteren als een CSV-bestand (comma-separated values, door komma&#39;s gescheiden waarden). Als u de lijst wilt exporteren, klikt u op **[!UICONTROL Export full site list]** en open of sla het bestand op volgens de normale procedure van uw browser.
+U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een CSV-bestand (comma-separated values, door komma&#39;s gescheiden waarden). Als u de lijst wilt exporteren, klikt u op **[!UICONTROL Export full site list]** en open of sla het bestand op volgens de normale procedure van uw browser.
 
 <!-- **[!UICONTROL Allow unscreened sites]:** (XXX placements only) Allows you to XXXX.   Optional available for https://advertising.adobe.com/configurator/placement/edit/2432022 -->
 
@@ -304,7 +304,7 @@ U kunt desgewenst de lijst met doelsites en geblokkeerde sites exporteren als ee
    * Als u handmatig een interval wilt selecteren, klikt u in een cel en sleept u optioneel om het interval te selecteren.
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (facultatief; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Comscore] en [!DNL Grapeshot] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Comscore] en [!DNL Grapeshot] op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Neem contact op met uw [!DNL Adobe] accountmanager.
+**[!UICONTROL Topic Targeting]:** (facultatief; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Comscore] en [!DNL Grapeshot] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Comscore] en [!DNL Grapeshot] op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Neem contact op met uw [!DNL Adobe] accountteam.
 
 Onderwerpgerichte onderwerpen opgeven:
 

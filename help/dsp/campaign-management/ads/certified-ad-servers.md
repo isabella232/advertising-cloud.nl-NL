@@ -2,7 +2,8 @@
 title: Certified Ad Serving Partners
 description: Bekijk alle gecertificeerde advertentieservers en advertentie-eenheden.
 feature: DSP Ads
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -40,7 +41,7 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL InSkin] |  |  | X |  | De hoge effectskins moeten uit een 180x150 identiteitskaart van de vertoningsovereenkomst over het Inskin inventarisnetwerk worden gediend. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  |  | 320x50 Anker, BYOC, Hover, Breakout en Sidetrap; 300x250 Outstream </br></br>Neem contact op met uw [!DNL Adobe] accountmanager voor hulp bij het opzetten van advertentiemiddelen. |
+| [!DNL Kargo] |  | X |  |  | 320x50 Anker, BYOC, Hover, Breakout en Sidetrap; 300x250 Outstream </br></br>Neem contact op met uw [!DNL Adobe] accountteam voor hulp bij het opzetten van advertentiesystemen. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |

@@ -3,7 +3,7 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: d4d743ade0e2dad2b967b8316ff2261d0a82d5b0
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '845'
 ht-degree: 0%
@@ -57,11 +57,11 @@ Omdat [!DNL Analytics] gegevens voor rapportage en optimalisatie naar Advertisin
    >
    > Het venster voor het terugzoeken van de indruk is specifiek voor Advertising Cloud, niet [!DNL Analytics for Advertising Cloud], rapportage.
 
-De [!DNL Analytics for Advertising Cloud] JavaScript gebruikt deze instellingen om te bepalen hoe ver u een doorkijkitem of doorklikitem naar de site als geldig kunt beschouwen. Voor meer informatie over hoe de mening-productie en de klik-productie worden bepaald, zie &quot;[Advertising Cloud-id&#39;s gebruikt door Analytics](ids.md).&quot;
+De [!DNL Analytics for Advertising Cloud] JavaScript gebruikt deze instellingen om te bepalen hoe ver u een doorkijkitem of doorklikitem naar de site als geldig kunt beschouwen. Voor meer informatie over hoe mening-door en klik-door wordt bepaald, zie &quot;[Advertising Cloud-id&#39;s gebruikt door Analytics](ids.md).&quot;
 
 ## Advertising Cloud-gegevens in [!DNL Analytics]
 
-[!DNL Analytics] Hiermee stelt u Advertising Cloud-id&#39;s (AMO-id&#39;s) in in de hit Analytics, afhankelijk van de persistentie-instelling van de eVar van de adverteerder. Deze instelling geldt voor zowel doorklikken als doorzoeken. De persistentie-instelling wordt geconfigureerd op de achterkant van de Advertising Cloud en uw [!DNL Adobe] kan door accountmanager worden gewijzigd.
+[!DNL Analytics] Hiermee stelt u Advertising Cloud-id&#39;s (AMO-id&#39;s) in in de hit Analytics, afhankelijk van de persistentie-instelling van de eVar van de adverteerder. Deze instelling geldt voor zowel doorklikken als doorzoeken. De persistentie-instelling wordt geconfigureerd op de achterkant van de Advertising Cloud en uw [!DNL Adobe] accountteam kan dit wijzigen.
 
 * [!DNL Analytics for Advertising Cloud] Vervaldatum eVar: Standaard 60 dagen voor AMO-id&#39;s
 
@@ -77,7 +77,7 @@ De [!DNL Analytics for Advertising Cloud] JavaScript gebruikt deze instellingen 
 * Online video
 * Oorspronkelijk
 
-Neem contact op met uw [!DNL Adobe] accountmanager voor de meest recente ondersteunde advertentieomgevingen in elk kanaal.
+Neem contact op met uw [!DNL Adobe] -accountteam voor de nieuwste ondersteunde advertentiemogelijkheden in elk kanaal.
 
 ## Wat u moet weten voordat u gaat implementeren
 

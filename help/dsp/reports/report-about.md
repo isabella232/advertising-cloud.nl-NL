@@ -3,9 +3,9 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,9 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
 
 ## Rapportage tussen accounts {#cross-account-reporting}
 
-Om het even welke organisatie met veelvoudige DSP rekeningen kan naar keuze dwars-rekeningsgegevens in douanerapporten toelaten, volgens de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Neem contact op met uw accountmanager om deze functie in te schakelen en te configureren.
+Om het even welke organisatie met veelvoudige DSP rekeningen kan naar keuze dwars-rekeningsgegevens in douanerapporten toelaten, volgens de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Om deze eigenschap toe te laten en te vormen, contacteer uw [!DNL Adobe] accountteam.
 
-Als de functie voor uw organisatie is ingeschakeld, kunt u [filter](report-settings.md) om het even welke volgende rapporttypes door rekening:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
+Als de functie is ingeschakeld voor uw organisatie, kunt u [filter](report-settings.md) om het even welke volgende rapporttypes door rekening:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
 
 Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] a) de andere accounts waarvan de gegevens beschikbaar zijn voor uw account en b) de andere accounts die toegang hebben tot de gegevens van uw account.
 

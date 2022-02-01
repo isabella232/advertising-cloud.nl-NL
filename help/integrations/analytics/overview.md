@@ -3,7 +3,7 @@ title: Overzicht van [!DNL Analytics for Advertising Cloud]
 description: Overzicht van [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: bfbfc293ad04b294c813ce7c8a11200e70fc812f
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1086'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Indien naar behoren in dienst genomen, [!DNL Analytics for Advertising Cloud] ve
 Primaire voordelen:
 
 * Verzenden [!DNL Analytics] segmenten rechtstreeks naar Advertising Cloud voor hermarketing op de eerste locatie.
-* Gebruiken [!DNL Analytics] aangepaste en standaardgebeurtenissen als conversiesignalen voor het optimaliseren van betaalde mediacereclame.
+* Gebruiken [!DNL Analytics] aangepaste en standaardgebeurtenissen als conversiesignalen voor het optimaliseren van betaalde mediaclame.
 * Profiteer van [!DNL Analytics] Analysis Workspace voor een beter begrip van de toegangspunten van sites en het gedrag van bezoekers.
 * Nauwere samenwerking tussen webanalisten en betaalde medieteams mogelijk maken.
 * Ononderbroken Advertising Cloud-weergave-via- en doorklikid&#39;s gebruiken binnen [!DNL Analytics] de betrokkenheid van de site te begrijpen.
@@ -45,7 +45,7 @@ Primaire voordelen:
 
 Te gebruiken [!DNL Analytics] uw organisatie heeft als betaalmiddel voor mediarapportage een Experience Cloud-aanmelding met toegang tot Analysis Workspace nodig. Uw Advertising Cloud-team helpt u uw Advertising Cloud-gegevens toe te wijzen aan individuele rapportsuite in Analysis Workspace. U kunt Advertising Cloud-gegevens naar elke rapportsuite verzenden, maar u dient op de hoogte te zijn van de rapportsuites die aan Advertising Cloud zijn toegewezen en van de suites die dat nog niet hebben gedaan. Afhankelijk van de rapportsuite kunnen de gerapporteerde gegevens hierdoor worden gewijzigd.
 
-[Advertising Cloud-id&#39;s binnen [!DNL Analytics]](ids.md) werkt zoals andere eVars, met een aangepaste, blijvende vervaldatum. Standaard wordt het terugzoekvenster voor toewijzing ingesteld op 60 dagen tijdens de Advertising Cloud-implementatie. Werk met uw [!DNL Adobe] accountmanager.
+[Advertising Cloud-id&#39;s binnen [!DNL Analytics]](ids.md) werkt zoals andere eVars, met een aangepaste, blijvende vervaldatum. Standaard wordt het terugzoekvenster voor toewijzing ingesteld op 60 dagen tijdens de Advertising Cloud-implementatie. Werk met uw [!DNL Adobe] accountteam.
 
 Advertising Cloud-afmetingen worden toegevoegd met het achtervoegsel &quot;(AMO-id)&quot; (zoals &quot;Advertentietype (AMO-id)&quot;). Zie &quot;[Advertising Cloud Metrics in Analysis Workspace](advertising-cloud-metrics-in-analytics.md)&quot; voor een lijst van de beschikbare afmetingen.
 

@@ -3,7 +3,7 @@ title: Over Audience Management in Advertising Cloud DSP
 description: Meer informatie over functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: e0713f3717a684fb5ef2808d7de769424b8972d2
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Advertising Cloud DSP kan uw eigen gegevenssegmenten van de eerste partij van uw
 
 Advertising Cloud DSP kan ook aangepaste segmenten van derden importeren, waaronder complexe combinaties van segmenten van derden. U kunt de segmenten desgewenst aan elke set adverteerders aanbieden.
 
-Neem contact op met uw [!DNL Adobe] voor meer informatie.
+Neem contact op met uw [!DNL Adobe] accountteam voor meer informatie.
 
 ## publiek beschikbaar als plaatsingsdoelen
 
@@ -102,11 +102,11 @@ De [!UICONTROL Segments] in de weergave worden ook de volgende segmenttypen weer
 
 * Alle geïmporteerde eerste-partijsegmenten zijn beschikbaar voor de gebruiker.
 
-   U kunt geen eerste-partijsegmenten uitgeven of delen die met u werden gedeeld. Neem contact op met uw [!DNL Adobe] accountmanager als u de eerste-partijsegmenten met extra gebruikers moet delen.
+   U kunt geen eerste-partijsegmenten uitgeven of delen die met u werden gedeeld. Neem contact op met uw [!DNL Adobe] -accountteam als u eersteklas segmenten met extra gebruikers moet delen.
 
 * Alle aangepaste segmenten van derden zijn beschikbaar voor de gebruiker.
 
-   U kunt segmenten van derden die met u zijn gedeeld, niet bewerken of delen. Neem contact op met uw [!DNL Adobe] accountmanager als u segmenten van derden met extra gebruikers wilt delen.
+   U kunt segmenten van derden die met u zijn gedeeld, niet bewerken of delen. Neem contact op met uw [!DNL Adobe] accountteam als u segmenten van derden met extra gebruikers wilt delen.
 
 >[!MORELIKETHIS]
 >

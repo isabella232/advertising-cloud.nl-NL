@@ -3,7 +3,7 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: d2ad7d47d9cf13411fc831526a6fa4ff698b0a15
+source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 0%
@@ -120,7 +120,7 @@ Als u de schaal wilt maximaliseren, gebruikt u [!UICONTROL Public] (Open Exchang
 * **[!UICONTROL Traffic Type]**: [!UICONTROL Websites] alleen
 * **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
-### Doelstelling publiek
+### Doelgerichtheid publiek
 
 * **[!UICONTROL Included Audiences]:**
    * Voor prospectieve plaatsingen, groepeer gelijkaardige publiekscategorieën en gelijkaardige publieksgrootte in één plaatsing. Voer vervolgens op basis van prestaties een van de volgende handelingen uit:
@@ -136,11 +136,11 @@ Als u de schaal wilt maximaliseren, gebruikt u [!UICONTROL Public] (Open Exchang
 
 * **[!UICONTROL Frequency Capping]:**
    * Gebruik voor prospectie van plaatsingen krappe frequenties (één indruk per dag).
-   * Voor het opnieuw plaatsen van plaatsen stelt u de primaire plaatsingsdop in op 6-10 indrukkingen per dag en de secundaire dop op 1 indruk per uur.
+   * Stel voor het opnieuw plaatsen de primaire plaatsingsdop in op 6-10 indrukkingen per dag en de secundaire dop op 1 indruk per uur.
 
 * **[!UICONTROL Device Targeting]**:
    * Inclusief [!UICONTROL Computer], [!UICONTROL Mobile], en [!UICONTROL Tablet].
-   * Niet instellen [!UICONTROL Firefox] en [!UICONTROL Safari] vanwege beperkingen inzake doelgerichtheid en meting. Neem contact op met uw [!DNL Adobe] accountmanager voor meer informatie over [!DNL Adobe] steun voor [!DNL Safari ITP].
+   * Niet instellen [!UICONTROL Firefox] en [!UICONTROL Safari] vanwege beperkingen inzake doelgerichtheid en meting. Neem contact op met uw [!DNL Adobe] accountteam voor meer informatie over [!DNL Adobe] steun voor [!DNL Safari ITP].
    * Als u mobiel webverkeer als doel instelt, schakelt u alle mobiele browsers uit, behalve [!UICONTROL Chrome] en [!UICONTROL Edge].
 
 ### Merk, veiligheid en mediakwaliteit
