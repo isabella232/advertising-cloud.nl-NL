@@ -2,9 +2,10 @@
 title: Advertisers met Toegang tot identiteitskaart van de Overeenkomst uitgeven
 description: Leer hoe te om te specificeren welke adverteerders tot een overeenkomstidentiteitskaart kunnen toegang hebben.
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: 6efbc5dc-90d8-46a5-88fe-218990c6336d
+source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,5 +28,4 @@ ht-degree: 0%
 >* [Informatie over privé-voorraad](private-inventory-about.md)
 >* [Bewerk de accounts met toegang tot een deal-id](/help/dsp/inventory/deal-id-share.md)
 >* [Instellingen voor handmatige deal-id](deal-id-settings.md)
-
 
