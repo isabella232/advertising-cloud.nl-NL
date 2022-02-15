@@ -3,9 +3,9 @@ title: JavaScript-code voor [!DNL Analytics for Advertising Cloud]
 description: JavaScript-code voor [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
-source-git-commit: 7bf8f3524954b17d9da336a2210a098bf571399e
+source-git-commit: ac7f6110a523d63482f6c2e1a7d0bd5a12a0bab1
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '942'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,11 @@ In de eerste paginaweergave van een bezoek aan de site controleert de Advertisin
 
 ## JavaScript-code implementeren
 
-De JavaScript-bibliotheek bestaat uit twee regels die [!DNL Analytics] en Advertising Cloud om met elkaar te communiceren. Als de [!DNL Analytics for Advertising Cloud] de integratie is voltooid tijdens de Advertising Cloud-implementatie, dan had u deze code moeten ontvangen met instructies voor het implementeren ervan.
+De JavaScript-bibliotheek bestaat uit twee regels die [!DNL Analytics] en Advertising Cloud om met elkaar te communiceren. Als de [!DNL Analytics for Advertising Cloud] integratie is voltooid tijdens de Advertising Cloud-implementatie, dan had u deze code al moeten ontvangen met instructies over hoe u deze kunt implementeren.
 
-**(Implementaties die gebruikmaken van de Experience Cloud Identity Service `visitorAPI.js` code)**
+### De code
+
+#### Implementaties die gebruikmaken van de Experience Cloud Identity Service `visitorAPI.js` code
 
 ```
 <script>
@@ -41,7 +43,7 @@ De JavaScript-bibliotheek bestaat uit twee regels die [!DNL Analytics] en Advert
 </script>
 ```
 
-**(Implementaties die het Experience Platform gebruiken [!DNL Web SDK] `alloy.js`code)**
+#### Implementaties die het Experience Platform gebruiken [!DNL Web SDK] `alloy.js`code
 
 ```
 <script>
