@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: b4d8b30ca4563b3b0d2ea1b03b8ef5f2810964a2
+source-git-commit: 3a4f9bf2d2889acde67a10ab0b5895a2c1024b56
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
-| 17 februari 2022 | Videozelfstudies | Er is een nieuwe video beschikbaar over &quot;Hoe kan ik een standaardweergaveplaatsing maken&quot;. | Zie [Advertising Cloud Tutorials](https://video.tv.adobe.com/v/340454). |
+| 17 februari 2022 | Videozelfstudies | Er is een nieuwe video beschikbaar over &quot;Hoe kan ik een standaardweergaveplaatsing maken&quot;. | Zie [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 januari 2022 | Help | Aanvullende informatie over [!DNL Deal IDs] en [!DNL Simple Ad Serving] is nu beschikbaar. | Zie het subhoofdstuk Inventaris > Privévoorraad. |
 | 10 december 2021 | Videozelfstudies | Er zijn nieuwe videozelfstudies beschikbaar: &quot;Inleiding aan Advertising Cloud DSP,&quot;de &quot;Structuur van de Rekening en Gebruikersinterface,&quot;&quot;hoe te om een Pakket tot stand te brengen,&quot;hoe te bulk uploadt de Markeringen van de Advertentie van derden,&quot;en &quot;hoe te om Plaatsen uit te geven gebruikend Bulk geeft Hulpmiddelen uit.&quot; | Zie &quot;[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html).&quot; |
 | 12 november 2021 | [!UICONTROL Deal IDs] | In de [!UICONTROL Deal ID] instellingen, &quot;[!DNL Rubicon]&quot; is gewijzigd in &quot;[!DNL Magnite DV+],&quot; waarbij [!DNL DV+] staat voor weergave, video en andere indelingen, zoals audio. Dit weerspiegelt de nieuwe branding voor [!DNL Magnite] SSP. **Opmerking:** [!DNL Magnite DV+] is nog steeds vermeld als &quot;[!DNL Rubicon]&quot; in de [!UICONTROL Deal ID Inbox]. | Zie &quot;[SSP-partners](/help/dsp/inventory/ssp-partners.md).&quot; |
