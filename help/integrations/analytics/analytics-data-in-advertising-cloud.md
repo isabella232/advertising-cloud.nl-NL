@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Analytics] Gegevens in Advertising Cloud'
-description: '[!DNL Analytics] Gegevens in Advertising Cloud'
+title: '"[!DNL Analytics] Gegevens in Advertising Cloud"'
+description: '"[!DNL Analytics] Gegevens in Advertising Cloud"'
 feature: Integration with Adobe Analytics
 exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3
-source-git-commit: 185fc7d79798a0a3a9ad5829b701aeb53a4a47c1
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## Analysesegmenten
 
-Alle segmenten die zijn gemaakt in [!DNL Analytics] en gepubliceerd naar Experience Cloud.
+Alle segmenten gemaakt in [!DNL Analytics] en gepubliceerd aan Experience Cloud.
 
 Het duurt 24 tot 48 uur om nieuwe segmenten weer te geven in Advertising Cloud. Updates voor bestaande segmenten worden binnen ongeveer acht uur gesynchroniseerd.
 
@@ -36,7 +36,7 @@ Het duurt 24 tot 48 uur om nieuwe segmenten weer te geven in Advertising Cloud. 
 * [!UICONTROL Pageviews_total]: Het totale aantal paginaweergaven op de site voor alle bezoeken in het venster voor terugzoeken van klikken.
 * [[!UICONTROL Bounces] metrisch](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html)
 * [[!UICONTROL Visits] metrisch](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)
-* [!UICONTROL ef_id_instances]: Het aantal keren dat een  [!DNL Analytics] verzameling heeft plaatsgevonden  [!UICONTROL EF ID].
+* [!UICONTROL ef_id_instances]: Het aantal keren dat [!DNL Analytics] een [!UICONTROL EF ID].
 
 ## Conversiedetecties
 

@@ -1,9 +1,9 @@
 ---
-title: '[!DNL On Demand] Premium-uitgevers in Noord-Amerika'
-description: Zie de beschikbare [!DNL On Demand] premium inventarisauteurs in Noord-Amerika.
+title: '"[!DNL On Demand] Premium-uitgevers in Noord-Amerika"'
+description: Zie de beschikbare [!DNL On Demand] uitgevers van premiumvoorraden in Noord-Amerika.
 feature: DSP On Demand Inventory
 exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 2c94b6c02b4e24878639dd9edbc0455e1751f679
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 | [!DNL Cue Digital Media] | Canada |
 | [!DNL DAX] | Canada |
 | [!DNL DAZN] ([!DNL Perform Media]) | Canada |
-| [!DNL Dotdash] (voorheen  [!DNL About.com]) | Canada |
+| [!DNL Dotdash] (voorheen) [!DNL About.com]) | Canada |
 | [!DNL EA] | Canada |
 | [!DNL evite] | Canada |
 | [!DNL Expedia] | Canada |
@@ -90,7 +90,7 @@ ht-degree: 0%
 | [!DNL DAZN] ([!DNL Perform Media]) | U.S. |
 | [!DNL Discovery] | U.S. |
 | [!DNL Disney Digital Network] | U.S. |
-| [!DNL Dotdash] (voorheen  [!DNL About.com]) | U.S. |
+| [!DNL Dotdash] (voorheen) [!DNL About.com]) | U.S. |
 | [!DNL EA] | U.S. |
 | [!DNL ebay] | U.S. |
 | [!DNL ESI Media] | U.S. |
@@ -177,8 +177,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL On Demand] InfoPremium-voorraad](on-demand-inventory-about.md)
->* [Abonneren en toegang aanvragen  [!DNL On Demand] tot Premium-voorraad](on-demand-inventory-subscribe.md)
+>* [Info [!DNL On Demand] Premium-voorraad](on-demand-inventory-about.md)
+>* [Abonneren en toegang aanvragen tot [!DNL On Demand] Premium-voorraad](on-demand-inventory-subscribe.md)
 >* [[!DNL On Demand] Premium-uitgevers in Azië Pacific](on-demand-inventory-publishers-apac.md)
 >* [[!DNL On Demand] Premium-uitgevers in Australië en Nieuw-Zeeland](on-demand-inventory-publishers-anz.md)
 >* [[!DNL On Demand] Premium Inventory Publishers in Europa, het Midden-Oosten en Afrika](on-demand-inventory-publishers-emea.md)
