@@ -1,7 +1,7 @@
 ---
 title: 'Gebruikersprofiel bewerken '
 description: Leer hoe u uw gebruikersprofiel kunt bewerken.
-source-git-commit: f91e2ccdc3a832da9560ec3828d0b1867bc522cd
+source-git-commit: 1e087f5e39f1e4293c501b4148318a2709b1d69c
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 3%
@@ -15,27 +15,47 @@ Uw accountprofiel bevat uw aanmeldingsgegevens en andere gegevens. Sommige gebru
 1. Klik in het hoofdmenu op **[!UICONTROL Settings]> [!UICONTROL Account].**
 
 1. Bewerk de profielinstellingen:
+
    * Het e-mailadres voor de gebruikersaccount bewerken:
+
       1. Naast het bestaande **[!UICONTROL Email address]**, klikt u op **[!UICONTROL Edit]**.
+
       1. Voer het nieuwe e-mailadres en het bestaande wachtwoord voor de gebruikersaccount in.
       1. Klik op **[!UICONTROL Continue]**.
    * Het wachtwoord voor de gebruikersaccount bewerken:
+
       1. Naast het bestaande **[!UICONTROL Password]**, klikt u op **[!UICONTROL Change]**.
+
       1. Voer het nieuwe wachtwoord twee keer in.
+
       1. Klik op **[!UICONTROL Continue]**.
    * De beveiligingsvraag voor de gebruikersaccount bewerken:
+
       1. Naast het bestaande **[!UICONTROL Security Question]**, klikt u op **[!UICONTROL Change]**.
+
       1. Selecteer een **[!UICONTROL Secret Question]** en voert u een **[!UICONTROL Secret Question Answer]**.
+
       1. Klik op **[!UICONTROL Continue]**.
    * De standaardtijdzone voor de gebruikersaccount bewerken:
+
       1. Naast het bestaande **[!UICONTROL Default Timezone]**, klikt u op **[!UICONTROL Change]**.
+
       1. Selecteer de nieuwe tijdzone.
+
       1. (Optioneel) Selecteer **[!UICONTROL Observe Daylight Savings Time]**.
+
       1. Klik op **[!UICONTROL Continue]**.
    * (Gebruikers die een persoonlijke licentie willen gebruiken op [!DNL Google Authorized Buyers]) Persoonlijk bewerken [!DNL Google Authorized Buyers] licentie voor de gebruikersaccount, die standaard wordt gebruikt voor alle campagnes:
+
       1. Naast het bestaande **[!UICONTROL Google AdEx ID]**, klikt u op **[!UICONTROL Change]**.
+
       1. Voer de nieuwe **[!UICONTROL Ad Group ID]**.
+
       1. Klik op **[!UICONTROL Save]**.
+
+
+
+
 
 1. Klik op **[!UICONTROL Save]**.
 

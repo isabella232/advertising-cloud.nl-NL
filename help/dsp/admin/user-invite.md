@@ -1,7 +1,7 @@
 ---
 title: Nieuwe gebruiker uitnodigen voor account bij organisatie
 description: Leer hoe u een nieuwe gebruiker kunt uitnodigen om deel te nemen aan het account.
-source-git-commit: b61b0102ff34524598776df23b44e560ddfe1baf
+source-git-commit: 65d5b9275b24d66972f464a07d6e1a751721ada2
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -19,6 +19,7 @@ Indien nodig kunt u de uitnodiging aan een gebruiker met een uitnodiging in beha
 1. Voer een van de volgende handelingen uit:
 
    * Klik in het hoofdmenu op **[!UICONTROL Settings]>[!UICONTROL Users]**.
+
    * Klik in het hoofdmenu op **[!UICONTROL Settings]>[!UICONTROL Account]** en klik vervolgens op **[!UICONTROL Edit users]**.
 
 1. In de **[!UICONTROL Invitations]** sectie, klikt u op **[!UICONTROL Send Invite]**.
