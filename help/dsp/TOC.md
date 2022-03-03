@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: c44113736f472c4971729403835a61ed6e07b47f
+source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -197,8 +197,14 @@ ht-degree: 0%
       + [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Beheer {#admin}
-   + [Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau](/help/dsp/admin/blocked-sites-list-about.md)
-   + [Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken](/help/dsp/admin/blocked-sites-list-edit.md)
+   + [Uw profiel bewerken](/help/dsp/admin/user-own-profile-edit.md)
+   + Gebruikers {#users}
+      + [Nieuwe gebruiker uitnodigen](/help/dsp/admin/user-invite.md)
+      + [Een uitnodiging voor een gebruiker in behandeling opnieuw verzenden](/help/dsp/admin/user-resend-invite.md)
+      + [Uitnodigen van een in behandeling zijnde gebruiker ongedaan maken](/help/dsp/admin/user-uninvite.md)
+   + Geblokkeerde sites {#sites}
+      + [Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau](/help/dsp/admin/blocked-sites-list-about.md)
+      + [Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken](/help/dsp/admin/blocked-sites-list-edit.md)
 + [Integratie met Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Klantenondersteuning](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html)
 + [Opmerkingen bij de release van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
