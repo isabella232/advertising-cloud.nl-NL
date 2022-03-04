@@ -1,9 +1,9 @@
 ---
 title: Nieuwe gebruiker uitnodigen voor account bij organisatie
 description: Leer hoe u een nieuwe gebruiker kunt uitnodigen om deel te nemen aan het account.
-source-git-commit: 65d5b9275b24d66972f464a07d6e1a751721ada2
+source-git-commit: cd1ded08b07735cb3e156ec401e3ea1a920183d3
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Indien nodig kunt u de uitnodiging aan een gebruiker met een uitnodiging in beha
 
 >[!MORELIKETHIS]
 >
->* [Een uitnodiging voor een gebruiker in afwachting van deze account opnieuw verzenden](user-resend-invite.md)
+>* [Een uitnodiging voor een gebruiker in behandeling opnieuw verzenden](user-resend-invite.md)
 >* [Uitnodigen van een in behandeling zijnde gebruiker ongedaan maken](user-uninvite.md)
 
 

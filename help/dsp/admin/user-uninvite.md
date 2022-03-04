@@ -1,9 +1,9 @@
 ---
 title: Uitnodigen van een in behandeling zijnde gebruiker ongedaan maken
 description: Leer hoe u een uitnodiging in behandeling intrekt.
-source-git-commit: baa351de79532352f28d2dc5691c2e425a8e3207
+source-git-commit: 315fd6189e1805f9f1f4184cc0aa47d12740616a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ U kunt de uitnodiging aan een gebruiker in behandeling opheffen. Wanneer een geb
 >[!MORELIKETHIS]
 >
 >* [Nieuwe gebruiker uitnodigen voor account bij organisatie](user-invite.md)
->* [Een uitnodiging voor een gebruiker in afwachting van deze account opnieuw verzenden](user-resend-invite.md)
+>* [Een uitnodiging voor een gebruiker in behandeling opnieuw verzenden](user-resend-invite.md)
 
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->
