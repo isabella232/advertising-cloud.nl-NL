@@ -1,11 +1,11 @@
 ---
-title: Een [!UICONTROL Simple Ad Serving] Deal
-description: Leer hoe u een tekstspatiëringspixel maakt voor een [!UICONTROL Simple Ad Serving] deal.
+title: '"Maak een [!UICONTROL Simple Ad Serving] Overeenkomst"'
+description: '"Leer hoe u een tekstspatiëringspixel maakt voor een [!UICONTROL Simple Ad Serving] deal."'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---

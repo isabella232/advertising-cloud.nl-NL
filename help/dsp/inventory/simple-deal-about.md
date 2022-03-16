@@ -1,11 +1,11 @@
 ---
-title: Een [!UICONTROL Simple Ad Serving] Deal
+title: Info [!UICONTROL Simple Ad Serving]
 description: Meer informatie over [!UICONTROL Simple Ad Serving] deals met pixels voor het bijhouden van gebeurtenissen.
 feature: DSP Simple Ad Serving
 exl-id: d65d1d8e-4d10-4d1d-86d3-f4457c29ae8d
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
