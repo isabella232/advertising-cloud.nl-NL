@@ -1,7 +1,7 @@
 ---
 title: Informatie over abonnementen op berichten
 description: Meer weten over automatische e-mailberichten?
-source-git-commit: 4bc23fb0028af4d0bfff0686ab97964873ce6a54
+source-git-commit: de1ad6e1cfeefc4ac1e8264c3063b550b6548446
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 U kunt groepen automatische e-mailwaarschuwingen maken, abonnementen genoemd, die e-mailmeldingen verzenden wanneer aan de opgegeven parameters voor account, campagne en persoonlijke voorraaddeal is voldaan.
 
-U kunt bijvoorbeeld een waarschuwing ontvangen wanneer een campagne een bepaald bedrag van het budget heeft uitgegeven. U kunt ook een bericht ontvangen wanneer een persoonlijke inventarisovereenkomst in de afgelopen N dagen minder dan een opgegeven win-winpercentage heeft gehad.
+U kunt bijvoorbeeld een waarschuwing ontvangen wanneer een campagne een bepaald bedrag van het budget heeft uitgegeven. U kunt ook een waarschuwing ontvangen wanneer een persoonlijke voorraadtransactie in de afgelopen dagen minder dan een gespecificeerd win tarief heeft ontvangen.
 
 U kunt waarschuwingen toevoegen aan of verwijderen uit een abonnement, de gebruikers bewerken die e-mailmeldingen voor een abonnement ontvangen, waarschuwingsabonnementen uitschakelen en weer inschakelen en waarschuwingsabonnementen verwijderen.
 

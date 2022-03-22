@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 18ae0e34f518e58f045c123cfe75f65b12b46fb7
+source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 + Campagnebeheer {#campaign-management}
    + [Overzicht van de structuur van het Campagnebeheer](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campagnes {#campaigns}
-      + [Informatie over Campagnebeheer](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [Informatie over Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Een campagne maken](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [Een campagne bewerken](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [Een campagne dupliceren](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -94,7 +94,7 @@ ht-degree: 0%
       + [Specificaties voor ondersteunde advertentietypen](/help/dsp/assets/ad-specs.pdf)
    + Campagnerapporten {#campaign-reports}
       + [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-      + [Gegevens exporteren uit een Campagnebeheerweergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
+      + [Gegevens exporteren uit een Campaign Management-weergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [De sites, advertenties en frequentiedetails voor een plaatsing weergeven](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + Gegevensweergaven beheren {#data-views}
@@ -205,6 +205,9 @@ ht-degree: 0%
    + Geblokkeerde sites {#sites}
       + [Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau](/help/dsp/admin/blocked-sites-list-about.md)
       + [Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken](/help/dsp/admin/blocked-sites-list-edit.md)
+   + Meldingen {#notifications}
+      + [Informatie over abonnementen op berichten](/help/dsp/admin/alerts-about.md)
+      + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
 + [Integratie met Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
 + [Klantenondersteuning](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html)
 + [Opmerkingen bij de release van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
