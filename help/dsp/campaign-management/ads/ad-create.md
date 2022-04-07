@@ -1,20 +1,20 @@
 ---
-title: Een advertentie maken
-description: Leer hoe u een advertentie maakt.
+title: Eén advertentie maken
+description: Leer hoe u één externe advertentie kunt maken.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 63c8b750c9d5e6816da29fe15416d43d6b3e3726
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# Een advertentie maken
+# Eén advertentie maken
 
-U kunt één advertentie van een eerste of een derde maken.
+U kunt een afzonderlijke eigen advertentie of een advertentie van derden maken in verschillende [advertentietypen](ad-about.md#ad-types).
 
-Zie [Meerdere advertenties van derden maken](ad-create-third-party.md) om meerdere advertenties van derden tegelijk te maken.
+Als u meerdere advertenties van derden tegelijk wilt maken, raadpleegt u [Meerdere externe advertenties maken](ad-create-multiple.md).
 
 >[!NOTE]
 >
@@ -24,27 +24,21 @@ Zie [Meerdere advertenties van derden maken](ad-create-third-party.md) om meerde
 
 1. Klik op de naam van de campagne waarin de advertentie wordt opgenomen.
 
-1. Klik boven de gegevenstabel op **[!UICONTROL Create]**. Klik in de sectie [!UICONTROL Ad Types] van het menu op [ad type](ad-types.md).
+1. Klik boven de gegevenstabel op **[!UICONTROL Create]**. In de [!UICONTROL Ad Types] in het menu klikt u op de knop [advertentietype](ad-about.md#ad-types).
 
-1. Geef de advertentie-instellingen op voor [audioadvertenties](ad-settings-audio.md), [aangesloten tv](ad-settings-connected-tv.md), [weergaveadvertenties](ad-settings-display.md), [mobiele advertenties](ad-settings-mobile.md), [native advertenties](ad-settings-native.md) of [pre-roll advertenties](ad-settings-pre-roll.md).:
+1. Geef de advertentie-instellingen op voor [audioadvertenties](ad-settings-audio.md), [aangesloten tv](ad-settings-connected-tv.md), [advertenties weergeven](ad-settings-display.md), [mobiele advertenties](ad-settings-mobile.md), [native advertenties](ad-settings-native.md), of [pre-rol advertenties](ad-settings-pre-roll.md):
 
-   1. (Alleen video- en audioadvertenties) Upload op het [!UICONTROL Upload or Select Creative]-scherm een Raw-creatief element rechtstreeks naar DSP, selecteer een bestaand creatief element of upload een trackingtag van een gecertificeerde externe advertentiepartner.
+   1. Op de [!UICONTROL Insert Ad Tag] scherm, ga informatie over de advertentie van een verklaarde derde in dienst dienende partner, en klik dan **[!UICONTROL Go]**.
 
-   1. Op het [!UICONTROL Options] scherm:
+   1. Op de [!UICONTROL Options] scherm:
 
-      1. Geef op het tabblad [!UICONTROL Basics] de details van de advertentie op.
+      1. Op de [!UICONTROL Basics] geeft u de details van de advertentie op.
 
-      1. (Sommige DSP mobiele video en typen; (optioneel) Geef op het tabblad [!UICONTROL Teasers] een gumafbeelding of videoelement op voor de advertentie.
-
-      1. (DSP-geserveerde pre-roll videoadvertenties en audioadvertenties; (optioneel) Geef op het tabblad [!UICONTROL Companion Banners] maximaal drie bijbehorende bannerelementen voor de advertentie op.
-
-      1. (Sommige DSP mobiele advertenties en voorrolvideobronden; (optioneel) Geef op het tabblad [!UICONTROL Overlays] overlayelementen voor de advertentie op.
-
-      1. (Optioneel) Geef op het tabblad [!UICONTROL Pixel] pixels op die van derden worden bijgehouden en die u aan de advertentie wilt koppelen.
+      1. (Optioneel) Op de [!UICONTROL Pixel] , geeft u eventuele pixels op die door derden worden bijgehouden en die u aan de advertentie wilt koppelen.
 
 1. Wanneer de advertentie is voltooid, klikt u op **[!UICONTROL Save & Submit for Review]**.
 
-   De [ad review](ad-about.md) duurt 24-48 uur en bevat controles voor gevoelige categorieën, klik op URL-functionaliteit en voorvertoning van rendering. De kolom Status geeft aan of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
+   De [advertentie bekijken](ad-about.md) neemt 24-48 uur in beslag en bevat controles op gevoelige categorieën, klik op URL-functionaliteit en voorvertoning van rendering. De kolom Status geeft aan of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
 
    >[!NOTE]
    >
@@ -53,8 +47,7 @@ Zie [Meerdere advertenties van derden maken](ad-create-third-party.md) om meerde
 >[!MORELIKETHIS]
 >
 >* [Over Advertentiebeheer](ad-about.md)
->* [Meerdere externe advertenties maken](ad-create-third-party.md)
+>* [Meerdere externe advertenties maken](ad-create-multiple.md)
 >* [Een advertentie bewerken](ad-edit.md)
->* [Beschikbare advertentietypen](ad-types.md)
 >* [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf)
 

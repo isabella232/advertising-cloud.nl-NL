@@ -1,16 +1,16 @@
 ---
-title: Overzicht van het beheer van campagnes in Advertising Cloud DSP
+title: Overzicht van Campaign Management in Advertising Cloud DSP
 description: Meer informatie over de hiërarchie en componenten van het campagnebeheer.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-# Overzicht van het beheer van campagnes in Advertising Cloud DSP
+# Overzicht van Campaign Management in Advertising Cloud DSP
 
 Advertising Cloud DSP-campagnes hebben de volgende hiërarchie:
 
@@ -18,9 +18,7 @@ Advertising Cloud DSP-campagnes hebben de volgende hiërarchie:
    * Pakket(s)
       * Plaatsing(en)
          * Advertentie(s)
-            * Creative(s)
 
-<!-- Add "Feature: DSP Creatives" once we have other topics on creatives; get Bob to update the feature list. -->
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
 In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
@@ -43,18 +41,11 @@ A [plaatsing](/help/dsp/campaign-management/placements/placement-about.md) Hierm
 
 ## [!UICONTROL Ads]
 
-[Adds](/help/dsp/campaign-management/ads/ad-about.md) inclusief creatieve elementen en URL&#39;s bijhouden. U kunt uw creatieve middelen uploaden en DSP de advertenties bedienen die ze gratis gebruiken, of u kunt tags voor advertenties van derden uploaden.
+[Adds](/help/dsp/campaign-management/ads/ad-about.md) inclusief creatieve elementen en URL&#39;s bijhouden. U kunt tags van derden en voedingen afzonderlijk of in bulk uploaden met behulp van tag-bladen van partners of de sjabloon voor bulktags. U kunt ook handmatig eigen weergaveadvertenties maken die u DSP kunt gebruiken.
 
 Als je advertenties eenmaal zijn ingesteld, moet je elke advertentie aan een plaatsing koppelen. U kunt één advertentie aan een of meerdere plaatsen vastmaken.
 
 Alle actieve, goedgekeurde advertenties in een actieve plaatsing in een actieve campagne kunnen worden uitgevoerd op basis van de parameters voor plaatsing als doel.
-
-## [!UICONTROL Creatives]
-
-U kunt audio- en videobestanden uploaden voor gebruik in advertenties voor opgegeven campagnes.
-<!-- add link to [About Creative Management](/help/dsp/campaign-management/creatives/creative-about.md) when it's available-->
-
-U kunt direct een advertentie maken met de geüploade creatieve inhoud of u kunt later een advertentie maken vanuit de weergave Creative Cloud of de weergave Advertentie.
 
 >[!MORELIKETHIS]
 >

@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: d4537714e884eb1ce1b62d4097b7ad6f30767edf
+source-git-commit: e77f70e414a1c8d2fe4937766ecddca9fdb6893e
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -70,31 +70,27 @@ ht-degree: 0%
       + [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
    + Adds {#ads}
       + [Over Advertentiebeheer](/help/dsp/campaign-management/ads/ad-about.md)
-      + [Beschikbare advertentietypen](/help/dsp/campaign-management/ads/ad-types.md)
-      + Advertising Cloud-advertenties {#advertising-cloud-served}
-         + [Een advertentie maken](/help/dsp/campaign-management/ads/ad-create.md)
-         + Advertentie-instellingen {#ad-settings}
-            + [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-audio.md)
-            + [Verbonden tv-instellingen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
-            + [Ad-instellingen weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md)
-            + [Instellingen voor mobiele advertentie](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
-            + [Instellingen voor eigen advertentie](/help/dsp/campaign-management/ads/ad-settings-native.md)
-            + [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-         + [Aanbevolen procedures voor het ontwerpen van overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-      + Bulkadvertenties van derden {#bulk-third-party}
-         + [Meerdere externe advertenties maken](/help/dsp/campaign-management/ads/ad-create-third-party.md)
-         + [Advertenties maken met [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
-         + [Certified Ad Serving Partners](/help/dsp/campaign-management/ads/certified-ad-servers.md)
-      + [Advertentie aan een Plaatsing vastmaken](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [Certified Ad Serving Partners](/help/dsp/campaign-management/ads/certified-ad-servers.md)
+      + [Eén advertentie maken](/help/dsp/campaign-management/ads/ad-create.md)
+      + [Meerdere externe advertenties maken](/help/dsp/campaign-management/ads/ad-create-multiple.md)
+      + [Advertenties maken met [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
+      + [Advertentie aan een Plaatsing vastmaken](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Een advertentie archiveren of archiveren](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
+      + Advertentie-instellingen {#ad-settings}
+         + [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+         + [Verbonden tv-instellingen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+         + [Ad-instellingen weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md)
+         + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+         + [Instellingen voor eigen weergave](/help/dsp/campaign-management/ads/ad-settings-native.md)
+         + [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [Specificaties voor ondersteunde advertentietypen](/help/dsp/assets/ad-specs.pdf)
    + Campagnerapporten {#campaign-reports}
       + [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-      + [Gegevens exporteren uit een Campaign Management-weergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
+      + [Gegevens exporteren uit een Campagnebeheerweergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [De sites, advertenties en frequentiedetails voor een plaatsing weergeven](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + Gegevensweergaven beheren {#data-views}

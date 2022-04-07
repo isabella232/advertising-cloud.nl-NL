@@ -3,9 +3,9 @@ title: Over Advertentiebeheer in Advertising Cloud DSP
 description: Meer informatie over advertentiebeheer.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ff0e153344f8245ff217cc8b2b276184dd7422b5
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '664'
 ht-degree: 0%
 
 ---
@@ -14,60 +14,38 @@ ht-degree: 0%
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-Advertising Cloud DSP biedt twee manieren om advertenties aan te bieden:
+Advertising Cloud DSP biedt ondersteuning voor levering van advertenties via tags voor advertenties van derden (zoals Google, Flash Talk of Sizmek) voor verschillende advertentietypen en voor het uploaden van directe middelen voor eigen advertenties. U kunt tags van derden afzonderlijk of bulksgewijs uploaden. Bulkuploads gebruiken de pagina&#39;s van de partnermarkering of een bulkmarkeringsmalplaatje.
 
-* Advertising Cloud DSP biedt uw advertenties gratis aan wanneer u uw eigen middelen rechtstreeks naar DSP uploadt (zoals weergavebanners, video-elementen, audiobestanden of URL&#39;s). Voor DSP middelen hebt u toegang tot extra functies, zoals overlays.
-
-* Als u een externe advertentieserver gebruikt (zoals Google, Flashtalk of Sizmek), kunt u uw tags voor advertenties van derden uploaden om deze afzonderlijk of bulksgewijs te DSP. Voor de functie voor bulkupload moet u a) DoubleClick- en Flashtalk-tagbladen uploaden of b) een sjabloon downloaden, uw tags in de sjabloon invoeren en de sjabloon vervolgens opnieuw uploaden.<!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
+<!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
+<!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
 
 Wanneer uw advertenties zijn ingesteld, moet u elke advertentie aan een plaatsing koppelen, die de doelparameters bevat (zoals geo, publiek, apparaat en inventarisgericht maken) die bepalen hoe uw campagne zal worden uitgevoerd. U kunt één advertentie aan een of meerdere plaatsen vastmaken.
 
-## Beschikbare advertentietypen
+## Beschikbare advertentietypen {#ad-types}
 
-* Audio
-* Verbonden tv
-* Weergave
-* Mobiel
-* Oorspronkelijk
-* Pre-Roll
+Alle volgende advertentietypen zijn beschikbaar in Advertising Cloud DSP. Voor volledige specificaties voor elk advertentietype raadpleegt u de [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf).
 
-Zie [Beschikbare advertentietypen](ad-types.md) en de volledige [Specificaties toevoegen](/help/dsp/assets/ad-specs.pdf) voor meer informatie over deze advertentietypen.
+* **Audiolagen (alleen van derden)**: Audioadvertenties kunnen worden afgespeeld tussen inhoud op digitale uitgeversites en kunnen zelfstandig worden uitgevoerd als audiobestanden of samen met bijbehorende banners. Audio kan het best worden gebruikt om merkbekendheid te geven en om onderweg publiek te maken. Tot de belangrijkste prestatie-indicatoren voor audio behoren [!UICONTROL Completion Rate] en [!UICONTROL Cost per Completion].
 
-## Speciale Advertentiefuncties
+* **Advertenties weergeven (alleen derden)**: Weergaveadvertenties zijn geanimeerde of statische afbeeldingen die in webbrowsers of in apps worden weergegeven. Als u op de advertentie-eenheid klikt, gaat de gebruiker naar een site of microsite met merknaam. De vertoning wordt best gebruikt om efficiënte CPMs te drijven, berichtvereniging te verhogen, extra merk of productaanraakpunten toe te voegen, en gebruikers te drijven onderaan de aanschaftrechter. Tot de belangrijkste prestatie-indicatoren voor weergave behoren: [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions], en [!UICONTROL Cost per Conversion]. DSP ondersteunt een groot aantal verschillende advertentiegrootten.
 
-De volgende functies zijn alleen beschikbaar voor advertenties met DSP inhoud.
+* **Mobile-advertenties (alleen van derden)**: Mobile-advertenties kunnen de indeling VAST, MRAID (pre-roll video) of standaard display hebben. Mobile pre-roll video kan automatisch worden afgespeeld of klik-aan-spel zijn en het best gebruikt om kijkers over schermen te bereiken. Het standaardscherm van Mobile is een statisch beeld dat wordt weergegeven in mobiele webbrowsers of in apps en kan het best worden gebruikt als aanvulling op digitale videobouwen, als koppeling naar het stationsbericht en als aanvulling op extra branding of productaanraakpunten. Mobile-advertenties kunnen ook functioneren als overnames op volledig scherm of als mobiele interstitiële apparaten. Dit zijn zeer geavanceerde mobiele advertenties die het beste kunnen worden gebruikt om het bewustzijn van het merk voor mobiele doelgroepen en stationsomzettingen te ontwikkelen.
 
-### Companion Banners
+* **Eigen weergaveadvertenties (alleen eerste partij)**: Native advertenties worden ondersteund in de standaardweergave-indeling. Native advertenties bevatten een kop en/of titel, beschrijving, logo en afbeelding. De advertentie-elementen worden gecombineerd en gerenderd zodat deze overeenkomen met de paginastijl van de uitgever, zodat de advertentie samenvloeit met de organische inhoud van de uitgever en een hogere betrokkenheid mogelijk maakt. Native wordt het beste gebruikt voor merkbekendheid en voor het aansturen van de kijkcijfers en de betrokkenheid bij viewervriendelijke advertenties. Belangrijke prestatie-indicatoren zijn [!UICONTROL Clicks], [!UICONTROL Cost Per Click], [!UICONTROL Conversions], en [!UICONTROL Cost Per Conversion].
 
-Companion banners worden geleverd naast [pre-roll advertenties](ad-settings-pre-roll.md) of (met sommige uitgevers) [audio advertenties](ad-settings-audio.md) en kunnen de merk- en berichtkoppeling helpen versterken.
+* **Pre-roll Ads (alleen van derden)**: Pre-roll advertenties (VAST en VPAID) worden getoond vóór premiumvideo-inhoud en bieden een indrukwekkende viewerervaring. Video vóór de rol kan interactief zijn, rijke media eigenschappen, en omvat bekledingen, rollovers, en vraag-aan-actie bevatten. De belangrijkste prestatie-indicatoren voor pre-roll videoadvertenties omvatten [!UICONTROL Video Completion Rate] en [!UICONTROL Viewability Rate].
 
->[!NOTE]
->
->* Niet alle uitgevers staan gezelschapsbanners toe. De uitgevers die gezelschapsbanners wel toestaan, garanderen geen beletsel voor gezelschapsbanners.
->* Companion banners van externe advertentietags zijn mogelijk niet altijd beschikbaar voor voorvertoning.
-
-
-U kunt uw eigen bannerelement voor de partner uploaden of een iFrame- of scriptbannertag van derden uploaden van een gecertificeerde externe advertentiepartner.
-
-### Bedekkingen
-
-Overlays helpen u bij het doorlopen van branding in de video en kunnen extra klikken stimuleren. De overlayfunctie is beschikbaar voor [interactieve pre-roll advertenties](ad-settings-pre-roll.md) en voor [mobiele advertenties in interactieve en tap-naar-play formaten](ad-settings-mobile.md).
-
-Zie [Aanbevolen werkwijzen voor het ontwerpen van overlays](/help/dsp/campaign-management/ads/ad-best-practices-overlays.md)
-
-### Teasers
-
-Een gummetje is een opvallende afbeelding die de kijker ertoe aanzet een advertentie af te spelen. Teasers zijn alleen van toepassing op mobiele &#39;tap-to-play&#39;-advertentieformaten.
+* **Aangesloten tv-advertenties (alleen van derden)**: Aangesloten tv-advertenties worden weergegeven voor en tijdens hoogwaardige tv-video-inhoud. Alle aangesloten tv-inventarisaties worden uitgevoerd op tv-apparaten. Dit betekent dat video automatisch wordt afgespeeld in een teruggekoppelde, schermvullende omgeving die de kijkers niet kunnen overslaan. Connected TV is de meest verwante digitale video-indeling voor tv-reclames. Belangrijke prestatie-indicatoren voor Connected TV zijn onder andere [!UICONTROL Completion Rate].
 
 ## Goedkeuringen Advertising Cloud DSP Ad
 
 Wanneer u een advertentie maakt, controleert Advertising Cloud DSP deze op gevoelige categorieën, klikt u op URL-functionaliteit en geeft u een voorvertoning van de rendering weer.
 
-Aanvankelijk, zult u een rode stip in de [!UICONTROL Status] kolom zien. Het herzieningsproces duurt gewoonlijk 24 tot 48 uur. Een verbroken advertentie kan echter langer dan 48 uur in behandeling zijn, dus u hebt tijd om fouten op te lossen voordat de advertentie wordt afgewezen. Geweigerde advertenties bevatten een reden voor de afwijzing.
+In eerste instantie ziet u een rode stip in het dialoogvenster [!UICONTROL Status] kolom. Het herzieningsproces duurt gewoonlijk 24 tot 48 uur. Een verbroken advertentie kan echter langer dan 48 uur in behandeling zijn, dus u hebt tijd om fouten op te lossen voordat de advertentie wordt afgewezen. Geweigerde advertenties bevatten een reden voor de afwijzing.
 
 Wanneer DSP een advertentie goedkeurt, ziet u een groene stip in de kolom Status.
 
-![goedkeuringsindicator in  [!UICONTROL Status] kolom](/help/dsp/assets/ad-approval-status.png)
+![goedkeuringsindicator in [!UICONTROL Status] kolom](/help/dsp/assets/ad-approval-status.png)
 
 >[!NOTE]
 >
@@ -75,8 +53,7 @@ Wanneer DSP een advertentie goedkeurt, ziet u een groene stip in de kolom Status
 
 >[!MORELIKETHIS]
 >
->* [Een advertentie maken](ad-create.md)
->* [Meerdere externe advertenties maken](ad-create-third-party.md)
->* [Beschikbare advertentietypen](ad-types.md)
+>* [Eén advertentie maken](ad-create.md)
+>* [Meerdere externe advertenties maken](ad-create-multiple.md)
 >* [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf)
 

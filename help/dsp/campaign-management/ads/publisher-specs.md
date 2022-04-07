@@ -2,9 +2,9 @@
 title: Specificaties voor specifieke advertenties van uitgevers
 description: Raadpleeg de advertentiespecificaties voor ondersteunde uitgevers.
 feature: DSP Ads
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,6 @@ In de volgende links wordt verwezen naar de advertentiespecificaties voor sommig
 >[!MORELIKETHIS]
 >
 >* [Over Advertentiebeheer](ad-about.md)
->* [Een advertentie maken](ad-create.md)
+>* [Meerdere externe advertenties maken](ad-create-multiple.md)
 >* [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf)
 

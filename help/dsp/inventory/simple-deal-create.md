@@ -3,9 +3,9 @@ title: '"Maak een [!UICONTROL Simple Ad Serving] Overeenkomst"'
 description: '"Leer hoe u een tekstspatiëringspixel maakt voor een [!UICONTROL Simple Ad Serving] deal."'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 05578e9252f0eec6dd4e003d317742007edb3351
+source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
          * Selecteer voor bestaande advertenties de advertenties die u wilt gebruiken.
 
-         * Voor nieuwe advertenties maakt u een proxy [eerste advertentie](/help/dsp/campaign-management/ads/ad-create.md) of [advertenties van derden](/help/dsp/campaign-management/ads/ad-create-third-party.md).
+         * Voor nieuwe advertenties maakt u een proxy [advertenties van derden](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
       > DSP zal de advertenties die u opgeeft, niet bedienen. De uitgever zal de advertentie bedienen.
 
