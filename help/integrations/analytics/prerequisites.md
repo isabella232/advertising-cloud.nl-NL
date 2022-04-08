@@ -3,9 +3,9 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising Cloud]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 11a13816ccd2ef0c47efa615c54c0f7ce2f83734
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Geef het Advertising Cloud-implementatieteam de volgende informatie:
 * De [!DNL Analytics] rapportsuite-id die wordt gebruikt voor rapportage over betaalde mediaconcentraties en voor het doorvoeren van siteactiviteiten voor optimalisatie en rapportage in Advertising Cloud
 * De Experience Cloud Organisatie-id van het bedrijf (Org ID).
 
-U kunt beide id&#39;s vinden op het tabblad [Samenvattingsscherm van de Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/run-debugger.html).
+U kunt beide id&#39;s vinden op het tabblad [Tabblad Overzicht van de Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
 ![Experience Cloud Debugger Samenvattingsscherm](/help/integrations/assets/a4adc-debugger-summary.png)
 
@@ -111,7 +111,7 @@ Voorbeeld: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
 Voor een nauwkeurige gegevensintegratie worden alle Advertising Cloud-aanroepen gebruikt door een [!DNL Analytics for Advertising Cloud] activiteit om inhoud te leveren of het doel te registreren metrisch moet overeenkomstige hebben [!DNL Analytics] hit die dezelfde aanvullende id deelt.
 
-Wanneer u het oplossen van problemen in bent [!DNL Analytics]moet u bevestigen dat de aanvullende id aanwezig is voor [!DNL Analytics] treffers. In de [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html)kunt u deze id op het tabblad Advertising Cloud zien als de `sdid` parameter.
+Wanneer u het oplossen van problemen in bent [!DNL Analytics]moet u bevestigen dat de aanvullende id aanwezig is voor [!DNL Analytics] treffers. In de [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html)kunt u deze id op het tabblad Advertising Cloud zien als de `sdid` parameter.
 
 >[!NOTE]
 >
