@@ -2,9 +2,10 @@
 title: Advertentiespecificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
-source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
+exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
+source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '855'
 ht-degree: 0%
 
 ---
@@ -110,7 +111,7 @@ Desktop, mobiel, tablet, slimme luidsprekers en aangesloten tv
 
 ### Ondersteunde externe advertentieservers
 
-Voor een volledige lijst met ondersteunde leveranciers raadpleegt u &quot;[Certified Ad Serving Partners](certified-ad-servers.md).&quot;
+U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], en [!DNL Sizmek]. Voor een volledige lijst met ondersteunde leveranciers raadpleegt u &quot;[Certified Ad Serving Partners](certified-ad-servers.md).&quot;
 
 ### Vereisten voor audio-elementen (vereist)
 
