@@ -2,14 +2,14 @@
 title: Advertentiespecificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
-source-git-commit: 212409be98cb6f48d5aaf13e3ba44e37d2c5342b
+source-git-commit: 2110a30cf41a5cc091ec6224a7cbaf9b170ef1db
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '848'
 ht-degree: 0%
 
 ---
 
-# Advertentiespecificaties
+# Specificaties voor ondersteunde advertentietypen
 
 ## Video-advertenties (pre-Roll en CTV)
 
@@ -108,7 +108,9 @@ Universal Display wordt ondersteund.
 
 Desktop, mobiel, tablet, slimme luidsprekers en aangesloten tv
 
-### [Ondersteunde externe advertentieservers](certified-ad-servers.md)
+### Ondersteunde externe advertentieservers
+
+Voor een volledige lijst met ondersteunde leveranciers raadpleegt u &quot;[Certified Ad Serving Partners](certified-ad-servers.md).&quot;
 
 ### Vereisten voor audio-elementen (vereist)
 
