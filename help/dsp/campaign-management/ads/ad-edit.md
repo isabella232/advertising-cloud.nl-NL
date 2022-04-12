@@ -3,7 +3,7 @@ title: Een advertentie bewerken
 description: Leer hoe u een advertentie kunt bewerken.
 feature: DSP Ads
 exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
-source-git-commit: 8d6bb45d90f56331ff52e6514e4732f1ac32d022
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -37,5 +37,5 @@ ht-degree: 0%
 >* [Meerdere externe advertenties maken](ad-create-multiple.md)
 >* [Een advertentie dupliceren](ad-duplicate.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](ad-list-placements.md)
->* [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf)
+>* [Advertentiespecificaties](ad-specs.md)
 

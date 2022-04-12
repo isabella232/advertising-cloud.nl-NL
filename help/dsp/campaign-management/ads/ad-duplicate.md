@@ -3,7 +3,7 @@ title: Een advertentie dupliceren
 description: Leer hoe u een advertentie dupliceert.
 feature: DSP Ads
 exl-id: 65c29be7-ca88-4608-bde2-5f1267d095ef
-source-git-commit: 322823a1df355b687827544f5464d01093b94213
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,5 +35,5 @@ U kunt een advertentie dupliceren binnen dezelfde campagne.
 >* [Eén advertentie maken](ad-create.md)
 >* [Meerdere externe advertenties maken](ad-create-multiple.md)
 >* [Een advertentie bewerken](ad-edit.md)
->* [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf)
+>* [Advertentiespecificaties](ad-specs.md)
 

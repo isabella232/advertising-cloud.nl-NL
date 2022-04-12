@@ -3,7 +3,7 @@ title: Instellingen voor aangesloten tv-advertentie
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor aangesloten tv-advertenties.
 feature: DSP Ads
 exl-id: 4daae9e4-27eb-4496-9186-f33aebd8daae
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -83,6 +83,6 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf)
+>* [Advertentiespecificaties](ad-specs.md)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
 

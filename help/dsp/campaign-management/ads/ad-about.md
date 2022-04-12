@@ -3,7 +3,7 @@ title: Over Advertentiebeheer in Advertising Cloud DSP
 description: Meer informatie over advertentiebeheer.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: ff0e153344f8245ff217cc8b2b276184dd7422b5
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '664'
 ht-degree: 0%
@@ -23,13 +23,13 @@ Wanneer uw advertenties zijn ingesteld, moet u elke advertentie aan een plaatsin
 
 ## Beschikbare advertentietypen {#ad-types}
 
-Alle volgende advertentietypen zijn beschikbaar in Advertising Cloud DSP. Voor volledige specificaties voor elk advertentietype raadpleegt u de [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf).
+Alle volgende advertentietypen zijn beschikbaar in Advertising Cloud DSP. Voor volledige specificaties voor elk advertentietype raadpleegt u de [Advertentiespecificaties](ad-specs.md).
 
 * **Audiolagen (alleen van derden)**: Audioadvertenties kunnen worden afgespeeld tussen inhoud op digitale uitgeversites en kunnen zelfstandig worden uitgevoerd als audiobestanden of samen met bijbehorende banners. Audio kan het best worden gebruikt om merkbekendheid te geven en om onderweg publiek te maken. Tot de belangrijkste prestatie-indicatoren voor audio behoren [!UICONTROL Completion Rate] en [!UICONTROL Cost per Completion].
 
 * **Advertenties weergeven (alleen derden)**: Weergaveadvertenties zijn geanimeerde of statische afbeeldingen die in webbrowsers of in apps worden weergegeven. Als u op de advertentie-eenheid klikt, gaat de gebruiker naar een site of microsite met merknaam. De vertoning wordt best gebruikt om efficiënte CPMs te drijven, berichtvereniging te verhogen, extra merk of productaanraakpunten toe te voegen, en gebruikers te drijven onderaan de aanschaftrechter. Tot de belangrijkste prestatie-indicatoren voor weergave behoren: [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions], en [!UICONTROL Cost per Conversion]. DSP ondersteunt een groot aantal verschillende advertentiegrootten.
 
-* **Mobile-advertenties (alleen van derden)**: Mobile-advertenties kunnen de indeling VAST, MRAID (pre-roll video) of standaard display hebben. Mobile pre-roll video kan automatisch worden afgespeeld of klik-aan-spel zijn en het best gebruikt om kijkers over schermen te bereiken. Het standaardscherm van Mobile is een statisch beeld dat wordt weergegeven in mobiele webbrowsers of in apps en kan het best worden gebruikt als aanvulling op digitale videobouwen, als koppeling naar het stationsbericht en als aanvulling op extra branding of productaanraakpunten. Mobile-advertenties kunnen ook functioneren als overnames op volledig scherm of als mobiele interstitiële apparaten. Dit zijn zeer geavanceerde mobiele advertenties die het beste kunnen worden gebruikt om het bewustzijn van het merk voor mobiele doelgroepen en stationsomzettingen te ontwikkelen.
+* **Mobile-advertenties (alleen van derden)**: Mobiele advertenties kunnen de indeling VAST, MRAID (pre-roll video) of standaard display hebben. Mobiele voorrolvideo kan automatisch worden afgespeeld of met een klik worden afgespeeld en kan het beste worden gebruikt om gebruikers op verschillende schermen te bereiken. Het standaardscherm van Mobile is een statisch beeld dat wordt weergegeven in mobiele webbrowsers of in apps en kan het best worden gebruikt als aanvulling op digitale videobouwen, als koppeling naar het stationsbericht en als aanvulling op extra branding of productaanraakpunten. Mobiele advertenties kunnen ook functioneren als overnames op volledig scherm of als mobiele interstitiële apparaten. Dit zijn zeer geavanceerde mobiele advertenties die het beste kunnen worden gebruikt om het bewustzijn van het merk voor mobiele doelgroepen en stationsomzettingen te ontwikkelen.
 
 * **Eigen weergaveadvertenties (alleen eerste partij)**: Native advertenties worden ondersteund in de standaardweergave-indeling. Native advertenties bevatten een kop en/of titel, beschrijving, logo en afbeelding. De advertentie-elementen worden gecombineerd en gerenderd zodat deze overeenkomen met de paginastijl van de uitgever, zodat de advertentie samenvloeit met de organische inhoud van de uitgever en een hogere betrokkenheid mogelijk maakt. Native wordt het beste gebruikt voor merkbekendheid en voor het aansturen van de kijkcijfers en de betrokkenheid bij viewervriendelijke advertenties. Belangrijke prestatie-indicatoren zijn [!UICONTROL Clicks], [!UICONTROL Cost Per Click], [!UICONTROL Conversions], en [!UICONTROL Cost Per Conversion].
 
@@ -55,5 +55,5 @@ Wanneer DSP een advertentie goedkeurt, ziet u een groene stip in de kolom Status
 >
 >* [Eén advertentie maken](ad-create.md)
 >* [Meerdere externe advertenties maken](ad-create-multiple.md)
->* [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf)
+>* [Advertentiespecificaties](ad-specs.md)
 

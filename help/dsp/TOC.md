@@ -8,7 +8,7 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: e77f70e414a1c8d2fe4937766ecddca9fdb6893e
+source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
       + [[!DNL DSP] Richtlijnen voor gegevensgebruik](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campagnebeheer {#campaign-management}
-   + [Overzicht van de structuur van het Campagnebeheer](/help/dsp/campaign-management/campaign-management-overview.md)
+   + [Overzicht van de Campaign Management-structuur](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campagnes {#campaigns}
       + [Informatie over Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Een campagne maken](/help/dsp/campaign-management/campaigns/campaign-create.md)
@@ -84,13 +84,13 @@ ht-degree: 0%
          + [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-audio.md)
          + [Verbonden tv-instellingen](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
          + [Ad-instellingen weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md)
-         + [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+         + [Instellingen voor mobiele advertentie](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [Instellingen voor eigen weergave](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
-      + [Specificaties voor ondersteunde advertentietypen](/help/dsp/assets/ad-specs.pdf)
+      + [Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md)
    + Campagnerapporten {#campaign-reports}
       + [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-      + [Gegevens exporteren uit een Campagnebeheerweergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
+      + [Gegevens exporteren uit een Campaign Management-weergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [De sites, advertenties en frequentiedetails voor een plaatsing weergeven](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + Gegevensweergaven beheren {#data-views}

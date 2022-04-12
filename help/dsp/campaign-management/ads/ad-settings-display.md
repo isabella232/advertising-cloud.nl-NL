@@ -3,7 +3,7 @@ title: Ad-instellingen weergeven
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor weergaveadvertenties.
 feature: DSP Ads
 exl-id: ae88dfab-0b0c-42ab-9135-422b20a4b6cd
-source-git-commit: 68af6b1846a37689dce0ca13a05cc1611b1f35a9
+source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -40,7 +40,7 @@ De volgende instellingen gelden voor standaardschermadvertenties.
 
 **[!UICONTROL Final Display Code]:** (Alleen externe advertenties) De URL voor het creatieve middel van derden, met de vereiste [Advertising Cloud DSP-tracking-macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
-**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet [ondersteunde standaardweergave en -grootte](/help/dsp/assets/ad-specs.pdf). U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code]. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen. De advertentie wordt niet opgeslagen als de afmetingen zich niet in de standaardweergave bevinden als grootten, bijvoorbeeld 301x250 in plaats van 300x250 bij het formaat.
+**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet [ondersteunde standaardweergave en -grootte](ad-specs.md). U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code]. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen. De advertentie wordt niet opgeslagen als de afmetingen zich niet in de standaardweergave bevinden als grootten, bijvoorbeeld 301x250 in plaats van 300x250 bij het formaat.
 
 >[!IMPORTANT]
 >
@@ -67,6 +67,6 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](ad-list-placements.md)
->* [Advertentiespecificaties](/help/dsp/assets/ad-specs.pdf)
+>* [Advertentiespecificaties](ad-specs.md)
 >* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
 
