@@ -3,16 +3,16 @@ title: Gegevensvisualisatie beheren
 description: Leer hoe u de metriek en weergavemodus voor gegevensvisualisatie wijzigt.
 feature: DSP Campaign Data Views
 exl-id: f557ddfc-9a20-4cbc-8ad3-230ba5df32e3
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ba1217c5097a3a17fba49761185940b252bb7e32
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # Gegevensvisualisatie beheren
 
-U kunt de metriek en grafiekwijze voor alle gegevensvisualisaties voor één enkele campagne veranderen. De wijzigingen worden toegepast op alle gegevensvisualisaties voor de campagne, inclusief de tabbladen [!UICONTROL Packages], [!UICONTROL Placements] en [!UICONTROL Ads].
+U kunt de metriek en grafiekwijze voor alle gegevensvisualisaties over campagnes of voor één enkele campagne veranderen. Wijzigingen in één campagne worden toegepast op alle gegevensvisualisaties voor de campagne, inclusief de [!UICONTROL Packages], [!UICONTROL Placements], en [!UICONTROL Ads] tabs.
 
 ## De statistieken voor een gegevensvisualisatie wijzigen
 
@@ -23,7 +23,7 @@ U kunt niet de zelfde metrisch tweemaal selecteren.
 
 ## De weergavemodus wijzigen voor een gegevensvisualisatie
 
-* Rechtsboven in de gegevensvisualisatie klikt u op de [!UICONTROL Overlay]-schakelaar (![Overlayschakelaar](/help/dsp/assets/overlay.png)) om te schakelen tussen de overlaymodus (alle grafieken samen) en de diagrammodus (drie afzonderlijke grafieken).
+* Rechtsboven in de gegevensvisualisatie klikt u op de knop [!UICONTROL Overlay] switch (![Overlay-switch](/help/dsp/assets/overlay.png)) om te schakelen tussen de overlaymodus (alle diagrammen samen) en de diagrammodus (drie afzonderlijke diagrammen).
 
 >[!MORELIKETHIS]
 >

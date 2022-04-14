@@ -3,9 +3,9 @@ title: Over rapporten in Platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1ca7639fac40eb8d3fbc3b4f7e0f45b29368f49b
+source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -87,7 +87,7 @@ U kunt de gegevens in de [!UICONTROL Sites], [!UICONTROL Ads], of [!UICONTROL Fr
 
 ### Andere types van campagne-vlakke Rapportering
 
-Voor andere gegevensbrainstormsessies, weergave [de oudere pagina&#39;s voor rapportage op campagnereniveau](/help/dsp/campaign-management/campaigns/campaign-view-report.md) van [!UICONTROL Campaigns Classic]. Het oudere rapport bevat secties over [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], en [!UICONTROL Audience Performance] gegevens.
+Voor andere gegevensbrainstormsessies, weergave [de oudere pagina&#39;s voor rapportage op campagnereniveau](/help/dsp/campaign-management/campaigns/campaign-view-report.md). Het oudere rapport bevat secties over [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], en [!UICONTROL Audience Performance] gegevens.
 
 >[!MORELIKETHIS]
 >
@@ -96,6 +96,6 @@ Voor andere gegevensbrainstormsessies, weergave [de oudere pagina&#39;s voor rap
 >* [Een aangepaste kolomweergave maken](column-view-create.md)
 >* [De kolomweergave wijzigen](column-view-change.md)
 >* [Gegevensvisualisatie beheren](campaign-data-visualization-manage.md)
->* [Gegevens exporteren uit een Campagnebeheerweergave](campaign-export-data.md)
+>* [Gegevens exporteren uit een Campaign Management-weergave](campaign-export-data.md)
 >* [Gedetailleerd rapport voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
