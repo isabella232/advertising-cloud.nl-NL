@@ -3,9 +3,9 @@ title: Over rapporten in Platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 0adbb7876e38a8fc7b8c42e9897492bb6255e2c3
+source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,21 @@ ht-degree: 0%
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
 De meningen van het campagnebeheer omvatten uitvoerige rapportgegevens. De beschikbare rapporten helpen u om de pakketten en de plaatsen te identificeren die goed presteren en die die uw aandacht vereisen. Met de knoppen voor snelle actie kunt u bovendien productiever werken.
 
-## Alle campagnes
+## Alle campagnes weergeven
 
-De [!UICONTROL Campaigns] wordt geopend voor een lijst met alle campagnes in uw account. De [!UICONTROL Subtotals] De rij toont of de som of de gemiddelde waarde van elke metrisch over alle zichtbare rijen.
+De [!UICONTROL Campaigns] wordt geopend voor een lijst met alle campagnes in uw account. &lt;!— De [!UICONTROL Subtotals] De rij toont of de som of de gemiddelde waarde van elke metrisch over alle zichtbare rijen. — Is er nog een rij Subtotals? Ik zie er geen. —>
+
+### Grafiekweergave {#chart-view}
+
+U kunt [trendgrafieken voor tijdreeksen aanpassen](campaign-data-visualization-manage.md) voor alle campagnes met behulp van drie cijfers. Standaard, gegevens voor [!UICONTROL Net Spend], [!UICONTROL Impressions], en [!UICONTROL Net CPM] zijn opgenomen in afzonderlijke grafieken ( trellis - grafieken ) . U kunt de maatstaven desgewenst wijzigen. Om uurgegevens in de grafieken van de tijdreekstrendtrend toe te laten, verander uw datumselectie in één enkele dag ([!UICONTROL Today], [!UICONTROL Yesterday], of een specifieke dag).
+
+![afzonderlijke trendgrafieken voor drie metriek](/help/dsp/assets/trend-chart-separate.png)
+
+U kunt desgewenst ook de drie metriek bedekken, zodat u op eenvoudige wijze anomalieën en gebieden kunt detecteren waarin u de schaal of de prestaties kunt verbeteren.
+
+![trenddiagram met overlay](/help/dsp/assets/trend-chart.png)
+
+### Tabelweergave
 
 ![Lijst met campagnes](/help/dsp/assets/campaigns-list.png)
 
@@ -33,17 +45,15 @@ Binnen een campagne kunt u gegevens filteren op basis van de campagneentiteit: [
 
 ![Tabbladen voor campagneentiteiten](/help/dsp/assets/campaign-subtabs.png)
 
+### Grafiekweergave
+
+Voor elke campagne kunt u [trendgrafieken voor tijdreeksen aanpassen](campaign-data-visualization-manage.md) met drie metriek, die in elke entiteitmening beschikbaar zijn. Dezelfde cijfers blijven behouden in alle trenddiagrammen voor de campagne.
+
+Zie de [De sectie van de &quot;Mening van de Grafiek&quot;op dwars-campagnemetriek](#chart-view) voor meer informatie .
+
+### Tabelweergave
+
 Op elk entiteitlusje, omvat elke rij het afvangen en leveringsmetriek, door gebrek, maar u kunt [de kolomweergave wijzigen](column-view-change.md) of zelfs [een aangepaste kolomweergave maken](column-view-create.md) om toe te passen op alle subtabbladen voor de campagne. U kunt [de gegevenstabellen aanpassen](campaign-data-views-about.md) op aanvullende manieren. Elke gegevenstabel bevat een [!UICONTROL Subtotals] rij, die of de som of de gemiddelde waarde van elke metrisch over alle zichtbare rijen toont.
-
-Voor elke campagne, kunt u de grafieken van de tijdreekstrendtrend met drie metriek ook aanpassen, die in elke entiteitmening beschikbaar zijn. Standaard, gegevens voor [!UICONTROL Net Spend], [!UICONTROL Impressions], en [!UICONTROL Net CPM] zijn opgenomen in afzonderlijke grafieken ( trellis - grafieken ) . U kunt de maatstaven desgewenst wijzigen. Om uurgegevens in de grafieken van de tijdreekstrendtrend toe te laten, verander uw datumselectie in één enkele dag ([!UICONTROL Today], [!UICONTROL Yesterday], of een specifieke dag).
-
-![afzonderlijke trendgrafieken voor drie metriek](/help/dsp/assets/trend-chart-separate.png)
-
-U kunt desgewenst ook de drie metriek bedekken, zodat u op eenvoudige wijze anomalieën en gebieden kunt detecteren waarin u de schaal of de prestaties kunt verbeteren.
-
-![trenddiagram met overlay](/help/dsp/assets/trend-chart.png)
-
-U kunt [aanpassen van de trenddiagrammen](campaign-data-visualization-manage.md) per campagne en dezelfde cijfers blijven in alle trendgrafieken van de campagne bestaan .
 
 ### Plaatsing [!UICONTROL Inspector] {#placement-inspector}
 
@@ -96,6 +106,6 @@ Voor andere gegevensbrainstormsessies, weergave [de oudere pagina&#39;s voor rap
 >* [Een aangepaste kolomweergave maken](column-view-create.md)
 >* [De kolomweergave wijzigen](column-view-change.md)
 >* [Gegevensvisualisatie beheren](campaign-data-visualization-manage.md)
->* [Gegevens exporteren uit een Campaign Management-weergave](campaign-export-data.md)
+>* [Gegevens exporteren uit een Campagnebeheerweergave](campaign-export-data.md)
 >* [Gedetailleerd rapport voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 
