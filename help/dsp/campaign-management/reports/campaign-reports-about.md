@@ -3,9 +3,9 @@ title: Over rapporten in Platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 1292f39cb2d7d690a46d4e943ed09d98c349ce41
+source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '958'
 ht-degree: 0%
 
 ---
@@ -97,7 +97,7 @@ U kunt de gegevens in de [!UICONTROL Sites], [!UICONTROL Ads], of [!UICONTROL Fr
 
 ### Andere types van campagne-vlakke Rapportering
 
-Voor andere gegevensbrainstormsessies, weergave [de oudere pagina&#39;s voor rapportage op campagnereniveau](/help/dsp/campaign-management/campaigns/campaign-view-report.md). Het oudere rapport bevat secties over [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], en [!UICONTROL Audience Performance] gegevens.
+Voor andere gegevensbrainstormsessies, weergave [de rapportagepagina&#39;s op campagnereniveau](/help/dsp/campaign-management/campaigns/campaign-view-report.md). De <!--legacy --> rapport bevat secties over [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], en [!UICONTROL Audience Performance] gegevens.
 
 >[!MORELIKETHIS]
 >
