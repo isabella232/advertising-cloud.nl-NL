@@ -3,9 +3,9 @@ title: Over rapporten in Platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 2f985d9ae8343ea0005f1aa9c33acd603d514f1d
+source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '938'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De meningen van het campagnebeheer omvatten uitvoerige rapportgegevens. De besch
 
 ## Alle campagnes weergeven
 
-De [!UICONTROL Campaigns] wordt geopend voor een lijst met alle campagnes in uw account. &lt;!— De [!UICONTROL Subtotals] De rij toont of de som of de gemiddelde waarde van elke metrisch over alle zichtbare rijen. — Is er nog een rij Subtotals? Ik zie er geen. —>
+De [!UICONTROL Campaigns] wordt geopend voor een set gegevensgrafieken over de prestaties en een lijst met alle campagnes in uw account.
 
 ### Grafiekweergave {#chart-view}
 
