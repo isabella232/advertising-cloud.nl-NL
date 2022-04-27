@@ -2,9 +2,9 @@
 title: Toevoegen [!DNL Analytics for Advertising Cloud] Macro's naar [!DNL Google Campaign Manager 360] Labels toevoegen
 description: Ontdek waarom en hoe u kunt toevoegen [!DNL Analytics for Advertising Cloud] macro's voor uw [!DNL Google Campaign Manager 360] advertentietags
 feature: Integration with Adobe Analytics
-source-git-commit: fe61dcd97d5509784a20bf8f68bea0ab2699dcfd
+source-git-commit: 2ba5656704319584e475f8c6c68943f215196ae2
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Macro&#39;s gebruiken voor [!DNL Campaign Manager 360] weergave- en videoadverte
 
 ## De macro&#39;s toevoegen aan uw [!DNL Google Campaign Manager 360] Adds
 
-Within [!DNL Google Campaign Manager 360], voegt u de volgende parameter toe aan de URL van de bestemmingspagina: `%pamo=!;`
+Within [!DNL Google Campaign Manager 360]voegt u voor elk van uw weergave- en videoadvertenties de volgende parameter toe aan de URL van de bestemmingspagina: `%pamo=!;`
 
 U kunt de URL van de bestemmingspagina op verschillende manieren opgeven. De volgende subsecties bevatten instructies voor elke optie.
 
@@ -46,20 +46,20 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 >* Als er geen andere parameters zijn opgenomen na de `amo` voegt u vervolgens een parameter toe (bijvoorbeeld &amp;a=b). Voorbeeld:`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 
-## URL-achtervoegsel van bestemmingspagina op advertentieniveau configureren
+### URL-achtervoegsel van bestemmingspagina op advertentieniveau configureren
 
 1. Klik in het hoofdmenu op de knop [!UICONTROL Advertisers] tab.
 1. Klik op de naam van de adverteerder.
 1. In de [!UICONTROL Landing page URL suffix] instellingen, inclusief `%pamo!;` in de [!UICONTROL URL suffix] veld.
 
-## Het achtervoegsel URL van bestemmingspagina op campagnereniveau configureren
+### Het achtervoegsel URL van bestemmingspagina op campagnereniveau configureren
 
 1. Klik in het hoofdmenu op de knop [!UICONTROL Campaigns] tab.
 1. Klik op de naam van de campagne.
 1. Klik op [!UICONTROL Properties].
 1. In de [!UICONTROL Landing page URL suffix] instellingen, inclusief `%pamo!;` in de [!UICONTROL URL suffix] veld.
 
-## URL-achtervoegsel van bestemmingspagina op creatief niveau configureren
+### URL-achtervoegsel van bestemmingspagina op creatief niveau configureren
 
 1. Klik in het hoofdmenu op de knop [!UICONTROL Campaigns] tab.
 1. Klik op de naam van de campagne.
