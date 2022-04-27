@@ -2,9 +2,9 @@
 title: Toevoegen [!DNL Analytics for Advertising Cloud] Macro's naar [!DNL Google Campaign Manager 360] Labels toevoegen
 description: Ontdek waarom en hoe u kunt toevoegen [!DNL Analytics for Advertising Cloud] macro's voor uw [!DNL Google Campaign Manager 360] advertentietags
 feature: Integration with Adobe Analytics
-source-git-commit: 2ba5656704319584e475f8c6c68943f215196ae2
+source-git-commit: 2dfb609e73902fcd929d96c55fbc79588074c65e
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -52,12 +52,16 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. Klik op de naam van de adverteerder.
 1. In de [!UICONTROL Landing page URL suffix] instellingen, inclusief `%pamo!;` in de [!UICONTROL URL suffix] veld.
 
+![instellingen op adverteerderniveau](/help/integrations/assets/macro-ggl360-advertiser.png)
+
 ### Het achtervoegsel URL van bestemmingspagina op campagnereniveau configureren
 
 1. Klik in het hoofdmenu op de knop [!UICONTROL Campaigns] tab.
 1. Klik op de naam van de campagne.
 1. Klik op [!UICONTROL Properties].
 1. In de [!UICONTROL Landing page URL suffix] instellingen, inclusief `%pamo!;` in de [!UICONTROL URL suffix] veld.
+
+![instellingen op campagnereniveau](/help/integrations/assets/macro-ggl360-campaign.png)
 
 ### URL-achtervoegsel van bestemmingspagina op creatief niveau configureren
 
@@ -66,6 +70,8 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 1. In de [!UICONTROL Views] menu, selecteert u [!UICONTROL Creatives].
 1. Klik op de creatieve naam.
 1. In de [!UICONTROL Click tags] instellen, include `%pamo!;` in de [!UICONTROL Landing page] voor de kliktag.
+
+![instellingen op creatief niveau](/help/integrations/assets/macro-ggl360-creative.png)
 
 ## Hoe [!DNL Analytics for Advertising Cloud] Macro&#39;s worden uitgebreid in DSP
 
