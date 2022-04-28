@@ -3,9 +3,9 @@ title: 'Adobe Advertising Cloud-steun voor de California Consumer Privacy Act: T
 description: Leer meer over de ondersteunde typen gegevensaanvragen, de vereiste instellingen en veldwaarden en voorbeelden van API-toegangsaanvragen met oude product-id's en geretourneerde gegevensvelden.
 feature: CCPA
 exl-id: 1330da6c-a944-4bb5-8539-488d97f56175
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '1086'
+source-wordcount: '1090'
 ht-degree: 0%
 
 ---
@@ -56,13 +56,13 @@ Als u verzoeken wilt indienen om persoonlijke gegevens van consumenten te benade
    >
    >Het verwijderen van persoonlijke gegevens is anders dan het uitschakelen van gegevens, waardoor een eindgebruiker niet meer doelgericht met publiekssegmenten werkt. Wanneer een consument echter om verwijdering van persoonsgegevens vraagt [!DNL Creative], [!DNL DSP], of [!DNL DCO], stuurt de bibliotheek ook een verzoek naar Advertising Cloud om de klant te weigeren zich te richten op segmenten. Voor adverteerders met [!DNL Search], adviseren wij u uw klanten een verbinding te verstrekken aan [https://www.adobe.com/privacy/opt-out.html#customeruse](https://www.adobe.com/privacy/opt-out.html#customeruse), die verklaart hoe te om uit doelgesegmenteerd publiekssegment te kiezen.
 
-1. Identificeer de Experience Cloud-id van uw organisatie en zorg ervoor dat deze is gekoppeld aan uw Advertising Cloud-accounts.
+1. Identificeer uw organisatie-id van de Experience Cloud en zorg ervoor dat deze is gekoppeld aan uw Advertising Cloud-accounts.
 
-   Een Experience Cloud-id is een alfanumerieke tekenreeks van 24 tekens die wordt toegevoegd met &quot;@AdobeOrg&quot;. Aan de meeste klanten van Experience Cloud is een id toegewezen. Als uw marketingteam of interne beheerder van het Adobe-systeem de id van uw organisatie niet kent of niet zeker weet of deze is ingericht, neemt u contact op met de klantenservice van Adobe op gdprsupport@adobe.com. U hebt de id nodig om aanvragen in te dienen bij de API voor privacy met behulp van de `imsOrgID` naamruimte.
+   Een Experience Cloud-organisatie-id is een alfanumerieke tekenreeks van 24 tekens die wordt toegevoegd met &quot;@AdobeOrg&quot;. Aan de meeste klanten van Experience Cloud is een organisatie-id toegewezen. Als uw marketingteam of interne beheerder van het Adobe-systeem uw organisatie-id niet kent of niet zeker weet of deze is ingericht, neemt u contact op met de klantenservice van Adobe op gdprsupport@adobe.com. U hebt de organisatie-id nodig om aanvragen in te dienen bij de privacy-API met behulp van de `imsOrgID` naamruimte.
 
    >[!IMPORTANT]
    >
-   >Neem contact op met de Advertising Cloud-vertegenwoordiger van uw bedrijf om te bevestigen dat alle Advertising Cloud-accounts van uw organisatie — inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search] rekeningen, en [!DNL Creative] of [!DNL DCO] accounts — zijn gekoppeld aan je Experience Cloud-id.
+   >Neem contact op met de Advertising Cloud-vertegenwoordiger van uw bedrijf om te bevestigen dat alle Advertising Cloud-accounts van uw organisatie — inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search] rekeningen, en [!DNL Creative] of [!DNL DCO] accounts — zijn gekoppeld aan uw Experience Cloud-organisatie-id.
 
 1. Gebruik een van de [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (voor geautomatiseerde verzoeken) of de [UI Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (voor ad-hocverzoeken) verzoeken om toegang tot en verwijdering van persoonsgegevens namens consumenten in te dienen bij Advertising Cloud, en de status van bestaande verzoeken te controleren.
 
@@ -73,7 +73,7 @@ Als u verzoeken wilt indienen om persoonlijke gegevens van consumenten te benade
    Wanneer u een verzoek tot verwijdering van een consument indient, worden de cookie-id of apparaat-id en alle kosten, klik en inkomstengegevens die bij het cookie horen, van de server verwijderd.
 
    >[!NOTE]
-   Als uw bedrijf meerdere Experience Cloud-id&#39;s heeft, moet u voor elke id een aparte API-aanvraag verzenden. U kunt echter één API-aanvraag indienen voor meerdere Advertising Cloud-suboplossingen ([!DNL Search], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
+   Als uw bedrijf veelvoudige organisatie IDs van Experience Cloud heeft, dan moet u afzonderlijke API verzoeken voor elk verzenden. U kunt echter één API-aanvraag indienen voor meerdere Advertising Cloud-suboplossingen ([!DNL Search], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
 
 Al deze stappen zijn nodig om steun van Advertising Cloud te ontvangen. Ga voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service en waar u de benodigde items kunt vinden naar [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
@@ -82,7 +82,7 @@ Al deze stappen zijn nodig om steun van Advertising Cloud te ontvangen. Ga voor 
 `"company context":`
 
 * `"namespace": **imsOrgID**`
-* `"value":` &lt;*de waarde van de Experience Cloud-id van uw organisatie*>
+* `"value":` &lt;*uw Experience Cloud-organisatie-id*>
 
 &quot;gebruikers&quot;:
 

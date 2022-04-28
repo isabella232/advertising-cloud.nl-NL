@@ -1,9 +1,9 @@
 ---
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
-source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
+source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '975'
 ht-degree: 0%
 
 ---
@@ -30,13 +30,13 @@ ht-degree: 0%
 
 Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over bepaalde producten delen met behulp van de unieke id van de organisatie voor Experience Cloud. U kunt specifieke productintegratie configureren in de [!UICONTROL Integrations] sectie.
 
-**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra Experience Cloud-producten die een licentie hebben gekregen via een Experience Cloud-account met meerdere adverteerders; (optioneel) De Experience Cloud-id van de organisatie.
+**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra Experience Cloud-producten die een licentie hebben gekregen via een Experience Cloud-account met meerdere adverteerders; (optioneel) De Experience Cloud-organisatie-id van de adverteerder.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Adverteerders met rechtstreekse licenties voor extra Experience Cloud-producten; (optioneel) De Experience Cloud-id van de organisatie.
+**[!UICONTROL Advertiser IMS org and ID]:** (Adverteerders met rechtstreekse licenties voor extra Experience Cloud-producten; (optioneel) De Experience Cloud-organisatie-id van de adverteerder.
 
 ### [!UICONTROL Integrations]
 
-(Optioneel) Aanvullende Experience Cloud-producten gekoppeld aan de DSP account. De producten moeten aan dezelfde Experience Cloud-id gekoppeld zijn als in de [!UICONTROL Adobe IMS IDs] sectie.
+(Optioneel) Aanvullende Experience Cloud-producten gekoppeld aan de DSP account. De producten moeten worden gekoppeld aan dezelfde organisatie-id voor Experience Cloud die in het [!UICONTROL Adobe IMS IDs] sectie.
 
 **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met Advertising Cloud Search of die Advertising Cloud-conversiepixels gebruiken) A [!DNL Search] account waarmee DSP toewijzingsgegevens zal uitwisselen.
 
