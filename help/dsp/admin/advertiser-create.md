@@ -1,10 +1,10 @@
 ---
 title: Account voor adverteerders maken
 description: Leer hoe u een advertentieaccount kunt maken.
-source-git-commit: eaed4dadd69ef3952ea2a78c8ab9706b2ad69a7b
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -24,7 +24,7 @@ Adverteerders zijn beschikbaar voor alle gebruikers in de organisatie-account.
 
       1. Geef de [!UICONTROL General] instellingen.
 
-      1. (Optioneel) Voer de Experience Cloud in van de adverteerder om integratie tussen DSP en andere Adobe Experience Cloud-producten te configureren [!DNL Organization ID] in de [!UICONTROL Adobe IMS IDs] en configureert u vervolgens de productintegratie in de [!UICONTROL Integrations] sectie.
+      1. (Optioneel) Als u integratie tussen DSP en andere Adobe Experience Cloud-producten wilt configureren, voert u de Experience Cloud-id van de adverteerder voor hun organisatie in in de [!UICONTROL Adobe IMS IDs] en configureert u vervolgens de productintegratie in de [!UICONTROL Integrations] sectie.
    1. (Optioneel) In het dialoogvenster [!UICONTROL Targeting] secties, geeft u standaarddoelen op voor elke nieuwe plaatsing.
 
       U kunt de standaarddoelstellingen voor om het even welke plaatsing met voeten treden u creeert.

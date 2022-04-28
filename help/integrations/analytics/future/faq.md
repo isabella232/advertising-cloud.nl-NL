@@ -1,9 +1,9 @@
 ---
 title: Veelgestelde vragen
 description: xxx
-source-git-commit: 5dfc4e8f2e6d2532e40eb4da8748fec0ed096e71
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ Onze accountant vraagt ons deze functie uit te schakelen. Wat gebeurt als wij di
 
 A: We hebben ons product gecontroleerd en ze hebben aangegeven dat de pixels in kwestie bedoeld zijn om de cookie-ratio&#39;s tussen Ad Cloud, de specifieke voorraad/SSP-partners (met betrekking tot DSP) en AAM te verhogen.  Als zij worden verwijderd, kan de klant één of ander niveau van verminderd gelijke tarief tussen AAC/AAM en de inventarispartners zien de respectieve pixel voor zijn, maar zij zouden niet het om substantieel verwachten te zijn.
 
-Voor Ad Cloud Search zien we IMS Org is ingesteld voor Mathworks, maar ons productteam ziet de Mathworks-instellingen om het publiek in Ad Cloud te activeren niet. Gebruikt u de manager van het Publiek van de Adobe voor het verzenden van Publiek naar het Onderzoek van Ad Cloud? Als dit niet het geval is, heeft het verwijderen van deze instellingen geen invloed op de huidige workflow. AAM klantenservice kan u helpen bij het verwijderen van deze pixels als u niet wilt dat deze worden geactiveerd.
+Voor Ad Cloud Search zien we wel dat de Experience Cloud-id van de organisatie is ingesteld op Mathworks, maar dat ons productteam de configuratie van Mathworks om het publiek in Ad Cloud te activeren niet ziet. Gebruikt u de manager van het Publiek van de Adobe voor het verzenden van Publiek naar het Onderzoek van Ad Cloud? Als dit niet het geval is, heeft het verwijderen van deze instellingen geen invloed op de huidige workflow. AAM klantenservice kan u helpen bij het verwijderen van deze pixels als u niet wilt dat deze worden geactiveerd.
 

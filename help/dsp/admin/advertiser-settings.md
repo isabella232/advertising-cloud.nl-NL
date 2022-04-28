@@ -1,9 +1,9 @@
 ---
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
-source-git-commit: ee5621329aacf54777d28fa1c1f3d50949824cee
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: '972'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ ht-degree: 0%
 
 ### [!UICONTROL Adobe IMS IDs]
 
-Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over bepaalde producten delen met behulp van de unieke [!DNL Organization ID] voor Experience Cloud. U kunt specifieke productintegratie configureren in de [!UICONTROL Integrations] sectie.
+Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over bepaalde producten delen met behulp van de unieke id van de organisatie voor Experience Cloud. U kunt specifieke productintegratie configureren in de [!UICONTROL Integrations] sectie.
 
-**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra Experience Cloud-producten die een licentie hebben gekregen via een Experience Cloud-account met meerdere adverteerders; (optioneel) De Experience Cloud van de account [!DNL Organization ID].
+**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra Experience Cloud-producten die een licentie hebben gekregen via een Experience Cloud-account met meerdere adverteerders; (optioneel) De Experience Cloud-id van de organisatie.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Adverteerders met rechtstreekse licenties voor extra Experience Cloud-producten; (facultatief) De Experience Cloud van de adverteerder [!DNL Organization ID].
+**[!UICONTROL Advertiser IMS org and ID]:** (Adverteerders met rechtstreekse licenties voor extra Experience Cloud-producten; (optioneel) De Experience Cloud-id van de organisatie.
 
 ### [!UICONTROL Integrations]
 
-(Optioneel) Aanvullende Experience Cloud-producten gekoppeld aan de DSP account. De producten moeten met dezelfde Experience Cloud worden geassocieerd [!DNL Organization ID] in de [!UICONTROL Adobe IMS IDs] sectie.
+(Optioneel) Aanvullende Experience Cloud-producten gekoppeld aan de DSP account. De producten moeten aan dezelfde Experience Cloud-id gekoppeld zijn als in de [!UICONTROL Adobe IMS IDs] sectie.
 
 **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met Advertising Cloud Search of die Advertising Cloud-conversiepixels gebruiken) A [!DNL Search] account waarmee DSP toewijzingsgegevens zal uitwisselen.
 

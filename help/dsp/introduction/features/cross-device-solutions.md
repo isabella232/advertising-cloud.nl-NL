@@ -3,9 +3,9 @@ title: Apparaatoplossingen
 description: Meer informatie over functies voor verschillende apparaten.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ca19836d5918c69161c4d850a65eaff311249225
 workflow-type: tm+mt
-source-wordcount: '1110'
+source-wordcount: '1113'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,7 @@ Met op mensen gebaseerde attributie, kunt u omzettingen verklaren die op een ver
 
 ### Meting van op personen gebaseerde kenmerken inschakelen
 
-Neem contact op met uw [!DNL Adobe] accountteam. Voor [!DNL Adobe Device Co-op] accounts, moet u uw ondertekende [!DNL Adobe Device Co-op] contract en Experience Cloud [!DNL Organization ID] (voorheen [!DNL IMS org ID]).
+Neem contact op met uw [!DNL Adobe] accountteam. Voor [!DNL Adobe Device Co-op] accounts, moet u uw ondertekende [!DNL Adobe Device Co-op] contract en de Experience Cloud-id van de organisatie (voorheen genoemd) [!DNL IMS org ID]).
 
 Om te zien of wordt een adverteerderaccount gevormd om een apparatengrafiek voor attributitemeting te gebruiken:
 
