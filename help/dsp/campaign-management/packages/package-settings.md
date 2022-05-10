@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 4a699912468cd89efec0c1da9fdb6302ca93a3b4
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,28 +18,28 @@ ht-degree: 0%
 
 **[!UICONTROL Description]:** (Optioneel) Een beschrijving van het pakket.
 
-**[!UICONTROL 3rd Party Billed Fees]:** (Optioneel) Een statische vergoeding van derden die als niet-factureerbare kosten moet worden bijgehouden:
+**[!UICONTROL 3rd Party Billed Fees]:** (Optioneel) Een statische vergoeding voor derden die als niet-factureerbare kosten moet worden bijgehouden:
 
 >[!NOTE]
 >
->Facultatieve vergoedingen worden weerspiegeld in de [!UICONTROL Net CPM]-norm.
-* **[!UICONTROL CPM]:** De kosten per 1000 beelden (CPM).
+>Facultatieve vergoedingen worden weerspiegeld in de [!UICONTROL Net CPM] metrisch.
+* **[!UICONTROL CPM]:** De kosten per 1000 impressies (CPM).
 
 * **[!UICONTROL CPM Description]:** Een beschrijving van de CPM-vergoeding.
 
-U kunt het pakket-niveau plaatsen op [plaatsingsniveau](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
+U kunt de instelling op pakketniveau overschrijven in het dialoogvenster [plaatsingsniveau](/help/dsp/campaign-management/placements/placement-settings.md).
 
 ## [!UICONTROL Goals & Budget]
 
-**[!UICONTROL Pacing & Capping]:** (Alleen-lezen voor bestaande pakketten) Op welk niveau moet de plaats en begrenzing in de verpakking worden bepaald:
+**[!UICONTROL Pacing & Capping]:** (Alleen-lezen voor bestaande pakketten) Op welk niveau moet de plaatsing van de verpakking worden geplaatst en gelimiteerd:
 
-* **[!UICONTROL Package level pacing]:** Deze pakketstrategie werkt door alle opgenomen plaatsen als een  *groep* in te pakken en te begrenzen. Deze strategie zorgt ervoor dat alle plaatsingen binnen een bepaald pakket holistisch worden geoptimaliseerd, waarbij uitgaven op basis van prestaties en schaal worden verdeeld naar geselecteerde prestatiekernindicatoren (KPI&#39;s).
+* **[!UICONTROL Package level pacing]:** Deze pakketstrategie werkt door alle inbegrepen plaatsingen als een pakket te plaatsen en te begrenzen *groep*. Deze strategie zorgt ervoor dat alle plaatsingen binnen een bepaald pakket holistisch worden geoptimaliseerd, waarbij uitgaven op basis van prestaties en schaal worden verdeeld naar geselecteerde prestatiekernindicatoren (KPI&#39;s).
 
-* **[!UICONTROL Placement level pacing]:**  Deze pakketstrategie werkt door alle opgenomen plaatsen  *afzonderlijk* in te pakken en te begrenzen. De beste praktijk is om deze strategie alleen te gebruiken om gegarandeerde transacties op de particuliere markt uit te voeren.
+* **[!UICONTROL Placement level pacing]:**  Deze pakketstrategie werkt door alle meegeleverde plaatsingen te plaatsen en te begrenzen *individueel*. De beste praktijk is om deze strategie alleen te gebruiken om gegarandeerde transacties op de particuliere markt uit te voeren.
 
 **[!UICONTROL Flight Dates]:** De begindatum en einddatum van het pakket.
 
-Selecteer *[!UICONTROL *Activate Custom Flighting]** en stel de aangepaste vluchten in de onderstaande sectie [!UICONTROL Flighting] in als u optioneel niet-gelijkmatige vluchten voor het pakket wilt maken. Wanneer u aangepaste flighting hebt ingeschakeld en het pakket hebt opgeslagen, kunt u aangepaste flighting niet uitschakelen.
+Selecteer *[!UICONTROL *Activate Custom Flighting]** en zet aangepaste vluchten op in de [!UICONTROL Flighting] hieronder. Wanneer u aangepaste flighting hebt ingeschakeld en het pakket hebt opgeslagen, kunt u aangepaste flighting niet uitschakelen.
 
 >[!NOTE]
 >
@@ -51,29 +51,29 @@ Selecteer *[!UICONTROL *Activate Custom Flighting]** en stel de aangepaste vluch
 
 Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL All time]*. Geef voor pakketten zonder aangepaste markering de budgetinterval op: *[!UICONTROL All time],* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* of *[!UICONTROL Weekly]*.
 
-**[!UICONTROL Gross Budget]:** (Pakketten met pakket-vlakke verpakking en dynamisch margebeheer slechts) Het bruto begrotingsmaximum voor de duur van het pakket.
+**[!UICONTROL Gross Budget]:** (Pakketten met alleen pakketniveau en dynamisch margebeheer) Het bruto-begrotingsmaximum voor de duur van het pakket.
 
-**[!UICONTROL Optimization Goal]:** (Pakketten met pakket-vlakke verpakking slechts) het optimalisatiedoel voor het pakket. Zie beschrijvingen van elk optimalisatiedoel bij [Optimalisatiedoelstellingen en hoe te om hen ](/help/dsp/optimization/optimization-goals.md) te gebruiken.
+**[!UICONTROL Optimization Goal]:** (Pakketten met alleen pakketniveau) Het optimalisatiedoel voor het pakket. Zie beschrijvingen van elk optimalisatiedoel op [Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md).
 
-**[!UICONTROL Custom Goals]:** (Pakketten met aangepaste optimalisatiedoelstellingen slechts) De  [aangepaste ](/help/dsp/optimization/custom-goal-about.md) doelstelling voor het pakket. Voor meer informatie over de beste praktijken voor douanedoelstellingen en campagnes die hen gebruiken, zie [Beste praktijken voor het Bouwen van een Doel van de Douane](/help/dsp/optimization/custom-goal-best-practices.md) en [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md).
+**[!UICONTROL Custom Goals]:** (Pakketten met alleen aangepaste optimalisatiedoelen) De [aangepast doel](/help/dsp/optimization/custom-goal-about.md) voor het pakket. Voor meer informatie over de beste praktijken voor douanedoelstellingen en campagnes die hen gebruiken, zie  [Beste praktijken voor het Bouwen van een Doel van de Douane](/help/dsp/optimization/custom-goal-best-practices.md) en [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md).
 
-**[!UICONTROL Package Goal Type]:** (Pakketten met aangepaste optimalisatiedoelstellingen) Het doel van het pakket. Met deze instelling kunt u bepalen hoe het pakket moet worden geoptimaliseerd:
+**[!UICONTROL Package Goal Type]:** (Pakketten met alleen aangepaste optimalisatiedoelen) Het doel van het pakket. Met deze instelling kunt u bepalen hoe het pakket moet worden geoptimaliseerd:
 
-* *[!UICONTROL Prospecting]:* Verkenningspakketten richten zich op het verwerven van nieuwe klanten.
+* *[!UICONTROL Prospecting]:* Pakketten met vooruitzichten zijn gericht op het aanschaffen van nieuwe klanten.
 
-* *[!UICONTROL Retargeting]:* Wanneer pakketten opnieuw worden samengesteld, wordt de focus gericht op het opnieuw toegankelijk maken van eerdere bezoekers of klanten.
+* *[!UICONTROL Retargeting]:* Bij het opnieuw samenstellen van pakketten worden eerdere bezoekers of klanten opnieuw belicht.
 
 * *[!UICONTROL Other]:* Alle andere doeleinden.
 
 **[!UICONTROL Linked Package for Optimization Learnings Carryover]:** (Pakketten met alleen aangepaste optimalisatiedoelen) Een ander pakket waarvan de historische gegevens worden gebruikt als invoer voor het optimaliseren van het pakket.
 
-**[!UICONTROL Target]:** (Pakketten met pakket-vlakke het passen slechts) het doeldoel, dat wordt gebruikt om prestaties te volgen.
+**[!UICONTROL Target]:** (Pakketten met pakket-vlakke het verpakken slechts) het doeldoel, dat wordt gebruikt om prestaties te volgen.
 
 >[!NOTE]
 >
 >Dit veld is alleen een benchmark en wordt niet gebruikt voor beslissingen.
 
-**[!UICONTROL Frequency Cap]:** (Pakketten met pakket-vlakke verpakking slechts) Het aantal tijden een uniek apparaat of een persoon (afhankelijk van het gespecificeerde  [!UICONTROL Cross Device Level]) kan advertenties van het pakket worden gediend. U kunt onder andere *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand opgeven.
+**[!UICONTROL Frequency Cap]:** (Pakketten met alleen pakketniveau) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven [!UICONTROL Cross Device Level]) kan uit het pakket worden aangeboden. Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
 
 >[!NOTE]
 >
@@ -82,25 +82,26 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 > * Hogere frequentiecaps resulteren in hogere uitgaven en indrukken, maar in een lager bereik. Lagere frequentiecaps resulteren in minder uitgaven en indrukken, maar in een hoger bereik.
 
 
-**[!UICONTROL Pace on]:** (Pakketten met pakket-vlakke het verpakken slechts) Wat het verpakken is gebaseerd op:
+**[!UICONTROL Pace on]:** (Pakketten met alleen pakketniveau) Waarop de verpakking is gebaseerd:
 
-* *[!UICONTROL Budget]:* (Standaard) Deze optie biedt zoveel mogelijk afbeeldingen binnen het toegewezen pakketbudget.
+* *[!UICONTROL Budget]:* (Standaard) Met deze optie krijgt u zoveel mogelijk indruk binnen het toegewezen pakketbudget.
 
-* *[!UICONTROL Impressions]:* Deze optie levert beelden tot een gespecificeerde hoeveelheid binnen een gespecificeerd interval wordt bereikt. Wanneer u deze optie selecteert, geeft u het aantal afbeeldingen en het interval op: *Altijd,* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* of *[!UICONTROL Weekly]*.
+* *[!UICONTROL Impressions]:* Met deze optie worden afbeeldingen afgedrukt totdat een opgegeven hoeveelheid binnen een opgegeven interval wordt bereikt. Wanneer u deze optie selecteert, geeft u het aantal afbeeldingen en het interval op: *Alle tijd,* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* of *[!UICONTROL Weekly]*.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Pakketten met pakket-vlakke het verpakken slechts) hoe te plaats en levering:
+**[!UICONTROL Pacing Fill Strategy]:** (Pakketten met alleen pakketniveau) Hoe plaats en levering:
 
-* *[!UICONTROL Even]:* Plaatst de levering op dezelfde wijze gedurende elke vlucht, met een doel van 50% van de levering in de eerste helft van de vlucht.
+* *[!UICONTROL Even]:* Plaatst de levering op dezelfde wijze gedurende elke vlucht, met als doel 50% van de levering in de eerste helft van de vlucht.
 
-* *[!UICONTROL Slightly Ahead]:* (Het gebrek) versnelt levering zodat het 55-65% volledig halverwege de vliegduur is.
+* *[!UICONTROL Slightly Ahead]:* (De standaardwaarde) versnelt de levering zodat deze 55-65% volledig halverwege de vliegduur is.
 
-* *[!UICONTROL Frontload]:* Versnelt levering zodat het 65-75% volledig halverwege de vlucht is.
+<!-- replaced with ASAP -->
+* *[!UICONTROL Frontload]:* Versnelt de levering, zodat deze 65-75% volledig is halverwege de vlucht.
 
 * *[!UICONTROL Aggressive Frontload]:* Versnelt levering zodat het 75-85% volledig halverwege de vlucht is.
 
 ## [!UICONTROL Flighting]
 
-(Pakketten met pakket-vlakke verpakking en met &quot;[!UICONTROL Activate Custom Flighting]&quot;toegelaten) Aangepaste vliegperiodes binnen het algemene [!UICONTROL Flight Dates] gespecificeerd in [!UICONTROL Goals & Budget] sectie.
+(Pakketten met pakket-vlakke verpakking en met &quot;[!UICONTROL Activate Custom Flighting]&quot; ingeschakeld) Aangepaste vliegperioden binnen het totaal [!UICONTROL Flight Dates] in de [!UICONTROL Goals & Budget] sectie.
 
 Voer voor elke vlucht de startdatum, de einddatum en het doelaantal indrukkingen in. Als u nog een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]**.
 
@@ -110,5 +111,5 @@ Voer voor elke vlucht de startdatum, de einddatum en het doelaantal indrukkingen
 >* [Een pakket maken](package-create.md)
 >* [Een pakket bewerken](package-edit.md)
 >* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
->* [Veelgestelde vragen over Campagnebeheer](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 
