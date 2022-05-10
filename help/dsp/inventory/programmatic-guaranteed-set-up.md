@@ -3,9 +3,9 @@ title: Opstelling een Programma Gegarandeerde Overeenkomst
 description: Leer hoe te opstelling een programma gewaarborgde (PG) overeenkomst u met een uitgever hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9e371606-5428-4635-9653-7dc43449e489
-source-git-commit: 81b1074f86685f863f89a07ecd33e892e4933512
+source-git-commit: 3c9822890e96035fc9e44f8832efcc2889a8cb5f
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,9 @@ Dit is de voorkeursmethode voor [!DNL FreeWheel], [!DNL Google Authorized Buyers
 
    * Als u een voorstel met veelvoudige PG deal IDs goedkeurt, dan identificeer elke PG standaardplaatsing u moet creëren. Wanneer u alle vereiste plaatsingen hebt gemaakt, wordt de knop Doorgaan ingeschakeld.
 
-1. (Optioneel) Bepaal de PG-deal in extra, PG- of niet-PG-plaatsing door op ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Optioneel) Bepaal de PG-deal in extra PG- of niet-PG-plaatsing door op ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->Het is mogelijk om meerdere plaatsingen toe te voegen die verschillende typen ondersteunen (CTV, Desktop, Audio enz.) aan dezelfde overeenkomst.
+   Een deal kan gericht zijn op meerdere plaatsingen die elke combinatie van mediatypen ondersteunen (zoals aangesloten tv, bureaublad en audio).
 
 ## Opstelling manueel een Programma Gegarandeerde Overeenkomst
 
@@ -54,12 +52,9 @@ Gebruik deze methode voor alle andere SSPs.
 
    Het creëren van een PG standaardplaatsing voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit soort plaatsing heeft geen doel, zodat DSP een bod op elke biedaanvraag van de uitgever kan retourneren.
 
-1. (Optioneel) Bepaal de PG-deal in extra, PG- of niet-PG-plaatsing door op ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Optioneel) Bepaal de PG-deal in extra PG- of niet-PG-plaatsing door op ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
 
->[!NOTE]
->
->Het is mogelijk om meerdere plaatsingen toe te voegen die verschillende typen ondersteunen (CTV, Desktop, Audio enz.) aan dezelfde overeenkomst.
-
+   Een deal kan gericht zijn op meerdere plaatsingen die elke combinatie van mediatypen ondersteunen (zoals aangesloten tv, bureaublad en audio).
 
 >[!MORELIKETHIS]
 >
