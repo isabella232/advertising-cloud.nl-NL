@@ -3,15 +3,16 @@ user-guide-title: Integratie met Adobe Experience Cloud
 user-guide-description: Meer informatie over de integratie van Advertising Cloud DSP en Advertising Cloud Search met andere Adobe Experience Cloud-producten en -services.
 breadcrumb-title: Integratie met Experience Cloud
 index: true
-source-git-commit: 9964887b777d430c138a08f7ff6cf53ac39defed
+source-git-commit: 5884da8177dac1313f69ba67a46713b4fd047640
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 
 # Advertising Cloud-integratie met Adobe Experience Cloud {#integrations}
+
 <!--  ADD LATER: and Adobe Experience Platform -->
 
 + [Nieuwe functies](/help/integrations/home.md)
