@@ -3,9 +3,9 @@ title: Advertentiespecificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: f3d4dcfdaaaa4b9546e92ac6d1087e73e5054a26
+source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,22 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 #### Aanvullende vereisten voor uitgevers voor aangesloten tv-advertenties
 
 * **Hulu:** Zie Hulu&#39;s [advertentiespecificaties](https://advertising.hulu.com/ad-products/video-commercial/).
+
+* **Bovengrens:** Zie Paramount&#39;s [advertentiespecificaties](https://www.paramount.com/digital-ads).
+
+* **Detectie:** Zie Detectie [advertentiespecificaties](/help/dsp/assets/discovery-networks-ad-specs.pdf).
+
+* **Max. HBO:** Zie HBO Max&#39;s [advertentiespecificaties](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+
+* **A+E-netwerk:** Zie A+E-netwerken [advertentiespecificaties](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+
+* **NBCUniversal:**
+
+   * [Digitale video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+
+   * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
+
+   * [Peacock](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
 * **Disney:**
 
