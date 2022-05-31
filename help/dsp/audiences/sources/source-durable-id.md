@@ -2,9 +2,9 @@
 title: 'Activeer Erkende Segmenten van de Duurzame partners van identiteitskaart '
 description: Meer informatie over het activeren van geverifieerde doelgroepen via een duurzame ID-oplossing.
 feature: DSP Audiences
-source-git-commit: 8550b539676588c3a6bc07abe088b38bd4251725
+source-git-commit: 155ab740084bebfba5fd992a23706129668fcc90
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Meer informatie over de DSP integratie met [!DNL LiveRamp], contact `adcloud-sup
 
 >[!MORELIKETHIS]
 >
->*[Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](source-about.md)
+>* [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](source-about.md)
 >* [Creeer een Bron van het Publiek om Eerste Publiek te activeren](source-create.md)
 >* [Broninstellingen voor publiek](source-settings.md)
 >* [Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
