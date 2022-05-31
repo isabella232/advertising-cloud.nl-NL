@@ -3,9 +3,9 @@ title: Over Audience Management in Advertising Cloud DSP
 description: Meer informatie over functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ In Advertising Cloud DSP kunt u publiekssegmenten en publiekssets maken en beher
 
 * U kunt uw eigen gegevens van het eerste publiek verzamelen door segmenten te creëren en uit te voeren. U kunt gebruikers in het segment later opnieuw toewijzen met advertenties of u kunt voorkomen dat gebruikers in het segment advertenties ontvangen. U kunt de volgende typen segmenten maken:
 
-   * [Aangepaste segmenten](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers bij te houden die zijn blootgesteld aan advertenties van desktop-, mobiele- en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
+   * [Aangepaste segmenten](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers bij te houden die zijn blootgesteld aan advertenties van desktop-, mobiele en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
 
    * [CCPA opt-out of-of-sale segmenten](/help/dsp/audiences/ccpa-opt-out-segment-create.md) om de gebruikers-id&#39;s op uw website te traceren van de door de consument ingediende opt-out-of-sale aanvragen, overeenkomstig de California Consumer Privacy Act (CCPA). U kunt maandelijkse rapporten van de gebruikers-id&#39;s ophalen uit aanvragen om niet te verkopen.
 
@@ -30,9 +30,11 @@ Er zijn ook extra publiekstypen beschikbaar voor plaatsing als doel.
 
 ## Eerste partij en gegevenssegmenten van derden importeren
 
-Advertising Cloud DSP kan uw eigen gegevenssegmenten van de eerste partij van uw gegevensbeheerplatform (DMP) invoeren en hen verstrekken aan om het even welke reeks adverteerders, zoals nodig.
+DSP kunnen uw eigen gegevenssegmenten van de eerste partij van uw gegevensbeheerplatform (DMP) invoeren en hen verstrekken aan om het even welke reeks adverteerders, zoals nodig.
 
-Advertising Cloud DSP kan ook aangepaste segmenten van derden importeren, waaronder complexe combinaties van segmenten van derden. U kunt de segmenten desgewenst aan elke set adverteerders aanbieden.
+DSP is een geïntegreerde bestemming voor [de [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), zodat u geverifieerde first-party-segmenten kunt delen met goedgekeurde adverteerders en gebruikers voor activering van de campagne. Voor meer informatie over de integratie van Real-Time CDP raadpleegt u de [Bronsectie](/help/dsp/audiences/sources/source-about.md).
+
+DSP kunnen ook aangepaste segmenten van derden importeren, waaronder complexe combinaties van segmenten van derden. U kunt de segmenten desgewenst aan elke set adverteerders aanbieden.
 
 Neem contact op met uw [!DNL Adobe] accountteam voor meer informatie.
 
@@ -40,9 +42,9 @@ Neem contact op met uw [!DNL Adobe] accountteam voor meer informatie.
 
 U kunt uw plaatsingen aan alle volgende soorten publiek richten.
 
-* Alle door de gebruiker gemaakte publiekssets die in Advertising Cloud DSP zijn opgeslagen.
+* Alle door de gebruiker gemaakte publiekssets die in DSP zijn opgeslagen.
 
-* Alle door de gebruiker gemaakte publiekssegmenten die in Advertising Cloud DSP zijn gemaakt:
+* Alle door de gebruiker gemaakte publiekssegmenten die in DSP zijn gemaakt:
 
    * Aangepaste segmenten voor gebruikers die specifieke webpagina&#39;s hebben bezocht en gebruikers die zijn blootgesteld aan indrukken van specifieke advertenties.
 
@@ -52,21 +54,21 @@ U kunt uw plaatsingen aan alle volgende soorten publiek richten.
 
 * Alle geïmporteerde gegevenssegmenten van derden.
 
-* (Plaatsen die zich richten op de V.S. slechts) [Alle gegevenssegmenten van derden die beschikbaar zijn voor Advertising Cloud DSP-klanten van meer dan 30 providers](/help/dsp/audiences/third-party-data-providers.md), met inbegrip van [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]en nog veel meer.
+* (Plaatsen die zich richten op de V.S. slechts) [Alle gegevenssegmenten van derden die beschikbaar zijn voor DSP klanten van meer dan 30 providers](/help/dsp/audiences/third-party-data-providers.md), met inbegrip van [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]en nog veel meer.
 
    U kunt zich richten op specifieke segmenten, die gebruikers richten die op publieksgegevens (bijvoorbeeld, gebruikers met specifieke demografie, belangen of intents, en/of gedragsprofielen) worden gebaseerd. U kunt bladeren door gegevensleverancier en categorie, naar segmenten door naam of segmentidentiteitskaart zoeken, of de resultaten door gegevensleverancier, totale segmentgrootte, Webbrowser telling, of apparatentelling filtreren.
 
    Voor segmenten van derden worden extra kosten aangerekend, die naast elke segmentnaam worden vermeld.
 
-* (Advertisers met Adobe Experience Cloud, Adobe Audience Manager of Adobe Analytics die alleen Advertising Cloud JavaScript-conversietags gebruiken) Al uw beschikbare eerste-, tweede- of andere publiekssegmenten die in Adobe Experience Cloud zijn gemaakt, in Audience Manager zijn gemaakt of vanuit Audience Manager naar Adobe Experience Cloud zijn gepubliceerd [!DNL Analytics].
+* (Adverteerders met Adobe Experience Platform en [!DNL Real-Time CDP], Adobe Audience Manager of Adobe Analytics die alleen conversietags voor Advertising Cloud JavaScript gebruiken) Alle beschikbare doelsegmenten van het type first-, second of third-party die zijn gemaakt in [!DNL Real-Time CDP], gemaakt in Audience Manager of gepubliceerd naar Adobe Experience Cloud vanuit Audience Manager of [!DNL Analytics].
 
-   Prijzen voor het gebruik van de segmenten worden vooraf bepaald en zijn niet zichtbaar in Advertising Cloud.  <!-- Verify -->
+   Prijzen voor het gebruik van de segmenten worden vooraf onderhandeld en zijn niet zichtbaar in DSP.
 
-   Segmenten uit Adobe Experience Cloud zijn ongeveer een uur beschikbaar nadat u deze hebt gemaakt of gepubliceerd in Adobe Experience Cloud. Segmenten die rechtstreeks afkomstig zijn uit de Audience Manager zijn ongeveer 24 uur beschikbaar nadat u ze hebt gemaakt. <!-- Verify all -->
+   Segmenten van [!DNL Analytics] zijn ongeveer een uur beschikbaar nadat u deze als Experience Cloud-publiek hebt gemaakt of gepubliceerd. Segmenten die rechtstreeks afkomstig zijn van Audience Manager of [!DNL Real-Time CDP] zijn beschikbaar binnen 24 uur nadat u deze deelt.
 
    >[!NOTE]
    >
-   >Zie de documentatie voor [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analyse](https://experienceleague.adobe.com/docs/analytics.html), en [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) voor informatie over vestiging en het verzamelen van gegevens voor segmenten in die oplossingen.
+   >Zie de documentatie voor [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analyse](https://experienceleague.adobe.com/docs/analytics.html), en [de [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) voor informatie over vestiging en het verzamelen van gegevens voor segmenten in die oplossingen.
 
 ## Gegevens over doelgrootte
 

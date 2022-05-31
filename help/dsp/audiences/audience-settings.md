@@ -3,7 +3,7 @@ title: Instellingen publiek
 description: Zie beschrijvingen van de beschikbare publieksinstellingen.
 feature: DSP Audiences
 exl-id: 959c1e04-cb09-42f0-a261-580ff98b86be
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 505944d534e04da8f903c24e7899e7a80cb836e4
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Adobe Segmenten
 
-(Optioneel) Alle Adobe Analytics- of Adobe Audience Manager-segmenten die u wilt opnemen in de publieksconfiguratie.
+(Optioneel) Alle [!DNL Adobe Real-Time Customer Data Profile], Adobe Analytics- of Adobe Audience Manager-segmenten die moeten worden opgenomen in de publieksconfiguratie.
 
 ## Aangepaste segmenten
 
@@ -39,6 +39,6 @@ ht-degree: 0%
 >* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
 >* [Syntaxis voor Audience Segment Logic](audience-segment-logic-syntax.md)
 >* [Een aangepast segment maken en implementeren](custom-segment-create.md)
->* [Een  [!UICONTROL CCPA Opt-Out-of-Sale] segment maken en implementeren](ccpa-opt-out-segment-create.md)
+>* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
 

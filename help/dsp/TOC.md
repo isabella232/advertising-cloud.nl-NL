@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 4dd819cd5feb47bce8ad56e5210c6d3c224389cb
+source-git-commit: b56bda435ef8a34b4dd695a45dea28cef2b51c85
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
       + [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
       + [[!DNL DSP] Richtlijnen voor gegevensgebruik](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
-+ Campagnebeheer {#campaign-management}
++ Campaign Management {#campaign-management}
    + [Overzicht van de Campaign Management-structuur](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campagnes {#campaigns}
       + [Informatie over Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
@@ -108,7 +108,7 @@ ht-degree: 0%
       + [Kolommen in gedownloade/geüploade werkbladen](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
    + [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Veelgestelde vragen over Campagnebeheer](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimalisatie {#optimization}
    + [Hoe [!DNL DSP] Optimaliseert uw campagnes](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md)
@@ -131,6 +131,11 @@ ht-degree: 0%
       + [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md)
       + [Instellingen publiek](/help/dsp/audiences/audience-settings.md)
       + [Syntaxis voor Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
+   + Bronnen beheren {#sources}
+      + [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md)
+      + [Activeer Erkende Segmenten van de Duurzame partners van identiteitskaart](/help/dsp/audiences/sources/source-durable-id.md)
+      + [Creeer een Bron van het Publiek om Eerste Publiek te activeren](/help/dsp/audiences/sources/source-create.md)
+      + [Broninstellingen voor publiek](/help/dsp/audiences/sources/source-settings.md)
    + [Beschikbare gegevensleveranciers van derden](/help/dsp/audiences/third-party-data-providers.md)
 + Inventaris {#inventory}
    + [Overzicht van voorraadfuncties](/help/dsp/inventory/inventory-overview.md)

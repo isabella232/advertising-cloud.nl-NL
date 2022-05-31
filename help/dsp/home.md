@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: e26d6efff8bae08b89ba4bd72748ddf7ef769a87
+source-git-commit: 611589fd6fa7067a6e5c6ddfb1f8bb5ed700a44b
 workflow-type: tm+mt
-source-wordcount: '1498'
+source-wordcount: '1530'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,8 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
-| 12 april 2022 | Campagnebeheer | Advertentiespecificaties zijn bijgewerkt om de huidige ondersteuning te weerspiegelen. | Zie &quot;[Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
+| 31 mei 2022 | Bronnen voor publiek | (Beta eigenschap) Advertising Cloud DSP kan nu eerste-partijsegmenten die van voor authentiek verklaarde signalen worden samengesteld binnen een platform van klantengegevens (CDP) worden opgenomen. | Zie &quot;[Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md).&quot; |
+| 12 april 2022 | Campaign Management | Advertentiespecificaties zijn bijgewerkt om de huidige ondersteuning te weerspiegelen. | Zie &quot;[Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
 | 17 februari 2022 | Videozelfstudies | Er is een nieuwe video beschikbaar over &quot;Hoe kan ik een standaardweergaveplaatsing maken&quot;. | Zie [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 januari 2022 | Help | Aanvullende informatie over [!DNL Deal IDs] en [!DNL Simple Ad Serving] is nu beschikbaar. | Zie het subhoofdstuk Inventaris > Privévoorraad. |
 | 10 december 2021 | Videozelfstudies | Er zijn nieuwe videozelfstudies beschikbaar: &quot;Inleiding aan Advertising Cloud DSP,&quot;de &quot;Structuur van de Rekening en Gebruikersinterface,&quot;&quot;hoe te om een Pakket tot stand te brengen,&quot;hoe te bulk uploadt de Markeringen van de Advertentie van derden,&quot;en &quot;hoe te om Plaatsen uit te geven gebruikend Bulk geeft Hulpmiddelen uit.&quot; | Zie &quot;[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html).&quot; |
@@ -43,7 +44,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 | 26 mei 2021 | Help | Het hoofdstuk &quot;Integratie met Adobe Experience Cloud&quot; is nu een aparte gids, die beschikbaar is via het [Website Advertising Cloud-documentatie](https://experienceleague.adobe.com/docs/advertising-cloud.html). De nieuwe handleiding bevat een nieuw subhoofdstuk over &quot;Werken met [!DNL Analytics Marketing Channels].&quot;<br>De inhoudsopgave voor deze DSP bevat een koppeling naar de nieuwe handleiding. | Zie &quot;[Integratie met Adobe Experience Cloud](/help/integrations/home.md).&quot; |
 | 24 mei 2021 | Help | In het &quot;Campaign Management&quot;hoofdstuk, zijn de nieuwe onderwerpen beschikbaar op hoe te om zeer belangrijke plaatsingsmontages voor een campagne te herzien en uit te geven gebruikend de spreadsheets van Excel QA. | Zie &quot;[Informatie over het corrigeren van plaatsingsinstellingen voor een campagne met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md), &quot;[Plaatsingsinstellingen voor een campagne downloaden](/help/dsp/campaign-management/qa/qa-sheet-download.md),&quot; &quot;[Plaatsingsinstellingen voor een campagne uploaden](/help/dsp/campaign-management/qa/qa-sheet-upload.md)en &quot;[Kolommen in gedownloade/geüploade werkbladen](/help/dsp/campaign-management/qa/qa-sheet-columns.md). |
 | 5 mei 2021 | Pakketinstellingen | Er is een nieuwe optie Vulstrategie voor spatiëring beschikbaar, &#39;Licht boven&#39;, die de standaardoptie is voor nieuwe pakketten. Deze strategie versnelt de levering, zodat deze 55-65% volledig is halverwege de vliegduur. | Zie &quot;[Pakketinstellingen](/help/dsp/campaign-management/packages/package-settings.md).&quot; |
-| 17 maart 2021 | Help | Het hoofdstuk &quot;Campagnebeheer&quot; is uitgebreid en bevat nu veel meer procedures en verwijzingen. | Open in de inhoudsopgave het hoofdstuk &quot;Campaign Management&quot; en de subsecties. |
+| 17 maart 2021 | Help | Het hoofdstuk &quot;Campaign Management&quot; is uitgebreid en bevat nu veel meer procedures en verwijzingen. | Open in de inhoudsopgave het hoofdstuk &quot;Campaign Management&quot; en de subsecties. |
 | 10 maart 2021 | Inventaris | U kunt niet meer [!UICONTROL Smart Ad Serving] deals met VAST-tags. In plaats daarvan, vraag uw uitgever of kunnen zij uw privé overeenkomst via een overeenkomstenidentiteitskaart in werking stellen. U kunt overeenkomst IDs van de uitgever direct invoeren gebruikend [!UICONTROL Deal ID inbox] of ga uw overeenkomstendetails manueel in.<br><br>Je bestaande deals voor Smart Advertentie zijn nog steeds beschikbaar, maar worden later dit jaar gesloten. | Zie &quot;[Over het [!UICONTROL Deal ID inbox]](/help/dsp/inventory/deal-id-inbox-about.md)&quot; en &quot;[Handmatig maken [!UICONTROL Deal ID] Details](/help/dsp/inventory/deal-id-create.md)&quot; |
 | 25 februari 2021 | Help | Documentatie over [!DNL Analytics for Advertising Cloud], die Adobe Analytics en Adobe Advertising Cloud integreert, beschikbaar is. | Voor een overzicht van de integratie raadpleegt u &quot;[Overzicht van [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md).&quot; Zie voor de volledige documentatie het hoofdstuk &quot;Integrations with Adobe Experience Cloud&quot; > &quot;[!DNL Analytics for Advertising Cloud].&quot; |
 | 28 oktober 2020 | Nieuwe Help | De oudere Help is vervangen door bijgewerkte pagina&#39;s, die beschikbaar zijn via de koppeling Help in het dialoogvenster [!DNL DSP] hoofdmenu en zijn ook te allen tijde beschikbaar vanuit [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html). | — |
