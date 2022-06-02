@@ -2,7 +2,8 @@
 title: Broninstellingen voor publiek
 description: Meer informatie over de instellingen voor publieksbronnen.
 feature: DSP Audiences
-source-git-commit: 285ececc74373be4dee9d0a4bce2c82605082630
+exl-id: 8b17d5cc-488b-4bd2-bada-ef51b35faf92
+source-git-commit: 932b1ff979cb9b617502f9797af29e88ef77adf0
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 **[!UICONTROL Enter IMS Org Id]:** De organisatie-id van de Experience Cloud voor de [!DNL Adobe Experience Platform] account.
 
-**[!UICONTROL AAC Source Key]:** (Alleen-lezen; gegenereerd wanneer een waarde wordt ingevoerd in het dialoogvenster [!UICONTROL Enter IMS Org Id] veld) De bronsleutel die u kunt gebruiken [een doelverbinding maken in [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-dsp-destination.html) om het publiek naar Advertising Cloud DSP te duwen. U kunt de waarde naar het klembord kopiëren en in het deelvenster [!DNL Adobe Real-Time CDP] instellingen voor doelverbinding of in een bestand.
+**[!UICONTROL AAC Source Key]:** (Alleen-lezen; gegenereerd wanneer een waarde wordt ingevoerd in het dialoogvenster [!UICONTROL Enter IMS Org Id] veld) De bronsleutel die u kunt gebruiken [een doelverbinding maken in [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html) om het publiek naar Advertising Cloud DSP te duwen. U kunt de waarde naar het klembord kopiëren en in het deelvenster [!DNL Adobe Real-Time CDP] instellingen voor doelverbinding of in een bestand.
 
 >[!MORELIKETHIS]
 >
