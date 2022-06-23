@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 611589fd6fa7067a6e5c6ddfb1f8bb5ed700a44b
+source-git-commit: 602d2dd36a83f5f438c444e8ccaaec92054f0186
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1560'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
 | 31 mei 2022 | Bronnen voor publiek | (Beta eigenschap) Advertising Cloud DSP kan nu eerste-partijsegmenten die van voor authentiek verklaarde signalen worden samengesteld binnen een platform van klantengegevens (CDP) worden opgenomen. | Zie &quot;[Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md).&quot; |
+| 25 mei 2022 | Optimalisatiedoelstellingen | Video- en native plaatsingen kunnen nu worden opgenomen in pakketten met de aangepaste doelen Hoogste ROAS en Laagste CPA. | Zie &quot;[Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 12 april 2022 | Campaign Management | Advertentiespecificaties zijn bijgewerkt om de huidige ondersteuning te weerspiegelen. | Zie &quot;[Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
 | 17 februari 2022 | Videozelfstudies | Er is een nieuwe video beschikbaar over &quot;Hoe kan ik een standaardweergaveplaatsing maken&quot;. | Zie [Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html). |
 | 31 januari 2022 | Help | Aanvullende informatie over [!DNL Deal IDs] en [!DNL Simple Ad Serving] is nu beschikbaar. | Zie het subhoofdstuk Inventaris > Privévoorraad. |
