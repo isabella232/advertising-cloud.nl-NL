@@ -3,7 +3,7 @@ title: Een herbruikbaar publiek maken
 description: Leer hoe u een herbruikbaar publiek kunt maken dat bestaat uit doelsegmenten en andere opgeslagen soorten publiek.
 feature: DSP Audiences
 exl-id: 48e3dc4c-6e2d-452c-8d69-7e6211d808e0
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 37e5a4fbb7e2ccda77ab0afd49054ec4d1dabf76
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -20,11 +20,11 @@ U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiek
 
 1. Klik boven de gegevenstabel op **[!UICONTROL Create]**.
 
-1. Voer een unieke [!UICONTROL Audience Name] in.
+1. Voer een unieke waarde in [!UICONTROL Audience Name].
 
-1. (Optioneel) Schakel de optie **[!UICONTROL Share with all advertisers in my account]** uit.
+1. (Optioneel) Schakel de optie uit om **[!UICONTROL Share with all advertisers in my account]**.
 
-   Wanneer u een publiek deelt, wordt het publiek beschikbaar als doel of uitsluiting voor alle adverteerders binnen de account. De afzonderlijke segmenten in het publiek zijn echter alleen beschikbaar voor gebruikers waarop de segmenten worden gedeeld. Als u bijvoorbeeld een publiek met Adobe Analytics-segmenten deelt met een adverteerder die niet is toegewezen aan dezelfde [!DNL Analytics]-account, wordt er geen voorvertoning van het segment weergegeven voor die adverteerder in dat publiek. Alleen de segmenten die voor die adverteerder beschikbaar zijn, worden in het publiek voorvertoond.
+   Wanneer u een publiek deelt, wordt het publiek beschikbaar als doel of uitsluiting voor alle adverteerders binnen de account. De afzonderlijke segmenten in het publiek zijn echter alleen beschikbaar voor gebruikers waarop de segmenten worden gedeeld. Als u bijvoorbeeld een publiek deelt dat Adobe Analytics-segmenten bevat, met een adverteerder die niet aan dezelfde groep is toegewezen [!DNL Analytics] dan zal het segment geen voorvertoning voor die adverteerder in dat publiek weergeven. Alleen de segmenten die voor die adverteerder beschikbaar zijn, worden in het publiek voorvertoond.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -32,9 +32,9 @@ U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiek
 
    >[!NOTE]
    >
-   >Tijdens het samenstellen van het publiek worden gedetailleerde [gegevens voor de doelgrootte](audience-about.md) bijgewerkt in het rechterdeelvenster.
+   >Tijdens het samenstellen van het publiek, gedetailleerd [gegevens over doelgrootte](audience-about.md) wordt bijgewerkt in het rechterdeelvenster
 
-   * Ga als volgt te werk om de segmentlogica handmatig te maken met behulp van segmenten op de tabbladen [[!UICONTROL Third Party Segments], [!UICONTROL First Party Segments], [!UICONTROL Adobe Segments], [!UICONTROL Custom Segments] en [!UICONTROL Saved Audiences]](audience-settings.md).
+   * Om de segmentlogica manueel tot stand te brengen, gebruikend segmenten beschikbaar op [[!UICONTROL Third Party Segments], [!UICONTROL First Party Segments], [!UICONTROL Adobe Segments], [!UICONTROL Custom Segments], en [!UICONTROL Saved Audiences] tabs](audience-settings.md), doe het volgende.
 
       * Als u het eerste segment wilt toevoegen, zoekt u het segment in het linkerdeelvenster en schakelt u het selectievakje naast de segmentnaam in.
 
@@ -42,32 +42,32 @@ U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiek
 
          1. Klik op de segmentgroep in het rechterdeelvenster.
 
-         1. (Optioneel) Wijzig desgewenst de groeplogica in *[!UICONTROL Include Any]*, *[!UICONTROL Include All]* of *[!UICONTROL Exclude All]*.
+         1. (Optioneel) Wijzig de logica van de groep in *[!UICONTROL Include Any]*, *[!UICONTROL Include All]*, of *[!UICONTROL Exclude All]*, indien nodig.
 
-            *[!UICONTROL Exclude All]* is niet beschikbaar aan de eerste segmentgroep. Voor een publiek dat slechts uitsluitingen omvat, bouw dit publiek als *[!UICONTROL Include Any]* en dan, binnen een plaatsing, selecteer dat publiek van het Uitgesloten menu van het Publiek.
+            *[!UICONTROL Exclude All]* is niet beschikbaar aan de eerste segmentgroep. Voor een publiek dat alleen uitsluitingen bevat, bouwt u dit publiek als *[!UICONTROL Include Any]* en selecteer vervolgens binnen een plaatsing dat publiek in het menu Uitgesloten soorten publiek.
 
          1. Zoek het nieuwe segment in het linkerdeelvenster en schakel het selectievakje naast de segmentnaam in.
 
             De segmentgroep wordt automatisch bijgewerkt met het nieuwe segment.
       * Een nieuwe segmentgroep toevoegen:
 
-         1. Klik **[!UICONTROL + New Group]** in het juiste paneel.
+         1. Klikken **[!UICONTROL + New Group]** in het rechterdeelvenster.
 
-         1. (Optioneel) Wijzig desgewenst de logica tussen de vorige groep en de nieuwe groep in *[!UICONTROL And]* of *[!UICONTROL Or]*.
+         1. (Optioneel) Wijzig de logica tussen de vorige groep en de nieuwe groep in *[!UICONTROL And]* of *[!UICONTROL Or]*, indien nodig.
 
          1. Zoek de segmenten voor de nieuwe groep in het linkerdeelvenster en selecteer de selectievakjes naast de segmentnamen.
 
-         1. (Optioneel) Wijzig desgewenst de groeplogica in *[!UICONTROL Include Any]*, *[!UICONTROL Include All]* of *[!UICONTROL Exclude All]*.
+         1. (Optioneel) Wijzig de logica van de groep in *[!UICONTROL Include Any]*, *[!UICONTROL Include All]*, of *[!UICONTROL Exclude All]*, indien nodig.
    * Segmentlogica van een bestaand publiek gebruiken:
 
       1. Kopieer de segmentlogica van het bestaande publiek op een van de volgende manieren:
 
-         * Houd in de weergave Alle soorten publiek de cursor boven de publiekstrij en klik vervolgens op **[!UICONTROL More]>[!UICONTROL Copy to Clipboard]**.
+         * Houd in de weergave Alle soorten publiek de cursor boven de personenrij en klik vervolgens op **[!UICONTROL More]>[!UICONTROL Copy to Clipboard]**.
 
-         * In de montages voor het bestaande publiek, bij de bovenkant van het paneel van de segmentlogica, klik **[!UICONTROL More]>[!UICONTROL Copy to Clipboard]**.
+         * Klik in de instellingen voor het bestaande publiek boven aan het deelvenster voor segmentlogica op **[!UICONTROL More]>[!UICONTROL Copy to Clipboard]**.
 
-         * In een tekstredacteur, creeer manueel de segmentlogica gebruikend alfanumerieke segment IDs en [Booleaanse syntaxis](audience-segment-logic-syntax.md), en kopieer het aan uw klembord.
-      1. Klik **[!UICONTROL paste in an audience rule to begin building]**, kleef de bestaande segmentlogica in het inputgebied, en klik dan **[!UICONTROL Apply]**.
+         * Maak in een teksteditor handmatig de segmentlogica met alfanumerieke segment-id&#39;s en [Booleaanse syntaxis](audience-segment-logic-syntax.md)en kopieer deze naar het klembord.
+      1. Klikken **[!UICONTROL paste in an audience rule to begin building]** plakt u de bestaande segmentlogica in het invoerveld en klikt u vervolgens op **[!UICONTROL Apply]**.
 
          >[!NOTE]
          >
@@ -85,6 +85,6 @@ U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiek
 >* [Syntaxis voor Audience Segment Logic](audience-segment-logic-syntax.md)
 >* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
 >* [Een aangepast segment maken en implementeren](custom-segment-create.md)
->* [Een  [!UICONTROL CCPA Opt-Out-of-Sale] segment maken en implementeren](ccpa-opt-out-segment-create.md)
+>* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
 
