@@ -3,9 +3,9 @@ title: Beschikbare rapportkolommen
 description: Zie beschrijvingen van beschikbare kolommen in douanerapporten.
 feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: 3daf6a25f883a7eef42dff1c95a98a4f5e65f67e
+source-git-commit: 966b4b4ca42b66880e1b7cf29005eeb256887149
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1659'
 ht-degree: 0%
 
 ---
@@ -100,7 +100,7 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Media CPM] | De gemiddelde nettomediadracht per 1000 beelden, berekend op basis van [!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Other eCPM] | De gemiddelde nettokosten per 1000 impressies voor andere vergoedingen, berekend met [!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | Het percentage van de totale biedingen op de maximale CPM. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | Het aantal afzonderlijke gebruikers waarvoor de plaatsing was geboden. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | Het aantal verschillende gebruikers waarvoor DSP een bod uitbrengt voor de plaatsing. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Net Spend] | De totale nettokosten van de via Advertising Cloud in rekening gebrachte kosten voor de gegevens van het publiekssegment. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Media Net Spend] | De totale nettokosten van factureerbare media, inclusief de technische kosten, die via Advertising Cloud in rekening worden gebracht. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Other Net Spend] | De totale kosten van andere servicekosten (controlepartners van derden, advertenties, enzovoort) die via Advertising Cloud worden gefactureerd |
