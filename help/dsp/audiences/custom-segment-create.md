@@ -3,9 +3,9 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: b6e77b91ad5626bb9ece45ec3f01126715dbe37b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ U kunt uw eigen gegevens over het eerste publiek verzamelen door een aangepast A
 
 >[!NOTE]
 >
->Om gebruikers IDs van consument van opt-out-of-verkoop verzoeken op uw website, volgens de Wet van de Privacy van de Consumentenbescherming van Californië (CCPA) te volgen, creeer een [opt-out van-CCPA segment](ccpa-opt-out-segment-create.md).
+>Als u gebruikers-id&#39;s wilt bijhouden van een aanvraag voor een opt-out-of-verkoop voor een consument op uw website, maakt u een [CCPA opt-out of-of-sales segment](ccpa-opt-out-segment-create.md).
 
 1. Maak het segment:
 
@@ -24,9 +24,9 @@ U kunt uw eigen gegevens over het eerste publiek verzamelen door een aangepast A
 
    1. Klik boven de gegevenstabel op **[!UICONTROL Create]**.
 
-   1. Voer een unieke **[!UICONTROL Segment Name]** in.
+   1. Voer een unieke waarde in **[!UICONTROL Segment Name]**.
 
-   1. Selecteer **[!UICONTROL Custom]** voor [!UICONTROL Segment Type].
+   1. Voor de [!UICONTROL Segment Type], selecteert u **[!UICONTROL Custom]**.
 
    1. Ga het Venster van het Segment in, dat het aantal dagen is het koekje van een gebruiker in het segment blijft.
 
@@ -36,22 +36,22 @@ U kunt uw eigen gegevens over het eerste publiek verzamelen door een aangepast A
 
 1. Kopieer en implementeer tags om het segment bij te houden, indien nodig:
 
-   1. Ga terug naar **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
+   1. Terug naar **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 
-   2. Plaats de cursor op de segmentrij en klik **[!UICONTROL Get pixel]**.
+   2. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Get pixel]**.
 
       * Ga als volgt te werk om bezoekers van het bureaublad en mobiele apparaten bij te houden op een webpagina:
 
-         1. Kopieer de tag voor het bijhouden van de paginaweergave, die het label &quot;[!UICONTROL Desktop or mobile websites]&quot; heeft.
+         1. Kopieer de tag voor het bijhouden van de paginaweergave, die is gelabeld als &quot;[!UICONTROL Desktop or mobile websites].&quot;
 
          1. Geef de tag door aan de adverteerder of websitecontactpersoon voor implementatie.
 
             De IT-afdeling of andere groep van de adverteerder moet mogelijk de implementatie van de tag plannen of hierover worden geïnformeerd.
       * Om gebruikers te volgen die aan een advertentie-eenheid op Desktop, mobiele, of apparaten CTV worden blootgesteld:
 
-         1. Kopieer de code voor het bijhouden van de indruk met het label &quot;[!UICONTROL Desktop or mobile ads]&quot;.
+         1. Kopieer de code voor het bijhouden van de indruk met het label &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. Voeg de tag voor elke advertentie toe aan het tabblad [!UICONTROL Pixel]. <!-- I'll add cross-reference to ad settings later. -->
+         1. Voeg de tag toe aan de [!UICONTROL Pixel] tabblad voor elke relevante advertentie of voor de [!UICONTROL Event Pixels] van de [[!UICONTROL Tracking] instellingen voor elke relevante plaatsing](/help/dsp/campaign-management/placements/placement-settings.html#placement-tracking).
 
 
 Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieksdoelstellingen of uitsluitingen voor om het even welke plaatsing gebruiken.
@@ -63,7 +63,7 @@ Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieks
 >[!MORELIKETHIS]
 >
 >* [Over Audience Management](audience-about.md)
->* [Een  [!UICONTROL CCPA Opt-Out-of-Sale] segment maken en implementeren](ccpa-opt-out-segment-create.md)
+>* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Een herbruikbaar publiek maken](reusable-audience-create.md)
 >* [Instellingen publiek](audience-settings.md)
 >* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
