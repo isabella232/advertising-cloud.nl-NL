@@ -3,9 +3,9 @@ title: Info [!DNL On Demand] Premium-voorraad
 description: Leer over de overeenkomsten die DSP met de partners van de premieuitgever vooraf heeft onderhandeld.
 feature: DSP On Demand Inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Niet beschikbaar voor gebruikers met accounttypen [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension], en [!UICONTROL Other]; adverteerders met de categorie [!UICONTROL Other]; en wederverkopers*
 
-De [!DNL On Demand] Galerie is een tool voor het detecteren van premiumvoorraden om vooraf onderhandelde deals te verkennen die Advertising Cloud DSP heeft gemaakt met onze eersteklas uitgeverspartners. Zo hebt u zonder 1:1-onderhandelingen of contracten toegang tot een niet-gegarandeerde voorraad van de belangrijkste uitgevers in de regio. U kunt om individuele overeenkomsten verzoeken, en u kunt aan een uitgever intekenen om alle overeenkomsten van de uitgever in één keer te verzoeken.
+De [!DNL On Demand] Galerie is een tool voor het detecteren van premiumvoorraden voor het verkennen van vooraf onderhandelde deals die Advertising Cloud DSP heeft gemaakt met partners met eersteklas uitgevers. Zo hebt u zonder 1:1-onderhandelingen of contracten toegang tot een niet-gegarandeerde voorraad van de belangrijkste uitgevers in de regio. U kunt om individuele overeenkomsten verzoeken, en u kunt aan een uitgever intekenen om alle overeenkomsten van de uitgever in één keer te verzoeken.
 
 Met de Advertising Cloud DSP Premium Marketplace kunt u:
 

@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: c2fbaf3381ca4380c18d55931e9f4f662da892af
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '3278'
+source-wordcount: '3277'
 ht-degree: 0%
 
 ---
@@ -440,7 +440,7 @@ Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór
             De IT-afdeling of andere groep van de adverteerder moet mogelijk de implementatie van de tag plannen of hierover worden geïnformeerd.
    1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL 3rd-party Fees]:** (Optioneel) Een statisch tarief voor een vergoeding van derden dat moet worden bijgehouden als een niet-factureerbare kostprijs per duizend impressies. De standaardinstelling op pakketniveau wordt, indien van toepassing, automatisch toegepast op nieuwe plaatsingen, tenzij u een andere waarde opgeeft.
+**[!UICONTROL 3rd-party Fees]:** (Optioneel) Een statisch tarief voor vergoedingen van derden dat moet worden bijgehouden als niet-factureerbare kosten per 1000 impressies. De standaardinstelling op pakketniveau wordt, indien van toepassing, automatisch toegepast op nieuwe plaatsingen, tenzij u een andere waarde opgeeft.
 
 >[!NOTE]
 >
@@ -452,5 +452,5 @@ Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór
 >* [Een plaatsing maken](placement-create.md)
 >* [Een plaatsing bewerken](placement-edit.md)
 >* [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Veelgestelde vragen over Campagnebeheer](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 

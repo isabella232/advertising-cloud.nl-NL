@@ -1,20 +1,20 @@
 ---
-title: Plaatsingen en advertenties voor een identiteitskaart van de Overeenkomst specificeren
+title: Plaatsingen en advertenties voor een persoonlijke deal opgeven
 description: Leer hoe u een persoonlijke deal met extra plaatsingen en advertenties kunt gebruiken.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 669cadcf-021b-4129-95d5-3d24af4a4b88
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
 
-# Plaatsingen en advertenties voor een identiteitskaart van de Overeenkomst specificeren
+# Plaatsingen en advertenties voor een persoonlijke deal opgeven
 
 Voor niet-gegarandeerde deals kunt u de deal opgeven als een inventarisatiedoel voor nieuwe plaatsingen van de [!UICONTROL Placements] weergeven.
 
-Voor PG-deals (met gegarandeerde programmacode) kunt u nieuwe plaatsingen maken met opgegeven advertenties vanuit de [!UICONTROL Deals] weergeven.
+Voor PG-deals (programmeergegarandeerd) kunt u plaatsingen maken met opgegeven advertenties vanuit de [!UICONTROL Deals] weergeven.
 
 U kunt ook [nieuwe advertenties toevoegen aan bestaande plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) te allen tijde verband houden met PG en niet-gegarandeerde deals.
 
@@ -26,9 +26,9 @@ U kunt ook [nieuwe advertenties toevoegen aan bestaande plaatsingen](/help/dsp/c
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL attach a placement]**.
+1. In de overeenkomstenrij, klik  **[!UICONTROL ...]>[!UICONTROL Attach New Placement]**.
 
-1. In de [!UICONTROL Ad & Campaign Selection] , selecteert u de advertenties die voor de plaatsing worden gebruikt:
+1. In de [!UICONTROL Ad & Campaign Selection] Selecteer de advertenties die u voor de plaatsing wilt gebruiken:
 
        1. Selecteer de adverteerder, de campagne en het type advertentie. Selecteer desgewenst een advertentiestatus waarmee de advertenties moeten worden gefilterd.
        

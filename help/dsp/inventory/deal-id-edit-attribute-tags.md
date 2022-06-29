@@ -3,9 +3,9 @@ title: Bewerk de kenmerkcodes voor een deal-id
 description: Leer hoe te om de attributenmarkeringen voor een overeenkomsidentiteitskaart tot stand te brengen en uit te geven.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 9a0190e7-26d0-4236-abbb-f1264b5d61e9
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ U kunt labels maken en toewijzen om te gaan met id&#39;s om vergelijkbare deals 
 
    * Om een bestaande markering aan de overeenkomst toe te wijzen, selecteer het controlevakje naast de overeenkomst in [!UICONTROL Custom Tags] lijst.
 
-   * Om een nieuwe markering tot stand te brengen en het te associëren met de overeenkomst, ga de markeringsnaam in in **[!UICONTROL Create new tag(s)]** en klik vervolgens op **[!UICONTROL Create and Associate Tag]**.
+   * Om een markering tot stand te brengen en het te associëren met de overeenkomst, ga de markeringsnaam in in **[!UICONTROL Create new tag(s)]** en klik vervolgens op **[!UICONTROL Create and Associate Tag]**.
 
    * Om een bestaande markering uit de overeenkomst te verwijderen, ontruim de controledoos naast de overeenkomst in [!UICONTROL Custom Tags] lijst.
 

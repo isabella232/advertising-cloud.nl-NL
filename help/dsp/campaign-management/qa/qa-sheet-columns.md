@@ -3,9 +3,9 @@ title: Kolommen in gedownloade/geüploade werkbladen
 description: Verwijs naar de kolommen in gedownloade en geupload de spreadsheets van Excel QA.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 15f1e22dbc742d372dcabf2c029f2f7d72ff1d2f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 0%
 | [!UICONTROL Brand Safety] | [!UICONTROL Site Safety Block] | Of Site Safety Block is ingeschakeld of niet: *[!UICONTROL ON]* of *[!UICONTROL OFF]*.<!-- Whether or not the advertiser-level setting Enable Site Safety Block is enabled: *ON* or *OFF*.I don’t see this option at the placement level. Should there be one? --> | — |
 | [!UICONTROL Tracking] | [!UICONTROL Tracking Pixels #] | Het aantal pixels voor het bijhouden van gebeurtenissen van derden dat aan de plaatsing is gekoppeld, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Tracking] | [!UICONTROL Conversion Pixels #] | Het aantal conversiepixels dat aan de plaatsing is gekoppeld, of *[!UICONTROL None]*. | — |
-| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | Een statisch tarief van een vergoeding van derden dat moet worden bijgehouden als een niet-factureerbare kostprijs per duizend impressies, indien van toepassing. | — |
+| [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | Een statisch tarief van een vergoeding van derden dat moet worden bijgehouden als niet-factureerbare kosten per 1000 impressies, indien van toepassing. | — |
 | [!UICONTROL Ads] | [!UICONTROL # of Ads Attached] | het aantal advertenties dat aan de plaatsing is gekoppeld, indien aanwezig, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | de namen van de advertenties die aan de plaatsing zijn gekoppeld, indien van toepassing, of *[!UICONTROL None]*. | — |
 

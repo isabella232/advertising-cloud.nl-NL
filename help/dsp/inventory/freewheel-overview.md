@@ -1,10 +1,11 @@
 ---
 title: Overzicht van de Overeenkomsten van PG van de Opstelling in [!DNL Freewheel]
-description: 'Meer informatie over de vereisten en extra stappen die nodig zijn om advertenties voor gegarandeerde programmacontracten met uitgevers uit te voeren op [!DNL Freewheel]. '
+description: Meer informatie over de vereisten en extra stappen die nodig zijn om advertenties voor gegarandeerde programmacontracten met uitgevers uit te voeren op [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Programma&#39;s gegarandeerde deals met uitgevers opzetten op [!DNL Freewheel] v
 
    Voor sommige Britse uitgevers moet u een [!DNL Clearcast] kloknummer met je advertentie.
 
-1. [Accepteer deal-id](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) u hebt al onderhandeld met een uitgever op [!DNL Freewheel] het gebruiken van identiteitskaart van de Overeenkomst Inbox.
+1. [Accepteer deal-id](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) die u al hebt onderhandeld met een uitgever op [!DNL Freewheel] het gebruiken van identiteitskaart van de Overeenkomst Inbox.
 
    Nadat u de overeenkomst goedkeurt, volg de herinneringen aan 1) selecteer de advertentie voor de overeenkomst te gebruiken en 2) creeer een programmatic gewaarborgde standaardplaatsing om de advertentie te dienen.
 

@@ -3,7 +3,7 @@ title: '''[!UICONTROL Simple Ad Serving] Deal Settings'''
 description: Meer informatie over de beschikbare instellingen voor [!UICONTROL Simple Ad Serving] deals.
 feature: DSP Simple Ad Serving
 exl-id: 1a8f215c-c52b-4099-a55f-99c4232b7a22
-source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
+source-git-commit: 17a73b5177b3dd79a32cd0b03bfa28d8ac8bf996
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 | **[!UICONTROL Media Quality Assessment?]** | (Sommige gebruikers) Laat de advertentie toe om op een andere DSP voor derdecontrole te lopen. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
 | **[!UICONTROL Ad Source]** | De enige optie is *[!UICONTROL Site Serve (Event Pixels)]*. |
 | **[!UICONTROL Ad Creation]** | (Alleen nieuwe deals) Of:<ul><li>*[!UICONTROL Create New]:* Om een advertentie voor deze overeenkomst tot stand te brengen.</li><li>*[!UICONTROL Select Ads]:* Om een bestaande advertentie voor deze overeenkomst te gebruiken.</li></ul> |
-| **[!UICONTROL Ad Type]** | Het advertentietype voor deze overeenkomst. Als u nieuwe advertenties voor de overeenkomst gaat creëren, omvat de advertentiegrootte of de duur, zoals gevraagd. De beschikbare opties variëren per mediatype. |
+| **[!UICONTROL Ad Type]** | Het advertentietype voor deze overeenkomst. Als u advertenties voor de overeenkomst gaat creëren, omvat de advertentiegrootte of de duur, zoals gevraagd. De beschikbare opties variëren per mediatype. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 | Parameter | Beschrijving |
 |-----------|-------------|
-| **[!UICONTROL Media CPM]** | De kosten per duizend beelden (CPM), zoals die in de tariefkaart voor uw contract worden weerspiegeld. Neem contact op met uw [!DNL Adobe] accountteam voor deze waarde. <br><br>Specificeer ook de munt voor de overeenkomst. Alle gebruikers kunnen USD selecteren, of, als het SSP extra valuta&#39;s steunt, de munt voor de DSP rekening. |
+| **[!UICONTROL Media CPM]** | De kosten per 1000 beelden (CPM), zoals die in de tariefkaart voor uw contract worden weerspiegeld. Neem contact op met uw [!DNL Adobe] accountteam voor deze waarde. <br><br>Specificeer ook de munt voor de overeenkomst. Alle gebruikers kunnen USD selecteren, of, als het SSP extra valuta&#39;s steunt, de munt voor de DSP rekening. |
 | **[!UICONTROL Third Party Billed Fees]** | (Optioneel) Een statische vergoeding voor derden die moet worden bijgehouden als niet-factureerbare kostprijs, en de valuta voor de transactie.<br><br>Alle gebruikers kunnen USD selecteren, of, als het SSP extra valuta&#39;s steunt, de munt voor de DSP rekening. **OPMERKING:** Facultatieve vergoedingen worden weerspiegeld in de [!UICONTROL Net CPM] metrisch. |
 | **[!UICONTROL Third Party Fee Description]** | (Optioneel) Een beschrijving van de vergoedingen van derden. |
 | **[!UICONTROL Flight Dates]** | De begin en einddata voor verkeer die deze overeenkomst gebruiken. De vluchtdata moeten worden opgenomen in de vluchtdata voor de campagne. De advertentietags retourneren alleen een reactie tijdens de opgegeven vlucht.<br><br> De beste praktijken om een afzonderlijke eenvoudige ad dienende campagne met een jaar-lange duur te creëren en het volgen pixel binnen het te bouwen. |
@@ -82,5 +82,10 @@ But I see:
 >
 >* [Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [Een [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
->* [Pixels voor het bijhouden van gebeurtenissen weergeven voor een [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [Bewerken [!UICONTROL Simple Ad Serving] Dealinstellingen](simple-deal-edit.md)
+>* [Bekijk een Gedetailleerd Rapport voor een Overeenkomst](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

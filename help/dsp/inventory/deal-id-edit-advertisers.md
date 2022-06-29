@@ -1,16 +1,16 @@
 ---
-title: Advertisers met Toegang tot identiteitskaart van de Overeenkomst uitgeven
-description: Leer hoe te om te specificeren welke adverteerders tot een overeenkomstidentiteitskaart kunnen toegang hebben.
+title: Geef Advertisers met Toegang tot een Privé Overeenkomst uit
+description: Leer hoe te om te specificeren welke adverteerders tot een privé overeenkomst kunnen toegang hebben.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 6efbc5dc-90d8-46a5-88fe-218990c6336d
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Advertisers met Toegang tot identiteitskaart van de Overeenkomst uitgeven
+# Geef Advertisers met Toegang tot een Privé Overeenkomst uit
 
 >[!NOTE]
 >
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL manage advertisers]**.
+1. In de overeenkomstenrij, klik  **[!UICONTROL ...]>[!UICONTROL Manage Advertisers]**.
 
-1. Schakel het selectievakje in naast elke adverteerder die toegang moet hebben tot de deal en schakel het selectievakje uit naast elke adverteerder die geen toegang moet hebben.
+1. In de overeenkomstenmontages, selecteer de controledoos naast elke adverteerder die toegang tot de overeenkomst zou moeten hebben, en ontruim de controledoos naast elke adverteerder die geen toegang zou moeten hebben.
 
-1. Klik op **[!UICONTROL Update]**.
+1. Klikken **[!UICONTROL Save]** om de overeenkomstenmontages te bewaren.
 
 >[!MORELIKETHIS]
 >* [Informatie over privé-voorraad](private-inventory-about.md)

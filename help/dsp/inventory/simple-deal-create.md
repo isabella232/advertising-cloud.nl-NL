@@ -3,9 +3,9 @@ title: '"Maak een [!UICONTROL Simple Ad Serving] Overeenkomst"'
 description: '"Leer hoe u een tekstspatiëringspixel maakt voor een [!UICONTROL Simple Ad Serving] deal."'
 feature: DSP Simple Ad Serving
 exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 3eb63e9d7161c354736ce53ee21518882c541884
+source-git-commit: 089d91f7d1b06e29d27ac95a46834127d19c141d
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
          * Voor nieuwe advertenties maakt u een proxy [advertenties van derden](/help/dsp/campaign-management/ads/ad-create-multiple.md).
       >[!NOTE]
-      > DSP zal de advertenties die u opgeeft, niet bedienen. De uitgever zal de advertentie bedienen.
+      > DSP heeft niet de advertenties die u opgeeft. De uitgever dient de advertentie.
 
       1. Klik op **[!UICONTROL Next]**.
    1. Bewerk in Details feed de gegevens van de feed en klik vervolgens op **[!UICONTROL Next]**.
@@ -48,7 +48,7 @@ ht-degree: 0%
          * Als u de gegevens in een e-mailbericht in een e-mailtoepassing op uw apparaat wilt plakken, klikt u op **[!UICONTROL Email & Done]** en selecteer de e-mailtoepassing. De [!UICONTROL CC:] veld is vooraf gevuld met een [!DNL Adobe] ondersteuningsadres. U kunt het bericht dan naar het aangewezen contact voor de uitgever verzenden.
 
          * Als u de gegevens naar het klembord wilt kopiëren, klikt u op **[!UICONTROL Copy Email].** Vervolgens kunt u de inhoud handmatig in een e-mailbericht plakken en naar de juiste contactpersoon voor de uitgever verzenden. U moet een kopie (CC:) opnemen naar `publisher-support-global@adobe.com`. Wanneer u klaar bent met het kopiëren van het bericht, klikt u op **[!UICONTROL Email & Done]**.
-      1. (Indien nodig) Neem contact op met de uitgever om te controleren of de tag de juiste macro&#39;s bevat, zodat de tag kan worden gebruikt voor de advertentieserver van de uitgever.
+      1. (Indien nodig) Neem contact op met de uitgever om te controleren of de tag de juiste macro&#39;s bevat, zodat de tag met de advertentieserver van de uitgever werkt kan worden.
    * (Optioneel) Stuur de pixels voor het bijhouden van gebeurtenissen handmatig naar de uitgever:
 
       1. In de overeenkomstenrij binnen [!UICONTROL Deals] weergeven, klikken ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL show pixel]**.
@@ -63,5 +63,9 @@ ht-degree: 0%
 >
 >* [Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [[!UICONTROL Simple Ad Serving] Instellingen](simple-deal-settings.md)
->* [Pixels voor het bijhouden van gebeurtenissen weergeven voor een [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [Bekijk een Gedetailleerd Rapport voor een Overeenkomst](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

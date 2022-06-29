@@ -3,9 +3,9 @@ title: Informatie over privé-voorraad
 description: Informatie over privé-voorraad
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Adverteerders die verder kijken dan RTB kunnen privéinventarisaties gebruiken o
 
 ### Deal IDs
 
-Als u directe relaties hebt met uitgevers, kunt u het aankoopproces en de workflow voor media stroomlijnen met behulp van uw eigen persoonlijke deals, met hun via onderhandelingen tot stand gekomen inventaris en prijzen, in uw Advertising Cloud DSP-aanbiedingen. DSP integreren met al uw uitgevers wanneer u een account instelt. Als u later toegang wilt tot extra uitgevers, neemt u contact op met uw [!DNL Adobe] -accountteam voor toegang instellen. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+Als u directe relaties hebt met uitgevers, kunt u het aankoopproces en de workflow voor media stroomlijnen met behulp van uw eigen persoonlijke deals, met hun via onderhandelingen tot stand gekomen inventaris en prijzen, in uw Advertising Cloud DSP-aanbiedingen. DSP integreert met al uw uitgevers wanneer u opstelling een rekening. Als u later toegang wilt tot extra uitgevers, neemt u contact op met uw [!DNL Adobe] -accountteam voor toegang instellen. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 Al uw privé overeenkomsten met een overeenkomstenidentiteitskaart worden gefinancierd en gefactureerd door [!DNL Adobe].
 
@@ -38,7 +38,7 @@ U kunt elke privé overeenkomst als plaatsingsdoel voor veelvoudige campagnes ov
 
 [!UICONTROL Simple Ad Serving] biedt niet-gedecideerde, gegarandeerde en bezorgde en rapporteringsgegevens voor media die buiten Advertising Cloud DSP worden bediend.
 
-Elke advertentie wordt rechtstreeks door de uitgever bediend, en DSP verstrekt een gebeurtenis-volgende pixel om naar de uitgever te verzenden, die de pixel moet uitvoeren en de advertenties verstuurt.
+Elke advertentie wordt rechtstreeks door de uitgever bediend, en DSP verstrekt een gebeurtenis-volgende pixel om naar de uitgever te verzenden, die de pixel moet uitvoeren en de advertenties verhandelen.
 
 Zie voor meer informatie &quot;[Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md).&quot;
 

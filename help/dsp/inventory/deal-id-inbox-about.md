@@ -3,9 +3,9 @@ title: Over het [!UICONTROL Deal ID Inbox]
 description: Meer informatie over de [!UICONTROL Deal ID inbox] functie, waarmee u persoonlijke deals kunt accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), and [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Geef de uitgever tijdens de onderhandelingen over deals de deal door aan de kope
 
 * **Overeenkomsten accepteren** na revisie en worden niet meer weergegeven in het dialoogvenster [!UICONTROL Deal ID inbox]. Geaccepteerde deals worden aangeboden in [!UICONTROL Inventory] > [!UICONTROL Deals] en zijn klaar om zich te richten binnen de plaatsen van adverteerders.
 
-* **Overeenkomsten negeren** die niet nodig of ongevraagd zijn. Genegeerde deals worden verplaatst naar de [!UICONTROL Ignored Deals] binnen de [!UICONTROL Deal ID inbox], die als archief fungeert. DSP waarschuwt geen SSPs en uitgevers wanneer u een overeenkomsten negeert.
+* **Overeenkomsten negeren** die niet nodig of ongevraagd zijn. Genegeerde deals worden verplaatst naar de [!UICONTROL Ignored Deals] binnen de [!UICONTROL Deal ID inbox], die als archief fungeert. DSP waarschuwt geen SSPs en uitgevers wanneer u een overeenkomst negeert.
 
 * **Details wijzigen voor reeds geaccepteerde deals** van [!UICONTROL Inventory] > [!UICONTROL Deals] (niet in de [!UICONTROL Deal ID inbox]). Op dezelfde manier zijn adverteerders verantwoordelijk voor het implementeren van deze wijzigingen in [!UICONTROL Inventory] > [!UICONTROL Deals] omdat de [!UICONTROL Deal ID inbox] synchroniseert geen veranderingen van SSPs nadat de overeenkomsten opstelling zijn.
 
@@ -69,7 +69,7 @@ U kunt de volgende typen overeenkomsten niet accepteren:
 
 * Oud [!DNL Magnite DV+] deals die werden gelabeld als &quot;meerdere mediatypen&quot;.
 
-De overeenkomstendetails omvatten de reden de overeenkomst niet beschikbaar is te accepteren.
+De overeenkomstendetails omvatten de reden dat de overeenkomst niet beschikbaar is te aanvaarden.
 
 >[!MORELIKETHIS]
 >

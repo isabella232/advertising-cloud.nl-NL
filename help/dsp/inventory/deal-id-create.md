@@ -3,9 +3,9 @@ title: Handmatig details van deal-id maken
 description: Leer hoe te om details voor een identiteitskaart van de Overeenkomst manueel in te gaan.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
-source-git-commit: 593bfc03d2dd182b817be9eac4792dfd690132a2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 1. Voer de [deal-instellingen](deal-id-settings.md):
 
-   1. In de [!UICONTROL Deal ID basics] van de sectie, specificeer de overeenkomstendetails en adverteerders die tot de overeenkomst kunnen toegang hebben. Voor gegarandeerde deals moet u ook de geplande vluchtdata en de geschatte indrukken specificeren, alleen voor traceringsdoeleinden.
+   1. In de [!UICONTROL Deal ID basics] van de sectie, specificeer de overeenkomstendetails en adverteerders die tot de overeenkomst kunnen toegang hebben. Voor gegarandeerde deals moet u ook de geplande vluchtdata en het geschatte aantal indrukken specificeren, alleen voor traceringsdoeleinden.
 
    1. (Alleen gebruikers van beheerders; (optioneel) In de [!UICONTROL Technical] de standaardinstellingen naar wens bewerken.
 
    1. Klik op **[!UICONTROL Save]**.
 
-1. (Gegarandeerde overeenkomsten slechts) selecteer de advertenties die voor de overeenkomst zullen worden gebruikt en creeer een standaard programmatic gewaarborgde plaatsing (PG).
+1. (Gegarandeerde overeenkomsten slechts) selecteer de advertenties die voor de overeenkomst te gebruiken en een standaard programmatic gegarandeerde plaatsing (PG) tot stand te brengen.
 
-   Standaard PG-plaatsingen zorgen ervoor dat je deal altijd een bod retourneert voor elke biedaanvraag. Als u geen standaardplaatsing van PG creeert, dan zullen om het even welke plaatsen die de overeenkomst richten geen biedingen plaatsen tenzij zij opstelling correct zijn. U moet altijd een standaard-PG-plaatsing maken. In de [!UICONTROL Placements] weergave, standaard-PG-plaatsingen hebben een [!UICONTROL Sub-type] kolomwaarde van &quot;[!UICONTROL PG Default].&quot;
+   De standaardPG plaatsingen zorgen ervoor dat uw overeenkomst altijd een bod voor elke biedingsverzoek terugkeert. Als u geen standaardplaatsing van PG creeert, dan om het even welke plaatsen die de overeenkomst richten plaatsen geen biedingen tenzij zij opstelling correct zijn. U moet altijd een standaard-PG-plaatsing maken. In de [!UICONTROL Placements] weergave, standaard-PG-plaatsingen hebben een [!UICONTROL Sub-type] kolomwaarde van &quot;[!UICONTROL PG Default].&quot;
 
    U kunt naar keuze de overeenkomst als inventarisdoel in extra plaatsingen gebruiken maar moet hen opstelling correct om biedingen te plaatsen.
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
       1. Selecteer de adverteerder, de campagne en het type advertentie. Selecteer desgewenst een advertentiestatus waarmee de advertenties moeten worden gefilterd.
 
-      1. Van de lijst van beschikbare advertenties, selecteer de controledoos naast elke advertentie die voor de overeenkomst zal worden gebruikt.
+      1. Van de lijst van beschikbare advertenties, selecteer de controledoos naast elke advertentie om voor de overeenkomst te gebruiken.
 
       1. Klik op **[!UICONTROL Apply]**.
    1. In het scherm met plaatsingsinstellingen:

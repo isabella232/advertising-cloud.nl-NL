@@ -3,9 +3,9 @@ title: Info [!UICONTROL Simple Ad Serving]
 description: Meer informatie over [!UICONTROL Simple Ad Serving] deals met pixels voor het bijhouden van gebeurtenissen.
 feature: DSP Simple Ad Serving
 exl-id: d65d1d8e-4d10-4d1d-86d3-f4457c29ae8d
-source-git-commit: 5a8aaa3fba6cca33915fc9720c78493f98244b61
+source-git-commit: cdb4f7c014ee4c7606c2e6acd5b3e2bfd08b275d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 [!UICONTROL Simple Ad Serving] biedt gegarandeerde, niet-gedecideerde levering en rapportage voor een opgegeven uitgever en één advertentietype met behulp van één specifieke plaatsing. Gebruiken [!DNL Simple Ad Serving] wanneer uw uitgever uw overeenkomst via deal IDs niet kan uitvoeren. Alle doelen, budgetsnelheid en plafonnering en frequentiecapping worden door de uitgever verwerkt. Voer deze deals uit via pixels die gebeurtenissen bijhouden.
 
-Met [!UICONTROL Simple Ad Serving], wordt elke advertentie rechtstreeks door de uitgever (siteserve) bediend, en DSP verstrekt een gebeurtenis-volgende pixel aan de uitgever te verzenden, die de pixel moet uitvoeren en de DSP advertenties verstuurt. Afhankelijk van het voorraadtype, meten de gebeurtenispixel indruk, klik-door, en video speelgebeurtenissen.
+Met [!UICONTROL Simple Ad Serving], wordt elke advertentie rechtstreeks door de uitgever (siteserve) bediend, en DSP verstrekt een gebeurtenis-volgende pixel aan de uitgever te verzenden, die de pixel moet uitvoeren en de DSP advertenties moet verleggen. Afhankelijk van het voorraadtype, meten de gebeurtenispixel indruk, klik-door, en video speelgebeurtenissen.
 
 De volgende advertentietypen zijn beschikbaar:
 
@@ -31,6 +31,11 @@ U kunt een [!UICONTROL Simple Ad Serving] akkoord [!UICONTROL Inventory] > [!UIC
 >[!MORELIKETHIS]
 >
 >* [Een [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
+>* [Bewerken [!UICONTROL Simple Ad Serving] Dealinstellingen](simple-deal-edit.md)
 >* [[!UICONTROL Simple Ad Serving] Instellingen](simple-deal-settings.md)
->* [Pixels voor het bijhouden van gebeurtenissen weergeven voor een [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [Bekijk een Gedetailleerd Rapport voor een Overeenkomst](/help/dsp/inventory/deal-view-report.md)
 
+
+<!-- add back when reimplemented:
+>* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+-->

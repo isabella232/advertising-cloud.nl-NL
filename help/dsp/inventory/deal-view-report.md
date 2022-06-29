@@ -1,16 +1,15 @@
 ---
-title: Bekijk een Gedetailleerd Rapport voor een Privé Overeenkomst
+title: Bekijk een gedetailleerd rapport voor privé, [!UICONTROL On Demand], of [!UICONTROL Simple Ad Serving] Deal
 description: Leer hoe te om een deal-vlakke rapport te openen.
-feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 80ed239f-16c9-4aba-b1d2-2471133c676b
-source-git-commit: 83a4f400959846381b5a339edd2f4901e04b9826
+feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals, DSP On Demand Inventory, DSP Simple Ad Serving
+source-git-commit: 08b58c1d5c46761c7ab3ebf88ca87dddaadaaa47
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# Bekijk een Gedetailleerd Rapport voor een Privé Overeenkomst
+# Bekijk een Gedetailleerd Rapport voor een Overeenkomst
 
 In het verslag op het niveau van de deal worden het aantal veilingen, de biedkoers, de win-winkoers, het aantal indrukkingen, de totale netto-uitgaven, het effectieve CMP (eCPM) en het voltooiingspercentage vermeld. U kunt aanvullende prestatiemetriek bekijken door adverteerder, campagne, plaatsing, advertentietype en site.
 
@@ -22,6 +21,7 @@ In het verslag op het niveau van de deal worden het aantal veilingen, de biedkoe
 
 >[!MORELIKETHIS]
 >
+>* [Info [!DNL On Demand] Premium-voorraad](on-demand-inventory-about.md)
 >* [Informatie over privé-voorraad](private-inventory-about.md)
->* [Maak een lijst van de Plaatsingen en Adverten voor een PrivéOvereenkomst](private-deal-view-placements.md)
+>* [Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 

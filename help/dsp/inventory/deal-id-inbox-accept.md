@@ -1,11 +1,11 @@
 ---
 title: Accepteer een Overeenkomst in [!UICONTROL Deal ID Inbox]
-description: Leer hoe te om een privé overeenkomst goed te keuren u reeds met een uitgever op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+]  (vroeger [!DNL Rubicon]) gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
+description: Leer hoe u een persoonlijke deal accepteert die u al met een uitgever hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), and [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) die identiteitskaart Inbox van de Overeenkomst gebruiken.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 55e8ca50-05f5-4f38-9fd5-afaed71315dc
-source-git-commit: 8046ec79ec24f47fe33e49c6097e44dbba450f1f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -14,39 +14,39 @@ ht-degree: 0%
 
 *Gebruikers in DSP accounts die alleen zijn toegewezen aan SSP-accounts*
 
-Gebruik [!UICONTROL Deal ID inbox] om een privé overeenkomst snel goed te keuren u reeds met een uitgever op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (vroeger genoemd als [!DNL AdX]), en [!DNL Magnite DV+] (vroeger [!DNL Rubicon]) hebt onderhandeld.
+Gebruik de [!UICONTROL Deal ID inbox] om een privé overeenkomst snel goed te keuren u met een uitgever reeds hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), en [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]).
 
 >[!NOTE]
 >
->Voor het instellen van gegarandeerde programmatische deals met uitgevers op [!DNL FreeWheel] zijn extra machtigingen en stappen vereist. Zie &quot;[Overzicht van de Programmatic Gegarandeerde Overeenkomsten van de Opstelling in FreeWheel](freewheel-overview.md)&quot;voor meer informatie.
+>Programma&#39;s gegarandeerde deals met uitgevers opzetten op [!DNL FreeWheel] vereist extra machtigingen en stappen. Zie &quot;[Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel](freewheel-overview.md)&quot; voor meer informatie .
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
-1. Klik boven de lijst met [!UICONTROL Deals] op de blauwe balk om [!UICONTROL Deal ID inbox] te openen.
+1. Boven de lijst met [!UICONTROL Deals]klikt u op de blauwe balk om het dialoogvenster [!UICONTROL Deal ID inbox].
 
 1. (Facultatief) om de overeenkomstendetails te verfrissen, klik **[!UICONTROL Refresh]**.
 
-   DSP vernieuwt automatisch alle overeenkomstendetails dagelijks om 4:30 a.m. EST. Ook worden alle [!DNL FreeWheel] deals vernieuwd en worden bestaande deals van [!DNL Google] en [!DNL Magnite DV+] per uur bijgewerkt.
+   DSP vernieuwt automatisch alle overeenkomstendetails dagelijks om 4:30 a.m. EST. Het verfrist ook alle [!DNL FreeWheel] deals en updates van bestaande deals van [!DNL Google] en [!DNL Magnite DV+] uur.
 
-1. (Als u eerder de overeenkomst genegeerd) klik **[!UICONTROL Ignored Deals]** tabel.
+1. (Als u eerder de overeenkomst negeerde) klik **[!UICONTROL Ignored Deals]** tab.
 
-1. Om de overeenkomstendetails, zoals de uitgever en de data te herzien en te bevestigen, de curseur over de overeenkomstenrij te houden en ![Overzicht](/help/dsp/assets/review.png) te klikken.
+1. Om de overeenkomstendetails, zoals de uitgever en de data te herzien en te bevestigen, de curseur over de overeenkomstenrij te houden en te klikken ![Controleren](/help/dsp/assets/review.png).
 
 1. Voer een van de volgende handelingen uit:
 
    * In de overeenkomstendetails, klik **[!UICONTROL Accept]**.
 
-   * In [!UICONTROL Deal ID inbox], houd de curseur over de overeenkomstenrij en klik ![Accept](/help/dsp/assets/accept.png).
+   * In de [!UICONTROL Deal ID inbox], houd de curseur over de overeenkomstenrij en klik ![Accepteren](/help/dsp/assets/accept.png).
 
 1. In de overeenkomstendetails:
-   1. Voer de vereiste gegevens in: **[!UICONTROL Publisher]**, **[!UICONTROL Media Type]**, en **[!UICONTROL Deal Access]** (de adverteerders die toegang tot de overeenkomst zullen hebben).
+   1. Voer de vereiste gegevens in: **[!UICONTROL Publisher]**, **[!UICONTROL Media Type]**, en **[!UICONTROL Deal Access]** (de adverteerders die toegang hebben tot de deal).
    1. (Facultatief) specificeer extra rekeningen waarmee om de overeenkomst te delen of etiketten aan het overeenkomstenverslag vast te maken.
 
    1. Klik op **[!UICONTROL Save]**.
 
 1. (Programmatic gewaarborgde overeenkomsten slechts) volg de herinneringen om een advertentie voor de overeenkomst te selecteren en een programmatic gewaarborgde standaardplaatsing tot stand te brengen die de overeenkomst richt.
 
-Zodra u een overeenkomst goedkeurt, wordt het bewogen van [!UICONTROL Deal ID inbox] aan [!UICONTROL Inventory] > [!UICONTROL Deals] mening, en de overeenkomst is beschikbaar als privé inventarisbron in elke sectie [!UICONTROL Inventory Targeting] van de plaatsing.
+Zodra u een overeenkomst goedkeurt, wordt het bewogen van [!UICONTROL Deal ID inbox] aan de [!UICONTROL Inventory] > [!UICONTROL Deals] mening, en de overeenkomst is beschikbaar als privé inventarisbron in elke plaatsing [!UICONTROL Inventory Targeting] sectie.
 
 >[!MORELIKETHIS]
 >

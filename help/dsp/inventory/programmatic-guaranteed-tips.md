@@ -3,16 +3,16 @@ title: Tips voor onderhandelingen over een gegarandeerde programmatische deal
 description: Leer tips voor het onderhandelen over een PG-deal (met gegarandeerde programmacode) en lijsten met de verantwoordelijkheden van kopers en uitgevers.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: b754f993-b52f-4527-a246-bf232038c7cd
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # Tips voor onderhandelingen over een gegarandeerde programmatische deal
 
-Wanneer het onderhandelen over een programmatic gegarandeerde overeenkomst, moeten de koper en de uitgever de volgende punten bespreken en bevestigen:
+Bij het onderhandelen over een gegarandeerde programmatic deal moeten de koper en uitgever de volgende items bespreken en bevestigen:
 
 * Vluchtdatum
 * Geos

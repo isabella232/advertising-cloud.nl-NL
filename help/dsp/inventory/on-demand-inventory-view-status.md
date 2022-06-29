@@ -3,9 +3,9 @@ title: De status van je [!DNL On Demand] Aanvragen en abonnementen voor deals
 description: Leer hoe u de status van uw [!DNL On Demand] deal verzoeken en abonnementen.
 feature: DSP On Demand Inventory
 exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---

@@ -3,7 +3,7 @@ title: Opnieuw aanvragen [!DNL On Demand] Premium-inventaristransacties
 description: Meer informatie over opnieuw aanvragen [!DNL On Demand] deals die voorheen werden geweigerd.
 feature: DSP On Demand Inventory
 exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Zodra een overeenkomst is [goedgekeurd](/help/dsp/inventory/on-demand-inventory-
 
    1. Filter de beschikbare deals om deals op te nemen die u hebt aangevraagd (**[!UICONTROL Currently subscribed to]**)**.
 
-   1. (Optioneel) Schakel tussen de [!UICONTROL Subscriptio] , waarin de logo&#39;s van alle uitgevers worden weergegeven op basis van uw filters, en de [!UICONTROL Deal] bekijken, die van alle overeenkomsten voor elke uitgever een lijst maakt die op uw filters wordt gebaseerd, door te klikken **[!UICONTROL Subscription view]** en **[!UICONTROL Deal view]**, indien nodig.
+   1. (Optioneel) Schakel tussen de [!UICONTROL Subscription] , waarin de logo&#39;s van alle uitgevers worden weergegeven op basis van uw filters, en de [!UICONTROL Deal] bekijken, die van alle overeenkomsten voor elke uitgever een lijst maakt die op uw filters wordt gebaseerd, door te klikken **[!UICONTROL Subscription view]** en **[!UICONTROL Deal view]**, indien nodig.
 
    1. De afzonderlijke deals opnieuw aanvragen:
    * Van de [!UICONTROL Deal] weergeven, klikken **[!UICONTROL Rerequest]** in de [!UICONTROL Action] kolom voor de desbetreffende rij.

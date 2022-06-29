@@ -1,30 +1,30 @@
 ---
-title: Instellingen van deal-id bewerken
-description: Leer hoe te om details voor een overeenkomstenidentiteitskaart uit te geven
+title: Instellingen voor persoonlijke deal bewerken
+description: Leer hoe te om details voor een privé overeenkomst uit te geven.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 171a3dae-6a25-4e16-85f8-cd4138ec4ba8
-source-git-commit: 3e47fec28a17cb64de42309c0368293e1ef1cdea
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# Instellingen van deal-id bewerken
+# Instellingen voor persoonlijke deal bewerken
 
 De veranderingen in een toegelaten overeenkomst worden niet gesynchroniseerd van SSP. Als u een overeenkomst hebt goedgekeurd maar de uitgever heeft veranderingen verzonden, kunt u sommige elementen van de overeenkomstenmontages van uitgeven [!UICONTROL Inventory] > [!UICONTROL Deals]. U kunt een overeenkomst op elk ogenblik ook anders noemen.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL edit]**.
+1. In de overeenkomstenrij, klik  **[!UICONTROL ...]>[!UICONTROL edit]**.
 
 1. Bewerk de [deal-instellingen](deal-id-settings.md).
 
    U kunt de [!UICONTROL Deal Name], [!UICONTROL Media Type] (wanneer de overeenkomst veelvoudige media types omvat), [!UICONTROL CPM] waarde, [!UICONTROL Account email], [!UICONTROL Advertisers that can access this deal], [!UICONTROL Flight dates], en [!UICONTROL Impressions].
 
-   U kunt de [!UICONTROL Deal ID], [!UICONTROL Publisher], [!UICONTROL SSP], of [!UICONTROL Billing Method].
+   U kunt de [!UICONTROL Deal ID], [!UICONTROL Publisher], [!UICONTROL SSP], [!UICONTROL Deal Type], of [!UICONTROL Billing Method].
 
-1. Klik op **[!UICONTROL Save and continue]**.
+1. Klik op **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >

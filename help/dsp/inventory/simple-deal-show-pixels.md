@@ -2,9 +2,10 @@
 title: Gebeurtenispixels weergeven voor een [!UICONTROL Simple Ad Serving] Deal
 description: Leer hoe u een kopie van de pixels voor het bijhouden van gebeurtenissen ophaalt voor een [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
-source-git-commit: 22f5d8279fadfcf79e2cd41566321f423d63eb16
+exl-id: 88d18ddd-98ba-4e36-890c-d6ddfb7d59e5
+source-git-commit: a29019ee7af0124ad9182f0578811c4d0e666937
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -25,5 +26,7 @@ De gebeurtenispixels bevatten een [!UICONTROL Clickthrough] en [!UICONTROL Impre
 >
 >* [Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
 >* [Een [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
+>* [Bewerken [!UICONTROL Simple Ad Serving] Dealinstellingen](simple-deal-edit.md)
 >* [[!UICONTROL Simple Ad Serving] Instellingen](simple-deal-settings.md)
+>* [Bekijk een Gedetailleerd Rapport voor een Overeenkomst](/help/dsp/inventory/deal-view-report.md)
 
