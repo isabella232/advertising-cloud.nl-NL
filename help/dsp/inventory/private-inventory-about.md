@@ -3,9 +3,9 @@ title: Informatie over privé-voorraad
 description: Informatie over privé-voorraad
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad4bdfdc637af34b02c42d6547c39301f2a0cf47
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,7 @@ ht-degree: 0%
 
 Adverteerders die verder kijken dan RTB kunnen privéinventarisaties gebruiken om exclusieve mediatransacties te vergemakkelijken. Particuliere beurzen stellen uitgevers in staat exclusieve voorraadpools te creëren, die erkende adverteerders kunnen gebruiken om via realtime platforms te kopen. Een privéuitwisseling biedt het vertrouwen van een directe aankoop in combinatie met programmatische voordelen zoals efficiëntie, gestroomlijnde workflow en gecentraliseerde campagneanalytica.
 
-## Manieren om Privéovereenkomsten op te zetten
-
-### Deal IDs
+## Deal IDs
 
 Als u directe relaties hebt met uitgevers, kunt u het aankoopproces en de workflow voor media stroomlijnen met behulp van uw eigen persoonlijke deals, met hun via onderhandelingen tot stand gekomen inventaris en prijzen, in uw Advertising Cloud DSP-aanbiedingen. DSP integreert met al uw uitgevers wanneer u opstelling een rekening. Als u later toegang wilt tot extra uitgevers, neemt u contact op met uw [!DNL Adobe] -accountteam voor toegang instellen. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
@@ -34,25 +32,14 @@ U kunt overeenkomst IDs op één van beide volgende manieren gebruiken:
 
 U kunt elke privé overeenkomst als plaatsingsdoel voor veelvoudige campagnes over gespecificeerde adverteerders gebruiken. Voor gewaarborgde overeenkomsten, moet u een standaardplaatsing tot stand brengen na het creëren van de overeenkomst, maar u kunt de zelfde overeenkomst aan extra plaatsen toevoegen om de standaardplaatsing te negeren.
 
-### [!UICONTROL Simple Ad Serving]
-
-[!UICONTROL Simple Ad Serving] biedt niet-gedecideerde, gegarandeerde en bezorgde en rapporteringsgegevens voor media die buiten Advertising Cloud DSP worden bediend.
-
-Elke advertentie wordt rechtstreeks door de uitgever bediend, en DSP verstrekt een gebeurtenis-volgende pixel om naar de uitgever te verzenden, die de pixel moet uitvoeren en de advertenties verhandelen.
-
-Zie voor meer informatie &quot;[Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md).&quot;
-
 ## De mening van Overeenkomsten
 
-In de [!UICONTROL Inventory] > [!UICONTROL Deals] bekijken, kunt u privé overeenkomstenmontages tot stand brengen. U kunt van de plaatsen en de advertenties voor om het even welke privé overeenkomst ook een lijst maken, een rapport voor om het even welke privé overeenkomst bekijken, of om het even welke privé overeenkomst archiveren of unarchive.
-
-Voor deal IDs, kunt u de overeenkomstenmontages ook uitgeven, plaatsingen en advertenties aan een overeenkomst vastmaken, adverteerders en rekeningen uitgeven die tot een overeenkomst kunnen toegang hebben, en de attributenmarkeringen voor een overeenkomst uitgeven.
-
-Voor eenvoudige ad dienende overeenkomsten, kunt u de gebeurtenis-volgende pixel voor een overeenkomst bekijken.
+In de [!UICONTROL Inventory] > [!UICONTROL Deals] bekijken, kunt u privé overeenkomstenmontages tot stand brengen. U kunt sommige overeenkomstenmontages ook uitgeven; een lijst van de plaatsen en advertenties, en aanvullende plaatsingen en advertenties aan een overeenkomst toevoegen; de adverteerders en accounts die toegang hebben tot een deal bewerken; een verslag voor een persoonlijke deal te bekijken; of archiveer of unarchive een overeenkomst.<!-- ; or edit the attribute tags for a deal -->
 
 >[!MORELIKETHIS]
 >
 >* [Overzicht van voorraadfuncties](/help/dsp/inventory/inventory-overview.md)
 >* [Over het [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
->* [Info [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
+>* [Handmatig details van deal-id maken](deal-id-create.md)
 
