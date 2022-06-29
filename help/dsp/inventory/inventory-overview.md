@@ -3,9 +3,9 @@ title: Overzicht van voorraadfuncties in Advertising Cloud DSP
 description: Meer informatie over de beschikbare voorraadfuncties.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: e80eccbf2f87c1ad86a2cb689b44ca67e08248be
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,12 @@ Tot de beschikbare voorraadtypen behoren:
 * **Privévoorraad [!DNL Deal IDs]:** Stel PMP&#39;s (Private Marketplace Trajecten) in en beheer deze die u rechtstreeks met de uitgever hebt onderhandeld.
 
 * **[!DNL Simple Ad Serving]:** Gebruik gestroomlijnde technologie voor gewaarborgde, niet-beslist en levering en rapportering wanneer uw uitgever uw overeenkomst niet via overeenkomst IDs kan uitvoeren.
+
+## De mening van Overeenkomsten
+
+U kunt al uw bestaande deals weergeven in de [!UICONTROL Inventory] > [!UICONTROL Deals] weergeven. U kunt verder aanpassen hoe de bestaande overeenkomstengegevens worden voorgesteld door filters toe te passen, de zichtbare kolommen aan te passen en naar keuze douanemeningen op te slaan, de kolommen te sorteren, en de gegevens als grafieken te bekijken.
+
+U kunt ook instellingen voor persoonlijke deals maken en beheren [!DNL Simple Ad Serving] van de [!UICONTROL Deals] weergeven. Om te bekijken en te leiden [!DNL On Demand] voorraad, ga naar [!UICONTROL Inventory] > [!UICONTROL On Demand].
 
 >[!MORELIKETHIS]
 >
