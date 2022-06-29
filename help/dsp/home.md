@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 602d2dd36a83f5f438c444e8ccaaec92054f0186
+source-git-commit: 6d9c4db1b16a68217c6bc110cf3e0b9a93c2caa6
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1604'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 29 juni 2022 | Inventaris | De nieuwe [!UICONTROL Inventory] > [!UICONTROL Deals] de weergave beschikt over dezelfde mogelijkheden als de [!UICONTROL Campaigns] de meningen, met inbegrip van het filtreren, de optie om standaard en douanemeningen, kolomsortering, en lijst en grafiekmeningen te gebruiken. U kunt een opdrachtmenu in elke rij openen door op [!UICONTROL ...] na de overeenkomstennaam. | — |
 | 31 mei 2022 | Bronnen voor publiek | (Beta eigenschap) Advertising Cloud DSP kan nu eerste-partijsegmenten die van voor authentiek verklaarde signalen worden samengesteld binnen een platform van klantengegevens (CDP) worden opgenomen. | Zie &quot;[Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md).&quot; |
 | 25 mei 2022 | Optimalisatiedoelstellingen | Video- en native plaatsingen kunnen nu worden opgenomen in pakketten met de aangepaste doelen Hoogste ROAS en Laagste CPA. | Zie &quot;[Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md).&quot; |
 | 12 april 2022 | Campaign Management | Advertentiespecificaties zijn bijgewerkt om de huidige ondersteuning te weerspiegelen. | Zie &quot;[Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md).&quot; |
