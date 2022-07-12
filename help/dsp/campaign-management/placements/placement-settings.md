@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 8b1ae7385d7747f7073448aae5ad0a617f323562
+source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
 workflow-type: tm+mt
-source-wordcount: '3277'
+source-wordcount: '3301'
 ht-degree: 0%
 
 ---
@@ -253,7 +253,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 
 U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een CSV-bestand (comma-separated values, door komma&#39;s gescheiden waarden). Als u de lijst wilt exporteren, klikt u op **[!UICONTROL Export full site list]** en open of sla het bestand op volgens de normale procedure van uw browser.
 
-<!-- **[!UICONTROL Allow unscreened sites]:** (XXX placements only) Allows you to XXXX.   Optional available for https://advertising.adobe.com/configurator/placement/edit/2432022 -->
+**[!UICONTROL Allow unscreened sites]:** (Alleen standaardpresentaties) Hiermee kunt u levering en levering op niet-gecontroleerde sites mogelijk maken. Wanneer de plaatsing privé-inventarisatie als doel heeft, kan deze optie advertenties op geblokkeerde sites leveren.
 
 **[!UICONTROL Paste list of targeted sites]:** Hiermee kunt u alleen specifieke sites als doel instellen. Wanneer u deze optie inschakelt, worden de andere opties voor het instellen van doelen voor de site uitgeschakeld.
 

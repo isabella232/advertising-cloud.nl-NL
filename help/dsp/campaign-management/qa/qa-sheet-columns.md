@@ -3,9 +3,9 @@ title: Kolommen in gedownloade/geüploade werkbladen
 description: Verwijs naar de kolommen in gedownloade en geupload de spreadsheets van Excel QA.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '751'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 0%
 | [!UICONTROL Sites] | [!UICONTROL Categories - Excluded #] | het aantal categorieën van uitgesloten sites, indien gespecificeerd, of *[!UICONTROL All]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Excluded Sites] | de uitgesloten sites, indien gespecificeerd, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Language] | De doeltalen van de site. | — |
-| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | Of levering op niet-gecontroleerde locaties al dan niet is toegestaan: *[!UICONTROL ON]* of *[!UICONTROL OFF]*. | — |
+| [!UICONTROL Sites] | [!UICONTROL Allow unscreened sites] | (Alleen standaardplaatjes) Of het al dan niet toestaan van levering op niet-gecontroleerde sites: *[!UICONTROL ON]* of *[!UICONTROL OFF]*. Wanneer de plaatsing privé-inventarisatie als doel heeft, kan deze optie advertenties op geblokkeerde sites leveren. | — |
 | [!UICONTROL Sites] | [!UICONTROL Targeted Sites] | het aantal beoogde sites, indien van toepassing, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | het beoogde publiek, indien van toepassing, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | het eventuele uitgesloten publiek, of *[!UICONTROL None]*. | — |

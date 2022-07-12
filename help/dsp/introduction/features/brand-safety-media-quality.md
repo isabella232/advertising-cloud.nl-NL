@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: b436936e3a0edcb78497fadb6f3c4086412baaa5
 workflow-type: tm+mt
-source-wordcount: '1315'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
@@ -79,6 +79,10 @@ Advertising Cloud DSP houdt een wereldwijd geblokkeerde lijst met sites bij die 
 In het kader van ons Brand Safety-initiatief om activiteiten die adverteerders bedriegen uit te roeien, worden alle sites gescreend met behulp van de maatregelen in de lijst met geblokkeerde sites. Alle sites die niet voldoen aan de veiligheidscontroles worden toegevoegd aan de lijst met wereldwijd geblokkeerde sites. Omdat Advertising Cloud DSP deze lijst dynamisch beheert, kunnen sites op elk gewenst moment van de lijst worden verwijderd of in- en uitgeschakeld, op basis van de meest recente analyse van de merkveiligheid.
 
 Wanneer u een site in de lijst met wereldwijd geblokkeerde sites opneemt als plaatsingsdoel, wordt de site gemarkeerd met een rood uitroepteken (!). Dit geeft aan dat advertenties niet worden uitgevoerd op de gemarkeerde site.
+
+>[!NOTE]
+>
+>U kunt optioneel de algemene lijst met geblokkeerde sites omzeilen voor standaard weergaveadvertenties die zijn gekoppeld aan een vertrouwde persoonlijke deal door de optie &quot;[!UICONTROL Allow unscreened sites]&quot; in de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md). Indien nodig [!DNL Adobe] accountteam kan ook desgewenst het blokkeren van sites voor een openbare (veiling-niveau) deal in de uitgevers-instellingen voor de deal uitschakelen.
 
 #### Geblokkeerde sitelijsten op accountniveau en op advertentieniveau
 
