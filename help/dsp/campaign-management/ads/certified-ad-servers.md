@@ -3,9 +3,9 @@ title: Certified Ad Serving Partners
 description: Bekijk alle gecertificeerde advertentieservers en advertentie-eenheden.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: 84a3cbce1993fbb7b1a3d526f3bf8a1266635ce9
+source-git-commit: d3b2941af8d27447301fd6a4080ebab6352d503d
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
-| [!DNL Big Ads] |  |  | X |  |  | Kubus (bureaublad), kubus (mobiel), kaarten (bureaublad), Big Reveal (bureaublad). Merk op dat alle 4-advertenties in de gebruikersinterface van Adobe zijn ingesteld op 300 x 250. Alleen gecertificeerd via Magnite DV+ |
+| [!DNL Big Ads] |  |  | X |  | Kubus (bureaublad), kubus (mobiel), kaarten (bureaublad), Big Reveal (bureaublad). Stel al deze advertentietypen in DSP in op 300 x 250. Alleen gecertificeerd via [!DNL Magnite DV+]. |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
