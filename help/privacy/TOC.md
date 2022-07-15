@@ -10,7 +10,7 @@ breadcrumb-title: Steun voor Consumentenprivacy
 index: true
 source-git-commit: 2866eb13b5ddcd485e6817fb2ebe6ea3cbb43b5c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 0%
 + [Ondersteuning voor GDPR](/help/privacy/ad-cloud-gdpr.md)
 + Ondersteuning voor CCPA {#ccpa}
    + [Ondersteuning voor CCPA: Toegang tot consumentengegevens en verwijderen](/help/privacy/ad-cloud-ccpa-access-delete.md)
-   + [(Alleen DSP) Ondersteuning voor CCPA: Consumenten kiezen voor uitverkoop](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md)
+   + [(Alleen DSP) Ondersteuning voor CCPA: Consumenten kiezen uit de uitverkoop](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md)
