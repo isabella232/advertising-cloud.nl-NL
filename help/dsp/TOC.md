@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: d72707f9628e8e39eae36115b057d1cd332012f5
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -181,6 +181,7 @@ ht-degree: 0%
       + [Plaatsingen en advertenties voor een persoonlijke deal opgeven](/help/dsp/inventory/deal-id-attach-placements.md)
       + [Bewerk de accounts met toegang tot een persoonlijke deal](/help/dsp/inventory/deal-id-share.md)
       + [Geef Advertisers met Toegang tot een Privé Overeenkomst uit](/help/dsp/inventory/deal-id-edit-advertisers.md)
+      + [Inzichten in veilingen weergeven voor een persoonlijke deal](/help/dsp/inventory/private-deal-auction-insights.md)
       + [Maak een lijst van de Plaatsingen en Adverten voor een PrivéOvereenkomst](/help/dsp/inventory/private-deal-view-placements.md)
       + [Een persoonlijke deal archiveren of archiveren](/help/dsp/inventory/private-deal-archive-unarchive.md)
    + [!UICONTROL Simple Ad Serving] Overeenkomsten {#sas}

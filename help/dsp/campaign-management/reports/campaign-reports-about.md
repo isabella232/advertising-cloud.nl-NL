@@ -3,9 +3,9 @@ title: Over rapporten in Platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 7d081583ff10675b515aafdd97ccb3053f19c32d
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Voor elke plaatsing kunt u [openen a (detailweergave) [!UICONTROL Inspector])](p
 
 * **[!UICONTROL Inventory]:** Informatie over alle overeenkomsten waarop de plaatsing betrekking heeft.
 
-   De [!UICONTROL Inventory] tab bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en snelle actieknoppen in elke rij, zoals [!UICONTROL Edit] en [!UICONTROL View Report]. De [!UICONTROL Inventory] het lusje laat snelle het oplossen van problemen door prestatiesstatistieken te tonen, zoals [!UICONTROL Auctions], [!UICONTROL Bids], en [!UICONTROL Win Rate].
+   De [!UICONTROL Inventory] het lusje laat snelle het oplossen van problemen door prestatiesstatistieken te tonen, zoals [!UICONTROL Auctions], [!UICONTROL Bids], en [!UICONTROL Win Rate]. Het tabblad bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en knoppen voor snelle actie in elke rij, waaronder [!UICONTROL Edit], [!UICONTROL View Report], en [[!UICONTROL Auction Insights] voor verdere probleemoplossing](/help/dsp/inventory/private-deal-auction-insights.md).
 
 #### Probleeminventarisatie
 
@@ -106,6 +106,6 @@ Voor andere gegevensbrainstormsessies, weergave [de rapportagepagina&#39;s op ca
 >* [Een aangepaste kolomweergave maken](column-view-create.md)
 >* [De kolomweergave wijzigen](column-view-change.md)
 >* [Gegevensvisualisatie beheren](campaign-data-visualization-manage.md)
->* [Gegevens exporteren uit een Campagnebeheerweergave](campaign-export-data.md)
+>* [Gegevens exporteren uit een Campaign Management-weergave](campaign-export-data.md)
 >* [Gedetailleerd rapport voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
 

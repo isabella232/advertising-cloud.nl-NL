@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 99c808d63e1d17d91832fdd38a2bce3fdf90aa44
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '1023'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 27 juli 2022 | Inventaris | De Inzichten van de veiling is een nieuw het oplossen van problemenhulpmiddel dat u toestaat om de overeenkomstensamenstelling van zowel gewaarborgde als niet gewaarborgde privé overeenkomsten te analyseren. Met behulp van gegevensvisualisaties toont dit gereedschap de trend en de relatieve verhoudingen van waarden die binnen een specifieke periode voor essentiële veilingkenmerken zijn ontvangen.<br><br>Met transparantie in de gegevens van de biedingsaanvraag van uitgevers kunt u tijdrovende stappen voor het oplossen van problemen voorkomen. | Zie &quot;[Inzichten in veilingen weergeven voor een persoonlijke deal](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 29 juni 2022 | Inventaris | De nieuwe [!UICONTROL Inventory] > [!UICONTROL Deals] de weergave beschikt over dezelfde mogelijkheden voor gegevensaanpassing als de [!UICONTROL Campaigns] weergaven, waaronder aanvullende filters, kolomaanpassing en de optie om aangepaste weergaven, kolomsortering en een weergave voor gegevensvisualisatie (grafiek) op te slaan. U kunt een opdrachtmenu in elke rij openen door op [!UICONTROL ...] na de overeenkomstennaam. | Zie &quot;[Overzicht van voorraadfuncties](/help/dsp/inventory/inventory-overview.md).&quot; |
 |  | Inventaris [!UICONTROL Inspector] | De [!UICONTROL Inventory] tabblad van de plaatsing [!UICONTROL Inspector] omvat nu aanpasbare gegevensvisualisatiekaarten en uitgebreide prestatiesmetriek, zoals [!UICONTROL Viewability Rate], [!UICONTROL Clicks], en [!UICONTROL Yesterday's CPM]. | Zie &quot;[Bekijk de Sites, Advertenties, Frequentie, en Details van de Inventaris voor een Plaatsing](/help/dsp/campaign-management/reports/placement-details-view.md).&quot; |
 | 31 mei 2022 | Bronnen voor publiek | (Beta eigenschap) Advertising Cloud DSP kan nu eerste-partijsegmenten die van voor authentiek verklaarde signalen worden samengesteld binnen een platform van klantengegevens (CDP) worden opgenomen. | Zie &quot;[Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md).&quot; |

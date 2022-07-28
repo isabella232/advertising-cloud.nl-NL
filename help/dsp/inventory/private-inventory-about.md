@@ -3,9 +3,9 @@ title: Informatie over privé-voorraad
 description: Informatie over privé-voorraad
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 0fb8417ed6ed261077affd4db071e207731058f9
+source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ U kunt elke privé overeenkomst als plaatsingsdoel voor veelvoudige campagnes ov
 
 ## De mening van Overeenkomsten
 
-In de [!UICONTROL Inventory] > [!UICONTROL Deals] bekijken, kunt u privé overeenkomstenmontages tot stand brengen. U kunt sommige overeenkomstenmontages ook uitgeven; een lijst van de plaatsen en advertenties, en aanvullende plaatsingen en advertenties aan een overeenkomst toevoegen; de adverteerders en accounts die toegang hebben tot een deal bewerken; een verslag voor een persoonlijke deal te bekijken; of archiveer of unarchive een overeenkomst.<!-- ; or edit the attribute tags for a deal -->
+In de [!UICONTROL Inventory] > [!UICONTROL Deals] bekijken, kunt u privé overeenkomstenmontages tot stand brengen. U kunt sommige overeenkomstenmontages ook uitgeven; een lijst van de plaatsen en advertenties en aanvullende plaatsingen en advertenties aan een persoonlijke deal toevoegen; de adverteerders en accounts die toegang hebben tot een persoonlijke deal bewerken; een prestatiesrapport voor een overeenkomst bekijken; veilinginzichten weergeven voor een persoonlijke deal, of een deal archiveren of archiveren.<!-- ; or edit the attribute tags for a deal -->
 
 U kunt verder aanpassen hoe de bestaande overeenkomstengegevens worden voorgesteld door filters toe te passen, de zichtbare kolommen aan te passen en naar keuze douanemeningen op te slaan, de kolommen te sorteren, en de gegevens als grafieken te bekijken.
 

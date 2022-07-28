@@ -1,22 +1,18 @@
 ---
-title: Veilinginzichten
-description: Leer hoe u de pagina met veilinginzichten kunt gebruiken voor een persoonlijke deal.
+title: Inzichten in veilingen weergeven voor een persoonlijke deal
+description: Leer hoe te om veilinginzichten te gebruiken om de overeenkomstensamenstelling van privé overeenkomst te analyseren.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: null
-source-git-commit: bea7de3fd5e6c5048b83e0eec2a88c0c9b422fc2
+source-git-commit: c2fe96c28004dee03ab94b4e5ed43bfbf3ee6e83
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-# Auctie-inzichten voor een persoonlijke deal
+# Inzichten in veilingen weergeven voor een persoonlijke deal
 
-De Inzichten van de veiling is een het oplossen van problemenhulpmiddel voor privé inventaris die gebruikers toestaat om overeenkomstensamenstelling voor zowel Gegarandeerde als niet-Gegarandeerde privé overeenkomsten te analyseren.
-Het vermijdt de tijdrovende stappen voor probleemoplossing door transparantie te bieden in de aanvraaggegevens van uitgevers.
-Met behulp van gegevensvisualisaties helpt dit gereedschap de trend en de relatieve verhoudingen van waarden die voor bovenstaande veilingkenmerken (zoals hieronder beschreven) zijn ontvangen, binnen een specifieke periode te observeren.
-
-Ga als volgt te werk om toegang te krijgen tot de pagina Vuctie-inzichten voor een persoonlijke deal:
+De Inzichten van de veiling is een het oplossen van problemenhulpmiddel dat u toestaat om de overeenkomstensamenstelling van zowel gewaarborgde als niet gewaarborgde privé overeenkomsten te analyseren. Met behulp van gegevensvisualisaties toont dit gereedschap de trend en de relatieve verhoudingen van waarden die worden ontvangen voor [belangrijke veilingkenmerken](#auction-attributes) binnen een bepaalde termijn.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
 
@@ -24,29 +20,31 @@ Ga als volgt te werk om toegang te krijgen tot de pagina Vuctie-inzichten voor e
 
 >[!NOTE]
 >
->De pagina Vuctie-inzichten is ook beschikbaar via het gereedschap Plaatsingscontrole. Gebruikers kunnen toegang krijgen door op het tabblad Overzicht van de plaatsingscontrole te klikken en vervolgens op **[!UICONTROL ...]>[!UICONTROL Auction Insights]** in de overeenkomstenrij
+>Veilinginzichten zijn ook beschikbaar via de plaatsing [!UICONTROL Inspector] gebruiken. Om ze te openen, [de plaatsing openen [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) aan de [!UICONTROL Inventory tab]en klik vervolgens op **[!UICONTROL ...]>[!UICONTROL Auction Insights]** in de overeenkomstenrij.
 
-Op de pagina Vullinginzichten kunnen gebruikers Area-Chart Data Visualizations weergeven voor de volgende veilingkenmerken:
+## Veilingskenmerken {#auction-attributes}
 
-* **Advertentietype:**	Het advertentietype dat in de veiling is aangevraagd. Bijvoorbeeld beeldscherm, audio enz.
+Vlakkaarten zijn beschikbaar voor de volgende veilingkenmerken:
 
-* **Browser:**	De browser van waaruit de veiling is gestart. Bijvoorbeeld Chrome, Firefox enz.
+* **Advertentietype:** Het advertentietype dat is aangevraagd in de veiling (zoals Weergave of Audio).
 
-* **OS:**	Het besturingssysteem (OS) van waaruit de veiling is gestart. Bijvoorbeeld Android, iOS enz.
+* **Browser:** De browser van waaruit de veiling is gestart (zoals Chrome of Firefox).
 
-* **Apparaat:** Typ het apparaat vanwaar de veiling is gestart. Voor bijvoorbeeld mobiele telefoon, bureaublad enz.
+* **OS:** Het besturingssysteem (OS) van waaruit de veiling is gestart (zoals Android of iOS).
 
-* **Duur advertentie:**	De maximum en duur die in veiling zijn aangevraagd. Voor bijvoorbeeld 15s, 30s enz.
+* **Apparaattype:** Het apparaat waarvan de veiling is gestart (zoals mobiele telefoon of bureaublad).
 
-* **Beveiligen:**	Geeft aan of de veiling beveiligde HTTPS URL-creatieve middelen vereist. Bijvoorbeeld veilig, niet veilig
+* **Duur advertentie:** De maximale en maximale duur die in een veiling is aangevraagd (bijvoorbeeld 15 of 30).
 
-* **MIME-type:**	Het advertentiematype dat in een veiling wordt aangevraagd. Bijvoorbeeld mp4, mov, enz.
+* **Beveiligen:** Geeft aan of de veiling beveiligde HTTPS URL-creatieve middelen vereist. Waarden: <i>Beveiligen</i> of <i>Niet-beveiligd</i>.
 
-!![auction insights](/help/dsp/assets/Auction Insights.png)
+* **MIME-type:** Het ad creative MIME-type dat in de veiling is aangevraagd (zoals mp4 of mov).
+
+![veilinginzichten](/help/dsp/assets/auction-insights.png)
 
 >[!NOTE]
 >
->Gebruikers kunnen ook filters toepassen op de pagina met veilinginzichten om uw analyse te beperken door specifieke kenmerkwaarden te isoleren.
+>U kunt filters voor specifieke kenmerkwaarden toepassen om de resultaten te beperken.
 
 >[!MORELIKETHIS]
 >
