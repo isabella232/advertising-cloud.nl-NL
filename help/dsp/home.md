@@ -1,13 +1,13 @@
 ---
 title: Nieuwe functies in Advertising Cloud DSP
-description: Op deze pagina worden nieuwe en onlangs gewijzigde functies in Advertising Cloud DSP beschreven.
+description: Meer informatie over de nieuwste updates en nieuwe functies in Adobe Advertising Cloud DSP.
 cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 535f7707a0bd187a6dd75cfdf5357313352b5b0b
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
