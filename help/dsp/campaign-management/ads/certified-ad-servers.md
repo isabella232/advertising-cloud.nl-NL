@@ -3,9 +3,9 @@ title: Certified Ad Serving Partners
 description: Bekijk alle gecertificeerde advertentieservers en advertentie-eenheden.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: d3b2941af8d27447301fd6a4080ebab6352d503d
+source-git-commit: 2ef6a194f02748de3f8fee072a5c7eb65ecb80f8
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 | [!DNL ADventori] |  | X |  |  |  |
 | [!DNL Artsai] |  | X |  | X |  |
 | [!DNL Atlas] |  |  |  | X |  |
-| [!DNL Big Ads] |  |  | X |  | Kubus (bureaublad), kubus (mobiel), kaarten (bureaublad), Big Reveal (bureaublad). Stel al deze advertentietypen in DSP in op 300 x 250. Alleen gecertificeerd via [!DNL Magnite DV+]. |
+| [!DNL Big Ads] |  |  | X |  | Kubus (desktop), Kubus (mobiel), Kaarten (bureaublad), Big Reveal (bureaublad), Cine-Cube (bureaublad), Cinematics (bureaublad). Stel al deze advertentietypen in DSP in op 300 x 250. Alleen gecertificeerd via [!DNL Magnite DV+]. |
 | [!DNL Bonzai] |  |  | X |  |  |
 | [!DNL Contobox] |  |  | X |  |  |
 | [!DNL Conversant] |  | X |  |  |  |
@@ -40,7 +40,7 @@ ht-degree: 0%
 | [!DNL IAS] | X | X |  | X |  |
 | [!DNL IBM] |  | X |  | X |  |
 | [!DNL Innovid] | X | X |  | X |  |
-| [!DNL InSkin] |  |  | X |  | De hoge effectskins moeten uit een 180x150 identiteitskaart van de vertoningsovereenkomst over het Inskin inventarisnetwerk worden gediend. |
+| [!DNL Inskin] |  |  | X |  | Skins met een hoog effect (inclusief conversationele Cavai-advertenties) moeten worden uitgediept uit een 180x150-id voor de weergavedeal in het inventarisnetwerk Inskin. |
 | [!DNL Jivox] |  | X |  |  |  |
 | [!DNL Kargo] |  | X |  |  | 320x50 Anker, BYOC, Hover, Breakout en Sidetrap; 300x250 Outstream; Standaardweergave voor bureaublad (specifieke id&#39;s voor insteekmodules zijn niet vereist).</br></br>Neem contact op met uw [!DNL Adobe] accountteam voor hulp bij het opzetten van advertentiesystemen. |
 | [!DNL Linkstorm] |  |  | X |  |  |
