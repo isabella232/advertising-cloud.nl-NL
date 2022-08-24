@@ -3,9 +3,9 @@ title: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 description: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 8f0765251234b09eddaee721018285aee6b44b6a
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,30 @@ De EF-id is een unieke token die Advertising Cloud gebruikt om activiteit te kop
 
 ### EF-id-indeling
 
+>[!NOTE]
+>
+>EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] bij de implementatie wordt URL-registratie naar kleine letters gedwongen, zodat Advertising Cloud de EF-id niet herkent. Dit heeft invloed op Advertising Cloud-biedingen en -rapportage, maar heeft geen invloed op Advertising Cloud-rapportage binnen [!DNL Analytics].
+
+#### [!DNL Google Ads] zoekadvertenties
+
+```{gclid}:G:s```
+
+waarbij:
+
+* `gclid` is de [!DNL Google Click ID] (GCLID).
+* `s` is het netwerktype (&quot;s&quot; voor onderzoek).
+
+#### Microsoft Adverteren, zoekadvertenties
+
+```{msclkid}:G:s```
+
+waarbij:
+
+* `msclkid` is de [!DNL Microsoft Click ID] (MSCLKID).
+* `s` is het netwerktype (&quot;s&quot; voor onderzoek).
+
+#### Advertenties en zoekadvertenties weergeven op andere zoekmachines
+
 ```<Advertising Cloud visitor ID>:<timestamp>:<channel type>```
 
 <!-- <*Advertising Cloud visitor ID*>:<*timestamp*>:<*channel type*> -->
@@ -60,10 +84,6 @@ waarbij:
    * `s` voor een klik op een zoekadvertentie (doorzoeken door te klikken).
 
 Voorbeeld `EF `ID: WcmibgAAHJK1RyY:1551968087687:d
-
->[!NOTE]
->
->EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] bij de implementatie wordt URL-registratie naar kleine letters gedwongen, zodat Advertising Cloud de EF-id niet herkent. Dit heeft invloed op Advertising Cloud-biedingen en -rapportage, maar heeft geen invloed op Advertising Cloud-rapportage binnen [!DNL Analytics].
 
 ### De EF ID Dimension in [!DNL Analytics]
 
