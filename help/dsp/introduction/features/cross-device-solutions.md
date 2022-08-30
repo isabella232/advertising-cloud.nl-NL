@@ -3,16 +3,16 @@ title: Apparaatoplossingen
 description: Meer informatie over functies voor verschillende apparaten.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
-source-wordcount: '1113'
+source-wordcount: '1006'
 ht-degree: 0%
 
 ---
 
 # Apparaatoplossingen
 
-Advertising Cloud DSP-integratie met [!DNL LiveRamp] en [!DNL Adobe Device Co-op] kunt u uw publiek uitbreiden naar alle bekende apparaten van een persoon, en niet alleen naar de apparaten die uw merk heeft bijgehouden. De integraties bieden ook frequentietoewijzing en attributiemeting op alle apparaten.
+De integratie van Advertising Cloud DSP met [!DNL LiveRamp] Hiermee kunt u uw publiek uitbreiden naar alle bekende apparaten van een persoon, en niet alleen naar de apparaten die uw merk heeft bijgehouden. De integratie biedt ook frequentiecapping en attributie-meting voor alle apparaten.
 
 Wanneer u een ondersteunde apparaatgrafiek gebruikt, kunt u:
 
@@ -20,22 +20,19 @@ Wanneer u een ondersteunde apparaatgrafiek gebruikt, kunt u:
 * Balans en blootstelling door inzicht te krijgen in de frequentie van de begrenzing van personen.
 * Teststrategieën die publiek toegankelijk maken ten opzichte van publiek converteren naar kanalen of apparaten.
 
-## Voordelen van elke apparaatgrafiek
+## De voordelen van de [!DNL LiveRamp] Apparaatgrafiek
 
-* [!DNL Adobe Device Co-op]:
-   * Biedt een opt-in-pool van deterministische en probabilistische gegevens van deelnemende Adobe-adverteerders
-   * Biedt sterke cookie-id-verbindingen, aangedreven door desktopbezoekers en mobiele webbezoekers
-   * Omvat gegevens voornamelijk uit de Verenigde Staten en Canada
-   * Heeft geen gebruikskosten
+* Verstrekt een deterministische gegevenspool, met inbegrip van off-line klantengegevens
 
-* [!DNL LiveRamp] apparaatgrafiek:
-   * Verstrekt een deterministische gegevenspool, met inbegrip van off-line klantengegevens
-   * Biedt een gelijkmatige dekking tussen cookie-id&#39;s en mobiele apparaat-id&#39;s
-   * Inclusief gegevens voornamelijk uit de Verenigde Staten
-   * Is gratis voor frequentiecalfakanalen en attribuutmetingen
-   * Geprijseerd bij $0.35 CPM voor uitgebreide beelden (indrukkingen die uitsluitend door het gebruiken van worden geleverd [!DNL LiveRamp] apparaatgrafiek in plaats van op apparaten die worden gevonden binnen de doelpubliekssegmenten)
+* Biedt een gelijkmatige dekking tussen cookie-id&#39;s en mobiele apparaat-id&#39;s
 
-      De snelheid wordt weergegeven op je creditcard met accounttarieven.
+* Inclusief gegevens voornamelijk uit de Verenigde Staten
+
+* Is gratis voor frequentiecalfakanalen en attribuutmetingen
+
+* Geprijseerd bij $0.35 CPM voor uitgebreide beelden (indrukkingen die uitsluitend door het gebruiken van worden geleverd [!DNL LiveRamp] apparaatgrafiek in plaats van op apparaten die worden gevonden binnen de doelpubliekssegmenten)
+
+   De snelheid wordt weergegeven op je creditcard met accounttarieven.
 
 ## Personeelsgebaseerd frequentiebeheer
 
@@ -85,15 +82,7 @@ Met op mensen gebaseerde attributie, kunt u omzettingen verklaren die op een ver
 
 ### Meting van op personen gebaseerde kenmerken inschakelen
 
-Neem contact op met uw [!DNL Adobe] accountteam. Voor [!DNL Adobe Device Co-op] accounts, moet u uw ondertekende [!DNL Adobe Device Co-op] contract en uw Experience Cloud organisatie-id (voorheen genoemd) [!DNL IMS org ID]).
-
-Om te zien of wordt een adverteerderaccount gevormd om een apparatengrafiek voor attributitemeting te gebruiken:
-
-1. Klik in het hoofdmenu op **[!UICONTROL Settings]>[!UICONTROL Advertiser]**.
-1. Plaats de cursor op de rij van de adverteerder en klik op **[!UICONTROL Edit]**.
-1. In de [!UICONTROL Integrations] van de adverteerderinstellingen, controleer of de [!UICONTROL Cross-Device Attribution] instelling is actief.
-
-   Voor actieve integratie wordt de apparaatgrafiek aangegeven.
+Neem contact op met uw [!DNL Adobe] accountteam.
 
 ### Conversierapporten instellen voor kenmerk voor apparaatconversie
 

@@ -3,7 +3,7 @@ title: Informatie over Adobe Advertising Cloud DSP
 description: Informatie over Adobe Advertising Cloud DSP
 feature: DSP Introduction
 exl-id: def006b2-eb51-4942-b277-a2e673bccc7f
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Adobe Advertising Cloud DSP verhoogt de mediastrategieën van adverteerders met 
 
 * [**Optimalisatie**](features/optimization.md): Onze nieuwe bestemming voor campagnemanagement, [!DNL Campaign Home], biedt u de geavanceerde gereedschappen, sortering en inzichten om uw campagnes sneller dan ooit te optimaliseren. Bovendien voorspellen en besteden aanbevelingen de strategieën die naar verwachting goed zullen presteren, niet noodzakelijk wat momenteel het best presteert, zodat kunt u met gegevens optimaliseren.
 
-* [**Apparaatoplossingen**](features/cross-device-solutions.md): Advertising Cloud DSP-integratie met [!DNL LiveRamp] en [!DNL Adobe Device Co-Op] kunt u uw publiek uitbreiden naar alle bekende apparaten van een consument, en frequentiecappen toepassen en de toewijzing over die apparaten meten.
+* [**Apparaatoplossingen**](features/cross-device-solutions.md): De integratie van Advertising Cloud DSP met [!DNL LiveRamp] kunt u uw publiek uitbreiden naar alle bekende apparaten van een klant, en frequentiekapitalen toepassen en attributie meten over die apparaten.
 
 * [**Mediakwaliteitssuite**](features/brand-safety-media-quality.md): Advertising Cloud DSP hanteert een proactieve aanpak van problemen die gevolgen kunnen hebben voor uw merk en uw advertentieinvesteringen. De DSP mediakwaliteitssuite is 100% transparant en heeft een veelzijdige aanpak om ervoor te zorgen dat de investeringen van adverteerders worden beschermd. Dit omvat merkveiligheid, gezichtsvermogen, fraudebescherming, en [!DNL Ads.Txt].
 

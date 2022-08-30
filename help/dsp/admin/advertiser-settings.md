@@ -1,9 +1,9 @@
 ---
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -38,25 +38,19 @@ Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over be
 
 (Optioneel) Aanvullende Experience Cloud-producten gekoppeld aan de DSP account. De producten moeten worden gekoppeld aan dezelfde organisatie-id voor Experience Cloud die in het [!UICONTROL Adobe IMS IDs] sectie.
 
-**[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met Advertising Cloud Search of die Advertising Cloud-conversiepixels gebruiken) A [!DNL Search] account waarmee DSP toewijzingsgegevens zal uitwisselen.
+**[!UICONTROL Attribution services]> [!UICONTROL Adobe Media Optimizer]:** (Adverteerders met Advertising Cloud Search of die Advertising Cloud-conversiepixels gebruiken) A [!DNL Search] account waarmee DSP toewijzingsgegevens zal uitwisselen.
 
-**[!UICONTROL Adobe Device Co-op or 3rd Party Graph]:** (Adverteerders die Advertising Cloud-conversiepixels gebruiken; (optioneel) U kunt een apparaatgrafiek gebruiken voor op personen gebaseerde attributitemeting op basis van de accountinstellingen van de adverteerder in Advertising Cloud Search.
+**[!UICONTROL Report suites]> [!UICONTROL Adobe Analytics]:** (Adverteerders bij Adobe Analytics; facultatief; alleen van toepassing op gegevens die zijn verzameld met trackingtags voor Advertising Cloud-conversie die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, zal verzenden. Analytics zal ook de gegevens verzenden het van de plaats van de cliënt aan DSP verzamelt.
 
->[!NOTE]
->
-> * Apparaattoewijzing is alleen beschikbaar voor conversies die worden bijgehouden met de Advertising Cloud-service voor het bijhouden van conversies, niet voor conversies die worden bijgehouden door Adobe Analytics.
-> * U kunt ook een apparaatgrafiek voor apparaatbesturing op meerdere apparaten selecteren op het tabblad [campagneniveau](/help/dsp/campaign-management/campaigns/campaign-settings.md). Vervolgens kunt u een apparaatselectie instellen op het tabblad [plaatsingsniveau](/help/dsp/campaign-management/placements/placement-settings.md) en verdere frequentiecappen bij de [pakketniveau](/help/dsp/campaign-management/packages/package-settings.md) en [plaatsingsniveau](/help/dsp/campaign-management/placements/placement-settings.md). Voor apparaatgerichtheid en frequentiebeheer is geen attributiemeting op adverteerderniveau vereist; in plaats daarvan, werken zij met de apparatengrafiek die in de campagnemontages wordt gespecificeerd.
-
-
-**[!UICONTROL Adobe Analytics]:** (Adverteerders bij Adobe Analytics; facultatief; alleen van toepassing op gegevens die zijn verzameld met trackingtags voor Advertising Cloud-conversie die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, zal verzenden. Analytics zal ook de gegevens verzenden het van de plaats van de cliënt aan DSP verzamelt.
-
-Om de gegevens in de rapportsuites te verschijnen, [!DNL Search] instelling op adverteerderniveau op &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Bovendien [!DNL Analytics] -account moet geconfigureerd zijn om gegevens van Advertising Cloud te ontvangen. <!-- from Advertising Cloud or DSP in particular? Add cross-reference to file in Integrations section. -->
+Om de gegevens in de rapportsuites te verschijnen, [!DNL Search] instelling op adverteerderniveau op &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Bovendien [!DNL Analytics] -account moet geconfigureerd zijn om gegevens van Advertising Cloud te ontvangen.
 
 >[!WARNING]
 >
->Als u een eerder gekoppelde rapportsuite verwijdert, worden DSP geen gegevens meer uitgewisseld met die suite. Verwacht gegevensschommelingen te zien. <!-- Fluctuations where? Clarify -->
+>Als u een eerder gekoppelde rapportsuite verwijdert, worden DSP geen gegevens meer uitgewisseld met die suite. Verwacht gegevensschommelingen te zien.
 
-**[!UICONTROL Adobe Analytics Cloud]:** (Adverteerders bij Adobe Audience Manager of Adobe Analytics; (optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle Adobe-gebruikers van de adverteerder ophalen. Dit omvat gegevens voor:
+Meer informatie over de integratie met [!DNL Analytics], zie &quot;[Overzicht van [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md).&quot;
+
+**[!UICONTROL Audiences]> [!UICONTROL Adobe Analytics Cloud]:** (Adverteerders bij Adobe Audience Manager of Adobe Analytics; (optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle Adobe-gebruikers van de adverteerder ophalen. Dit omvat gegevens voor:
 
 * Audience Manager-segmenten
 * [!DNL Analytics] segmenten die naar Adobe Experience Cloud worden gepubliceerd
