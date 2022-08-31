@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 4e389d687f8974028181a03534aff1abf6b43831
 workflow-type: tm+mt
-source-wordcount: '1129'
+source-wordcount: '972'
 ht-degree: 0%
 
 ---
@@ -88,18 +88,6 @@ Ga als volgt te werk om een of meer filters toe te passen:
 * *[!UICONTROL With Clicks (CT)]:* Omvat slechts omzettingen die aan kliks worden toegeschreven.
 
 * *[!UICONTROL Impressions Only (VT)]:* Omvat slechts omzettingen die aan impressies werden toegeschreven omdat geen kliks in de omzettingsweg werden gevolgd.
-
-**[!UICONTROL Cross Device Level]:**  (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; alleen van toepassing op adverteerders met attributie &quot;cross-device&quot;) Het niveau waarop conversies moeten worden bijgehouden: *[!UICONTROL People]* of *[!UICONTROL Household]*.
-
-Meer informatie over [oplossingen voor meerdere apparaten](/help/dsp/introduction/features/cross-device-solutions.md).
-
-**[!UICONTROL Cross-Device Breakout]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; (alleen van toepassing op adverteerders met apparaatoverschrijdende attributie) Het detailniveau over apparaatoverschrijdende omzettingen dat in het rapport moet worden opgenomen. U kunt tot drie niveaus kiezen, elk waarvan in een afzonderlijke kolom zal worden omvat, als u een gedetailleerde doorbraak wilt.
-
-* *[!UICONTROL Total People (TP)]:* Omvat de totale omzettingen, die zowel de omzettingen van het zelfde apparaat als de overschakeling van het dwars-apparaat omvatten (indien van toepassing). In het verslag[!UICONTROL (tp)]&quot; wordt toegevoegd aan de metrische naam en het regeltype van de omzetting.
-
-* *[!UICONTROL Same Device (SD)]:* Omvat slechts omzettingen waarvoor slechts één enkel apparaat in de omzettingsweg werd gevolgd. In het verslag[!UICONTROL (sd)]&quot; wordt toegevoegd aan de metrische naam en het regeltype van de omzetting.
-
-* *[!UICONTROL Cross Device (XD)]:* Omvat slechts omzettingen waarvoor meer dan één apparaat in de omzettingsweg werd gevolgd. In het verslag[!UICONTROL (xd)]&quot; wordt toegevoegd aan de metrische naam en het regeltype van de omzetting.
 
 **[!UICONTROL Conversion Reporting Based On]:**  Conversiegegevens rapporteren:
 
