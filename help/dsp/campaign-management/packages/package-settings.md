@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 4a699912468cd89efec0c1da9fdb6302ca93a3b4
+source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 >
 >Dit veld is alleen een benchmark en wordt niet gebruikt voor beslissingen.
 
-**[!UICONTROL Frequency Cap]:** (Pakketten met alleen pakketniveau) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven [!UICONTROL Cross Device Level]) kan uit het pakket worden aangeboden. Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
+**[!UICONTROL Frequency Cap]:** (Pakketten met alleen pakketniveau) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven [!UICONTROL Cross Device Level] voor de campagne ) kunt u advertenties uit het pakket krijgen . Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
 
 >[!NOTE]
 >

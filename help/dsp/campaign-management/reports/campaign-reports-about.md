@@ -3,7 +3,7 @@ title: Over rapporten in Platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 093902d577cc4af3bb18bbeddc640fe284d3a179
 workflow-type: tm+mt
 source-wordcount: '940'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Voor elke plaatsing kunt u [openen a (detailweergave) [!UICONTROL Inspector])](p
 
 * **[!UICONTROL Frequency]:** Gegevens voor elk ad-frequentieniveau voor de plaatsing, met inbegrip van:
    * het ad-frequentieniveau (bijvoorbeeld &quot;1&quot; voor alle gevallen waarin gebruikers een advertentie één keer zagen)
-   * het geschatte unieke aantal apparaten/browsers of personen (afhankelijk van het opgegeven aantal [!UICONTROL Cross Device Level] voor de plaatsing) die indrukkingen hebben ontvangen op het opgegeven frequentieniveau
+   * het geschatte unieke aantal apparaten/browsers of personen (afhankelijk van het opgegeven aantal [!UICONTROL Cross Device Level] voor de campagne) die indrukken hebben gekregen op het opgegeven frequentieniveau
    * het geschatte aantal indrukkingen op het opgegeven frequentieniveau
    * de geschatte gemiddelde frequentie voor het gespecificeerde frequentieniveau. Deze waarde is gelijk aan (Geschatte Impressies)/(Geschatte Uniques).
 

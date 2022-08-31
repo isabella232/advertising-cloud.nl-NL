@@ -3,9 +3,9 @@ title: Kolommen in gedownloade/geüploade werkbladen
 description: Verwijs naar de kolommen in gedownloade en geupload de spreadsheets van Excel QA.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 0c3984d755131ad98b7ddecfd9567ff4be54b64e
+source-git-commit: a3ddbe1aed444636e7bf45e7d52c8d5ee8ec1382
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Included] | het beoogde publiek, indien van toepassing, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Audience - Excluded] | het eventuele uitgesloten publiek, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Demographic booster] | Al dan niet [!DNL Comscore] demografische segmenten zijn geschikt voor de plaatsing (en andere plaatsen in de campagne): *[!UICONTROL ON]* of *[!UICONTROL OFF]*. Deze functie kan alleen worden ingeschakeld voor campagnes waarvoor de [!DNL Audience Verification] functie is ingeschakeld voor [!DNL Nielsen] en/of [!DNL Comscore].  Er worden extra kosten in rekening gebracht. | — |
-| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | Of de advertentie moet worden uitgebreid naar andere apparaten: *[!UICONTROL ON]* of *[!UICONTROL OFF]*.<!-- Whether or not the Cross Device Targeting setting is enabled for the placement : *ON* or *OFF*. Cross-device targeting extends your targeting across all of a person's known device, per the device graph specified in the campaign settings.--> | — |
+| [!UICONTROL Audience Targeting] | [!UICONTROL Extend across screens] | Of de advertentie moet worden uitgebreid naar andere apparaten: *[!UICONTROL ON]* of *[!UICONTROL OFF]*. Bij het kiezen tussen verschillende apparaten wordt de doelversie uitgebreid naar alle bekende apparaten van een persoon, op basis van de apparaatgrafiek die is opgegeven in de campagne-instellingen. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting] - Ingesloten # | Het aantal doelonderwerpcodes, indien van toepassing, of *[!UICONTROL All]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Topic Targeting - Excluded #] | het aantal codes van uitgesloten onderwerpen, indien van toepassing, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Targeting] | [!UICONTROL Device Targeting - Included #] | het aantal beoogde apparaatdoelen, indien van toepassing, of *[!UICONTROL All]*. | — |

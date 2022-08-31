@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: ef8e13dc5f94ead81191862dbb37c17ae762682d
+source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
 workflow-type: tm+mt
-source-wordcount: '3301'
+source-wordcount: '3304'
 ht-degree: 0%
 
 ---
@@ -288,7 +288,7 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
 
 **[!UICONTROL Cross Device Targeting]:** (Beschikbaar als u ten minste één segment of publiek selecteert en [campagne is geconfigureerd voor apparaatspecifieke doelgroepen](/help/dsp/campaign-management/campaigns/campaign-settings.md). Staat u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn. De kosten kunnen van toepassing zijn afhankelijk van de grafiek die voor de campagne wordt gespecificeerd. Apparaatgrafiekgegevens zijn momenteel alleen beschikbaar in Noord-Amerika.
 
-**[!UICONTROL Placement Cap]:** (Optioneel) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven apparaat of de opgegeven persoon) [!UICONTROL Cross Device Level]) worden vanuit de plaatsing advertenties aangeboden. Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
+**[!UICONTROL Placement Cap]:** (Optioneel) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven apparaat of de opgegeven persoon) [!UICONTROL Cross Device Level] voor de campagne ) worden advertenties aangeboden vanaf de plaatsing . Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
 
 >[!NOTE]
 >
