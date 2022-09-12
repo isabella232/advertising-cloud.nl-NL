@@ -3,9 +3,9 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,11 @@ Gebruik ook de volgende instellingen.
    * Als een nieuw pakket hetzelfde doel heeft als een bestaand pakket, kunt u optioneel het bestaande pakket koppelen, zodat het algoritme de bestaande leergegevens voor computers kan gebruiken.
    * Voer de juiste gegevens in [!UICONTROL Target CPA] of [!UICONTROL Target ROAS].
 
-* **Vulstrategie voor spatiëring:** Selecteren *[!UICONTROL Even]* om uw prestatiedoelstellingen te maximaliseren door uniform door de volledige vluchtdatum te passen.
+* **Tussenruimte voor vluchten en intradayafstand:** Selecteer voor beide typen spatiëring de optie *[!UICONTROL Even]* om uw prestatiedoelstellingen te maximaliseren door uniform door elke dag en door de volledige vlucht te passen.
 
-   Gebruiken *[!UICONTROL FrontLoad]* en *[!UICONTROL Aggressive Front Load]* het plaatsen slechts wanneer u volledig aan levering en besteedt over prestatiesoptimalisering omdat die strategieën negatief uw gewenste prestaties KPIs kunnen beïnvloeden.
+   >[!CAUTION]
+   >
+   >Gebruiken *[!UICONTROL FrontLoad]* en *[!UICONTROL Aggressive Front Load]* voor de vluchtfrequentie en *[!UICONTROL ASAP]* het plaatsen voor intraday het verpakken slechts wanneer u volledig aan levering en besteedt over prestatiesoptimalisering omdat die strategieën negatief uw gewenste prestaties KPIs kunnen beïnvloeden.
 
 ## Stap 4 - Plaatsingsstructuur maken
 

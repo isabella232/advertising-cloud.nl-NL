@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: b4d415d1-86a5-40bd-b645-1709b267c174
-source-git-commit: 7fe6eb31d3330c5470077ca2766c41ae07c6c67f
+source-git-commit: 6331166f563e1404c077eb848eed049b4eb0706d
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -88,16 +88,25 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 
 * *[!UICONTROL Impressions]:* Met deze optie worden afbeeldingen afgedrukt totdat een opgegeven hoeveelheid binnen een opgegeven interval wordt bereikt. Wanneer u deze optie selecteert, geeft u het aantal afbeeldingen en het interval op: *Alle tijd,* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* of *[!UICONTROL Weekly]*.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Pakketten met alleen pakketniveau) Hoe plaats en levering:
+**[!UICONTROL Flight pacing]:** (Pakketten met alleen pakketniveau) Hoe plaats en levering over de volledige vlucht:
 
 * *[!UICONTROL Even]:* Plaatst de levering op dezelfde wijze gedurende elke vlucht, met als doel 50% van de levering in de eerste helft van de vlucht.
 
 * *[!UICONTROL Slightly Ahead]:* (De standaardwaarde) versnelt de levering zodat deze 55-65% volledig halverwege de vliegduur is.
 
-<!-- replaced with ASAP -->
 * *[!UICONTROL Frontload]:* Versnelt de levering, zodat deze 65-75% volledig is halverwege de vlucht.
 
 * *[!UICONTROL Aggressive Frontload]:* Versnelt levering zodat het 75-85% volledig halverwege de vlucht is.
+
+**[!UICONTROL Intraday pacing]:** (Pakketten met alleen pakketniveau) Hoe plaats en levering elke dag binnen de vlucht:
+
+* *[!UICONTROL Even]:* (De standaardinstelling) Schaalt de levering op basis van de beschikbaarheid van de voorraad. Over het algemeen worden meer advertenties overdag per uur geleverd, wanneer het veilingsvolume hoger is en er minder advertenties &#39;s ochtends en &#39;s avonds worden geleverd.
+
+* *[!UICONTROL ASAP]:* Versnelt levering aan tweemaal de snelheid van *Even*.
+
+   >[!CAUTION]
+   >
+   >Deze optie kan de prestaties negatief beïnvloeden. Gebruik dit alleen als u volledige prioriteit geeft aan levering en meer geld besteedt aan optimalisatie van prestaties.
 
 ## [!UICONTROL Flighting]
 

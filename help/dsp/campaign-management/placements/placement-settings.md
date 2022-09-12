@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 04586c87f134deaa9a28f57d6f7587f023fd217a
+source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
 workflow-type: tm+mt
-source-wordcount: '3304'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -96,13 +96,25 @@ Zie de beschrijvingen van elk vooraf biedende filter op &quot;[Filters op plaats
 
 **[!UICONTROL Max Bid]:** Het maximum dat voor 1000 beelden moet worden betaald.
 
-**[!UICONTROL Pacing Fill Strategy]:** (Pakketten met alleen pakketniveau) Hoe plaats en levering:
+**[!UICONTROL Flight pacing]:** (Plaatsen met plaatsing-vlakke slechts het verpakken) Hoe te plaats en levering:
 
 * *[!UICONTROL Even]:* (De standaardinstelling) Hiermee wordt de levering op uniforme wijze gedurende elke vlucht uitgevoerd, met als doel 50% van de levering tijdens de eerste helft van de vlucht.
+
+* *[!UICONTROL Slightly Ahead]:* (De standaardwaarde) versnelt de levering zodat deze 55-65% volledig halverwege de vliegduur is.
 
 * *[!UICONTROL Frontload]:* Versnelt de levering zodat deze 65-75% volledig halverwege de vlucht is.
 
 * *[!UICONTROL Aggressive Frontload]:* Versnelt de levering zodat deze 75-85% volledig halverwege de vlucht is.
+
+**[!UICONTROL Intraday pacing]:** (Plaatsen met alleen plaatsing op plaatsingsniveau) Hoe plaatst en levert u de levering over elke dag in de vlucht:
+
+* *[!UICONTROL Even]:* (De standaardinstelling) Schaalt de levering op basis van de beschikbaarheid van de voorraad. Over het algemeen worden meer advertenties overdag per uur geleverd, wanneer het veilingsvolume hoger is en er minder advertenties &#39;s ochtends en &#39;s avonds worden geleverd.
+
+* *[!UICONTROL ASAP]:* (De standaardwaarde) versnelt de levering tot tweemaal de snelheid van *Even*.
+
+   >[!CAUTION]
+   >
+   >Deze optie kan de prestaties negatief beïnvloeden. Gebruik dit alleen als u volledige prioriteit geeft aan levering en meer geld besteedt aan optimalisatie van prestaties.
 
 **[!UICONTROL Placement Pre-bid Filters]:** (Optioneel) Maximaal vijf filters waaraan moet worden voldaan om te kunnen bieden. U kunt voorbiedingsfilters gebruiken als optimalisatietechniek, maar houd er rekening mee dat elke regel de mogelijkheden waarop deze plaatsing kan bieden, kan beperken. Filters toevoegen of bewerken:
 
