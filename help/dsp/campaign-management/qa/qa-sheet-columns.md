@@ -3,7 +3,7 @@ title: Kolommen in gedownloade/geüploade werkbladen
 description: Verwijs naar de kolommen in gedownloade en geupload de spreadsheets van Excel QA.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 3bec820ee1ae9bc4d3bf0ea31e3577730c980eb9
+source-git-commit: 6a0e9f1888da7b5fca28f69ef1320910a2a49fa0
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 | [!UICONTROL Goals] | [!UICONTROL Optimization Target] | De doelwaarde van het doel. | — |
 | [!UICONTROL Goals] | [!UICONTROL Pace on] | Of de plaatsing in de richting van *[!UICONTROL Budget]* of *[!UICONTROL Impressions]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Max Bid] | Het maximumbod voor de plaatsing. | Ja |
-| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | De vliegpakketstrategie voor de plaatsing: *[!UICONTROL evenly]*, *[!UICONTROL frontload]*, of *[!UICONTROL aggressive frontload]*. | Ja |
+| [!UICONTROL Goals] | [!UICONTROL Flight Pacing] | De vliegpakketstrategie voor de plaatsing: *[!UICONTROL evenly]*, * *[!UICONTROL slightly ahead]*, *[!UICONTROL frontload]*, of *[!UICONTROL aggressive frontload]*. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL  Pre-Bid Filters] | Alle filtercriteria die moeten worden toegepast. | — |
 | [!UICONTROL Goals] | [!UICONTROL Bidding Rules] | Of biedregels (afgekeurd) zijn *[!UICONTROL ON]* of *[!UICONTROL OFF]*. | — |
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap] | De primaire frequentiedop voor de plaatsing tijdens de opgegeven [!UICONTROL Frequency Cap Interval]. | Ja |
