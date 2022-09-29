@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 8487f4ce-0232-4145-ad8b-b0631fd0ab7f
-source-git-commit: c34487bef4504f5187bfe28e87f6114ec01ff489
+source-git-commit: 7674ed62cf0e3f44dabbf153bbb3fadd38495b2e
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 | [!DNL SmartClip] |  | Adobe Advertising Cloud | Nee | EMEA | Alle valuta&#39;s | x | x | x | x | x |  |  |
 | [!DNL SmartStream] |  | Adobe Advertising Cloud | Nee | EMEA | EUR, USD | x | x |  |  |  |  |  |
 | [!DNL Sortable] |  | Adobe Advertising Cloud | Nee | CA | USD |  |  |  | x | x |  |  |
-| [!DNL Soundcast Audio] |  |  |  |  |  |  |  |  |  |  |  |  |
+| [!DNL Soundcast] |  | Adobe Advertising Cloud | Ja | Algemeen | EUR, USD |  |  |  |  |  |  | x |
 | [!DNL SpotX] | [!DNL Magnite] (voorheen) [!DNL Telaria] en [!DNL Tremor]) | [!DNL TubeMogul] of Adobe Advertising Cloud | Ja | Algemeen | USD | x | x | x |  |  |  |  |
 | [!DNL Stroer] |  | Adobe Advertising Cloud | Nee | EMEA | USD | x | x |  | x | x |  |  |
 | [!DNL Taboola] |  | Adobe Advertising Cloud | Nee | VS/CA | USD | x | x |  |  |  |  |  |
