@@ -3,9 +3,9 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: bc8e476e1218681140a1748998c19f1f6c5c0866
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ U kunt uw eigen gegevens over het eerste publiek verzamelen door een aangepast A
 
    1. Voer een unieke waarde in **[!UICONTROL Segment Name]**.
 
-   1. Voor de [!UICONTROL Segment Type], selecteert u **[!UICONTROL Custom]**.
+   1. Voor de **[!UICONTROL Segment Type]**, selecteert u *[!UICONTROL Custom]*.
 
-   1. Ga het Venster van het Segment in, dat het aantal dagen is het koekje van een gebruiker in het segment blijft.
+   1. Voer de **[!UICONTROL Segment Window]** Dit is het aantal dagen dat een cookie van een gebruiker in het segment blijft staan.
 
       Het standaardvenster is 45 dagen. Voer een waarde tussen 1 en 365 in.
 
@@ -38,7 +38,7 @@ U kunt uw eigen gegevens over het eerste publiek verzamelen door een aangepast A
 
    1. Terug naar **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
 
-   2. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Get pixel]**.
+   2. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Get Pixel]**.
 
       * Ga als volgt te werk om bezoekers van het bureaublad en mobiele apparaten bij te houden op een webpagina:
 
@@ -51,8 +51,8 @@ U kunt uw eigen gegevens over het eerste publiek verzamelen door een aangepast A
 
          1. Kopieer de code voor het bijhouden van de indruk met het label &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-         1. Voeg de tag toe aan de [!UICONTROL Pixel] tabblad voor elke relevante advertentie of voor de [!UICONTROL Event Pixels] van de [[!UICONTROL Tracking] instellingen voor elke relevante plaatsing](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
+1. Voeg de tag toe aan de [!UICONTROL Pixel] tabblad voor elke relevante advertentie of voor de [!UICONTROL Event Pixels] van de [[!UICONTROL Tracking] instellingen voor elke relevante plaatsing](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
 Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieksdoelstellingen of uitsluitingen voor om het even welke plaatsing gebruiken.
 
@@ -63,10 +63,12 @@ Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieks
 >[!MORELIKETHIS]
 >
 >* [Over Audience Management](audience-about.md)
+>* [Segmentinformatie bewerken](segment-edit.md)
+>* [Een segment verwijderen](segment-delete.md)
+>* [Trackingpixels voor een segment weergeven](segment-view-pixels.md)
+>* [Delen of Stoppen met delen van een segment](segment-share.md)
 >* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Een herbruikbaar publiek maken](reusable-audience-create.md)
->* [Instellingen publiek](audience-settings.md)
 >* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
 
-<!-- I'll add x-ref to ad settings later.-->

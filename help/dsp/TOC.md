@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -135,8 +135,19 @@ ht-degree: 0%
          + [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten](/help/dsp/audiences/ccpa-opt-out-about.md)
          + [Een [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
          + [Ophalen [!UICONTROL Consumer Opt-Out-of-Sale] Rapporten](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [Segmentinformatie bewerken](/help/dsp/audiences/segment-edit.md)
+      + [Delen of Stoppen met delen van een segment](/help/dsp/audiences/segment-share.md)
+      + [Trackingpixels voor een segment weergeven](/help/dsp/audiences/segment-view-pixels.md)
+      + [Een segment verwijderen](/help/dsp/audiences/segment-delete.md)
    + Soorten doelgroepen beheren {#reusable-audiences}
       + [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md)
+      + [Een herbruikbaar publiek dupliceren](/help/dsp/audiences/reusable-audience-duplicate.md)
+      + [Een herbruikbaar publiek bewerken](/help/dsp/audiences/reusable-audience-edit.md)
+      + [Details weergeven over een herbruikbaar publiek](/help/dsp/audiences/reusable-audience-view-details.md)
+      + [Een herbruikbaar publiek delen](/help/dsp/audiences/reusable-audience-share.md)
+      + [Een herbruikbaar publiek exporteren](/help/dsp/audiences/reusable-audience-export.md)
+      + [Kopieer de segmentsleutel voor een herbruikbaar publiek naar het klembord](/help/dsp/audiences/reusable-audience-clipboard.md)
+      + [Een herbruikbaar publiek verwijderen](/help/dsp/audiences/reusable-audience-delete.md)
       + [Instellingen publiek](/help/dsp/audiences/audience-settings.md)
       + [Syntaxis voor Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
    + Bronnen beheren {#sources}
