@@ -3,7 +3,7 @@ title: Advertentiespecificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
+source-git-commit: 8bc43253f15859c3b7dd7441fcbb4f34ecc98566
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -116,36 +116,36 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 #### Aanvullende vereisten voor uitgevers
 
-* **[!DNL Spotify]**
-   * Lengte: Tot 30 seconden
-   * Bestandstype: OGG
-   * Maximale bestandsgrootte: 500 MB
-   * Volume: RMS genormaliseerd tot -14; dBFS-piek genormaliseerd tot -0,2 dBFS
-
-* **[!DNL SoundCloud]**
-   * Lengte: 6, 15 of 30 seconden
-   * Bestandstype: MP3
-   * Maximale bestandsgrootte: 5 MB
-
-* **[!DNL Pandora]**
-   * Lengte: 15 of 30 seconden
-   * Bestandstype: MP4 (in-app), MP3 (bureaublad)
-   * Maximale bestandsgrootte: 2,2 MB
-
-* **[!DNL TuneIn]**
-   * Lengte: 10, 15 of 30 seconden
-   * Bestandstype: MP3, OGG
-   * Volume: 44,1 kHz
-
 * **[!DNL iHeartRadio]**
    * Lengte: 5, 15, 30 of 60 seconden
    * Bestandstype: MP3
    * Maximale bestandsgrootte: 320 kbps
    * Volume: 44,1 kHz
 
+* **[!DNL Pandora]**
+   * Lengte: 15 of 30 seconden
+   * Bestandstype: MP4 (in-app), MP3 (bureaublad)
+   * Maximale bestandsgrootte: 2,2 MB
+
+* **[!DNL SoundCloud]**
+   * Lengte: 6, 15 of 30 seconden
+   * Bestandstype: MP3
+   * Maximale bestandsgrootte: 5 MB
+
+* **[!DNL Spotify]**
+   * Lengte: Tot 30 seconden
+   * Bestandstype: OGG
+   * Maximale bestandsgrootte: 500 MB
+   * Volume: RMS genormaliseerd tot -14; dBFS-piek genormaliseerd tot -0,2 dBFS
+
 * **[!DNL TargetSpot]**
    * Lengte: 15, 30 of 60 seconden
    * Bestandstype: MP3
+
+* **[!DNL TuneIn]**
+   * Lengte: 10, 15 of 30 seconden
+   * Bestandstype: MP3, OGG
+   * Volume: 44,1 kHz
 
 ### Vereisten voor extra hulpmiddelen van de Banner (facultatief)
 
@@ -153,29 +153,29 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 #### Aanvullende vereisten voor uitgevers
 
-* **[!DNL Spotify]:**
-   * Bestandstype: Statische JPG, PNG
-   * Maximale bestandsgrootte: 200 kB
+* **[!DNL iHeartRadio]:**
+   * Bestandstype: JPEG, JPG, PNG, GIF, SWF, HTML
+   * Maximale bestandsgrootte: 2,2 MB
    * Dimension: 300 x 250
-
-* **[!DNL SoundCloud]:**
-   * Bestandstype: Statische JPG, PNG
-   * Maximale bestandsgrootte: Minder dan 400 kB
-   * Dimension: 1024x1024
 
 * **[!DNL Pandora]:**
    * Bestandstype: JPEG, GIF
    * Maximale bestandsgrootte: Grootte: 100 kB
    * Dimension: 300x250 (mobiel of bureaublad) of 500x500 (bureaublad)
 
+* **[!DNL SoundCloud]:**
+   * Bestandstype: Statische JPG, PNG
+   * Maximale bestandsgrootte: Minder dan 400 kB
+   * Dimension: 1024x1024
+
+* **[!DNL Spotify]:**
+   * Bestandstype: Statische JPG, PNG
+   * Maximale bestandsgrootte: 200 kB
+   * Dimension: 300 x 250
+
 * **[!DNL TuneIn]:**
    * Bestandstype: JPEG, JPG, PNG, GIF, HTML
    * Maximale bestandsgrootte: 2 MB
-   * Dimension: 300 x 250
-
-* **[!DNL iHeartRadio]:**
-   * Bestandstype: JPEG, JPG, PNG, GIF, SWF, HTML
-   * Maximale bestandsgrootte: 2,2 MB
    * Dimension: 300 x 250
  
 
