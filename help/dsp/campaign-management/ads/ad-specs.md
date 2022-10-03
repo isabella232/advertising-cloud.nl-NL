@@ -3,9 +3,9 @@ title: Advertentiespecificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: 3c5a114339c2bf41637027c8580316626656fbba
+source-git-commit: 40228a7de376cd4884d4cf7141c75516bc1a97ec
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '841'
 ht-degree: 0%
 
 ---
@@ -54,15 +54,13 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 #### Aanvullende vereisten voor uitgevers voor aangesloten tv-advertenties
 
-* **Hulu:** Zie Hulu&#39;s [advertentiespecificaties](https://advertising.hulu.com/ad-products/video-commercial/).
-
-* **Bovengrens:** Zie Paramount&#39;s [advertentiespecificaties](https://www.paramount.com/digital-ads).
+* **A+E-netwerk:** Zie A+E-netwerken [advertentiespecificaties](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
 * **Detectie:** Zie Detectie [advertentiespecificaties](/help/dsp/assets/discovery-networks-ad-specs.pdf).
 
-* **Max. HBO:** Zie HBO Max&#39;s [advertentiespecificaties](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+* **Disney (incl. Hulu):** Zie Disney&#39;s [advertentiespecificaties](https://hulu.disneyadsales.com/ad-products/video-commercial/).
 
-* **A+E-netwerk:** Zie A+E-netwerken [advertentiespecificaties](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+* **Max. HBO:** Zie HBO Max&#39;s [advertentiespecificaties](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
 
@@ -72,32 +70,7 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
    * [Peacock](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
-* **Disney:**
-
-   * ESPN Livestreaming:
-
-      **Bitsnelheid:** > 14000 kbps
-      **Indeling:** .mp4
-      **Type label:** VAST 2,0
-      **Creatieve grootte:** 1280x720 of 1920x1080
-
-   * Programmering voor volledige aflevering (FEP): ESPN, ABC, Freeform, Nat Geo en FX
-
-      * **Bitsnelheid:** > 14000 kbps:
-
-         **Indeling:** .mp4
-
-         **Type label:** VAST 2,0
-
-         **Creatieve grootte:** 1280x720 of 1920x1080
-
-      * **Bitsnelheid:** > 1000 kbps (lage resolutie) of 15000 kbps (hoge resolutie):
-
-         **Indeling:** .mp4
-
-         **Type label:** VAST 2.0 (alleen VPAID 1.0 op desktop)
-
-         **Creatieve grootte:** 1280x720 of 1920x1080
+* **Bovengrens:** Zie Paramount&#39;s [advertentiespecificaties](https://www.paramount.com/digital-ads).
 
 ## Advertenties weergeven
 
