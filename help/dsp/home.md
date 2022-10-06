@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: a3f676bd085571392a4add32f69fe0da4d4ae912
+source-git-commit: 3c951d738d5ef571b8f762df1f89ebd0360cd0f6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 6 oktober 2022 | Campagnes | Er zijn nieuwe metrische kolommen met betrekking tot plaatsing beschikbaar voor de cameraweergaven: &quot;De OTS van gisteren&quot; (voor doeluitgaven), &quot;De levering van gisteren&quot;, &quot;Het doel van gisteren&quot;, &quot;De OTS van vandaag&quot; (voor doeluitgaven), &quot;De levering van vandaag&quot; en &quot;Het doel van vandaag&quot;. | Zie &quot;[Een aangepaste kolomweergave maken](/help/dsp/campaign-management/reports/column-view-create.md)&quot; en &quot;[Een aangepaste kolomweergave bewerken](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 12 september 2022 | Pakket- en plaatsingsruimte | Er zijn nu aparte besturingselementen voor het plaatsen van de vlucht en het plaatsen binnen de dag beschikbaar. Eerder stond er een enkele strategie in het teken van beide. De instellingen voor uw bestaande pakketten en plaatsen zijn als volgt toegewezen:<ul><li>Verouderd **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]* — Nu geconfigureerd als **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* en **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Verouderd **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]* — Nu geconfigureerd als **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* en **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Verouderd **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]* — Nu geconfigureerd als **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* en **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>Verouderd **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]* — Nu geconfigureerd als **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* en **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> | Zie &quot;[Pakketinstellingen](/help/dsp/campaign-management/packages/package-settings.md)&quot; en &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 27 juli 2022 | Inventaris | De Inzichten van de veiling is een nieuw het oplossen van problemenhulpmiddel dat u toestaat om de overeenkomstensamenstelling van zowel gewaarborgde als niet gewaarborgde privé overeenkomsten te analyseren. Met behulp van gegevensvisualisaties toont dit gereedschap de trend en de relatieve verhoudingen van waarden die binnen een specifieke periode voor essentiële veilingkenmerken zijn ontvangen.<br><br>Met transparantie in de gegevens van de biedingsaanvraag van uitgevers kunt u tijdrovende stappen voor het oplossen van problemen voorkomen. | Zie &quot;[Inzichten in veilingen weergeven voor een persoonlijke deal](/help/dsp/inventory/private-deal-auction-insights.md).&quot; |
 | 29 juni 2022 | Inventaris | De nieuwe [!UICONTROL Inventory] > [!UICONTROL Deals] de weergave beschikt over dezelfde mogelijkheden voor gegevensaanpassing als de [!UICONTROL Campaigns] weergaven, waaronder aanvullende filters, kolomaanpassing en de optie om aangepaste weergaven, kolomsortering en een weergave voor gegevensvisualisatie (grafiek) op te slaan. U kunt een opdrachtmenu in elke rij openen door op [!UICONTROL ...] na de overeenkomstennaam. | Zie &quot;[Overzicht van voorraadfuncties](/help/dsp/inventory/inventory-overview.md).&quot; |
