@@ -3,9 +3,9 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 1fd95b3193fba50ce7cd85b2ad6256a0ba346011
+source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1249'
 ht-degree: 0%
 
 ---
@@ -123,6 +123,8 @@ Als u de schaal wilt maximaliseren, gebruikt u [!UICONTROL Public] (Open Exchang
 * **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
 ### Doelgerichtheid publiek
+
+<!-- Say something about limiting unnecessary constraints/limitations, including dayparting, which limit your chances for ad exposure. Use only when it's required for your audience. -->
 
 * **[!UICONTROL Included Audiences]:**
    * Voor prospectieve plaatsingen, groepeer gelijkaardige publiekscategorieën en gelijkaardige publieksgrootte in één plaatsing. Voer vervolgens op basis van prestaties een van de volgende handelingen uit:
