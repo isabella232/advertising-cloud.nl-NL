@@ -3,9 +3,9 @@ title: Toevoegen [!DNL Analytics for Advertising Cloud] Macro's naar [!DNL Googl
 description: Ontdek waarom en hoe u kunt toevoegen [!DNL Analytics for Advertising Cloud] macro's voor uw [!DNL Google Campaign Manager 360] advertentietags
 feature: Integration with Adobe Analytics
 exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
-source-git-commit: c7716aa6f953cda7b03bce85dc85842f25d41172
+source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Macro&#39;s gebruiken voor [!DNL Campaign Manager 360] weergave- en videoadverte
 >
 >De JavaScript-code is een oplossing om alleen op bijhouden te klikken als er nog cookies beschikbaar zijn. Wanneer de cookies zijn stopgezet, is het nodig de volgende macro&#39;s te implementeren.
 
-* **Adverteerders van wie de websites de [!DNL Analytics for Advertising Cloud] JavaScript-code en vertrouwen in plaats daarvan op [!DNL Analytics] server-kant het door:sturen voor klik-door gegevens slechts** (zonder doorkijkgegevens): De volgende macro&#39;s zijn vereist voor het rapporteren van onsite klikactiviteiten op advertenties die je via Advertising Cloud koopt.
+* **Adverteerders van wie de websites de [!DNL Analytics for Advertising Cloud] JavaScript-code en vertrouwen in plaats daarvan op [!DNL Analytics] server-kant het door:sturen voor klik-door gegevens slechts** (zonder doorkijkgegevens): De volgende macro&#39;s zijn vereist om klikactiviteiten ter plaatse te melden die worden aangestuurd door advertenties die u via Advertising Cloud koopt.
 
 ## De macro&#39;s toevoegen aan uw [!DNL Google Campaign Manager 360] Adds
 
