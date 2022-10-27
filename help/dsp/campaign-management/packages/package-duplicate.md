@@ -3,9 +3,9 @@ title: Een pakket dupliceren
 description: Leer hoe u een pakket dupliceert.
 feature: DSP Packages
 exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Dupliceer een pakket om een pakket met gelijkaardige montages tot stand te breng
 * (Voor gedupliceerde pakketten in de oorspronkelijke campagnes) Dupliceer optioneel de oorspronkelijke advertenties en de gebeurtenispixels op plaatsingsniveau
 * De vluchtdatums van het nieuwe pakket wijzigen
 
-Zie &quot;[Wat is niet gedupliceerd](#package-not-duplicated)&quot;voor een lijst van plaatsingsmontages die niet worden gedupliceerd.
+Zie &quot;[Wat is niet gedupliceerd](#package-not-duplicated)&quot; voor een lijst met plaatsingsinstellingen die niet worden gedupliceerd.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
-1. Klik op de naam van de campagne om de weergave [!UICONTROL Packages] te openen.
-1. Klik naast de pakketnaam op **[!UICONTROL ...]>[!UICONTROL Duplicate]**.
+1. Klik op de naam van de campagne om het dialoogvenster [!UICONTROL Packages] weergeven.
+1. Klik naast de pakketnaam op  **[!UICONTROL ...]>[!UICONTROL Duplicate]**.
 1. Geef de nieuwe pakketinstellingen op:
    1. Voer de nieuwe pakketnaam in.
    1. (Optioneel) Wijzig de standaardinstellingen.
@@ -43,17 +43,18 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 * Instellingen Experimenteren
 * (Als u de vluchtdatums wijzigt) Aangepaste en geplande planning
 * (Als u geen advertenties koppelt) Aangepaste weging en planning
-* Standaard plaatsingen voor programmatic gewaarborgde (PG) overeenkomsten en plaatsingen voor [!UICONTROL Simple Ad Serving] overeenkomsten
+* Standaardplaatsingen voor door het programma gegarandeerde deals en plaatsingen voor [!UICONTROL Simple Ad Serving] deals
 * (Als u plaatsingen naar een andere campagne kopieert):
    * Geo-doelen
    * Gebeurtenispixels
    * Adds
-   * [!DNL DoubleVerify Authentic Brand Safety]-segmenten op plaatsingsniveau (die de segmenten op adverteerderniveau overschrijven)
+   * Plaatsingsniveau [!DNL DoubleVerify Authentic Brand Safety] segmenten (die de segmenten op adverteerderniveau overschrijven)
 
 >[!MORELIKETHIS]
 >
 >* [Info over Pakketbeheer](package-about.md)
 >* [Een pakket maken](package-create.md)
 >* [Een pakket bewerken](package-edit.md)
+>* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
 >* [Pakketinstellingen](package-settings.md)
 

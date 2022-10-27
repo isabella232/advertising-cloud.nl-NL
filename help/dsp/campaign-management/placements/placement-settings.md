@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 7bbeb3013ad7cd84bf3a25f5ebf8b16a82a6f591
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '3403'
 ht-degree: 0%
 
 ---
@@ -463,6 +463,7 @@ Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór
 >* [Info over Plaatsingsbeheer](placement-about.md)
 >* [Een plaatsing maken](placement-create.md)
 >* [Een plaatsing bewerken](placement-edit.md)
+>* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 

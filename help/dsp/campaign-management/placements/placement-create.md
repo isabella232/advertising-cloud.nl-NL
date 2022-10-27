@@ -3,10 +3,10 @@ title: Een plaatsing maken
 description: Leer hoe u een plaatsing maakt.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: a30f3bffaf63a79bb7aead69e52524419ed54ed0
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '649'
+ht-degree: 1%
 
 ---
 
@@ -123,6 +123,7 @@ ht-degree: 0%
 >* [Een plaatsing bewerken](placement-edit.md)
 >* [Het advertentieschema voor een plaatsing bewerken](placement-edit-ad-schedule.md)
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)
+>* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)
 >* [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 

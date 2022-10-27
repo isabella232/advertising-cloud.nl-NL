@@ -3,9 +3,9 @@ title: Over Pakketbeheer in Advertising Cloud DSP
 description: Meer informatie over pakketbeheer.
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Gebruik pakketten om plaatsingen voor levering aan een vastgestelde begroting, p
 
 U kunt pakketten handmatig maken of bestaande pakketten dupliceren. U kunt ook plaatsen bewerken en aan om het even welk pakket vastmaken.
 
-## Het dashboard [!UICONTROL Packages]
+## De [!UICONTROL Packages] Dashboard
 
-Het [!UICONTROL Packages] dashboard centraliseert prestaties en economische rapportering over al uw pakketstrategieën, die snelle momentopnamen verstrekken van hoe uw pakketten tijdens een gespecificeerde datumwaaier hebben uitgevoerd.
+De [!UICONTROL Packages] het dashboard centraliseert prestaties en economische rapportering over al uw pakketstrategieën, die snelle momentopnamen verstrekken van hoe uw pakketten tijdens een gespecificeerde datumwaaier hebben uitgevoerd.
 
 ![Pakketdashboard](/help/dsp/assets/package-dashboard.png)
 
@@ -28,7 +28,7 @@ Het toont ook het verpakken en leveringsmetriek door pakket, door gebrek. U kunt
 
 >[!NOTE]
 >
->U kunt de inhoud en levering van pakketrapportage verder aanpassen via [aangepaste rapporten](/help/dsp/reports/report-about.md).
+>U kunt de inhoud en levering van pakketrapporten verder aanpassen via [aangepaste rapporten](/help/dsp/reports/report-about.md).
 
 Als u alle plaatsen in een pakket wilt zien, klikt u op de pakketnaam.
 
@@ -37,5 +37,6 @@ Als u alle plaatsen in een pakket wilt zien, klikt u op de pakketnaam.
 >* [Een pakket maken](package-create.md)
 >* [Een pakket bewerken](package-edit.md)
 >* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
+>* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
 >* [Pakketinstellingen](package-settings.md)
 

@@ -3,9 +3,9 @@ title: Een plaatsing archiveren of archiveren
 description: Leer hoe u een plaatsing archiveert of het archief ervan opheft.
 feature: DSP Placements
 exl-id: 3d342f83-1bcb-4f80-b31a-2009bcdde565
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -23,23 +23,24 @@ U kunt een plaatsing desarchiveren om zijn vorige status op elk ogenblik te hers
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]**.
-1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]>[!UICONTROL Archive]**.
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]>[!UICONTROL Archive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
->Als u gearchiveerde plaatsen wilt weergeven, filtert u de weergave [!UICONTROL Placements]: Klik ![Filterknop](/help/dsp/assets/filter.png), klik **[!UICONTROL Placement status]** en selecteer **[!UICONTROL Archived]**, en klik vervolgens op **[!UICONTROL Apply].**
+>Als u gearchiveerde plaatsingen wilt weergeven, filtert u de [!UICONTROL Placements] weergave: klikken ![De knop Filter](/help/dsp/assets/filter.png), klikt u op **[!UICONTROL Placement status]** en selecteert u **[!UICONTROL Archived]** en klik vervolgens op **[!UICONTROL Apply].**
 
 ## Een plaatsing verwijderen
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]**.
-1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]
 >
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)
 >* [Een plaatsing bewerken](placement-edit.md)
+>* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 

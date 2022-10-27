@@ -3,9 +3,9 @@ title: Instellingen voor sleutelplaatsing snel bewerken
 description: Leer hoe u de instellingen voor toetsplaatsing snel kunt wijzigen.
 feature: DSP Placements
 exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 >* [Een plaatsing dupliceren](placement-duplicate.md)
 >* [Het advertentieschema voor een plaatsing bewerken](placement-edit-ad-schedule.md)
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)
+>* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)
 >* [Video: Plaatsen bewerken met Bulk bewerkingsgereedschappen](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
 

@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
+source-git-commit: 8db395fce0006ce300b3e588c205ca9c87e30fb2
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '950'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 0%
       + [Een pakket dupliceren](/help/dsp/campaign-management/packages/package-duplicate.md)
       + [Een plaatsing koppelen aan een pakket](/help/dsp/campaign-management/packages/package-attach-placement.md)
       + [Een pakket archiveren of archiveren](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
+      + [Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md)
       + [Pakketinstellingen](/help/dsp/campaign-management/packages/package-settings.md)
    + Plaatsen {#placements}
       + [Info over Plaatsingsbeheer](/help/dsp/campaign-management/placements/placement-about.md)
@@ -73,6 +74,7 @@ ht-degree: 0%
       + [Advertentie aan een Plaatsing vastmaken](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
       + [Het advertentieschema voor een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
       + [Een gedetailleerd rapport voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-view-report.md)
+      + [Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md)
       + [Een plaatsing pauzeren of activeren](/help/dsp/campaign-management/placements/placement-pause-activate.md)
       + [Een plaatsing archiveren of archiveren](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
       + [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)

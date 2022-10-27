@@ -3,9 +3,9 @@ title: Informatie over Plaatsingsbeheer in Advertising Cloud DSP
 description: Meer informatie over plaatsingsbeheer.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 0d6d5e807053f042e0da1da65fed5e33a34dd4a9
+source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,9 @@ Voor elke plaatsing kunt u een gedetailleerde weergave openen ([de [!UICONTROL I
 
 >[!MORELIKETHIS]
 >
->* [Een plaatsing maken](/help/dsp/campaign-management/placements/placement-create.md)
->* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Een plaatsing maken](placement-create.md)
+>* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
+>* [Plaatsingsinstellingen](placement-settings.md)
 
    >*[Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 
