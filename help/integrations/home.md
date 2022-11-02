@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 0808d101-3c6b-4671-b9e3-6f588427f8b5
-source-git-commit: 9d6177c90fb5507b4e1d281847e7ce3fe89ab9d3
+source-git-commit: 136933f5304edd8f16b8dcb649860f0fb07cf3fb
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 1 november 2022 | Help | In een nieuw document wordt uitgelegd hoe u het delen van kliksignalen en doorkijksignalen tussen Advertising Cloud DSP en Adobe Target implementeert, en hoe u een A/B-testactiviteit instelt in [!DNL Target] voor uw DSP advertenties en hoe u Adobe Analytics Analysis Workspace instelt om de testgegevens weer te geven. | Zie &quot;[A/B-tests configureren in Adobe Target voor Advertising Cloud DSP-advertenties](/help/integrations/target/overview-ab-tests.md).&quot; |
 | 17 augustus 2022 | Help | In een nieuw hoofdstuk worden alle manieren beschreven waarop Advertising Cloud is geïntegreerd met Adobe Audience Manager. | Zie het hoofdstuk over &quot;Integratie met Adobe Audience Manager&quot;, inclusief een overzicht van &quot;[Advertising Cloud-integratie met Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |
 | 27 april 2021 | [!DNL Analytics for Advertising Cloud] | Ontdek waarom en hoe u kunt toevoegen [!DNL Analytics for Advertising Cloud] macro&#39;s voor uw [!DNL Google Campaign Manager 360] Voeg tags toe om klikgegevens naar Adobe Analytics te verzenden. | Zie &quot;[Toevoegen [!DNL Analytics for Advertising Cloud] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md).&quot; |
 | 19 april 2021 | [!DNL Analytics for Advertising Cloud] | Leer waarom en hoe u macro&#39;s aan uw [!DNL Flashtalking] Voeg tags toe om klikgegevens naar Adobe Analytics te verzenden. | Zie &quot;[Toevoegen [!DNL Analytics for Advertising Cloud] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](/help/integrations/analytics/macros-flashtalking.md).&quot; |
