@@ -1,13 +1,13 @@
 ---
-source-git-commit: d3e36cef27fce533e9435717d428d54b982fd427
+source-git-commit: 0654347afd1caf5e9bd8ccabf41a8a591e604df5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 # Samenwerkingsdocumentatie voor Advertising Cloud
 
-Dit is de documentatieopslagplaats voor Adobe Advertising Cloud, met inbegrip van dwars-product, DSP, en de documenten van TV. (Later worden er documenten voor Creative Cloud en Search toegevoegd.)
+Dit is de documentatieopslagplaats voor Adobe Advertising Cloud, met inbegrip van producten en DSP documenten. (Later worden er ook documenten voor zoeken en mogelijk (?) voor Creative.)
 
 **Opmerking: Deze pagina wordt niet gepubliceerd in de klant-onder ogen ziet documentatie.**
 
@@ -19,16 +19,16 @@ Dit is de documentatieopslagplaats voor Adobe Advertising Cloud, met inbegrip va
 
 ## Handboek
 
-+ De inleiding aan de gebruikersgids wordt genoemd `overview.md`
++ De inleiding tot de gebruikersgids wordt geroepen `overview.md`
 + Elk onderwerp in de gebruikersgids heeft het zijn eigen verschillende folder.
-   + Als er een onderwerp in de gids genoemd *Implementatie* is, is de overeenkomstige folder `/implementation`
+   + Als er een onderwerp in geroepen gids is *Implementatie*, de corresponderende directory is `/implementation`
 + Alle afbeeldingselementen worden opgeslagen in `/assets` aan de basis van de gebruikershandleiding.
-   + Alle afbeeldingen in de map `/assets` worden gelokaliseerd.
-   + Afbeeldingen in de map `/no-localize` worden niet gelokaliseerd (dit is een verrassing!). Dit kan worden gebruikt om er in lokale versies voor te zorgen dat specifieke elementen niet onnodig worden gereproduceerd.
+   + Alle afbeeldingen in het dialoogvenster `/assets` directory wordt gelokaliseerd.
+   + Alle afbeeldingen in het dialoogvenster `/no-localize` directory zal niet worden gelokaliseerd (er is een verrassing!). Dit kan worden gebruikt om er in lokale versies voor te zorgen dat specifieke elementen niet onnodig worden gereproduceerd.
 
 ## Metagegevens gebruikersgids Niveau
 
-+ Metagegevens die de gebruikershandleiding beschrijven, worden opgeslagen in `TOC.md`. Dit omvat:
++ Metagegevens die de gebruikershandleiding beschrijven, worden opgeslagen in het dialoogvenster `TOC.md`. Dit omvat:
    + product - naam van product/capaciteit.
    + cloud - cloud waartoe dit product behoort.
    + publiek - publiek of archetype waarop de gids is gericht.
@@ -52,7 +52,7 @@ Dit is de documentatieopslagplaats voor Adobe Advertising Cloud, met inbegrip va
 
 Raadpleeg de volgende bronnen voor meer publicatieinstructies, stijlhulplijnen, voorbeelden en andere bronnen:
 
-+ [Richtlijnen voor auteurs  **specifiek bijdragen aan Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
++ [Richtlijnen voor auteurs van bijdragen **specifiek voor Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
 + [Samenwerken aan ontwerpen voor alle Adobe-schrijvers](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html)
 
 Zie ook:

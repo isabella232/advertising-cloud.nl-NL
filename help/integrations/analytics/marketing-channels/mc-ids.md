@@ -2,9 +2,10 @@
 title: Advertising Cloud-id's gebruiken om te maken [!DNL Marketing Channels] Regels
 description: Leer hoe u met Advertising Cloud-id's verwerkingsregels maakt voor [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
+source-git-commit: d136b1fe6f6fd3861d0850e07efe7c320da4a7cc
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -83,7 +84,7 @@ Soms worden doorklikkingen gevolgd door URL (het gebrek). In andere gevallen wor
 
 #### Weergave-through-regel
 
-Maak een regel waarin de EF-id eindigt met &quot;:i&quot; om een weergavedoorvoerkanaal te maken. Omdat de bezoeker niet op de advertentie heeft geklikt, bevat de doorkijktracking geen `ef_id` of `s_kwcid` in de URL. Daarom is slechts één voorwaarde nodig.
+Maak een regel waarin de EF-id eindigt met &quot;:i&quot; om een weergavedoorvoerkanaal te maken. Omdat de bezoeker niet op de advertentie heeft geklikt, bevat de doorkijktracking geen `ef_id` of `s_kwcid` in de URL, zodat de regel slechts één voorwaarde vereist.
 
 ![Voorbeeld van een weergaveregel](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
 
