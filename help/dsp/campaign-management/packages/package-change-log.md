@@ -2,7 +2,8 @@
 title: Een wijzigingslogboek voor een pakket weergeven
 description: Leer hoe u de wijzigingen in het pakket kunt bekijken.
 feature: DSP Packages
-source-git-commit: 2f892f1f9521c4768c1cac4bd0cb0c35261ab147
+exl-id: 1d611c20-7857-41db-adf4-743dab44341e
+source-git-commit: 1098fa5fc9207300b5b9c75cf07f24ecfe1dfc69
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -17,7 +18,7 @@ U kunt de gegevens op elke kolom sorteren, behalve Nieuwe waarde en Oude waarde.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
-1. Op de **[!UICONTROL Placements]** , naast de pakketnaam, klikt u op  **[!UICONTROL ...]>[!UICONTROL Change logs]**.
+1. Op de **[!UICONTROL Packages]** , naast de pakketnaam, klikt u op  **[!UICONTROL ...]>[!UICONTROL Change logs]**.
 
 >[!MORELIKETHIS]
 >
