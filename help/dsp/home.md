@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 9e1def0c5998ac35dbb2b466ed6ebc31f83fd026
+source-git-commit: b96bb5be747e59beb7bb626152dbab7aa49cb88e
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '998'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 23 november 2022 | Overeenkomsten | De inventarisatie > de mening van Overeenkomsten omvat nu een kolom van de Gezondheid van de Overeenkomst, die op de gezondheidsstatus van elke privé overeenkomst wijst: &quot;Succesvol&quot;, &quot;Waarschuwing&quot;, &quot;Kritiek&quot; of &quot;Niet beschikbaar&quot;. U kunt de status klikken om meer details, met inbegrip van te zien waarom een overeenkomst niet uitvoert of zoals verwacht uitgeeft en stappen om potentiële kwesties problemen op te lossen. | — |
 | 27 oktober 2022 | Campagnes | Een veranderingslogboek, dat veranderingen toont die tijdens de geselecteerde datumwaaier worden aangebracht, is nu beschikbaar voor elk pakket en plaatsing. | Zie &quot;[Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md)&quot; en &quot;[Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | U kunt nu de [!UICONTROL Intraday Pacing] instellen voor meerdere plaatsen tegelijk. | Zie &quot;[Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; en &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 |  |  | Een &quot;[!UICONTROL Intraday Pacing]De kolom is beschikbaar in de spreadsheets van Excel QA. | Zie &quot;[Kolommen in gedownloade/geüploade werkbladen](/help/dsp/campaign-management/qa/qa-sheet-columns.md).&quot; |

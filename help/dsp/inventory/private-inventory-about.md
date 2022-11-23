@@ -3,9 +3,9 @@ title: Informatie over privé-voorraad
 description: Informatie over privé-voorraad
 feature: DSP Private Inventory
 exl-id: 6b3923ca-ccd1-450e-bff0-139e3838c999
-source-git-commit: 82c906c87fd3aad0d7a04d0b0e58e54c5485499a
+source-git-commit: 7feb0e398c416805b376062d9f3dfec819fac2ee
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Al uw privé overeenkomsten met een overeenkomstenidentiteitskaart worden gefina
 
 U kunt overeenkomst IDs op één van beide volgende manieren gebruiken:
 
-* (Optionele functie die moet worden geactiveerd) Van de [!UICONTROL Deal ID Inbox], kunt u uw overeengekomen, gegarandeerde en niet-gegarandeerde privé inventarisovereenkomsten van uitgevers op de volgende aanbodplatforms (SSPs) herzien en snel goedkeuren: [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), en [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) van de [!UICONTROL Deal ID inbox].
+* (Optionele functie die moet worden geactiveerd) Van de [!UICONTROL Deal ID Inbox], kunt u uw overeengekomen gegarandeerde en niet-gegarandeerde privé inventarisovereenkomsten van uitgevers op de volgende aanbodplatforms (SSPs) herzien en snel goedkeuren: [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), en [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) van de [!UICONTROL Deal ID inbox].
 
    Zie voor meer informatie &quot;[Over het [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md).&quot;
 
@@ -36,7 +36,9 @@ U kunt elke privé overeenkomst als plaatsingsdoel voor veelvoudige campagnes ov
 
 In de [!UICONTROL Inventory] > [!UICONTROL Deals] bekijken, kunt u privé overeenkomstenmontages tot stand brengen. U kunt sommige overeenkomstenmontages ook uitgeven; een lijst van de plaatsen en advertenties en aanvullende plaatsingen en advertenties aan een persoonlijke deal toevoegen; de adverteerders en accounts die toegang hebben tot een persoonlijke deal bewerken; een prestatiesrapport voor een overeenkomst bekijken; veilinginzichten weergeven voor een persoonlijke deal, of een deal archiveren of archiveren.<!-- ; or edit the attribute tags for a deal -->
 
-U kunt verder aanpassen hoe de bestaande overeenkomstengegevens worden voorgesteld door filters toe te passen, de zichtbare kolommen aan te passen en naar keuze douanemeningen op te slaan, de kolommen te sorteren, en de gegevens als grafieken te bekijken.
+De kolom &quot;Gezondheid van de Overeenkomst&quot;wijst op de gezondheidsstatus van elke privé overeenkomst: &quot;Succesvol&quot;, &quot;Waarschuwing&quot;, &quot;Kritiek&quot; of &quot;Niet beschikbaar&quot;. U kunt de status klikken om meer details, met inbegrip van te zien waarom een overeenkomst niet uitvoert of zoals verwacht uitgeeft en stappen om potentiële kwesties problemen op te lossen.
+
+U kunt aanpassen hoe de bestaande overeenkomstengegevens worden voorgesteld door filters toe te passen, de zichtbare kolommen aan te passen en naar keuze douanemeningen op te slaan, de kolommen te sorteren, en de gegevens als grafieken te bekijken.
 
 >[!MORELIKETHIS]
 >
