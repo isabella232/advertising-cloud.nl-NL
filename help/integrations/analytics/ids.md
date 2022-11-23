@@ -3,9 +3,9 @@ title: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 description: Advertising Cloud-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: 525bc48104f928ccf9a3bb792b7e33c7e590cf4a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1194'
 ht-degree: 0%
 
 ---
@@ -132,19 +132,19 @@ Voorbeeld-AMO-id: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
 AMO-id&#39;s voor [!DNL Search] voor elk zoekprogramma een aparte indeling gebruiken. De indeling voor alle zoekmachines begint met het volgende:
 
-```AL!{ef_userid}!{ef_sid}```
+```AL!{userid}!{sid}```
 
 waarbij:
 
 * `AL` is de kanaal-id voor het zoekkanaal.
-* `{ef_userid}` Dit is de unieke numerieke gebruikersnaam die Advertising Cloud aan de adverteerder toewijst.
-* `{ef_sid}` is de numerieke id die Advertising Cloud gebruikt voor het opgegeven zoekprogramma, zoals `3` for [!DNL Google Ads] of `10` for [!DNL Microsoft Advertising].
+* `{userid}` Dit is de unieke numerieke gebruikersnaam die Advertising Cloud aan de adverteerder toewijst.
+* `{sid}` is de numerieke id die Advertising Cloud gebruikt voor het opgegeven zoekprogramma, zoals `3` for [!DNL Google Ads] of `10` for [!DNL Microsoft Advertising].
 
 Hieronder ziet u de volledige AMO ID-indelingen voor een aantal zoekprogramma&#39;s. Neem voor AMO ID-indelingen voor andere zoekprogramma&#39;s contact op met uw [!DNL Adobe] accountteam.
 
 AMO ID-indeling voor [!DNL Google Ads]:
 
-```AL!{ef_userid}!{ef_sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
+```AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
 
 waarbij:
 
@@ -156,7 +156,7 @@ waarbij:
 
 AMO ID-indeling voor [!DNL Microsoft Advertising]:
 
-```AL!{ef_userid}!{ef_sid}!{AdId}!{OrderItemId}```
+```AL!{userid}!{sid}!{AdId}!{OrderItemId}```
 
 waarbij:
 
