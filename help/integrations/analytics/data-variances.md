@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Advertising Cloud
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Advertising Cloud
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: 76d6e94d69f4bd47d982c36e6c24a0e7031a823c
 workflow-type: tm+mt
-source-wordcount: '3282'
+source-wordcount: '3285'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ In Advertising Cloud kunt u conversiegegevens rapporteren op basis van de bijbeh
 
 ## Attributie in [!DNL Analytics Marketing Channels]
 
-[[!DNL Analytics Marketing Channels] rapportage](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/marketing-channels-admin.html) staat u toe om regels te vormen om verschillende marketing kanalen te identificeren die op verschillende aspecten van klapinformatie worden gebaseerd. U kunt kanalen volgen die door Advertising Cloud worden gevolgd ([!UICONTROL Display Click Through], [!UICONTROL Display View Through], en [!UICONTROL Paid Search]) als [!DNL Marketing Channels] door `ef_id` query string parameter om het kanaal te identificeren. <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> Maar hoewel de [!DNL Marketing Channels] In rapporten kunnen Advertising Cloud-kanalen worden bijgehouden. Het is mogelijk dat de gegevens niet overeenkomen met de Advertising Cloud-rapporten om verschillende redenen. Zie de volgende secties voor meer informatie.
+[[!DNL Analytics Marketing Channels] rapportage](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html) staat u toe om regels te vormen om verschillende marketing kanalen te identificeren die op verschillende aspecten van klapinformatie worden gebaseerd. U kunt kanalen volgen die door Advertising Cloud worden gevolgd ([!UICONTROL Display Click Through], [!UICONTROL Display View Through], en [!UICONTROL Paid Search]) als [!DNL Marketing Channels] door `ef_id` query string parameter om het kanaal te identificeren. <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> Maar hoewel de [!DNL Marketing Channels] In rapporten kunnen Advertising Cloud-kanalen worden bijgehouden. Het is mogelijk dat de gegevens niet overeenkomen met de Advertising Cloud-rapporten om verschillende redenen. Zie de volgende secties voor meer informatie.
 
 >[!NOTE]
 >
@@ -127,7 +127,7 @@ Voor meer uitleg over de reden waarom de meetwaarden kunnen variëren, raadpleeg
 
 ## Gegevensverschillen in Adobe Analytics [!DNL Paid Search Detection]
 
-De [verouderd [!DNL Paid Search Detection]](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html) functie in [!DNL Analytics] staat bedrijven toe [regels vaststellen voor het volgen van betaald en biologisch zoekverkeer](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html) voor specifieke zoekprogramma&#39;s. De [!DNL Paid Search Detection] de regels gebruiken zowel een vraagkoord als het verwijzende domein om betaald en natuurlijk onderzoeksverkeer te identificeren. De [!DNL Paid Search Detection] rapporten maken deel uit van de grotere groep [Methoden zoeken](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html) rapporten, die verlopen wanneer een opgegeven gebeurtenis (zoals Afhandeling winkelen winkelen winkelen) plaatsvindt of het bezoek afloopt.
+De [verouderd [!DNL Paid Search Detection]](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/paid-search-detection.html) functie in [!DNL Analytics] staat bedrijven toe [regels vaststellen voor het volgen van betaald en biologisch zoekverkeer](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html) voor specifieke zoekprogramma&#39;s. De [!DNL Paid Search Detection] de regels gebruiken zowel een vraagkoord als het verwijzende domein om betaald en natuurlijk onderzoeksverkeer te identificeren. De [!DNL Paid Search Detection] rapporten maken deel uit van de grotere groep [Methoden zoeken](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html) rapporten, die verlopen wanneer een opgegeven gebeurtenis (zoals Afhandeling winkelen winkelen winkelen) plaatsvindt of het bezoek afloopt.
 
 Hier volgt de interface voor het maken van een [!DNL Paid Search Detection] regelset:
 
@@ -145,7 +145,7 @@ Let op de volgende twee beperkingen met gegevens in [!DNL Paid Search Detection]
 
 ### Waarom configureren [!DNL Paid Search Detection]?
 
-De [!DNL Paid Search Detection] rapporten staan u toe om natuurlijk onderzoeksverkeer in te identificeren [[!DNL Analytics Marketing Channels] rapporten](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/marketing-channels-admin.html). Het scheiden van betaald onderzoeksverkeer tegenover natuurlijk onderzoeksverkeer is een grote manier om de waarde te begrijpen die de natuurlijke opsporing aan het volledige marketing ecosysteem brengt.
+De [!DNL Paid Search Detection] rapporten staan u toe om natuurlijk onderzoeksverkeer in te identificeren [[!DNL Analytics Marketing Channels] rapporten](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html). Het scheiden van betaald onderzoeksverkeer tegenover natuurlijk onderzoeksverkeer is een grote manier om de waarde te begrijpen die de natuurlijke opsporing aan het volledige marketing ecosysteem brengt.
 
 ## Doorklikgegevens valideren voor [!DNL Analytics for Advertising Cloud] {#data-validation}
 
