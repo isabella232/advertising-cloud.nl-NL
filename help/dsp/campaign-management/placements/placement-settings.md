@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: c8077a2f9cec1dab08f6635024b3b2d5a4a1c90e
 workflow-type: tm+mt
-source-wordcount: '3403'
+source-wordcount: '3422'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 0%
 1. Klik op **[!UICONTROL Apply]**.
 
 **[!UICONTROL Ad specs for forecast]:** (Alleen video en indelingen) De duur en/of specificaties van de advertentie, die worden gebruikt om de voorspelde projectie aan de rechterkant te berekenen. De velden verschillen per advertentietype.
+
+**[!UICONTROL Environment]:** (Alleen Universal Video ad-indeling) De apparaatomgevingen (Desktop, Mobile, Connected TV) die als doelen in de plaatsing moeten worden opgenomen
 
 **[!UICONTROL Placement tags]:** (Optioneel) Trefwoorden of bijnamen om u te helpen deze plaatsing te vinden.
 
