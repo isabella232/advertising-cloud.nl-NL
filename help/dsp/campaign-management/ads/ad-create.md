@@ -3,9 +3,9 @@ title: Eén advertentie maken
 description: Leer hoe u één externe advertentie kunt maken.
 feature: DSP Ads
 exl-id: d93c6a66-a5cb-4117-97e8-424422200fce
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: bf5cb724c51e4a91add7911157bd74c90314d07c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Als u meerdere advertenties van derden tegelijk wilt maken, raadpleegt u [Meerde
 
 1. Klik boven de gegevenstabel op **[!UICONTROL Create]**. In de [!UICONTROL Ad Types] in het menu klikt u op de knop [advertentietype](ad-about.md#ad-types).
 
-1. Geef de advertentie-instellingen op voor [audioadvertenties](ad-settings-audio.md), [aangesloten tv](ad-settings-connected-tv.md), [advertenties weergeven](ad-settings-display.md), [mobiele advertenties](ad-settings-mobile.md), [native advertenties](ad-settings-native.md), of [pre-rol advertenties](ad-settings-pre-roll.md):
+1. Geef de advertentie-instellingen op voor [audioadvertenties](ad-settings-audio.md), [aangesloten tv](ad-settings-connected-tv.md), [advertenties weergeven](ad-settings-display.md), [mobiele advertenties](ad-settings-mobile.md), [native advertenties](ad-settings-native.md), [pre-rol advertenties](ad-settings-pre-roll.md) of [universele videobanden](ad-settings-universal-video.md):
 
    1. Op de [!UICONTROL Insert Ad Tag] scherm, ga informatie over de advertentie van een verklaarde derde in dienst dienende partner, en klik dan **[!UICONTROL Go]**.
 
