@@ -3,7 +3,7 @@ title: Een plaatsing maken
 description: Leer hoe u een plaatsing maakt.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: cb77fd450db1798f190f3b6eb51054553440bac9
+source-git-commit: 86f8df0c438a68dabba8f5b2abeb106d3320d7ef
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 1%
@@ -77,7 +77,7 @@ ht-degree: 1%
 
       1. Klik op **[!UICONTROL Create a New Ad].**
 
-      1. Geef de advertentie-instellingen op voor [audioadvertenties](/help/dsp/campaign-management/ads/ad-settings-audio.md), [aangesloten tv](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [advertenties weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobiele advertenties](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native advertenties](/help/dsp/campaign-management/ads/ad-settings-native.md), [pre-rol advertenties](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), of [universele videobanden](ad-settings-universal-video.md).
+      1. Geef de advertentie-instellingen op voor [audioadvertenties](/help/dsp/campaign-management/ads/ad-settings-audio.md), [aangesloten tv](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [advertenties weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobiele advertenties](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native advertenties](/help/dsp/campaign-management/ads/ad-settings-native.md), [pre-rol advertenties](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), of [universele videobanden](/help/dsp/campaign-management/ads/ad-settings-universal-video.md).
 
       1. Klik op **[!UICONTROL Save & Submit for Review]**.
 
