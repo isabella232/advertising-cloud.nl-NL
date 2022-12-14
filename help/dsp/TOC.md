@@ -8,7 +8,7 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 67c150ac363e4f3178c6eabda1321f7db97be4fb
+source-git-commit: e902deb79c42e8fb13697439198259004a957525
 workflow-type: tm+mt
 source-wordcount: '954'
 ht-degree: 0%
