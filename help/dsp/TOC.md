@@ -8,9 +8,9 @@ user-guide-title: Advertising Cloud DSP Guide
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 8db395fce0006ce300b3e588c205ca9c87e30fb2
+source-git-commit: 6996de4d7b3ee06bceb99292c4fe03878e7b61c9
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '954'
 ht-degree: 0%
 
 ---
@@ -97,6 +97,7 @@ ht-degree: 0%
          + [Instellingen voor mobiele advertentie](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
          + [Instellingen voor eigen weergave](/help/dsp/campaign-management/ads/ad-settings-native.md)
          + [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+         + [Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md)
    + Campagnerapporten {#campaign-reports}
       + [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
