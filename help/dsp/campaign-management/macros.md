@@ -3,9 +3,9 @@ title: Advertising Cloud DSP Macros
 description: Verwijs naar de beschikbare macro's voor het algemene volgen en om kliks op derdevertoningsadvertenties te volgen.
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: fbadd81a34c375f00fa3e420ea3c46fc9143daf8
+source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -102,4 +102,5 @@ Er worden fouten gegenereerd als er tekens ontbreken aan het begin of einde van 
 >* [Instellingen voor mobiele advertentie](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
 >* [Instellingen voor eigen advertentie](/help/dsp/campaign-management/ads/ad-settings-native.md)
 >* [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
 

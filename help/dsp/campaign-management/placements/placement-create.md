@@ -3,9 +3,9 @@ title: Een plaatsing maken
 description: Leer hoe u een plaatsing maakt.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: cb77fd450db1798f190f3b6eb51054553440bac9
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '652'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 1%
 
       1. Klik op **[!UICONTROL Create a New Ad].**
 
-      1. Geef de advertentie-instellingen op voor [audioadvertenties](/help/dsp/campaign-management/ads/ad-settings-audio.md), [aangesloten tv](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [advertenties weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobiele advertenties](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native advertenties](/help/dsp/campaign-management/ads/ad-settings-native.md), of [pre-rol advertenties](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md).
+      1. Geef de advertentie-instellingen op voor [audioadvertenties](/help/dsp/campaign-management/ads/ad-settings-audio.md), [aangesloten tv](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [advertenties weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobiele advertenties](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native advertenties](/help/dsp/campaign-management/ads/ad-settings-native.md), [pre-rol advertenties](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), of [universele videobanden](ad-settings-universal-video.md).
 
       1. Klik op **[!UICONTROL Save & Submit for Review]**.
 
@@ -87,16 +87,25 @@ ht-degree: 1%
    * Bestaande advertenties toevoegen aan de campagne:
 
       1. Klik op **[!UICONTROL Select an Ad]**.
+
       1. Voer een van de volgende handelingen uit:
+
          * Eén advertentie tegelijk toevoegen:
+
             1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
+
             1. (Optioneel) Klik voor elke aanvullende advertentie die u wilt bijvoegen op **[!UICONTROL Attach Another Ad]** en herhaal vervolgens het proces.
          * U kunt maximaal 20 advertenties tegelijk toevoegen:
+
             1. Schakel het selectievakje boven de advertentielijst in.
+
             1. Schakel het selectievakje naast elke advertentie in die u wilt toevoegen.
+
             1. Klik op **[!UICONTROL Attach]**.
+
             1. Klik naast de naam van de advertentie op **[!UICONTROL Select]**.
       1. (Optioneel) De standaardvliegperiode en de ad-rotatie overschrijven voor specifieke advertenties in de plaatsing:
+
          1. Klik op **[!UICONTROL Custom Schedule Ads]**.
 
          1. Voer een van de volgende handelingen uit:
@@ -113,6 +122,8 @@ ht-degree: 1%
          1. Klik in de rechterbovenhoek op **[!UICONTROL Continue]**.
 
          1. Bekijk de vlieggegevens en klik vervolgens op **[!UICONTROL Save & Finish]**.
+
+
 
 
 

@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: d4b67393-e8c5-4170-92eb-bcf643ba3ec3
-source-git-commit: 678125f88712043fc589aac752e1686be41f2f55
+source-git-commit: c682838f222b99079a5a9d98300e594f82b6c374
 workflow-type: tm+mt
-source-wordcount: '1060'
+source-wordcount: '1063'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
-| 14 december 2022 | Plaatsen, advertenties | Nieuw &quot;[!UICONTROL Universal Video]&quot; Dankzij plaatsingen en advertenties kunt u zich richten op meerdere apparaatomgevingen voor VPAID- en VAST-inventarisatie met behulp van één videoplaatsing.<br><br>Universal video placementen include a &quot;Device Environment&quot; setting ([!UICONTROL Desktop], [!UICONTROL Mobile], en [!UICONTROL Connected TV]). Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.<br><br>Aangepaste rapporten bevatten de nieuwe dimensie Apparaatomgeving op plaatsingsniveau. | Zie &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)&quot; en &quot;[Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md).&quot;<br><br>Zie ook &quot;[Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; en &quot;[Een advertentie maken](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
+| 14 december 2022 | Plaatsen, advertenties | (De bètafunctie openen) Nieuw &quot;[!UICONTROL Universal Video]&quot; Dankzij plaatsingen en advertenties kunt u zich richten op meerdere apparaatomgevingen voor VPAID- en VAST-inventarisatie met behulp van één videoplaatsing.<br><br>Universal video placementen include a &quot;Device Environment&quot; setting ([!UICONTROL Desktop], [!UICONTROL Mobile], en [!UICONTROL Connected TV]). Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.<br><br>Aangepaste rapporten bevatten de nieuwe dimensie Apparaatomgeving op plaatsingsniveau. | Zie &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)&quot; en &quot;[Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md).&quot;<br><br>Zie ook &quot;[Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; en &quot;[Een advertentie maken](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
 | 23 november 2022 | Overeenkomsten | De [!UICONTROL Inventory] > [!UICONTROL Deals] weergave bevat nu een &quot;[!UICONTROL Deal Health]&quot; kolom, die op de gezondheidsstatus van elke privé overeenkomst wijst: &quot;[!UICONTROL Success],&quot; &quot;[!UICONTROL Warning],&quot; &quot;[!UICONTROL Critical],&quot; of &quot;[!UICONTROL Unavailable].&quot; U kunt de status klikken om meer details, met inbegrip van te zien waarom een overeenkomst niet uitvoert of zoals verwacht uitgeeft en de stappen om potentiële kwesties problemen op te lossen. | — |
 | 27 oktober 2022 | [!UICONTROL Campaigns] | Een veranderingslogboek, dat veranderingen toont die tijdens de geselecteerde datumwaaier worden aangebracht, is nu beschikbaar voor elk pakket en plaatsing. | Zie &quot;[Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md)&quot; en &quot;[Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 |  |  | U kunt nu de [!UICONTROL Intraday Pacing] instellen voor meerdere plaatsen tegelijk. | Zie &quot;[Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md#edit-multiple-placements)&quot; en &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
