@@ -3,16 +3,16 @@ title: Advertentiespecificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: b867ace878a0c1e6391476e267c9161e5ecea921
+source-git-commit: b25521d35134ca453c889fc1a71e4c81f982a77b
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
 
 # Specificaties voor ondersteunde advertentietypen
 
-## Video-advertenties (pre-Roll en CTV)
+## Video-advertenties (Pre-Roll, CTV en Universal Video)
 
 ### Ondersteunde schermen
 
