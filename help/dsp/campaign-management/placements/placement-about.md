@@ -3,9 +3,9 @@ title: Informatie over Plaatsingsbeheer in Advertising Cloud DSP
 description: Meer informatie over plaatsingsbeheer.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: c6a3d9703d06a44e38aae3bc6ec3f5f77e93082d
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,7 @@ U kunt een plaatsing manueel tot stand brengen of door bestaande te dupliceren. 
 * Oorspronkelijk
 * Audio
 * Verbonden tv
+* Universele video
 
 ## De [!UICONTROL Placements] Dashboard
 
