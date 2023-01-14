@@ -1,22 +1,22 @@
 ---
-title: Beleid voor Adobe Advertising Cloud-vereisten
+title: Beleid inzake advertentie en vereisten voor Adobe
 description: Zie het beleid voor advertentievereisten.
 feature: Policies, DSP Ads
 exl-id: 49c990e7-05d7-4fde-a728-d9e8dfb86222
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '2063'
+source-wordcount: '2058'
 ht-degree: 0%
 
 ---
 
-# Beleid voor Adobe Advertising Cloud-vereisten
+# Beleid inzake advertentie en vereisten voor Adobe
 
 *Laatst bijgewerkt: 12 juli 2021*
 
-*Voor Adobe Advertising Cloud DSP en Adobe Advertising Cloud Search*
+*Voor Adobe-DSP en Adobe-advertentie zoeken*
 
-In dit beleid voor Adds-vereisten (&quot;Beleid&quot;) worden de vereisten uiteengezet voor advertenties die via On-demand Services van Adobe voor Advertising Cloud (&quot;Services&quot;) worden gedistribueerd. Dit beleid wordt door verwijzing opgenomen in de Overeenkomst tussen Adobe en de Klant (&quot;u&quot;) gebruikend de Diensten op bestelling. De termen met hoofdletters die in dit beleid worden gebruikt maar hierin niet worden gedefinieerd, hebben de betekenis die in die overeenkomst wordt vermeld.
+In dit beleid voor Adds Requirements Policy (&quot;Policy&quot;) worden de vereisten uiteengezet voor advertenties die via de On-demand Services van Adobe voor Adobe Advertising (&quot;Services&quot;) worden verspreid. Dit beleid wordt door verwijzing opgenomen in de Overeenkomst tussen Adobe en de Klant (&quot;u&quot;) gebruikend de Diensten op bestelling. De termen met hoofdletters die in dit beleid worden gebruikt maar hierin niet worden gedefinieerd, hebben de betekenis die in die overeenkomst wordt vermeld.
 
 Adobe behoudt zich het recht voor om in zijn uitsluitende oordeel vast te stellen of een advertentie of de website(s) waarnaar de advertentie doorleidt of koppelt, in strijd is met de vereisten van dit beleid, in welk geval Adobe die advertentie kan afwijzen en/of de toegang tot de diensten op die basis kan beëindigen of opschorten.
 
@@ -26,7 +26,7 @@ Naast de vereisten die hieronder en in de Overeenkomst worden vermeld, moet u aa
 
 ### Creatieve vereisten
 
-Alle advertenties die via On-demand Services worden verzonden, opgeslagen, weergegeven, gedistribueerd of anderszins door u beschikbaar worden gesteld, moeten in overeenstemming zijn met de advertentiespecificaties in de advertentiesoorten van Adobe Advertising Cloud Ad, zoals die van tijd tot tijd door Adobe kunnen worden herzien.
+Alle advertenties die u via de services op aanvraag verzendt, opslaat, toont, verspreidt of anderszins beschikbaar stelt, moeten in overeenstemming zijn met de reclamespecificaties in de advertentie-advertentiesoorten van de Adobe, zoals die van tijd tot tijd door Adobe kunnen worden herzien.
 
 ### Verboden advertenties
 
@@ -54,15 +54,15 @@ U moet ervoor zorgen dat uw advertenties en de website(s) waarnaar een advertent
 
 * **Winstgevendheid en vulgaire of obscene taal.** Advertenties mogen geen vulgaire of vulgaire taal bevatten. Bovendien is het mogelijk dat taal die hetzelfde effect wil bereiken, niet wordt opgenomen in advertenties, maar die de diepzinnigheid verhult.
 
-* **Geweldige advertenties**. Ads mogen geen aanzetten tot of verband houden met haatzaaiende uitingen of religieuze onverdraagzaamheid en mogen geen onderscheid maken tussen personen of groepen op grond van ras of etnische afkomst, godsdienst, handicap, medische of genetische toestand, leeftijd, nationaliteit of nationale afkomst, status van vluchteling, vluchtelingenstatus, immigratiestatus, seksuele geaardheid, geslacht, genderidentiteit of andere kenmerken die verband houden met systemische discriminatie of marginalisering.
+* **Handige advertenties**. Ads mogen geen aanzetten tot of verband houden met haatzaaiende uitingen of religieuze onverdraagzaamheid en mogen geen onderscheid maken tussen personen of groepen op grond van ras of etnische afkomst, godsdienst, handicap, medische of genetische toestand, leeftijd, nationaliteit of nationale afkomst, status van vluchteling, vluchtelingenstatus, immigratiestatus, seksuele geaardheid, geslacht, genderidentiteit of andere kenmerken die verband houden met systemische discriminatie of marginalisering.
 
 * **Gevoelige gebeurtenissen**. Ads kan niet profiteren van of geen redelijke gevoeligheid hebben voor een natuurramp, conflict, dood, epidemie, pandemie, tragische gebeurtenis of publieke angst.
 
-* **Piramide-schema**&#39;s. Ads mag geen piramide-schema&#39;s, marketingmogelijkheden op meerdere niveaus, kettingbrieven of andere &#39;get rich quick&#39;-schema&#39;s bevorderen. Elke advertentie die inkomstengenererende mogelijkheden omvat, moet een volledige uitleg van het bedrijfsmodel bevatten.
+* **Piramide-systemen**. Ads mag geen piramide-schema&#39;s, marketingmogelijkheden op meerdere niveaus, kettingbrieven of andere &#39;get rich quick&#39;-schema&#39;s bevorderen. Elke advertentie die inkomstengenererende mogelijkheden omvat, moet een volledige uitleg van het bedrijfsmodel bevatten.
 
 * **Verkoop van lichaamsdelen**. Steun mag de verkoop van lichaamsdelen of lichaamsvloeistoffen niet bevorderen.
 
-* **Afleidende advertenties**. Advertenties mogen geen afleidende, ongewenste of oncomfortabele functies of inhoud bevatten, zoals automatisch afspeelbare functies (zoals advertenties die automatisch audio of video afspelen), inhoud die knippert, schokken, pulsen, knippert of te geanimeerde objecten, tekst of afbeeldingen bevat, lokaal gedeelde objecten (zoals flash cookies en lokale HTML5-opslag) en Advertenties die de gebruikerservaring onderbreken (bijvoorbeeld door boven op andere inhoud te plaatsen).
+* **Afleidende advertenties**. Advertenties mogen geen afleidende, ongewenste of oncomfortabele functies of inhoud bevatten, zoals automatisch afspeelbare functies (zoals advertenties die automatisch audio of video afspelen), inhoud die knippert, schokken, pulsen, knippert of te geanimeerde objecten, tekst of afbeeldingen bevat, lokaal gedeelde objecten (waaronder flash-cookies en lokale HTML5-opslag) en advertenties die de gebruikerservaring onderbreken (bijvoorbeeld door boven op andere inhoud te plaatsen) ).
 
 * **Politieke inhoud**. Politieke inhoud omvat communicatie die: (1) betaald worden door elke kandidaat voor zijn of haar ambt (federaal, nationaal, lokaal of internationaal) of campagne; (2) betaald worden door elke entiteit die geregistreerd is of rapporteert krachtens de campagnerefinancieringswetgeving van een rechtsgebied (federaal, staat, lokaal of internationaal); (3) uitdrukkelijk te pleiten voor of tegen een duidelijk geïdentificeerde kandidaat (federaal, staat, lokaal, of internationaal), of (4) anderszins onder de campagnefinancieringswet van een jurisdictie vallen. Dit verbod omvat onder meer, maar is niet beperkt tot, het uitvaardigen van advertentievormen die direct of indirect verband houden met verkiezingen, politieke campagne, kandidaten voor een openbaar ambt, stemmen, steminitiatief, wetgeving of referendum.
 
@@ -76,9 +76,9 @@ Advertenties die inhoud bevatten in de onderstaande categorieën zijn toegestaan
 
 * **Farmaceutische hulpmiddelen**. Advertenties die recept en receptvrije geneesmiddelen bevorderen, moeten de toepasselijke federale en lokale wetten, verordeningen, en richtlijnen in acht nemen.
 
-* **Financiële producten en diensten**. Advertenties die financiële producten of diensten aan consumenten promoten, moeten voldoen aan de toepasselijke federale en lokale wetten, regels en richtlijnen en alle toepasselijke vergoedingen bekendmaken. Ads mogen geen dagleningen bevorderen, leningen die volledig moeten worden afgelost binnen 60 dagen of minder vanaf de datum waarop de lening is verstrekt, titelleningen of graswinkels. Steun voor hypotheken, autoleningen, studentententenkredieten en doorlopende kredietlijnen zijn toegestaan, mits de doel-URL&#39;s belangrijke voorwaarden zoals minimum- en maximumterugbetalingstermijn, het jaarlijkse percentage en een representatief voorbeeld van de totale kosten van de lening, inclusief eventuele kosten, duidelijk vermelden.
+* **Financiële producten en services**. Advertenties die financiële producten of diensten aan consumenten promoten, moeten voldoen aan de toepasselijke federale en lokale wetten, regels en richtlijnen en alle toepasselijke vergoedingen bekendmaken. Ads mogen geen dagleningen bevorderen, leningen die volledig moeten worden afgelost binnen 60 dagen of minder vanaf de datum waarop de lening is verstrekt, titelleningen of graswinkels. Steun voor hypotheken, autoleningen, studentententenkredieten en doorlopende kredietlijnen zijn toegestaan, mits de doel-URL&#39;s belangrijke voorwaarden zoals minimum- en maximumterugbetalingstermijn, het jaarlijkse percentage en een representatief voorbeeld van de totale kosten van de lening, inclusief eventuele kosten, duidelijk vermelden.
 
-* **Cryptocurrency en Blockchain Services**. Advertenties die cryptovalen of andere producten of diensten in verband met de blockchain bevorderen, moeten voldoen aan de toepasselijke federale en lokale wetten, regels en richtsnoeren, en mogen geen producten of diensten bevorderen die verband houden met niet-geregistreerde effectenbeurzen, niet-fungibele tokens of de verkoop of uitgifte van bepaalde cryptografische token. Steun voor uitwisselingsplatforms voor cryptovaluta en portefeuillediensten is toegestaan op voorwaarde dat alle toepasselijke vergoedingen duidelijk worden bekendgemaakt, en tevens dat de geadverteerde dienstverlener een federaal geregistreerde gelddienstenactiviteit is. Advertenties voor aanbieders van analytische diensten voor de blockchain die transactiecontrole en andere compliancefuncties ondersteunen, zijn toegestaan.
+* **Cryptocurrency- en Blockchain-diensten**. Advertenties die cryptovalen of andere producten of diensten in verband met de blockchain bevorderen, moeten voldoen aan de toepasselijke federale en lokale wetten, regels en richtsnoeren, en mogen geen producten of diensten bevorderen die verband houden met niet-geregistreerde effectenbeurzen, niet-fungibele tokens of de verkoop of uitgifte van bepaalde cryptografische token. Steun voor uitwisselingsplatforms voor cryptovaluta en portefeuillediensten is toegestaan op voorwaarde dat alle toepasselijke vergoedingen duidelijk worden bekendgemaakt, en tevens dat de geadverteerde dienstverlener een federaal geregistreerde gelddienstenactiviteit is. Advertenties voor aanbieders van analytische diensten voor de blockchain die transactiecontrole en andere compliancefuncties ondersteunen, zijn toegestaan.
 
 * **Advertenties in verband met gewichtsverlies**. Toevoegingen die gewichtsverlies of eetlustsuppressieve pillen en supplementen bevorderen, zijn niet toegestaan, met inbegrip van producten die humaan choriongonadotropine (hCG) bevatten. Ads mag geen onwaarschijnlijke of gevaarlijke claims over gewichtsverlies bevorderen of misleidende beelden van voor en na gewichtsverlies vertonen.
 
@@ -100,7 +100,7 @@ Advertenties mogen geen persoonsgegevens gebruiken om doelbewust gebruikers onde
 
 De services kunnen niet worden gebruikt om advertenties aan gebruikers te richten of om gebruikers uit te sluiten van doelgerichte advertenties, waaronder om gebruikers opnieuw te richten op basis van bezoeken aan uw websites of andere onlineservices, op een manier die impliceert dat u zich bewust bent van mogelijk gevoelige informatie over hen.
 
-* **Verboden gericht**. Advertenties mogen niet gericht zijn op of gericht zijn op een publiek op basis van een van de volgende factoren, ongeacht of deze bekend zijn of worden afgeleid:
+* **Verboden doelgericht**. Advertenties mogen niet gericht zijn op of gericht zijn op een publiek op basis van een van de volgende factoren, ongeacht of deze bekend zijn of worden afgeleid:
 
    * Religieuze of soortgelijke overtuigingen of banden
    * Ras, kleur of etnische afkomst
@@ -111,7 +111,7 @@ De services kunnen niet worden gebruikt om advertenties aan gebruikers te richte
    * Gezondheids- of medische dossiers, met inbegrip van receptdossiers
    * Relaties of relatiestatus in verband met persoonlijke problemen (zoals echtscheiding, overlijden)
    * Misbruik en trauma, met inbegrip van de status van slachtoffer van misdaad, misbruik of traumatische voorvallen
-   * Lidmaatschap in een gemarginaliseerde of kwetsbare groep, onder meer gebaseerd op een sociale kaste of immigratie- of vluchtelingenstatus
+   * Lidmaatschap in een gemarginaliseerde of kwetsbare groep, onder meer gebaseerd op sociale kaste of immigratie- of vluchtelingenstatus
 
 * **Europese Unie**. Bovendien mogen in de Europese Unie de advertenties niet gericht zijn op of gericht zijn op een publiek op basis van de volgende factoren, ongeacht of deze bekend zijn of worden afgeleid van de gebruiker:
 

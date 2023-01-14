@@ -3,16 +3,16 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 22821c0fe8c2864ab36d7aa1141a7527cc08a35b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1249'
+source-wordcount: '1247'
 ht-degree: 0%
 
 ---
 
 # Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 
-Advertising Cloud kan uw prestatiegerichte campagnes optimaliseren voor plaatsing met de laagste kosten per aankoop (CPA) of het hoogste rendement op advertentie (ROAS).
+DSP kunnen uw prestatiegerichte campagnes voor plaatsing met de laagste kosten per aanschaf (CPA) of het hoogste rendement op advertentie (ROAS) optimaliseren.
 
 Raadpleeg de volgende aanbevolen procedures voor prestatiecampagnes:
 
@@ -55,7 +55,7 @@ Lagere treintpakketten bevatten plaatsingen die bedoeld zijn voor gebruikers die
 
 #### Aanbevolen plaatsingsstrategieën voor opnieuw toewijzen
 
-* Als de adverteerder een Adobe Analytics- of Adobe Audience Manager-klant is, kunt u eerste-partijsegmenten (zoals bezoekers van de homepage, productpagina&#39;s of winkels voor winkelwagens) maken en deze gebruiken als plaatsingsdoelen in Advertising Cloud.
+* Als de adverteerder een Adobe Analytics- of Adobe Audience Manager-klant is, kunt u eerste-partijsegmenten (zoals bezoekers van de homepage, productpagina&#39;s of winkels voor winkelwagens) maken en deze als plaatsingsdoelen in DSP gebruiken.
 
 * Vermijd het toewijzen van te veel budget aan een doelgerichte plaatsing. Als algemene regel geldt dat budget $30 per 1.000 gebruikers per maand bedraagt.
 

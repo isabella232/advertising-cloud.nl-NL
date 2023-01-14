@@ -1,17 +1,18 @@
 ---
 title: Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden
-description: Leer hoe u uw [!DNL Adobe] publiek naar Advertising Cloud DSP en zoeken met Adobe Audience Manager
+description: Leer hoe u uw [!DNL Adobe] publiek naar DSP en zoeken met Adobe Audience Manager
 feature: Integration with Adobe Audience Manager
-source-git-commit: 9593400e48f5918850447daacfbdaaa9015e94cd
+exl-id: 08a40148-b7d2-442b-81e8-f3aec4fca7df
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
 
 # Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden
 
-Advertising Cloud DSP en Advertising Cloud Search kunnen elk metagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle adverteerders of bureaus ophalen [!DNL Adobe] publiek<!-- segments or audiences? Standardize terms per AAM's docs -->. Dit omvat gegevens voor:
+DSP en [!DNL Advertising Search] kan elke gebruiker metagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle adverteerders of agentschappen ophalen [!DNL Adobe] publiek<!-- segments or audiences? Standardize terms per AAM's docs -->. Dit omvat gegevens voor:
 
 * Adobe Audience Manager-segmenten
 
@@ -19,9 +20,9 @@ Advertising Cloud DSP en Advertising Cloud Search kunnen elk metagegevens, hiër
 
 * Segmenten die in Adobe Experience Cloud zijn gemaakt met de opdracht [!DNL People core service]
 
-* Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Advertising Cloud zijn verzonden
+* Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Adobe Advertising worden verzonden
 
-Toegang tot [!DNL Adobe] publiek in DSP of [!DNL Creative], moet u het publiek in DSP importeren. Toegang tot [!DNL Adobe] publiek in [!DNL Search], moet u het publiek importeren in [!DNL Search].
+Toegang tot [!DNL Adobe] publiek in DSP of [!DNL Creative], moet u het publiek in DSP importeren. Toegang tot [!DNL Adobe] publiek in [!DNL [!DNL Search]], moet u het publiek importeren in [!DNL [!DNL Search]].
 
 ## Vereisten
 
@@ -39,7 +40,7 @@ Toegang tot [!DNL Adobe] publiek in DSP of [!DNL Creative], moet u het publiek i
 
 * (Aanbevolen wanneer de adverteerder zowel Audience Manager als [!DNL Analytics]) Als u aanroepen naar elke webpagina wilt beperken, verwijdert u de bestaande Audience Manager [!DNL Data Integration Library] code voor gegevensinzameling en laat server-zijhet door:sturen voor elk toe [!DNL Analytics] rapportsuite. Zie voor meer informatie &quot;[Server-kant door:sturen overzicht](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
 
-* (Aanbevolen) Voor hogere match-rates, verzend slechts de gegevens van de eerste-partijwebsite naar Advertising Cloud. Als de adverteerder gegevens van derden of offlinegegevens van een systeem voor het beheer van klantrelaties bundelt, kan gegevenslekken tot een lagere frequentie leiden.
+* (Aanbevolen) Als de tarieven hoger zijn, verzendt u alleen de gegevens van de website van de eerste partij naar Adobe Advertising. Als de adverteerder gegevens van derden of offlinegegevens van een systeem voor het beheer van klantrelaties bundelt, kan gegevenslekken tot een lagere frequentie leiden.
 
 ## Soorten publiek in Audience Manager importeren naar DSP
 
@@ -49,7 +50,7 @@ De [!DNL Adobe] team voor account- en gegevensbewerkingen voert de volgende stap
 
 1. De [!DNL Adobe] accountteam moet de instelling op adverteerderniveau configureren &quot;[!UICONTROL Adobe Analytics Cloud].&quot;
 
-1. De [!DNL Adobe] accountteam moet een aanvraag indienen<!-- Submit a request as a JIRA task? --> aan het team van gegevensverrichtingen<!-- implementation team? --> om de segmenten van de Audience Manager van de organisatie te importeren met behulp van de native API-integratie van Advertising Cloud DSP.
+1. De [!DNL Adobe] accountteam moet een aanvraag indienen<!-- Submit a request as a JIRA task? --> aan het team van gegevensverrichtingen<!-- implementation team? --> om de segmenten van de Audience Manager van de organisatie te importeren met behulp van de integratie van Advertising DSP native API.
 
 ### Welke veranderingen resulteren in Audience Manager?
 
@@ -107,7 +108,7 @@ De eerste importbewerking duurt ongeveer 24 uur. Na de eerste importbewerking wo
 <!--
 ### How DSP Syncs the Data
 
-DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Advertising Cloud at [!DNL cm.eversttech.net]. Because Advertising Cloud is a trusted domain, ID syncs take place from parent pages rather than within the destination publishing iframes, as they do with most third-party activation partners. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids), also called the [!DNL Device ID].
+DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Adobe Advertising at [!DNL cm.eversttech.net]. Because Adobe Advertising is a trusted domain, ID syncs take place from parent pages rather than within the destination publishing iframes, as they do with most third-party activation partners. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids), also called the [!DNL Device ID].
  
 ![Synchronization of [!DNL Adobe] audiences in DSP](/help/integrations/assets/audience-manager-sync.png)
 
@@ -119,13 +120,13 @@ Segment membership data is sent only after one of the following events occurs:
 
 * (Advertisers with DSP):
 
-  * The segment is targeted in an Advertising Cloud display ad.
+  * The segment is targeted in an Adobe Advertising display ad.
 
   * The segment is added to the [!DNL Adobe AdCloud Cross-Channel] batch and real-time destinations within the Audience Manager user interface.
 
 * (Advertisers with [!DNL Search]):
 
-  * The segment is targeted in an Advertising Cloud search ad.
+  * The segment is targeted in an Adobe Advertising search ad.
 
   * The segment is added to the [!DNL Adobe Media Optimizer] batch and HTTP destinations within the Audience Manager user interface.
  -->
@@ -141,17 +142,17 @@ In DSP, worden de segmentnamen georganiseerd door de taxonomie van de Audience M
 
 * In [doelinstellingen](/help/dsp/audiences/audience-settings.md): Op de [!UICONTROL Adobe Segments] tab.
 
-### In Advertising Cloud Creative
+### In advertentiegerelateerde
 
 In [!DNL Creative], zijn de segmenten beschikbaar in de ervaringsmontages voor doelknopen.
 
-### In [!DNL Search]
+### In [!DNL Advertising Search]
 
-In [!DNL Search], zijn de segmenten beschikbaar wanneer u een [!DNL Google] publiek dat [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]&quot; van [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
+In [!DNL [!DNL Search]], zijn de segmenten beschikbaar wanneer u een [!DNL Google] publiek dat [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]&quot; van [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
 
 Voor elke [!DNL Google] publiek dat u maakt, [!DNL Google] levert de omvang van het publiek.
 
 >[!MORELIKETHIS]
 >
->* [Advertising Cloud-integratie met Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
+>* [Adobe Advertising Integrations with Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
 

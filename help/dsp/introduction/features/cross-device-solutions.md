@@ -3,16 +3,16 @@ title: Apparaatoplossingen
 description: Meer informatie over functies voor verschillende apparaten.
 feature: DSP Introduction
 exl-id: 29f8ec41-35a6-4a29-a638-82a2929a8fe6
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
 
 # Apparaatoplossingen
 
-De integratie van Advertising Cloud DSP met [!DNL LiveRamp] Hiermee kunt u uw publiek uitbreiden naar alle bekende apparaten van een persoon, en niet alleen naar de apparaten die uw merk heeft bijgehouden. De integratie biedt ook frequentiecapping en attributie-meting voor alle apparaten.
+Reclame DSP integratie met [!DNL LiveRamp] Hiermee kunt u uw publiek uitbreiden naar alle bekende apparaten van een persoon, en niet alleen naar de apparaten die uw merk heeft bijgehouden. De integratie biedt ook frequentiecapping en attributie-meting voor alle apparaten.
 
 Wanneer u een ondersteunde apparaatgrafiek gebruikt, kunt u:
 
@@ -76,9 +76,9 @@ U kunt de volgende metriek in douanerapporten omvatten:
 
 ## Meting van op personen gebaseerde kenmerk
 
-*Adverteerders met alleen Advertising Cloud Conversion Tracking*
+*Adverteerders met alleen Adobe Advertising Conversion Tracking*
 
-Met op mensen gebaseerde attributie, kunt u omzettingen verklaren die op een verschillend apparaat dan het apparaat plaatsvonden waarop de media blootstelling voorkwam. Over DSP, Advertising Cloud Search en Advertising Cloud Creative is een maatstaf voor individuele toewijzingen beschikbaar voor adverteerders die Advertising Cloud-conversiepixels op hun sites hebben geïmplementeerd.
+Met op mensen gebaseerde attributie, kunt u omzettingen verklaren die op een verschillend apparaat dan het apparaat plaatsvonden waarop de media blootstelling voorkwam. Over de DSP is een maatstaf voor individuele toeschrijvingen beschikbaar, [!DNL Adobe Advertising Creative], en [!DNL Adobe Advertising Search] voor adverteerders die Adobe Advertising pixels op hun sites hebben geïmplementeerd.
 
 ### Meting van op personen gebaseerde kenmerken inschakelen
 

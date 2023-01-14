@@ -2,9 +2,10 @@
 title: Creeer een Bron van het Publiek om Eerste Publiek te activeren
 description: Leer hoe u een bron kunt maken voor het importeren van soorten publiek naar uw account of een adverteerderaccount.
 feature: DSP Audiences
-source-git-commit: d1ebbd79b6ccf0249829feef134122f083060563
+exl-id: 16eb7cdb-4364-4e94-ba73-0f2d4d200cb9
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ Maak een bron voor het importeren van soorten publiek naar uw DSP of een adverte
 
 >[!NOTE]
 >
->Nadat u een bron voor het [!DNL Real-Time CDP], moet u uw [!DNL Real-Time CDP] publiek door de bestemming Adobe Advertising Cloud DSP binnen [!DNL Real-Time CDP] om te beginnen met het importeren ervan. Zie [de stappen in de activeringsworkflow](source-about.md#workflow-sources).
+>Nadat u een bron voor het [!DNL Real-Time CDP], moet u uw [!DNL Real-Time CDP] publiek via de Adobe Advertising DSP bestemming binnen [!DNL Real-Time CDP] om te beginnen met het importeren ervan. Zie [de stappen in de activeringsworkflow](source-about.md#workflow-sources).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Audiences] > [!UICONTROL Sources (BETA)].
 
@@ -37,9 +38,9 @@ Maak een bron voor het importeren van soorten publiek naar uw DSP of een adverte
 
 1. Klik op **[!UICONTROL Save]**.
 
-1. Maak in Experience Platform een Adobe Advertising Cloud DSP-doelverbinding met de [!UICONTROL Source Key] die is gegenereerd in de DSP broninstellingen.
+1. Maak in Experience Platform een DSP doelverbinding voor adverteren met de [!UICONTROL Source Key] die is gegenereerd in de DSP broninstellingen.
 
-Voor instructies voor het activeren van de Advertising Cloud bestemmingsverbinding, het selecteren van segmenten, en de toegang tot van controletoestemmingen, zie &quot;[Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).&quot;
+Voor instructies voor het activeren van de DSP bestemmingsverbinding, het selecteren van segmenten, en de toegang tot van controletoestemmingen, zie &quot;[Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).&quot;
 
 >[!MORELIKETHIS]
 >

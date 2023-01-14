@@ -3,7 +3,7 @@ title: Meerdere externe advertenties maken
 description: Leer hoe u meerdere advertenties van derden tegelijk kunt maken.
 feature: DSP Ads
 exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -41,9 +41,13 @@ U kunt beide uploaden [!DNL DoubleClick] en [!DNL Flashtalking] met de meegeleve
 1. Bekijk de details en status van elke advertentie:
 
    1. Controleer de status van elke advertentie, die is gebaseerd op validatiecontroles van de geüploade tag.
+
    1. (Optioneel) Voer een van de volgende handelingen uit voor elke advertentie:
+
       * Als u een voorvertoning van een advertentie wilt weergeven, klikt u op ![play](/help/dsp/assets/play.png) in de advertentierij.
+
       * Klik op ![bewerken](/help/dsp/assets/edit.png), bewerkt u de details en klikt u op **Opslaan**.
+
       * Als u een advertentie wilt verwijderen, klikt u op **[!UICONTROL X]** in de advertentierij.
 
 1. Klikken **[!UICONTROL Create *N *Advertentie(s)]**.
@@ -53,8 +57,11 @@ U kunt beide uploaden [!DNL DoubleClick] en [!DNL Flashtalking] met de meegeleve
    * Klik op **[!UICONTROL Done]**.
 
    * (Indien een advertentie wordt afgewezen; (optioneel) U kunt als volgt de advertentierecord bewerken en de advertentie opnieuw ter controle verzenden:
+
       1. Klik op de naam van de advertentie.
+
       1. Bewerk de advertentie-instellingen.
+
       1. Klik op **[!UICONTROL Save & submit for review]**.
 
 >[!MORELIKETHIS]

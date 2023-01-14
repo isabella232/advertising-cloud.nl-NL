@@ -3,16 +3,16 @@ title: Ongeveer Programma Gegarandeerde Overeenkomsten
 description: Leer over programmatic gewaarborgde (PG) overeenkomsten en welke SSPs om hen te verstrekken wordt verklaard.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
-source-git-commit: 96f756b0f5239e2378d0a4da18335d909f96ab94
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # Ongeveer Programma Gegarandeerde Overeenkomsten
 
-Een programmatic gewaarborgde (PG) overeenkomst is een gewaarborgde koop direct met een uitgever via een overeenkomst identiteitskaart (eerder dan via ad servermarkeringen). PG is flexibeler voor u en uw uitgever om te beheren, en het verstrekt meer transparantie dan regelmatige markeringsaankopen. Facturering en rapportage worden geconsolideerd via Advertising Cloud DSP, waardoor u tijd bespaart.
+Een programmatic gewaarborgde (PG) overeenkomst is een gewaarborgde koop direct met een uitgever via een overeenkomst identiteitskaart (eerder dan via ad servermarkeringen). PG is flexibeler voor u en uw uitgever om te beheren, en het verstrekt meer transparantie dan regelmatige markeringsaankopen. Facturering en rapportage worden geconsolideerd via DSP, wat u tijd bespaart.
 
 ## Functies van een PG-deal
 

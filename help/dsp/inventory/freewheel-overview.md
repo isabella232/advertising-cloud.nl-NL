@@ -3,7 +3,7 @@ title: Overzicht van de Overeenkomsten van PG van de Opstelling in [!DNL Freewhe
 description: Meer informatie over de vereisten en extra stappen die nodig zijn om advertenties voor gegarandeerde programmacontracten met uitgevers uit te voeren op [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: acf8351b-88fb-4f18-8fca-9a2d6674cdec
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Programma&#39;s gegarandeerde deals met uitgevers opzetten op [!DNL Freewheel] v
 
 >[!PREREQUISITES]
 >
->Werk met uw [!DNL Adobe] accountteam om te controleren of uw [!DNL DSP] account heeft de volgende machtigingen.
+>Werk met uw [!DNL Adobe] accountteam om te controleren of uw [!DNL DSP] account heeft de volgende machtigingen:
 >
->1. Machtiging om de [!DNL FreeWheel] programmatic gegarandeerde workflow, die vereist is om een advertentie voor een door het programma gegarandeerde deal in te dienen bij [!DNL FreeWheel].
+>* Machtiging om de [!DNL FreeWheel] programmatic gegarandeerde workflow, die vereist is om een advertentie voor een door het programma gegarandeerde deal in te dienen bij [!DNL FreeWheel].
 >
->1. (Als u met Britse uitgevers werkt die een [!DNL Clearcast] kloknummer bij elke advertentie) toestemming om kloknummers op te nemen in uw advertenties.
+>* (Als u met Britse uitgevers werkt die een [!DNL Clearcast] kloknummer bij elke advertentie) toestemming om kloknummers op te nemen in uw advertenties.
 
 
 ## Workflow

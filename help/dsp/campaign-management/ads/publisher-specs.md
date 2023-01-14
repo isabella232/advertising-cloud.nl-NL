@@ -2,16 +2,16 @@
 title: Specificaties voor specifieke advertenties van uitgevers
 description: Raadpleeg de advertentiespecificaties voor ondersteunde uitgevers.
 feature: DSP Ads
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # Specificaties voor specifieke advertenties van uitgevers
 
-Sommige uitgevers hebben strengere advertentiespecificaties dan Advertising Cloud [algemene specificaties](/help/dsp/campaign-management/ads/ad-specs.md).  Wanneer de uitgeversspecificaties strenger zijn dan die van Advertising Cloud, moet u de uitgeversspecificaties volgen.
+Sommige uitgevers hebben strengere advertentiespecificaties dan de Adobe Advertising [algemene specificaties](/help/dsp/campaign-management/ads/ad-specs.md). Wanneer de uitgeversspecificaties strenger zijn dan de Adobe-advertentiespecificaties, moet u de uitgeversspecificaties volgen.
 
 In de volgende links wordt verwezen naar de advertentiespecificaties voor sommige uitgevers met strengere vereisten.
 

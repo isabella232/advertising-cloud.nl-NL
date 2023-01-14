@@ -3,16 +3,16 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 691903e2-773e-4205-837e-822f435f57a7
-source-git-commit: ea9c5ba9263be2c1607d682ac035caae70621020
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
 # Een aangepast segment maken en implementeren
 
-U kunt uw eigen gegevens over het eerste publiek verzamelen door een aangepast Advertising Cloud-segment te maken en te implementeren. U kunt het segment gebruiken om a) gebruikers te volgen die aan advertenties van Desktop, mobiele apparaten, en apparaten CTV en b) gebruikers worden blootgesteld die specifieke webpagina&#39;s bezoeken. U kunt gebruikers in het segment later opnieuw richten met extra advertenties of gebruikers in het segment verhinderen extra advertenties te ontvangen.
+U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP segment te creëren en uit te voeren. U kunt het segment gebruiken om a) gebruikers te volgen die aan advertenties van Desktop, mobiele apparaten, en apparaten CTV en b) gebruikers worden blootgesteld die specifieke webpagina&#39;s bezoeken. U kunt gebruikers in het segment later opnieuw richten met extra advertenties of gebruikers in het segment verhinderen extra advertenties te ontvangen.
 
 >[!NOTE]
 >

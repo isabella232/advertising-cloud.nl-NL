@@ -3,20 +3,20 @@ title: Over het [!UICONTROL Deal ID Inbox]
 description: Meer informatie over de [!UICONTROL Deal ID inbox] functie, waarmee u persoonlijke deals kunt accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), and [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
 # Over het [!UICONTROL Deal ID Inbox]
 
-DSP [!UICONTROL Deal ID inbox] staat u toe om opstellingsovereenkomsten snel te plaatsen die Advertising Cloud DSP van uitgevers door leveringszijplatforms (SSPs) heeft ingevoerd zodat moet u niet elke overeenkomst manueel opstelling. U kunt de gegarandeerde en niet-gegarandeerde privé-voorraadtransacties accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), en [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) van de [!UICONTROL Deal ID inbox].
+De DSP [!UICONTROL Deal ID inbox] staat u toe om opstellingsovereenkomsten snel te plaatsen die DSP van uitgevers door leveringszijplatforms (SSPs) heeft ingevoerd zodat moet u niet elke overeenkomst manueel opstelling. U kunt de gegarandeerde en niet-gegarandeerde privé-voorraadtransacties accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), en [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) van de [!UICONTROL Deal ID inbox].
 
 >[!NOTE]
 >
->Advertising Cloud DSP is de eerste DSP die met de [!DNL FreeWheel] API.
+>DSP is de eerste DSP die met de [!DNL FreeWheel] API.
 
 In de [!UICONTROL Deal ID inbox], kunt u de details van de overeenkomst zien aangezien uw uitgever hen ziet, uw overeenkomstenopstelling versnellen, en handingangsfouten vermijden.
 

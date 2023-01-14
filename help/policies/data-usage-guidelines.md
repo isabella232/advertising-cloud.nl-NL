@@ -1,21 +1,22 @@
 ---
-title: Richtlijnen voor Adobe Advertising Cloud DSP-gegevensgebruik
+title: Richtlijnen voor het gebruik van gegevens DSP Adobe-advertenties
 description: Zie de richtlijnen voor gegevensgebruik.
 feature: Policies
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 6b646988-4a53-4092-8bc6-bcd350ee4096
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
-# Richtlijnen voor Adobe Advertising Cloud DSP-gegevensgebruik
+# Richtlijnen voor het gebruik van gegevens DSP Adobe-advertenties
 
 *Laatst bijgewerkt: 5 september 2019*
 
-*Voor Adobe Advertising Cloud DSP*
+*Voor Adobe-DSP*
 
-In deze richtsnoeren voor gegevensgebruik (&quot;Data Guidelines&quot;) worden de vereisten uiteengezet voor het gebruik van bepaalde gegevens die via de On-demand Services van Adobe voor Advertising Cloud (&quot;Services&quot;) worden benaderd. Deze richtsnoeren worden opgenomen als referentie in de overeenkomst tussen Adobe en de klant die de services op aanvraag gebruikt. De in deze richtsnoeren gebruikte, maar in dit document niet gedefinieerde termen met hoofdletters hebben de betekenis die in die overeenkomst wordt vermeld.
+In deze richtsnoeren voor gegevensgebruik (&quot;Data Guidelines&quot;) worden de vereisten uiteengezet voor het gebruik van bepaalde gegevens die via de On-demand Services van Adobe worden benaderd voor DSP (&quot;Services&quot;). Deze richtsnoeren worden opgenomen als referentie in de overeenkomst tussen Adobe en de klant die de services op aanvraag gebruikt. De in deze richtsnoeren gebruikte, maar in dit document niet gedefinieerde termen met hoofdletters hebben de betekenis die in die overeenkomst wordt vermeld.
 
 Adobe behoudt zich het recht voor om, naar eigen goeddunken, vast te stellen of het gebruik van gegevens door de klant in strijd is met deze richtsnoeren.
 

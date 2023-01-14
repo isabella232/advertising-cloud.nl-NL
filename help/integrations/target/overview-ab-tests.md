@@ -1,22 +1,23 @@
 ---
-title: A/B-tests configureren voor Advertising Cloud DSP-advertenties in Adobe Target
-description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP advertenties.
-source-git-commit: 465f3c18a7d85d54bca5ff2f565694a9b211a7ed
+title: A/B-tests configureren voor advertenties van Adobe in Adobe Target
+description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP en [!DNL Search] advertenties.
+exl-id: 97055645-4b2f-4795-830d-9ce89ae2ad15
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '1660'
+source-wordcount: '1654'
 ht-degree: 0%
 
 ---
 
-# A/B-tests configureren in Adobe Target voor Advertising Cloud DSP-advertenties
+# A/B-tests configureren in Adobe Target voor DSP en [!DNL Advertising Search] Adds
 
 <!-- Add [!UICONTROL and [!DNL tags throughout as needed. -->
 
 <!-- Break into sub-files, or just leave as one? -->
 
-*Adverteerders met alleen Advertising Cloud DSP*
+*Adverteerders DSP alleen reclame*
 
-Adobe Advertising Cloud DSP en Adobe Target maken het nog eenvoudiger voor marketers om een gepersonaliseerde en verbonden ervaring te bieden op alle betaalmedia en onsite berichten. Door signalen tussen de twee producten te delen, kunt u:
+Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
 
 * Verlaag de mate van verschuiving van de site door de advertenties van klanten te koppelen van DSP campagnes aan hun ervaringen ter plaatse.
 
@@ -34,7 +35,7 @@ Voor dit gebruiksgeval zijn de volgende producten en integraties vereist:
 
 * [!DNL Target]
 
-* [[!DNL Analytics] voor Advertising Cloud](/help/integrations/analytics/overview.md) integratie<!-- necessary for testing view-throughs, which most advertisers want to do -->
+* [[!DNL Analytics] voor reclame](/help/integrations/analytics/overview.md) integratie<!-- necessary for testing view-throughs, which most advertisers want to do -->
 
 * [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integratie
 
@@ -50,15 +51,15 @@ Wanneer u DSP macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergeg
 
 ![DoorklikURL toegevoegd aan URL landingspagina](/help/integrations/assets/target-ct-url.jpg)
 
-### DSP macro&#39;s toevoegen aan uw klikURL&#39;s
+### (Alleen DSP) DSP macro&#39;s toevoegen aan uw doorklikURL&#39;s
 
 <!-- If we ever write instructions for ads on other ad servers (such as Sizmek ads in DCO), then work that into the following section. -->
 
 Werk de doorklikURL voor elke advertentie handmatig bij in Campagne Flash Talk of Google Campagne Manager 360 om de macro&#39;s op te nemen die nodig zijn om AMO ID-variabelen vast te leggen. De variabelen van AMO ID worden gebruikt om klikgegevens naar Adobe Analytics te verzenden en plaatsingssleutels voor A/B het testen te delen. Zie de volgende pagina&#39;s voor instructies:
 
-* [Toevoegen [!DNL Analytics for Advertising Cloud] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](/help/integrations/analytics/macros-flashtalking.md)
+* [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](/help/integrations/analytics/macros-flashtalking.md)
 
-* [Toevoegen [!DNL Analytics for Advertising Cloud] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md)
+* [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md)
 
 Neem contact op met uw DSP accountteam en de groep Advertising Solutions (aac-advertising-solutions-group@adobe.com) om de vereiste plaatsingssleutel op te halen en de installatie te voltooien en om ervoor te zorgen dat elke doorklikURL wordt gevuld met de plaatsingssleutel.
 
@@ -72,7 +73,7 @@ Door een Audience Manager imitatiepixel toe te voegen in uw advertentietags en p
 
 1. Hiermee implementeert u een Audience Manager-imitatiepixel in uw advertentietags en DSP plaatsingsinstellingen.
 
-   Zie voor instructies &quot;[Blootstellingsgegevens van media verzamelen uit Advertising Cloud DSP-campagnes](/help/integrations/audience-manager/media-data-integration/collect.md).&quot;
+   Zie voor instructies &quot;[Blootstellingsgegevens van media verzamelen van reclame DSP campagnes](/help/integrations/audience-manager/media-data-integration/collect.md).&quot;
 
    Controleer of u [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) om alle gegevens vast te leggen die de pixel van de impressiegebeurtenis moet teruggeven, inclusief `${TM_PLACEMENT_ID_NUM}` voor de numerieke plaatsing-id.
 
@@ -181,11 +182,11 @@ In Analysis Workspace configureert u de [!DNL Analytics for Target panel] om uw 
 
 #### Metrisch
 
-* Maak een deelvenster binnen de werkruimte die specifiek is voor de Advertising Cloud-campagne, -pakket of -plaatsing waarvoor de test is uitgevoerd. Gebruik samenvattingsvisualisaties om Advertising Cloud-metriek weer te geven in hetzelfde rapport als de testprestaties van Doel.
+* Maak een deelvenster in de werkruimte dat specifiek is voor de reclamecampagne, het reclamepakket of de plaatsing van de Adobe waarvoor de test is uitgevoerd. Gebruik beknopte visualisaties om Adobe Advertising-cijfers weer te geven in hetzelfde rapport als de resultaten van de doeltest.
 
 * Prioriteit geven aan het gebruik van onsite metriek (zoals bezoeken en conversies) om de prestaties te meten.
 
-* Begrijp dat de samengevoegde media metriek van Advertising Cloud (zoals impressies, kliks, en kosten) niet aan de metriek van het Doel kan worden aangepast.
+* Begrijp dat de samengevoegde media metriek van Adobe Advertising (zoals impressies, kliks, en kosten) niet aan de metriek van het Doel kan worden aangepast.
 
 #### Dimension
 
@@ -219,7 +220,7 @@ Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens mi
 * [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Beschrijft A/B testactiviteiten, die u met DSP advertenties kunt gebruiken.
 * [Ervaringen en aanbiedingen](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html) - Verklaringen [!DNL Target] hulpmiddelen om de inhoud ter plaatse te bepalen waaraan DSP testgebruikers worden blootgesteld.
 * [Signalen, Traits en Segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) - Hiermee definieert u een aantal Audience Managers die u kunnen helpen bij DSP doorkijktests.
-* [Overzicht van Analytics voor Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) - Introduceert Analytics voor Advertising Cloud, waardoor u doorklikinteracties en doorkijkinteracties van sites in uw Analytics-instanties kunt bijhouden.
+* [Overzicht van analytische gegevens voor reclame](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) - Introduceert Analytics voor Advertising, waarmee u doorklikinteracties en doorkijkinteracties van sites in uw Analytics-instanties kunt bijhouden.
 
 <!-- 
 >[!MORELIKETHIS]

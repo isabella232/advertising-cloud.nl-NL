@@ -2,21 +2,21 @@
 title: Ondersteunde valuta's
 description: Zie een lijst met de ondersteunde valuta's.
 feature: DSP Custom Reports, DSP Campaign Data Views
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+exl-id: 7cbce17b-12f0-49e5-8acd-adf9b7d01557
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# Valuta&#39;s die worden ondersteund in reclame voor Adobe
 
-# In Adobe Advertising Cloud ondersteunde valuta&#39;s
-
-Advertising Cloud ondersteunt de volgende valuta&#39;s.
+Adobe Advertising ondersteunt de volgende valuta&#39;s.
 
 >[!NOTE]
 >
->Adobe Analytics ondersteunt [een grotere set valuta&#39;s](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/currency.html).
+>Adobe Analytics-ondersteuning [een groter aantal valuta &#39; s](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/currency.html).
 
 ## DSP en creatief
 
@@ -46,6 +46,6 @@ Advertising Cloud ondersteunt de volgende valuta&#39;s.
 >
 > [!DNL DSP] uitsluitend de volgende valuta&#39;s worden gefactureerd: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD en USD.
 
-## Zoeken
+## [!DNL Adobe Advertising Search]
 
-Alle valuta&#39;s die worden ondersteund door ondersteunde zoekmachines. Dit is het zelfde als [die door  [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes) worden gesteund.
+Alle valuta&#39;s die worden ondersteund door ondersteunde zoekmachines. Dit is hetzelfde als [door [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).

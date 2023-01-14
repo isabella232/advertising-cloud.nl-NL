@@ -3,9 +3,9 @@ title: Instellingen voor eigen weergave
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor native weergaveadvertenties.
 feature: DSP Ads
 exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 **[!UICONTROL Landing Page]:** De URL waarop de viewer landt wanneer deze op de advertentie klikt.
 
-**[!UICONTROL Final Landing Page]:** De [!UICONTROL Landing Page] URL met de benodigde [Advertising Cloud DSP-tracking-macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final Landing Page]:** De [!UICONTROL Landing Page] URL met de benodigde [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
 **[!UICONTROL Sponsored By (Advertiser Name)]:** De adverteerder voor de advertentie.
 
@@ -62,5 +62,5 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Advertentiespecificaties](ad-specs.md)
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 

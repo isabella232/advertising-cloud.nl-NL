@@ -1,22 +1,22 @@
 ---
-title: Gegevens over klikken en indrukken verzamelen vanuit Advertising Cloud DSP-campagnes
-description: Leer hoe u op cookies gebaseerde beelden vastlegt en op gebeurtenissen klikt vanuit Advertising Cloud DSP-advertenties met behulp van Audience Manager pixels
+title: Klik- en indrukgegevens verzamelen uit DSP advertenties
+description: Leer hoe u op cookies gebaseerde beelden vastlegt en op gebeurtenissen klikt in advertenties DSP advertenties met Audience Managers pixels
 feature: Integration with Adobe Audience Manager
 exl-id: eb717148-00ab-428a-97b9-e8396a5c47b0
-source-git-commit: 8de057df8bf2b67f20a915e6e711902f11176747
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1062'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
 
-# Blootstellingsgegevens van media verzamelen uit Advertising Cloud DSP-campagnes
+# Blootstellingsgegevens van media verzamelen van reclame DSP campagnes
 
-*Adverteerders met alleen Advertising Cloud DSP*
+*Adverteerders DSP alleen reclame*
 
-*Adverteerders met alleen Advertising Cloud-Adobe Audience Manager-integratie*
+*Adverteerders met een Adobe Advertising-Adobe Audience Manager Integration Only*
 
-In dit document wordt uitgelegd hoe u Advertising Cloud DSP-advertenties kunt labelen om op cookies gebaseerde beelden vast te leggen en op gebeurtenissen kunt klikken met pixels van Audience Managers en extra taken nodig om de gegevens te gebruiken.
+In dit document wordt uitgelegd hoe u advertenties DSP advertenties kunt voorzien van labels om op cookies gebaseerde beelden vast te leggen en op gebeurtenissen kunt klikken met pixels van Audience Managers en extra taken om de gegevens te kunnen gebruiken.
 
 De gebeurtenispixels leggen geen gebeurtenissen vast die plaatsvinden in omgevingen zonder cookie, zoals mobiele apps en aangesloten tv (CTV).
 
@@ -77,7 +77,7 @@ Waar:
 
 Beide typen pixels kunnen aanvullende parameters bevatten als *sleutelwaardeparen* om eigenschappen te verzamelen of campagnemetagegevens (zoals een plaatsingsnaam of een campagnenaam) voor andere rapporten te verstrekken. Een sleutelwaardepaar bestaat uit twee gerelateerde elementen: a *key*, dat een constante is die de gegevensset definieert, en een *value*, een variabele die tot de set behoort.
 
-In het sleutelwaardepaar, kan de waardevariabele of hard - gecodeerde identiteitskaart of zijn *macro* Dit is een kleine eenheid op zichzelf staande code die dynamisch wordt vervangen door de bijbehorende waarden wanneer de tag ad wordt geladen voor het bijhouden van campagnes en gebruikers. Voor campagneparameters kunt u [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) in plaats van Audience Manager macros om campagnerekenmerken samen met de overeenkomstige indruk te verzenden of gegevens aan Audience Manager te klikken, gebruikend één enkele pixel over alle advertenties. De DSP macro&#39;s die u in uw gebeurtenispixels invoegt, moeten de juiste waarden zijn voor de sleutelwaardeparen die u in de pixels opneemt. Bijvoorbeeld voor `d_placement` sleutel, zou u de DSP macro gebruiken `${TM_PLACEMENT_ID_NUM}` als de waarde voor het vastleggen van plaatsings-id&#39;s die zijn gegenereerd door de Advertising Cloud-macro.
+In het sleutelwaardepaar, kan de waardevariabele of hard - gecodeerde identiteitskaart of zijn *macro* Dit is een kleine eenheid op zichzelf staande code die dynamisch wordt vervangen door de bijbehorende waarden wanneer de tag ad wordt geladen voor het bijhouden van campagnes en gebruikers. Voor campagneparameters kunt u [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) in plaats van Audience Manager macros om campagnerekenmerken samen met de overeenkomstige indruk te verzenden of gegevens aan Audience Manager te klikken, gebruikend één enkele pixel over alle advertenties. De DSP macro&#39;s die u in uw gebeurtenispixels invoegt, moeten de juiste waarden zijn voor de sleutelwaardeparen die u in de pixels opneemt. Bijvoorbeeld voor `d_placement` sleutel, zou u de DSP macro gebruiken `${TM_PLACEMENT_ID_NUM}` als de waarde voor het vastleggen van plaatsings-id&#39;s die zijn gegenereerd door de Adobe-advertentiemacro.
 
 Raadpleeg &quot;[Vastleggen van Campagne-indrukgegevens via pixelaanroepen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html#supported-key-value-pairs).&quot;
 
@@ -87,7 +87,7 @@ Voor een lijst met macro&#39;s die Audience Manager ondersteunt voor click-gebeu
 >
 >* De beste manier is om de campagne, plaatsing, creatieve (advertentie) en site-id&#39;s op te nemen, zodat u de campagnerekenmerken kunt gebruiken om Audience Manager-eigenschappen te maken.
 >* Voor het maken van Audience Optimization-rapporten zijn aanvullende parameters vereist.
->* Vervang de waarden in de sleutelwaardeparen door de relevante [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) zodat u in alle campagnes één pixel kunt gebruiken voor alle advertenties. Bijvoorbeeld, wijzigen `d_campaign=[%campaignID%]`tot `d_campaign=${TM_CAMPAIGN_ID_NUM}` om campagne-id&#39;s vast te leggen die zijn gegenereerd door de Advertising Cloud-macro.
+>* Vervang de waarden in de sleutelwaardeparen door de relevante [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) zodat u in alle campagnes één pixel kunt gebruiken voor alle advertenties. Bijvoorbeeld, wijzigen `d_campaign=[%campaignID%]`tot `d_campaign=${TM_CAMPAIGN_ID_NUM}` om campagne-id&#39;s vast te leggen die zijn gegenereerd door de Adobe Advertising macro.
 >* Indien nodig kunt u uw eigen parameters met gecodeerde waarden maken. Voorbeeld: `d_DSP=AdCloud`
 
 
@@ -132,7 +132,7 @@ Voorbeeld dat gegevens op gebruikersniveau vult voor gebruikers die worden bloot
 
 >[!MORELIKETHIS]
 >
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 >* [Overzicht van het verzenden van gegevens over DSP mediablootstelling naar Adobe Audience Manager](overview.md)
 >* [Gevallen gebruiken](use-cases.md)
 

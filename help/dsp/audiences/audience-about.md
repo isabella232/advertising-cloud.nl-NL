@@ -1,26 +1,26 @@
 ---
-title: Over Audience Management in Advertising Cloud DSP
+title: Over het beheer van het publiek in DSP
 description: Meer informatie over functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 624d2211-59a2-4791-b8f1-a9a5cecd0b8e
-source-git-commit: 3b44e8e019bfc4bab2ee65ac028313752cb4a0e0
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1036'
 ht-degree: 0%
 
 ---
 
-# Over Audience Management in Advertising Cloud DSP
+# Over het beheer van het publiek in DSP
 
-In Advertising Cloud DSP kunt u publiekssegmenten en publiekssets maken en beheren, die u kunt gebruiken als doelen voor uw plaatsingen:
+In DSP kunt u publiekssegmenten en publiekssets maken en beheren, die u kunt gebruiken als doelen voor uw plaatsingen:
 
 * U kunt uw eigen gegevens van het eerste publiek verzamelen door segmenten te creëren en uit te voeren. U kunt gebruikers in het segment later opnieuw toewijzen met advertenties of u kunt voorkomen dat gebruikers in het segment advertenties ontvangen. U kunt de volgende typen segmenten maken:
 
-   * [Aangepaste segmenten](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers bij te houden die zijn blootgesteld aan advertenties van desktop-, mobiele en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
+   * [Aangepaste segmenten](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers bij te houden die zijn blootgesteld aan advertenties van desktop-, mobiele- en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
 
    * [CCPA opt-out of-of-sale segmenten](/help/dsp/audiences/ccpa-opt-out-segment-create.md) om de gebruikers-id&#39;s op uw website te traceren van de door de consument ingediende opt-out-of-sale aanvragen, overeenkomstig de California Consumer Privacy Act (CCPA). U kunt maandelijkse rapporten van de gebruikers-id&#39;s ophalen uit aanvragen om niet te verkopen.
 
-      Voor meer informatie over Advertising Cloud steun voor CCPA opt-out van verkoop verzoeken, zie [Adobe Advertising Cloud Support for the California Consumer Privacy Act: Support voor consumenten](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+      Voor meer informatie over Adobe Advertising support for CCPA opt-out of-of-sales request, raadpleegt u [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](/help/privacy/ad-cloud-ccpa-opt-out-of-sale.md).
 
 * U kunt een publieksbibliotheek maken van [herbruikbaar publiek](/help/dsp/audiences/reusable-audience-create.md). Opgeslagen doelgroepen bestaan uit een van uw beschikbare doelsegmenten en een van uw andere opgeslagen doelgroepen. Wijzigingen die u aanbrengt in een opgeslagen publiek, worden automatisch toegepast op alle plaatsen die het publiek als doel hebben of uitsluiten en op alle andere soorten publiek die het opgeslagen publiek bevatten.
 
@@ -60,7 +60,7 @@ U kunt uw plaatsingen aan alle volgende soorten publiek richten.
 
    Voor segmenten van derden worden extra kosten aangerekend, die naast elke segmentnaam worden vermeld.
 
-* (Adverteerders met Adobe Experience Platform en [!DNL Real-Time CDP], Adobe Audience Manager of Adobe Analytics die alleen conversietags voor Advertising Cloud JavaScript gebruiken) Alle beschikbare doelsegmenten van het type first-, second of third-party die zijn gemaakt in [!DNL Real-Time CDP], gemaakt in Audience Manager of gepubliceerd naar Adobe Experience Cloud vanuit Audience Manager of [!DNL Analytics].
+* (Adverteerders met Adobe Experience Platform en [!DNL Real-Time CDP], Adobe Audience Manager of Adobe Analytics die alleen conversietags voor advertenties in JavaScript gebruiken) Al uw beschikbare doelsegmenten van het eerste, tweede of derde type die zijn gemaakt in [!DNL Real-Time CDP], gemaakt in Audience Manager of gepubliceerd naar Adobe Experience Cloud vanuit Audience Manager of [!DNL Analytics].
 
    Prijzen voor het gebruik van de segmenten worden vooraf onderhandeld en zijn niet zichtbaar in DSP.
 

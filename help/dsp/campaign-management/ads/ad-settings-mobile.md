@@ -3,9 +3,9 @@ title: Instellingen voor mobiele advertentie
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor mobiele advertenties.
 feature: DSP Ads
 exl-id: f67c4ba0-1011-4ad6-bd36-98c312b81b67
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Ad Options]
 
-### [!UICONTROL Basic]: Mobile-weergaveadvertenties
+### [!UICONTROL Basic]: Mobiele weergaveadvertenties
 
 **[!UICONTROL Ad Type]:** (Alleen-lezen) Het advertentietype dat u maakt, komt overeen met het plaatsingstype waaraan de advertentie kan worden gekoppeld.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 **[!UICONTROL Display Code]:** De URL van het creatieve element van derden. Alle [tijdstempel] en [[tijdstempel]]-parameters worden vervangen door werkelijke waarden.
 
-**[!UICONTROL Final Display Code]:** De URL voor het creatieve middel van derden, met de vereiste [Advertising Cloud DSP-tracking-macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final Display Code]:** De URL voor het creatieve middel van derden, met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
 ### [!UICONTROL Basic]: Videoadvertenties
 
@@ -76,7 +76,7 @@ Dit is hetzelfde als **[!UICONTROL Height]** veld.
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; (alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als het creatieve middel.
 
-**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; (alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als het creatieve middel met het vereiste [Advertising Cloud DSP-tracking-macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; (alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als het creatieve middel met het vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
 **[!UICONTROL Wmode]:** (Sommige advertentietypen) De venstermodus: *[!UICONTROL window]*, *[!UICONTROL transparent]*, of *[!UICONTROL opaque]*.
 
@@ -106,5 +106,5 @@ Vervangen
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Advertentiespecificaties](ad-specs.md)
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 

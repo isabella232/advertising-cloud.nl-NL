@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 1d37fc96-0f9b-4eb2-ba8d-9534f627adaf
-source-git-commit: 4e389d687f8974028181a03534aff1abf6b43831
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ Ga als volgt te werk om een of meer filters toe te passen:
 
 **[!UICONTROL Report Headers]:** Of *[!UICONTROL Include]* of *[!UICONTROL Do Not Include]* kolomkoppen.
 
-**[!UICONTROL Attribution Rule Settings]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Advertising Cloud-conversies) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
+**[!UICONTROL Attribution Rule Settings]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen Adobe Advertising conversion tracking) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
 
 >[!NOTE]
 >
->Conversiepaden bevatten alle indrukken en klikken binnen de indruk van de adverteerder of klik op terugkijkvensters, die in Advertising Cloud Search zijn geconfigureerd. Klikken krijgen de voorkeur boven indrukken tijdens conversie-toewijzing. Om het even welke kliks in een omzettingsweg ontvangen volledige kredieten die op de attributieregel worden gebaseerd. Impressies krijgen alleen krediet als er geen klikken worden bijgehouden in het conversiepad.
+>Conversiepaden bevatten alle indrukken en klikken binnen de indruk van de adverteerder of klik op terugkijkvensters die zijn geconfigureerd in [!DNL Adobe Advertising Search]. Klikken krijgen de voorkeur boven indrukken tijdens conversie-toewijzing. Om het even welke kliks in een omzettingsweg ontvangen volledige kredieten die op de attributieregel worden gebaseerd. Impressies krijgen alleen krediet als er geen klikken worden bijgehouden in het conversiepad.
 
 * *[!UICONTROL Last Event]:* Hiermee worden conversies toegewezen aan de laatste klik of indruk in het conversiepad.
 
@@ -75,11 +75,11 @@ Ga als volgt te werk om een of meer filters toe te passen:
 
 * *[!UICONTROL U-shaped]:* Hiermee wordt de conversie toegewezen aan alle gebeurtenissen in het conversiepad, maar krijgt het grootste gewicht aan de eerste en laatste gebeurtenis, met achtereenvolgens minder gewicht aan de gebeurtenissen in het midden van het conversiepad.
 
-* *[!UICONTROL Display Only]:*  Hiermee worden conversies toegewezen aan de laatste DSP klik of indruk in het conversiepad. Dit omvat video en aangesloten tv-advertenties en sluit kliks op Advertising Cloud Search-advertenties uit.
+* *[!UICONTROL Display Only]:*  Hiermee worden conversies toegewezen aan de laatste DSP klik of indruk in het conversiepad. Dit omvat video en aangesloten tv-advertenties en sluit klikken op [!DNL Adobe Advertising Search] advertenties.
 
 * *[!UICONTROL Social Only]:* Achterhaald
 
-<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising Cloud](). -->
+<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising](). -->
 
 **[!UICONTROL Paths as Columns]:**  (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen) Welke soorten omzettingen om te melden wanneer de vroegere gebeurtenissen op het zelfde apparaat voorkwamen. U kunt maximaal drie typen opnemen. Voor elk geselecteerd type wordt een aparte kolom opgenomen voor elke omzettingsmetrische waarde en toegevoegd met het opgegeven achtervoegsel ([!UICONTROL (tl)], [!UICONTROL (ct)], of [!UICONTROL (vt)]):
 

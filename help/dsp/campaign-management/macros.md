@@ -1,18 +1,18 @@
 ---
-title: Advertising Cloud DSP Macros
+title: Reclame DSP macro's
 description: Verwijs naar de beschikbare macro's voor het algemene volgen en om kliks op derdevertoningsadvertenties te volgen.
 feature: DSP Ads
 exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
-source-git-commit: b3fc18cf84713adcff5a4208db537b03904cfa08
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
 
-# Advertising Cloud DSP Macros
+# Reclame DSP macro&#39;s
 
-Een macro is een korte opdracht of korte opdracht voor een instructie en volgt doorgaans de indeling `${MACRO_NAME}`. Macro&#39;s die zijn opgenomen in creatieve code of doorklikken-URL&#39;s, worden uitgebreid naar een langere codereeks die de advertentieserver kan begrijpen. De Advertising Cloud DSP en de server voeren macro&#39;s uit wanneer de advertentie wordt bediend of geklikt.
+Een macro is een korte opdracht of korte opdracht voor een instructie en volgt doorgaans de indeling `${MACRO_NAME}`. Macro&#39;s die zijn opgenomen in creatieve code of doorklikken-URL&#39;s, worden uitgebreid naar een langere codereeks die de advertentieserver kan begrijpen. De DSP en server voeren macro&#39;s uit wanneer de advertentie wordt aangeboden of wanneer op de advertentie wordt geklikt.
 
 Servermacro&#39;s van de advertentie zijn handig om belangrijke informatie door te geven aan DSP of aan externe ad-hocservers. Macro&#39;s worden het meest gebruikt tijdens de handel in creatieve code of meta-gegevens van derden en douane (zoals derdepixel).
 
@@ -80,7 +80,7 @@ Als u kliks voor advertenties op nauwkeurige wijze wilt bijhouden met behulp van
 
 DSP voegt automatisch de weergave van klikmacro&#39;s in een externe weergavetag in wanneer u:
 
-* Advertentietags exporteren vanuit een Advertising Cloud- en serverpartner <!-- [Needs PM confirmation.] -->
+* Advertentietags exporteren van een partner van een advertentieserver <!-- [Needs PM confirmation.] -->
 * Bulkupload [!DNL Flashtalking] of [!DNL Google DoubleClick for Advertisers] tags rechtstreeks in DSP plaatsen
 
 Als een klikmacro ontbreekt wanneer u een vertoningsadvertentie bouwt, DSP toont een waarschuwingsbericht, die u ertoe aanzet om de aangewezen vertoning manueel op te nemen klikt macro in het correcte gebied van de markering.

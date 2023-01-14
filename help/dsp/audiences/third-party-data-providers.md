@@ -1,20 +1,20 @@
 ---
-title: Beschikbare gegevensleveranciers van derden in Advertising Cloud DSP
+title: Beschikbare gegevensleveranciers van derden in DSP voor advertenties
 description: Zie een lijst met alle beschikbare externe gegevensproviders.
 feature: DSP Audiences
 exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 <!-- feature: audiences -->
 
-# Beschikbare gegevensleveranciers van derden in Advertising Cloud DSP
+# Beschikbare gegevensleveranciers van derden in DSP voor advertenties
 
-De categorieën en de segmenten van gegevens voor de volgende derde gegevensleveranciers zijn beschikbaar als plaatsingsdoelstellingen in [!DNL DSP]. Deze segmenten zijn voornamelijk beschikbaar voor het Amerikaanse publiek.
+De categorieën en de segmenten van gegevens voor de volgende derdegegevensleveranciers zijn beschikbaar als plaatsingsdoelstellingen in DSP. Deze segmenten zijn voornamelijk beschikbaar voor het Amerikaanse publiek.
 
 De vergoeding voor het gebruik van elk segment wordt naast de segmentnaam weergegeven in de plaatsingsinstellingen en de instellingen voor het opgeslagen publiek.
 

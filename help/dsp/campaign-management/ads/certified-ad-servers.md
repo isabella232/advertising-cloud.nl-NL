@@ -3,7 +3,7 @@ title: Certified Ad Serving Partners
 description: Bekijk alle gecertificeerde advertentieservers en advertentie-eenheden.
 feature: DSP Ads
 exl-id: 084b4c04-a876-4770-9efc-57268c333aa6
-source-git-commit: ffd88b7f3274740db2d91697b0e208f61b2260d5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 | [!DNL Spirable] |  | X |  |  |  |
 | [!DNL SUBLIME] |  |  | X |  |  |
 | [!DNL SundaySky] |  |  |  | X |  |
-| [!DNL Teads] |  | X |  |  | Advertising Cloud DSP biedt geen ondersteuning voor VPAID in voorraad in outstream. |
+| [!DNL Teads] |  | X |  |  | Er is geen ondersteuning beschikbaar voor VPAID in de Outstream-voorraad. |
 | [!DNL Trueffect] |  | X |  |  |  |
 | [!DNL Undertone] |  |  | X |  | Aangepaste paginagrabber en eenheid geüpload als 180x150 in DSP</br></br>Wanneer Index Exchange een veiling van 180 x 150 doorgeeft en biedingen op de veiling DSP en een indruk geeft, wordt de creatieve bewerking uitgebreid naar een advertentie op volledige pagina.</br></br>Aanvankelijk gecertificeerd voor Page Grabber, Expandable Adhesion, en de eenheden van de Verschuiving van het Scherm. Dit moet opnieuw worden bevestigd, met stappen gemarkeerd voor processen. |
 | [!DNL Vox] |  |  | X |  | [!DNL Athena] advertentiepunten |

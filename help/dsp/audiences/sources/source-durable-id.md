@@ -1,10 +1,11 @@
 ---
-title: 'Activeer Erkende Segmenten van de Duurzame partners van identiteitskaart '
+title: Activeer Erkende Segmenten van de Duurzame partners van identiteitskaart
 description: Meer informatie over het activeren van geverifieerde doelgroepen via een duurzame ID-oplossing.
 feature: DSP Audiences
-source-git-commit: 155ab740084bebfba5fd992a23706129668fcc90
+exl-id: 44635b74-1874-4781-bd1a-a4dadae049e0
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 *Beta, functie*
 
-Als u geverifieerde doelgroepen wilt activeren via een duurzame ID-oplossing in Advertising Cloud DSP, moeten uw segmenten worden omgezet in [!DNL RampIDs], die herkenbaar zijn in een biedbare omgeving. U kunt dit bereiken door:
+Als u geverifieerde doelgroepen wilt activeren via een duurzame ID-oplossing in DSP voor advertenties, moeten uw segmenten worden vertaald in [!DNL RampIDs], die herkenbaar zijn in een biedbare omgeving. U kunt dit bereiken door:
 
 * De DSP integratie met de [!DNL Adobe Real-Time Customer Data Profile (CDP)] en de [!DNL Adobe-LiveRamp Retrieval API].
 
@@ -49,7 +50,7 @@ Als u geverifieerde doelgroepen wilt activeren via een duurzame ID-oplossing in 
 
    * De segmenten bepalen waarvan wordt gedeeld [!DNL LiveRamp] met behulp van het standaardsegmentactiveringsproces.
 
-   * Werk met uw Advertising Cloud-ondersteuningsteam om de juiste gegevensdistributie te valideren.
+   * Werk met het ondersteuningsteam voor reclame van Adobe om de juiste gegevensdistributie te valideren.
 
 Meer informatie over de DSP integratie met [!DNL LiveRamp], contact `adcloud-support@adobe.com`.
 
@@ -58,6 +59,6 @@ Meer informatie over de DSP integratie met [!DNL LiveRamp], contact `adcloud-sup
 >* [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](source-about.md)
 >* [Creeer een Bron van het Publiek om Eerste Publiek te activeren](source-create.md)
 >* [Broninstellingen voor publiek](source-settings.md)
->* [Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Adobe Adverteren DSP Verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [Over Audience Management](/help/dsp/audiences/audience-about.md)
 

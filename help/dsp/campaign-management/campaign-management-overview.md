@@ -1,18 +1,18 @@
 ---
-title: Overzicht van Campaign Management in Advertising Cloud DSP
+title: Overzicht van Campaign Management in DSP
 description: Meer informatie over de hiërarchie en componenten van het campagnebeheer.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: c94e08d0-0dd5-4cf9-8df2-9eb4c591375c
-source-git-commit: d180b91f7bf5ae72a51e5335638a98c5fc4b4e86
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-# Overzicht van Campaign Management in Advertising Cloud DSP
+# Overzicht van Campaign Management in DSP
 
-Advertising Cloud DSP-campagnes hebben de volgende hiërarchie:
+DSP campagnes hebben de volgende hiërarchie:
 
 * Campagne
    * Pakket(s)
@@ -20,7 +20,7 @@ Advertising Cloud DSP-campagnes hebben de volgende hiërarchie:
          * Advertentie(s)
 
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
-In Advertising Cloud DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
+In Advertising DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
 
 ## [!UICONTROL Campaigns]
@@ -49,7 +49,7 @@ Alle actieve, goedgekeurde advertenties in een actieve plaatsing in een actieve 
 
 >[!MORELIKETHIS]
 >
->* [Informatie over Campagnebeheer](/help/dsp/campaign-management/campaigns/campaign-about.md)
+>* [Informatie over Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
 >* [Info over Pakketbeheer](/help/dsp/campaign-management/packages/package-about.md)
 >* [Info over Plaatsingsbeheer](/help/dsp/campaign-management/placements/placement-about.md)
 >* [Over Advertentiebeheer](/help/dsp/campaign-management/ads/ad-about.md)

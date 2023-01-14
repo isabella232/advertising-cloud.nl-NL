@@ -3,9 +3,9 @@ title: Kolommen in gedownloade/geüploade werkbladen
 description: Verwijs naar de kolommen in gedownloade en geupload de spreadsheets van Excel QA.
 feature: DSP Placements
 exl-id: 8a8dceed-f77d-4b6b-a842-f57528125c92
-source-git-commit: 12056598ae436123a867e6eaefde47657242dc73
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 | [!UICONTROL Basic] | [!UICONTROL Package Name] | De naam van het bovenliggende pakket, indien van toepassing. | — |
 | [!UICONTROL Goals] | [!UICONTROL Start Date] | De begindatum van de plaatsing. | — |
 | [!UICONTROL Goals] | [!UICONTROL End Date] | De einddatum van de plaatsing. | — |
-| [!UICONTROL Goals] | [!UICONTROL Day parting] | Of overdag is *[!UICONTROL ON]* of *[!UICONTROL OFF]*.<br><b>Opmerking:</b> Als u het feitelijke zomertijdschema wilt controleren, opent u de plaatsingsinstellingen in [!DNL DSP]. | — |
+| [!UICONTROL Goals] | [!UICONTROL Day parting] | Of overdag is *[!UICONTROL ON]* of *[!UICONTROL OFF]*.<br><b>Opmerking:</b> Als u het feitelijke zomertijdschema wilt controleren, opent u de plaatsingsinstellingen in DSP. | — |
 | [!UICONTROL Goals] | [!UICONTROL Budget] | Het budget voor plaatsing, als dat er is. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Budget Interval] | Het begrotingsinterval: &lt;i span=&quot;&quot; id=&quot;0&quot; translate=&quot;no&quot; />*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*, of *[!UICONTROL All Time]*.[!UICONTROL >Daily] | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Optimization Goal] | Het doel van het pakket. | — |

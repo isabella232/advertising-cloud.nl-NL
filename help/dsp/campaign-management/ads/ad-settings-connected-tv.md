@@ -3,9 +3,9 @@ title: Instellingen voor aangesloten tv-advertentie
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor aangesloten tv-advertenties.
 feature: DSP Ads
 exl-id: 4daae9e4-27eb-4496-9186-f33aebd8daae
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Dit is hetzelfde als **[!UICONTROL Height]** veld.
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron.
 
-**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron met de vereiste [Advertising Cloud DSP-tracking-macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
 **[!UICONTROL Clock Number]**: (Alleen gebruikt in het Verenigd Koninkrijk; (alleen beschikbaar voor gebruikers met toestemming) Een unieke id die wordt gebruikt om ervoor te zorgen dat de juiste advertentie wordt uitgezonden. Laat deze instelling leeg als deze niet van toepassing is.
 
@@ -84,5 +84,5 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Advertentiespecificaties](ad-specs.md)
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 

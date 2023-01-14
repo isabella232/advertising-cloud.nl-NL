@@ -1,13 +1,13 @@
 ---
-source-git-commit: 0654347afd1caf5e9bd8ccabf41a8a591e604df5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-# Samenwerkingsdocumentatie voor Advertising Cloud
+# Samenwerkingsdocumentatie voor Adobe-reclame
 
-Dit is de documentatieopslagplaats voor Adobe Advertising Cloud, met inbegrip van producten en DSP documenten. (Later worden er ook documenten voor zoeken en mogelijk (?) voor Creative.)
+Dit is de documentatieopslagplaats voor Adobe-advertenties, inclusief documentatie voor andere producten en DSP. (Later worden er ook documenten voor zoeken en mogelijk (?) voor Creative.)
 
 **Opmerking: Deze pagina wordt niet gepubliceerd in de klant-onder ogen ziet documentatie.**
 
@@ -52,7 +52,7 @@ Dit is de documentatieopslagplaats voor Adobe Advertising Cloud, met inbegrip va
 
 Raadpleeg de volgende bronnen voor meer publicatieinstructies, stijlhulplijnen, voorbeelden en andere bronnen:
 
-+ [Richtlijnen voor auteurs van bijdragen **specifiek voor Advertising Cloud**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
++ [Richtlijnen voor auteurs van bijdragen **specifiek voor Adobe-reclame**](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=EfficientFrontier&amp;title=Contributing+Author+Guidelines+for+Advertising+Cloud+Help)
 + [Samenwerken aan ontwerpen voor alle Adobe-schrijvers](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html)
 
 Zie ook:

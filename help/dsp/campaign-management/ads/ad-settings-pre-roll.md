@@ -3,9 +3,9 @@ title: Instellingen voor pre-roll-advertentie
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor pre-roladvertenties.
 feature: DSP Ads
 exl-id: 638d5a3d-3dff-40b6-a3ba-7ab3f08282b9
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Dit is hetzelfde als **[!UICONTROL Height]** veld.
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron.
 
-**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron met de vereiste [Advertising Cloud DSP-tracking-macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
 **[!UICONTROL Wmode]:** (Alleen interactief vooraf bladeren) De venstermodus: *[!UICONTROL window]*, *[!UICONTROL transparent]*, of *[!UICONTROL opaque]*.
 
@@ -88,5 +88,5 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Advertentiespecificaties](ad-specs.md)
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 

@@ -4,19 +4,19 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising Cloud
 product: advertising cloud
-user-guide-title: Advertising Cloud DSP Guide
-user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw weergave- en strategieën met Advertising Cloud DSP.
+user-guide-title: DSP
+user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: e902deb79c42e8fb13697439198259004a957525
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '948'
 ht-degree: 0%
 
 ---
 
 
-# Advertising Cloud DSP Guide {#dsp}
+# DSP {#dsp}
 
 <!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
       + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 + [Nieuwe functies](/help/dsp/home.md)
 + Inleiding {#introduction}
-   + [Inleiding tot Adobe Advertising Cloud DSP](/help/dsp/introduction/dsp-about.md)
+   + [Inleiding tot DSP van Adobe-advertenties](/help/dsp/introduction/dsp-about.md)
    + Belangrijkste kenmerken {#features}
       + [Optimalisatie](/help/dsp/introduction/features/optimization.md)
       + [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
@@ -117,7 +117,7 @@ ht-degree: 0%
       + [Plaatsingsinstellingen voor een campagne downloaden](/help/dsp/campaign-management/qa/qa-sheet-download.md)
       + [Plaatsingsinstellingen voor een campagne uploaden](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
       + [Kolommen in gedownloade/geüploade werkbladen](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
-   + [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+   + [DSP Macros](/help/dsp/campaign-management/macros.md)
    + [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
    + [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
 + Optimalisatie {#optimization}

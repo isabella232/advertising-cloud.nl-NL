@@ -3,7 +3,7 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
-source-git-commit: b40c6f08b94e546e5fc068c46b279292a4d8a14f
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
@@ -40,7 +40,7 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
       >
       >Dit rapport bevat gegevens over het factureringssegment. Als een gebruiker of een apparaat een indruk krijgt die tot veelvoudige segmenten behoort, slechts wordt één factureerbare segment met de indruk gecrediteerd.
 
-   * **[!UICONTROL Conversion]:** Met dit rapport krijgt u inzicht in de manier waarop uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met het bijhouden van Advertising Cloud-conversies. Dit rapport bevat multi-touchattributie.
+   * **[!UICONTROL Conversion]:** Met dit rapport krijgt u inzicht in de manier waarop uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met het bijhouden van Adobe-advertenties. Dit rapport bevat multi-touchattributie.
 
    * **[!UICONTROL Device]:** Gebruik deze vooraf ingevulde sjabloon om belangrijke metriek per apparaat-gerelateerde afmetingen te bekijken.
 

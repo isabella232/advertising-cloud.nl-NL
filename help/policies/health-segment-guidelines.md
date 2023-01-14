@@ -1,29 +1,30 @@
 ---
-title: Adobe Advertising Cloud Acceptabele controlesegmenten
+title: Adobe Adverteren - Geaccepteerde controlesegmenten
 description: Zie de richtlijnen voor acceptabele, aan gezondheid gerelateerde publiekssegmenten en tactieken voor gebruik als alternatieven voor het richten van aan gezondheid gerelateerde publiekssegmenten.
 feature: Policies
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: fd4fdf5e-9159-4a89-8447-12051deae61b
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising Cloud - Aanvaardbare richtlijnen voor het ziekteverzekeringssegment
+# Adobe Adverteren — Aanvaardbare richtsnoeren voor een gezondheidssegment
 
-*Voor Adobe Advertising Cloud DSP en Adobe Advertising Cloud Search*
+*Voor Adobe-DSP en[!DNL Adobe Advertising Search]*
 
 De volgende richtlijnen schetsen onaanvaardbare en aanvaardbare volkssegmenten met betrekking tot de gezondheid. Zij adviseren ook tactieken om als alternatieven te gebruiken om op gezondheid betrekking hebbende publiekssegmenten te richten.
 
 Deze richtsnoeren zijn samengevat in het [!DNL Network Advertising Alliance (NAI)].
 
-Zie ook [Beleid voor Advertising Cloud-advertenties](/help/policies/ad-requirements-policy.md) om te bepalen of een gezondheidsgerelateerd publiekssegment bruikbaar is volgens het doelbeleid van Adobe Advertising Cloud.
+Zie ook [Beleid inzake vereisten voor advertenties van Adobe](/help/policies/ad-requirements-policy.md) om te bepalen of een gezondheidsgerelateerd publiekssegment bruikbaar is volgens het beleid voor reclame voor Adobe.
 
 ## Gezondheidssegmenten die niet mogen worden gebruikt
 
 * Segmenten die gebaseerd zijn op beschermde gezondheidsinformatie (&quot;PHI&quot;)\*, medische dossiers op gebruikersniveau, farmaceutische recepten of soortgelijke medische of gezondheidsbronnen die daadwerkelijk kennis geven van de toestand of behandeling van die gebruiker.
 
-   \* Adobe Advertising Cloud is geen [!DNL HIPAA]-kant-en-klare oplossing.
+   \* Adobe Adverteren is geen [!DNL HIPAA]-kant-en-klare oplossing.
 
 * Segmenten die zich richten op gezondheidsaandoeningen (of verwante behandelingen), zoals elke vorm van kanker, geestelijke gezondheid, drugsverslaving, seksueel overdraagbare aandoeningen, aandoeningen die voornamelijk kinderen treffen, of andere gevoelige gezondheidsaandoeningen die niet behandeld kunnen worden met over-the-counter medicatie (bijvoorbeeld diabetes, psoriasis, reumatoïde artritis of fibromyalgie).
 

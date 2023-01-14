@@ -2,7 +2,8 @@
 title: Verzend een Advertentie voor een Overeenkomst van PG aan [!DNL FreeWheel]
 description: Leer hoe te om goedkeuring voor een advertentie voor een programma gewaarborgde overeenkomst met een uitgever te verzoeken op [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 6cb41f3b-29e4-4feb-9c31-578ab40bd4f7
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -22,8 +23,11 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
 1. Kopieer de advertentiesleutel voor de advertentie die met de [!DNL Freewheel] deal:
 
    1. Klik op de naam van de campagne.
+
    1. Klik in het submenu op **[!UICONTROL Ads]**.
+
    1. Klikken  **[!UICONTROL ...]>[!UICONTROL Edit]** naast de naam van de advertentie.
+
    1. Wanneer de advertentie-instellingen zijn geopend, kopieert u de alfanumerieke advertentietoets in de URL die wordt weergegeven in de adresbalk van de browser.
 
       In de volgende URL is de ad-toets bijvoorbeeld `3NtNC5ZbaGZtqbei8jD3`
@@ -35,6 +39,7 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
    1. Voer een van de volgende handelingen uit:
 
       * Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL submit to FreeWheel]**.
+
       * Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**. In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
    1. Verifieer overeenkomstenidentiteitskaart, ga in **[!UICONTROL Ad Key]** u hebt gekopieerd in Stap 1 en klikt vervolgens op **[!UICONTROL Submit]**.
 

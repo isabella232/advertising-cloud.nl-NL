@@ -1,16 +1,16 @@
 ---
-title: Informatie over Plaatsingsbeheer in Advertising Cloud DSP
+title: Informatie over Plaatsingsbeheer in DSP
 description: Meer informatie over plaatsingsbeheer.
 feature: DSP Placements
 exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: c6a3d9703d06a44e38aae3bc6ec3f5f77e93082d
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
-# Informatie over Plaatsingsbeheer in Advertising Cloud DSP
+# Informatie over Plaatsingsbeheer in DSP
 
 Een plaatsing omvat het richten van parameters voor één of meerdere advertenties van het zelfde advertentietype. U kunt een plaatsing maken voor één campagne of pakket en er vervolgens advertenties aan toewijzen. Elke campagne of plaatsing kan veelvoudige plaatsen, met een gespecificeerde en omwenteling omvatten. Standaard worden advertenties gelijkmatig geroteerd.
 

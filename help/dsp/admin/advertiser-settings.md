@@ -1,9 +1,9 @@
 ---
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -38,31 +38,31 @@ Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over be
 
 (Optioneel) Aanvullende Experience Cloud-producten gekoppeld aan de DSP account. De producten moeten worden gekoppeld aan dezelfde organisatie-id voor Experience Cloud die in het [!UICONTROL Adobe IMS IDs] sectie.
 
-**[!UICONTROL Attribution services]> [!UICONTROL Adobe Media Optimizer]:** (Adverteerders met Advertising Cloud Search of die Advertising Cloud-conversiepixels gebruiken) A [!DNL Search] account waarmee DSP toewijzingsgegevens zal uitwisselen.
+**[!UICONTROL Attribution services]> [!UICONTROL Adobe Media Optimizer]:** (Adverteerders met [!DNL Adobe Advertising Search] of die Adobe Advertising convertiepixels gebruiken) A [!DNL Search] account waarmee DSP toewijzingsgegevens zal uitwisselen.
 
-**[!UICONTROL Report suites]> [!UICONTROL Adobe Analytics]:** (Adverteerders bij Adobe Analytics; facultatief; alleen van toepassing op gegevens die zijn verzameld met trackingtags voor Advertising Cloud-conversie die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, zal verzenden. Analytics zal ook de gegevens verzenden het van de plaats van de cliënt aan DSP verzamelt.
+**[!UICONTROL Report suites]> [!UICONTROL Adobe Analytics]:** (Adverteerders bij Adobe Analytics; facultatief; alleen van toepassing op gegevens die zijn verzameld met Adobe Advertising tracking-tags die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, zal verzenden. Analytics zal ook de gegevens verzenden het van de plaats van de cliënt aan DSP verzamelt.
 
-Om de gegevens in de rapportsuites te verschijnen, [!DNL Search] instelling op adverteerderniveau op &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Bovendien [!DNL Analytics] -account moet geconfigureerd zijn om gegevens van Advertising Cloud te ontvangen.
+Om de gegevens in de rapportsuites te verschijnen, [!DNL Search] instelling op adverteerderniveau op &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Bovendien [!DNL Analytics] -account moet geconfigureerd zijn om gegevens van Adobe Advertising te ontvangen.
 
 >[!WARNING]
 >
 >Als u een eerder gekoppelde rapportsuite verwijdert, worden DSP geen gegevens meer uitgewisseld met die suite. Verwacht gegevensschommelingen te zien.
 
-Meer informatie over de integratie met [!DNL Analytics], zie &quot;[Overzicht van [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md).&quot;
+Meer informatie over de integratie met [!DNL Analytics], zie &quot;[Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).&quot;
 
 **[!UICONTROL Audiences]> [!UICONTROL Adobe Analytics Cloud]:** (Adverteerders bij Adobe Audience Manager of Adobe Analytics; (optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle Adobe-gebruikers van de adverteerder ophalen. Dit omvat gegevens voor:
 
 * Audience Manager-segmenten
 * [!DNL Analytics] segmenten die naar Adobe Experience Cloud worden gepubliceerd
 * Segmenten die in Adobe Experience Cloud zijn gemaakt met de opdracht [!DNL People core service]
-* Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Advertising Cloud zijn verzonden
+* Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Adobe Advertising worden verzonden
 
 De eerste synchronisatie duurt ongeveer 24 uur. Daarna worden gegevens in real-time gesynchroniseerd met een vertraging van 1 tot 2 seconden.
 <!-- I don't think this is true anymore:
-Segment membership data is sent to Advertising Cloud only after one of the following:
+Segment membership data is sent to Adobe Advertising only after one of the following:
 
-* The segment is targeted in an Advertising Cloud placement or audience library
-* The segment is added to the Advertising Cloud batch and real-time destinations within the Audience Manager user interface
+* The segment is targeted in an Adobe Advertising placement or audience library
+* The segment is added to the Adobe Advertising batch and real-time destinations within the Audience Manager user interface
 -->
 
 ## [!UICONTROL Targeting] Instellingen

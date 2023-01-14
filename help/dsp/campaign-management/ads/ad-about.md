@@ -1,20 +1,20 @@
 ---
-title: Over Advertentiebeheer in Advertising Cloud DSP
+title: Over Advertentiebeheer in DSP
 description: Meer informatie over advertentiebeheer.
 feature: DSP Ads
 exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
-source-git-commit: 1499d9d86d8c2bafb03b41687c50dbf708c715da
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
 
-# Over Advertentiebeheer in Advertising Cloud DSP
+# Over Advertentiebeheer in DSP
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-Advertising Cloud DSP biedt ondersteuning voor levering van advertenties via tags voor advertenties van derden (zoals Google, Flash Talk of Sizmek) voor verschillende advertentietypen en voor het uploaden van directe middelen voor eigen advertenties. U kunt tags van derden afzonderlijk of bulksgewijs uploaden. Bulkuploads gebruiken de pagina&#39;s van de partnermarkering of een bulkmarkeringsmalplaatje.
+DSP ondersteunt ad-leveranties via tags van derden voor advertenties (zoals Google, Flash Talk of Sizmek) voor verschillende advertentietypen en de directe asset-upload voor eigen advertenties. U kunt tags van derden afzonderlijk of bulksgewijs uploaden. Bulkuploads gebruiken de pagina&#39;s van de partnermarkering of een bulkmarkeringsmalplaatje.
 
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
@@ -23,7 +23,7 @@ Wanneer uw advertenties zijn ingesteld, moet u elke advertentie aan een plaatsin
 
 ## Beschikbare advertentietypen {#ad-types}
 
-Alle volgende advertentietypen zijn beschikbaar in Advertising Cloud DSP. Voor volledige specificaties voor elk advertentietype raadpleegt u de [Advertentiespecificaties](ad-specs.md).
+Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specificaties voor elk advertentietype raadpleegt u de [Advertentiespecificaties](ad-specs.md).
 
 * **Audiolagen (alleen van derden)**: Audioadvertenties kunnen worden afgespeeld tussen inhoud op digitale uitgeversites en kunnen zelfstandig worden uitgevoerd als audiobestanden of samen met bijbehorende banners. Audio kan het best worden gebruikt om merkbekendheid te geven en om onderweg publiek te maken. Tot de belangrijkste prestatie-indicatoren voor audio behoren [!UICONTROL Completion Rate] en [!UICONTROL Cost per Completion].
 
@@ -39,9 +39,9 @@ Alle volgende advertentietypen zijn beschikbaar in Advertising Cloud DSP. Voor v
 
 * **Universal Video Ads (alleen van derden)**: In Universal Video-advertenties worden alle mogelijkheden van Connected TV, Pre-roll en Mobile Pre-roll Ads (VAST en VPAID) in één blok gecombineerd en worden deze voor en tijdens video-inhoud getoond. Universal Video-advertentie kan worden gebruikt wanneer u zich richt op video-inventarisatie vanuit een desktop-, mobiele- en Connected TV-omgeving en voorkomt zo de noodzaak om meerdere videobaden te maken. Tot de belangrijkste prestatie-indicatoren voor Universal Video behoren [!UICONTROL Completion Rate] en [!UICONTROL Viewability Rate].
 
-## Goedkeuringen Advertising Cloud DSP Ad
+## Goedkeuringen DSP
 
-Wanneer u een advertentie maakt, controleert Advertising Cloud DSP deze op gevoelige categorieën, klikt u op URL-functionaliteit en geeft u een voorvertoning van de rendering weer.
+Wanneer u een advertentie maakt, controleert DSP deze voor gevoelige categorieën, klikt u op URL-functionaliteit en geeft u een voorvertoning van de rendering weer.
 
 In eerste instantie ziet u een rode stip in het dialoogvenster [!UICONTROL Status] kolom. Het herzieningsproces duurt gewoonlijk 24 tot 48 uur. Een verbroken advertentie kan echter langer dan 48 uur in behandeling zijn, dus u hebt tijd om fouten op te lossen voordat de advertentie wordt afgewezen. Geweigerde advertenties bevatten een reden voor de afwijzing.
 

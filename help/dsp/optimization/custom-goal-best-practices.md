@@ -3,7 +3,7 @@ title: Beste praktijken voor het Bouwen van een Doel van de Douane
 description: Leer de beste praktijken voor het bouwen van douanedoelstellingen om uw succesgebeurtenissen te bepalen.
 feature: DSP Optimization, DSP Best Practices
 exl-id: 54b16325-4b72-48a3-a2e0-4e342229211c
-source-git-commit: 7cb39998041d151ece7809adc8a2e872b922e5fc
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Als het doel van uw campagne inkomsten is ([!UICONTROL Highest ROAS - Custom Goa
 >
 > A [!UICONTROL Property Weight] van één staat gelijk aan een waarde van één voor elke $1 van opbrengst die wordt gevolgd.
 >
-> Een conversie van € 250 met een gewicht van één wordt bijvoorbeeld gerapporteerd als $250. Als de omzettingsmetrische waarde een gewicht van 0.5 wordt toegewezen, dan wordt de $250 omzetting gemeld als $125 in Advertising Cloud ($250 Omzetting * 0.5) [!UICONTROL Property Weight] = $ 125).
+> Een conversie van € 250 met een gewicht van één wordt bijvoorbeeld gerapporteerd als $250. Als de conversiemetrie een gewicht van 0,5 krijgt toegewezen, wordt de conversie van $250 gerapporteerd als $125 in advertentie van Adobe ($250 Conversie * 0,5) [!UICONTROL Property Weight] = $ 125).
 
 ### Voorbeeld van een campagne met de opdracht &quot;[!UICONTROL Lowest CPA - Custom Goal]&quot;Optimalisatiedoelstelling
 
@@ -38,7 +38,7 @@ Als uw campagnedoel de laagste kosten per verwerving (CPA) is en het slechts é�
 >
 > A [!UICONTROL Property Weight] van één staat gelijk aan een waarde van één voor elke omzetting die wordt gevolgd.
 >
-> Als bijvoorbeeld 10 omzettingen van Toepassing verzenden worden bijgehouden, worden 10 omzettingen van Toepassing verzenden gerapporteerd.  Als aan de omzettingsmaatstaf een gewicht van 0,5 wordt toegewezen, worden de 10 omzettingen gerapporteerd als vijf (5) in Advertising Cloud (10 Omzettingen * 0,5) [!UICONTROL Property Weight] = 5).
+> Als bijvoorbeeld 10 omzettingen van Toepassing verzenden worden bijgehouden, worden 10 omzettingen van Toepassing verzenden gerapporteerd.  Als aan de omzettingsmaatstaf een gewicht van 0,5 wordt toegekend, worden de 10 omzettingen gerapporteerd als vijf (5) in Adobe Advertising (10 Conversies * 0,5) [!UICONTROL Property Weight] = 5).
 
 ## Aangepaste doelen met meerdere eigenschappen
 

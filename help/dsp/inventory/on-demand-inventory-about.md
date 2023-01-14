@@ -3,9 +3,9 @@ title: Info [!DNL On Demand] Premium-voorraad
 description: Leer over de overeenkomsten die DSP met de partners van de premieuitgever vooraf heeft onderhandeld.
 feature: DSP On Demand Inventory
 exl-id: d23d4e4e-f29f-4dba-afe3-7198ef4ee544
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,24 @@ ht-degree: 0%
 
 *Niet beschikbaar voor gebruikers met accounttypen [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension], en [!UICONTROL Other]; adverteerders met de categorie [!UICONTROL Other]; en wederverkopers*
 
-De [!DNL On Demand] Galerie is een tool voor het detecteren van premiumvoorraden voor het verkennen van vooraf onderhandelde deals die Advertising Cloud DSP heeft gemaakt met partners met eersteklas uitgevers. Zo hebt u zonder 1:1-onderhandelingen of contracten toegang tot een niet-gegarandeerde voorraad van de belangrijkste uitgevers in de regio. U kunt om individuele overeenkomsten verzoeken, en u kunt aan een uitgever intekenen om alle overeenkomsten van de uitgever in één keer te verzoeken.
+De [!DNL On Demand] Galerie is een tool voor het detecteren van premiumvoorraden voor het verkennen van vooraf onderhandelde deals die DSP met partners van topuitgevers heeft geleid. Zo hebt u zonder 1:1-onderhandelingen of contracten toegang tot een niet-gegarandeerde voorraad van de belangrijkste uitgevers in de regio. U kunt om individuele overeenkomsten verzoeken, en u kunt aan een uitgever intekenen om alle overeenkomsten van de uitgever in één keer te verzoeken.
 
-Met de Advertising Cloud DSP Premium Marketplace kunt u:
+Met de DSP markt kunt u:
 
 * Snel en eenvoudig nieuwe voorraad activeren voor verbeterde schaal en efficiëntie
 
    Uit studies is gebleken dat het activeren van deals op de particuliere markt binnen [!DNL DSP] bespaart tijd en is efficiënter.
 
 * Ontdek nieuwe uitgevers en indelingen
+
 * Nieuw publiek en nieuwe strategieën ontdekken
+
 * Uniek bereik uitbreiden
+
 * Automatisch toegang verkrijgen tot uitgevers die niet beschikbaar zijn op de open markt
+
 * Automatisch toegang krijgen tot live gebeurtenissen (zoals NBA-, NFL- en NHL-gebeurtenissen)
+
 * Prestaties bijhouden met geconsolideerde rapportage
 
 Zodra een overeenkomst wordt goedgekeurd, is het beschikbaar als doel voor bestaande plaatsingen en automatisch inbegrepen als doel voor nieuwe plaatsingen die allen richten [!DNL On Demand] voorraad. Als een overeenkomstenverzoek wordt ontkend, kunt u met uw werken [!DNL Adobe] accountteam om het probleem op te lossen en de deal vervolgens opnieuw aan te vragen.

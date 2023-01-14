@@ -1,16 +1,16 @@
 ---
-title: Over Pakketbeheer in Advertising Cloud DSP
+title: Over pakketbeheer in DSP voor advertenties
 description: Meer informatie over pakketbeheer.
 feature: DSP Packages
 exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Over Pakketbeheer in Advertising Cloud DSP
+# Over pakketbeheer in DSP voor advertenties
 
 Gebruik pakketten om plaatsingen voor levering aan een vastgestelde begroting, prestatiesdoel, en de strategie van het douanepakket te groeperen. DSP optimaliseert pakketten door budgetten te verschuiven naar de best presterende locaties in het pakket. U kunt pakketten ordenen op plaatsingsindeling, voorraadtype, gegevensaanbieder, persona of andere onderscheidbare kenmerken. Pakketten zijn optioneel.
 

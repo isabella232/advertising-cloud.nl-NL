@@ -3,24 +3,24 @@ title: Een aangepast doel maken
 description: Een aangepast doel maken
 feature: DSP Optimization
 exl-id: 440ded21-92d3-41ad-839f-ebc8376aa932
-source-git-commit: 8aea9eb1358e23a5b25e0353ced80c1550fa0057
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Een aangepast doel maken
 
-U kunt aangepaste doelen maken als *doelstellingen* in Advertising Cloud Search.
+U kunt aangepaste doelen maken als *doelstellingen* binnen [!DNL Adobe Advertising Search].
 
-Als u een aangepast doel wilt maken, moet de Advertising Cloud DSP-account zijn gekoppeld aan een [!DNL Search] account met dezelfde Adobe Experience Cloud-organisatie-id, van binnen de [!DNL Search] clientinstellingen. Als uw DSP niet is gekoppeld aan een [!DNL Search] account, neem contact op met uw [!DNL Adobe] accountteam.
+Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een [!DNL Search] account met dezelfde Adobe Experience Cloud-organisatie-id, van binnen de [!DNL Search] clientinstellingen. Als uw DSP niet is gekoppeld aan een [!DNL Search] account, neem contact op met uw [!DNL Adobe] accountteam.
 
 >[!TIP]
 >
 >Zie de [aanbevolen procedures voor het maken van aangepaste doelen](custom-goal-best-practices.md) voor uiteinden op hoe te om uw douanedoelstellingen te vormen.
 
-1. Meld u aan bij Advertising Cloud Search (Amerikaanse bedrijven) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) of (ondernemingen in alle andere landen) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
+1. Aanmelden [!DNL Adobe Advertising Search] bij (Amerikaanse ondernemingen) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) of (ondernemingen in alle andere landen) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Zorg ervoor dat de meetgegevens die u in uw doel wilt opnemen, zijn bijgehouden, beschikbaar zijn in het product en een weergavenaam bevatten:
    1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Transaction Properties]**.
    1. Bepaal de plaats van metrisch, en zorg ervoor dat **[!UICONTROL Show in UI and Reports]** wordt toegelaten voor metrisch.
@@ -31,7 +31,7 @@ Als u een aangepast doel wilt maken, moet de Advertising Cloud DSP-account zijn 
    1. Voer de objectieve instellingen in:
       1. In de **[!UICONTROL Change Objective Name]** voert u de objectieve naam in.
 
-         De objectieve naam wordt weergegeven in het [!UICONTROL Custom Goals] in Advertising Cloud DSP-pakketinstellingen.
+         De objectieve naam wordt weergegeven in het [!UICONTROL Custom Goals] in de instellingen van het DSP pakket.
 
       1. Eigenschappen koppelen aan het doel:
 
@@ -65,7 +65,7 @@ Als u een aangepast doel wilt maken, moet de Advertising Cloud DSP-account zijn 
       1. Klik onder aan de instellingen op **[!UICONTROL Save]**.
 
 
-Wanneer u een doel hebt gemaakt, kunt u het als aangepast doel toewijzen aan een Advertising Cloud DSP-pakket wanneer het optimalisatiedoel &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; of &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
+Wanneer u een doel hebt gemaakt, kunt u het als aangepast doel toewijzen aan een DSP pakket wanneer het optimalisatiedoel &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; of &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
 
 >[!TIP]
 >

@@ -2,9 +2,10 @@
 title: Instellingen voor Universal Video Add
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor universele videoadvertenties.
 feature: DSP Ads
-source-git-commit: 2d344d2ae0438433eb679a5f31f471c2eac4fe26
+exl-id: 0be86b84-78f9-4429-a8b7-8195891875ca
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -43,7 +44,7 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron.
 
-**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron met de vereiste [Advertising Cloud DSP-tracking-macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
 **[!UICONTROL Wmode]:** De venstermodus: *[!UICONTROL window]*, *[!UICONTROL transparent]*, of *[!UICONTROL opaque]*. Laat deze instelling leeg als deze niet van toepassing is.
 
@@ -75,5 +76,5 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Advertentiespecificaties](ad-specs.md)
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 

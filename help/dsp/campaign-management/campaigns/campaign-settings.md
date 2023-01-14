@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: ff2e22ff-8073-4532-884b-36e0c1f22641
-source-git-commit: d7afcc2200adc41e583d21712226cb25f35aab66
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,9 @@ Wanneer u *[!UICONTROL Yes],* het type en het bedrag van de marge specificeren:
 
 * **[!UICONTROL Margin Type]:** Het type marge. U kunt het margetype niet veranderen zodra u margebeheer toelaat en de campagne bewaart.
 
-   * *[!UICONTROL Fixed]:* (standaard) Hiermee staat u Advertising Cloud DSP toe om uitgaven automatisch te berekenen en te beperken op basis van een vast margepercentage van het [!UICONTROL Gross Budget].
+   * *[!UICONTROL Fixed]:* (de standaardinstelling) Hiermee wordt DSP toegestaan uitgaven automatisch te berekenen en te beperken op basis van een vast margepercentage van het [!UICONTROL Gross Budget].
 
-   * *[!UICONTROL Dynamic]:* Hiermee kunt u marges tot het plaatsingsniveau beheren door een aparte instelling op te geven [!UICONTROL Budget Reserve %] en [!UICONTROL Gross Budget] voor elk pakket en elke plaatsing in de campagne. Advertising Cloud DSP optimaliseert op basis van de financiële efficiëntie van elke plaatsing, zonder een specifieke marge te garanderen. Gebruik dit voor toevoegingsorden die uit veelvoudige lijnpunten bestaan waarvoor u bent overeengekomen om een vaste hoeveelheid eenheden of eenheidstypes aan een vaste tarief te leveren.
+   * *[!UICONTROL Dynamic]:* Hiermee kunt u marges tot het plaatsingsniveau beheren door een aparte instelling op te geven [!UICONTROL Budget Reserve %] en [!UICONTROL Gross Budget] voor elk pakket en elke plaatsing in de campagne. DSP optimaliseert op basis van de financiële efficiëntie van elke plaatsing, zonder een specifieke marge te garanderen. Gebruik dit voor toevoegingsorden die uit veelvoudige lijnpunten bestaan waarvoor u bent overeengekomen om een vaste hoeveelheid eenheden of eenheidstypes aan een vaste tarief te leveren.
 
 * **[!UICONTROL Fixed Margin %]:** (Alleen campagnes met vaste marges) De standaardmarkering voor elke invoegvolgorde <!-- impression? -->, als percentage. Dit bedrag wordt in mindering gebracht op het [!UICONTROL Gross Budget] de begroting van de nettocampagne vaststellen.
 
@@ -64,11 +64,11 @@ Belastingen die moeten worden ingehouden ramen:
 
 1. Schakel het selectievakje in naast elk type kosten waarvoor belastingen moeten worden ingehouden. De vergoedingstypen omvatten:
 
-   * *[!UICONTROL Include estimated tax - ads fee]:* Is van toepassing op alle media-uitgaven van Advertising Cloud DSP, inclusief belastingen op kosten voor campagnebeheer.
+   * *[!UICONTROL Include estimated tax - ads fee]:* Is van toepassing op alle uitgaven voor advertenties DSP media, inclusief belastingen op kosten voor campagnebeheer.
 
-   * *[!UICONTROL Include estimated tax - ad serving fee]:* Is van toepassing op alle uitgaven voor Advertising Cloud DSP, behalve voor media en gegevens. Hieronder vallen geen belastingen voor campagnebeheerkosten
+   * *[!UICONTROL Include estimated tax - ad serving fee]:* Is van toepassing op alle uitgaven voor DSP, met uitzondering van media en gegevens. Hieronder vallen geen belastingen voor campagnebeheerkosten
 
-   * *[!UICONTROL Include estimated tax - data fee]:* Is van toepassing op alle gegevensuitgaven voor Advertising Cloud DSP.
+   * *[!UICONTROL Include estimated tax - data fee]:* Is van toepassing op alle gegevens die worden besteed aan DSP.
 
 1. Klik op **[!UICONTROL Submit]**.
 
@@ -79,7 +79,7 @@ Belastingen die moeten worden ingehouden ramen:
 >* U kunt deze waarden ook configureren in de instellingen voor accountkosten.<!--[fee settings](/help/dsp/admin/tax-withholdings.md). -->
 
 
-**[!UICONTROL Cross Device Level]:** (Alleen-lezen voor bestaande campagnes die sinds 22 juni 2020 zijn opgezet; niet beschikbaar voor campagnes die vóór 22 juni 2020 zijn gemaakt) Het niveau waarop Advertising Cloud zich richt op advertenties en frequentieplafonds toepast: *Zelfde apparaat* een apparaat of *Mensen* om een persoon over al hun bekende apparaten te richten.
+**[!UICONTROL Cross Device Level]:** (Alleen-lezen voor bestaande campagnes die sinds 22 juni 2020 zijn opgezet; niet beschikbaar voor campagnes die vóór 22 juni 2020 zijn opgezet) Het niveau waarop DSP zich richt op advertenties en frequentieplafonds toepast: *Zelfde apparaat* een apparaat of *Mensen* om een persoon over al hun bekende apparaten te richten.
 
 **[!UICONTROL Device Graph]:** (Alleen-lezen voor bestaande campagnes; campagnes met alleen op personen gebaseerde cross-device gerichte doelgroepen) De apparaatgrafiek die moet worden gebruikt voor apparaatgerichte toepassingen en frequentiebeheer:
 

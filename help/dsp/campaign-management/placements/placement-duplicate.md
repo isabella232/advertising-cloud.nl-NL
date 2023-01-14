@@ -3,7 +3,7 @@ title: Plaatsen dupliceren
 description: Leer hoe u een of meer stages dupliceert.
 feature: DSP Placements
 exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
-source-git-commit: 5ed402a7c83072a7af6a06757050486c6d7d7080
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -24,16 +24,27 @@ Dupliceer een of meer plaatsen om plaatsingen met gelijkaardige montages tot sta
 Zie &quot;[Wat is niet gedupliceerd](#placement-not-duplicated)&quot; voor een lijst met plaatsingsinstellingen die niet worden gedupliceerd.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+
 1. Klik op de naam van de campagne.
+
 1. Klik in het submenu op **[!UICONTROL Placements]**.
+
 1. Voer een van de volgende handelingen uit:
+
    * Als u één plaatsing wilt dupliceren, klikt u op  **[!UICONTROL ...]>[!UICONTROL Duplicate]** naast de pakketnaam.
+
    * Meerdere plaatsen dupliceren:
+
       1. Schakel het selectievakje naast elke plaatsing die u wilt dupliceren in.
+
       1. Klik op de werkbalk voor bulkacties op **[!UICONTROL Duplicate]**.
+
 1. Geef de nieuwe plaatsingsinstellingen op:
+
    1. (Enkele plaatsen) Voer de nieuwe plaatsingsnaam in.
+
    1. In de **[!UICONTROL Choose Package (Required)]** selecteert u het bovenliggende pakket of **[!UICONTROL No package]*.
+
    1. (Optioneel) Wijzig de standaardinstellingen.
 
    De instellingen gelden voor alle geselecteerde plaatsingen.

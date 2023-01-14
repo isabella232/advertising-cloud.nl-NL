@@ -1,19 +1,20 @@
 ---
 title: Grondbeginselen van [!DNL Marketing Channels]
-description: Belangrijke informatie over [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising Cloud] gebruikers moeten dit begrijpen.
+description: Belangrijke informatie over [!DNL Analytics Marketing Channels] dat [!DNL Analytics for Advertising] gebruikers moeten dit begrijpen.
 feature: Integration with Adobe Analytics
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+exl-id: 27b6fb07-0b63-4ff1-a316-20b9a2b60fe9
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 # Grondbeginselen van [!DNL Analytics Marketing Channels]
 
-*Adverteerders met alleen Advertising Cloud-Adobe Analytics-integratie*
+*Adverteerders met een Adobe Advertising-Adobe Analytics Integration Only*
 
-Deze pagina bevat belangrijke informatie over [!DNL Analytics Marketing Channels] dat [!DNL Analytics for Advertising Cloud] gebruikers moeten dit begrijpen .
+Deze pagina bevat belangrijke informatie over [!DNL Analytics Marketing Channels] dat [!DNL Analytics for Advertising] gebruikers moeten dit begrijpen .
 
 Voor volledige documentatie over [!DNL Marketing Channels], zie &quot;[Aan de slag met [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html).&quot;
 
@@ -37,13 +38,13 @@ Andere kanalen hebben geen trackable wegen URL en hebben verdere logica voor ide
 
 Adobe raadt u aan samen te werken met uw analyseteam om een uitgebreide reeks [!DNL Marketing Channels] verwerkingsregels om alle kanalen te volgen die voor uw zaken relevant zijn. Zo kunt u krachtige rapportage van toewijzingen maken.
 
-Als u wilt begrijpen hoe Advertising Cloud kan bijdragen aan de signalen die nodig zijn om aangepaste marketingkanalen te maken, raadpleegt u &quot;[Adverteren-id&#39;s gebruiken om te maken [!DNL Marketing Channels] Regels](mc-ids.md).&quot;
+Als u wilt begrijpen hoe Adobe-reclame kan bijdragen aan de signalen die nodig zijn om aangepaste marketingkanalen te maken, raadpleegt u &quot;[Adverteren-id&#39;s gebruiken om te maken [!DNL Marketing Channels] Regels](mc-ids.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [Advertising Cloud-id&#39;s gebruiken om te maken [!DNL Marketing Channels] Verwerkingsregels](mc-ids.md)
->* [Waarom kanaalgegevens kunnen variëren tussen Advertising Cloud en [!DNL Marketing Channels]](mc-data-variances.md)
->* [Gebruiken [!DNL Analytics Marketing Channels] met Advertising Cloud-gegevens](mc-ac-data.md)
->* [Video: Rapporten met Advertising Cloud [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
->* [Overzicht van [!DNL Analytics for Advertising Cloud]](/help/integrations/analytics/overview.md)
+>* [Adobe-advertentie-id&#39;s gebruiken om te maken [!DNL Marketing Channels] Verwerkingsregels](mc-ids.md)
+>* [Waarom kanaalgegevens kunnen verschillen tussen Adobe-reclame en [!DNL Marketing Channels]](mc-data-variances.md)
+>* [Gebruiken [!DNL Analytics Marketing Channels] met Adobe-advertentiegegevens](mc-ac-data.md)
+>* [Video: Gebruiken [!DNL Marketing Channels] voor Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
 

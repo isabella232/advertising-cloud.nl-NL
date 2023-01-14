@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 0f5bdf041c0de60730efe5190d438a6d29752034
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '3422'
+source-wordcount: '3418'
 ht-degree: 0%
 
 ---
@@ -169,7 +169,7 @@ Neem één postcode per regel op of voer meerdere waarden in, gescheiden door ko
 
 **[!UICONTROL Inventory Sources]:** Inventarisatiebronnen die als doel moeten worden opgenomen of uitgesloten. Voor de meeste plaatsingstypen worden alle voorraadtypen en alle bronnen voor elk type standaard opgenomen. Voor [!DNL Roku] U moet het voorraadtype en de bronnen opgeven. U kunt uit de volgende soorten inventaris kiezen:
 
-* [!UICONTROL Public]: (Alle plaatsingstypen, behalve voor Roku) Alle openwisselingsvoorraden waartoe Advertising Cloud toegang heeft. U kunt openbare voorraad opnemen en uitsluiten.
+* [!UICONTROL Public]: (Alle plaatsingstypen behalve Roku) Alle open uitwisselingsvoorraden waartoe DSP toegang heeft. U kunt openbare voorraad opnemen en uitsluiten.
 
    U kunt de lijst bekijken door bron of door voer. Wanneer u de lijst weergeeft op basis van feed, kunt u zoeken op naam van de feed, op basis van de feed of op basis van een geselecteerde kenmerkende tag.
 
@@ -226,7 +226,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 >
 >Voor prestatiecampagnes moet u *[!UICONTROL All Sites]*.
 
-**[!UICONTROL Site Categories]:** (facultatief; beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sitecategorieën binnen de geselecteerde siteniveaus om deze als doelen op te nemen of uit te sluiten (maar niet beide). Maak een keuze uit verticale sitelijsten die door Advertising Cloud zijn toegewezen op basis van het onderwerp van de site:
+**[!UICONTROL Site Categories]:** (facultatief; beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sitecategorieën binnen de geselecteerde siteniveaus om deze als doelen op te nemen of uit te sluiten (maar niet beide). Maak een keuze uit verticale sitelijsten die DSP toegewezen op basis van het onderwerp van de site:
 
 1. Klikken ![Bewerken](/help/dsp/assets/edit.png).
 1. Geef de sitecategorieën op die u wilt opnemen of uitsluiten:
@@ -257,7 +257,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 
 >[!NOTE]
 >
->* Naast de Advertising Cloud DSP worden ook lijsten met geblokkeerde sites op accountniveau en door adverteerders gebruikt [globaal geblokkeerde sitelijst](/help/dsp/introduction/features/brand-safety-media-quality.md), waaronder plaatsen die onveilig worden geacht voor advertenties.
+>* Naast de DSP worden ook lijsten met geblokkeerde sites op accountniveau en door adverteerders gebruikt [globaal geblokkeerde sitelijst](/help/dsp/introduction/features/brand-safety-media-quality.md), waaronder plaatsen die onveilig worden geacht voor advertenties.
 >* Lijsten met geblokkeerde sites hebben altijd voorrang op lijsten met doelsites. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.
 
 

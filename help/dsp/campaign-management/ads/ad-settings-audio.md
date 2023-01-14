@@ -3,9 +3,9 @@ title: Instellingen voor audio toevoegen
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor audioadvertenties.
 feature: DSP Ads
 exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
-source-git-commit: bcece4bfec6f8a765cced3ee230fd8cbf3055b7b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Dit veld kan al dan niet worden weergegeven, afhankelijk van de accountmachtigin
 
 **[!UICONTROL VAST Tag]:** (Alleen bij gebruik van VAST-tags) Een URL voor een advertentiebron van derden. Zorg ervoor dat de VAST-tag alleen audiomediabestanden bevat.
 
-**[!UICONTROL Final VAST Tag]:** (Alleen bij gebruik van VAST-tags) De URL voor de advertentiebron van derden met de vereiste [Advertising Cloud DSP-tracking-macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final VAST Tag]:** (Alleen bij gebruik van VAST-tags) De URL voor de advertentiebron van derden met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
 **[!UICONTROL Select Rate]:** (Alleen gebruikers met toestemming) Een vooraf overeengekomen tarief dat in rekening wordt gebracht via Adobe, of een van de tarieven die u hebt onderhandeld en waarvoor de kosten via de leverancier in rekening worden gebracht. Neem contact op met uw [!DNL Adobe] accountteam.
 
@@ -68,5 +68,5 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [Advertentiespecificaties](ad-specs.md)
->* [Advertising Cloud DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [DSP Macros](/help/dsp/campaign-management/macros.md)
 

@@ -3,7 +3,7 @@ title: Advertentiespecificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
 exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
-source-git-commit: b25521d35134ca453c889fc1a71e4c81f982a77b
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
@@ -207,7 +207,7 @@ Advertenties worden standaard geleverd op desktopapparaten en mobiele apparaten.
 
 >[!NOTE]
 >
->Afhankelijk van de afbeelding waarop de afbeelding wordt overschreven, kiest u tussen lichte of donkere logo-elementen.
+>Afhankelijk van de afbeelding waarop de afbeelding wordt geplaatst, kunt u kiezen tussen lichte of donkere logo-elementen.
 
 #### Tekst/kopie
 

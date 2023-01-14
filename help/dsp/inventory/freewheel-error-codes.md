@@ -3,18 +3,18 @@ title: Foutcodes voor [!DNL FreeWheel] Advertentie verzenden
 description: Verwijs de foutencodes die voor ad voorlegging zijn teruggekeerd aan [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 2eb93971-ba82-4de8-96c5-48524d628b70
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '677'
 ht-degree: 2%
 
 ---
 
 # Foutcodes voor [!DNL FreeWheel] Advertentie verzenden
 
-De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertising Cloud DSP of [!DNL FreeWheel]. Foutberichten worden weergegeven in het dialoogvenster [!UICONTROL API Response] in de [[!UICONTROL Freewheel Status] dialoogvenster](freewheel-check-status.md).
+De foutberichten voor mislukte advertenties kunnen afkomstig zijn uit DSP of uit [!DNL FreeWheel]. Foutberichten worden weergegeven in het dialoogvenster [!UICONTROL API Response] in de [[!UICONTROL Freewheel Status] dialoogvenster](freewheel-check-status.md).
 
-## Interne Advertising Cloud DSP-fouten
+## Reclame DSP interne fouten
 
 | Foutbericht | Beschrijving | Volgende stappen |
 |--- |--- |--- |

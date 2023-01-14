@@ -1,12 +1,12 @@
 ---
-source-git-commit: 85965bcc54765c958b64b8af91052c51c89f76cf
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
-# Documentatie voor Advertising Cloud-integratie met Adobe Experience Cloud
+# Documentatie voor Adobe Advertising Integrations met Adobe Experience Cloud
 
-Deze map is bedoeld voor documenten op Advertising Cloud-integratie met andere Adobe-producten.
+Deze map is bestemd voor documenten over Adobe-advertentie-integratie met andere Adobe-producten.
 
 **Opmerking: Deze pagina wordt niet gepubliceerd in de klant-onder ogen ziet documentatie.**

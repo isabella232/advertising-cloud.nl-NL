@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
-source-git-commit: b436936e3a0edcb78497fadb6f3c4086412baaa5
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1350'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <!-- Check on logo sizes in staging environment -- I made them all 100 pixels high except for DoubleVerify, which is 150 (harder to see at 100), but some instances look larger in VS Code. -->
 
-Advertising Cloud DSP biedt een reeks functies voor merkbescherming om ervoor te zorgen dat elk van uw campagnes echte gebruikers bereikt in een merkveilige omgeving.
+Reclame DSP biedt een reeks functies voor merkbescherming om ervoor te zorgen dat elk van uw campagnes echte gebruikers in een merkveilige omgeving bereikt.
 
 Ons team voor toezicht op fraude werkt nauw samen met toonaangevende partners uit de industrie, zoals de [!DNL Interactive Advertising Bureau], [!DNL Trust and Accountability Group] [!DNL (TAG)], en [!DNL WhiteOps]om de inventarisatie op ons platform zorgvuldig te beheren. Door ons aanbod proactief te beheren, zorgt DSP ervoor dat alle adverteerders op het platform beschermd zijn tegen niet-menselijk verkeer (bots, crawlers, datacenterverkeer en fraude) en alleen in merkveilige contexten leveren.
 
-Naast centraal kwaliteitsbeheer geloven we in het vermogen van adverteerders om de controles te ontwerpen die op hun merk zijn afgestemd. Adobe Advertising Cloud biedt integratie met [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud], en [!DNL Peer39], waarbij elke adverteerder zijn gewenste niveau van fraudebescherming, contextafhankelijke filtering en trefwoordgerichtheid kan kiezen.
+Naast centraal kwaliteitsbeheer geloven we in het vermogen van adverteerders om de controles te ontwerpen die op hun merk zijn afgestemd. DSP biedt integratie met [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud], en [!DNL Peer39], waarbij elke adverteerder zijn gewenste niveau van fraudebescherming, contextafhankelijke filtering en trefwoordgerichtheid kan kiezen.
 
-## Advertising Cloud DSP-kwaliteitsinitiatieven
+## Kwaliteitsinitiatieven
 
 ### Inventariscontrole met [!DNL Ads.txt] Ondersteuning
 
@@ -66,17 +66,17 @@ Het in kaart brengen van de inventaris is het gedetailleerde overzicht en het aa
 
    * **[!UICONTROL T3]** - Door de gebruiker gegenereerde inhoud en niche-inhoud
 
-* **Indeling van de site:** Om ervoor te zorgen dat inhoud eenvoudig kan worden toegewezen en geblokkeerd, labelen we elke eigenschap met een door Advertising Cloud gedefinieerde sitecategorie op basis van de inhoud van de eigenschap. U kunt [Deze sitecategorieën voor elke plaatsing opgeven of uitsluiten](/help/dsp/campaign-management/placements/placement-settings.md) op basis van de plaatsingsdoelstellingen.
+* **Indeling van de site:** Om ervoor te zorgen dat inhoud eenvoudig wordt toegewezen en geblokkeerd, labelen we elke eigenschap met een DSP gedefinieerde sitecategorie op basis van de inhoud van de eigenschap. U kunt [Deze sitecategorieën voor elke plaatsing opgeven of uitsluiten](/help/dsp/campaign-management/placements/placement-settings.md) op basis van de plaatsingsdoelstellingen.
 
 ### Uitgebreide ondersteuning voor blokkeren van sites
 
-Advertising Cloud DSP biedt zowel een lijst met wereldwijd geblokkeerde sites als de optie om aangepaste lijsten met geblokkeerde sites voor adverteerders en accounts te maken.
+DSP biedt zowel een globaal geblokkeerde lijst met sites als de optie om aangepaste lijsten met geblokkeerde sites voor adverteerders en accounts te maken.
 
-#### Advertising Cloud DSP Global Blocked Sites List {#global-blocked-sites}
+#### Lijst met wereldwijd geblokkeerde sites DSP {#global-blocked-sites}
 
-Advertising Cloud DSP houdt een wereldwijd geblokkeerde lijst met sites bij die onveilig worden geacht om advertenties uit te voeren. Deze lijst bevat sites met aanstootgevende inhoud (zoals haat of terreur) en sites die besmet zijn met bots, valse pre-roll, niet-afgedekte domeinen en andere frauduleuze activiteiten.
+DSP houdt een wereldwijd geblokkeerde lijst met sites bij die onveilig worden geacht om advertenties uit te voeren. Deze lijst bevat sites met aanstootgevende inhoud (zoals haat of terreur) en sites die besmet zijn met bots, valse pre-roll, niet-afgedekte domeinen en andere frauduleuze activiteiten.
 
-In het kader van ons Brand Safety-initiatief om activiteiten die adverteerders bedriegen uit te roeien, worden alle sites gescreend met behulp van de maatregelen in de lijst met geblokkeerde sites. Alle sites die niet voldoen aan de veiligheidscontroles worden toegevoegd aan de lijst met wereldwijd geblokkeerde sites. Omdat Advertising Cloud DSP deze lijst dynamisch beheert, kunnen sites op elk gewenst moment van de lijst worden verwijderd of in- en uitgeschakeld, op basis van de meest recente analyse van de merkveiligheid.
+In het kader van ons Brand Safety-initiatief om activiteiten die adverteerders bedriegen uit te roeien, worden alle sites gescreend met behulp van de maatregelen in de lijst met geblokkeerde sites. Alle sites die niet voldoen aan de veiligheidscontroles worden toegevoegd aan de lijst met wereldwijd geblokkeerde sites. Omdat DSP deze lijst dynamisch beheert, kunnen sites op elk gewenst moment van de lijst worden verwijderd of in- en uitgeschakeld, op basis van de meest recente analyse van de merkveiligheid.
 
 Wanneer u een site in de lijst met wereldwijd geblokkeerde sites opneemt als plaatsingsdoel, wordt de site gemarkeerd met een rood uitroepteken (!). Dit geeft aan dat advertenties niet worden uitgevoerd op de gemarkeerde site.
 

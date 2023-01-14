@@ -1,24 +1,24 @@
 ---
 title: Gebruiken [!DNL Roku] Inventaris
-description: 'Meer informatie over DSP partnerschap met [!DNL Roku], inclusief inventarisopties, goedgekeurde leveranciers van trackingservices van derden en aanbevolen procedures voor [!DNL Roku]-specifieke stages. '
+description: Meer informatie over DSP partnerschap met [!DNL Roku], inclusief inventarisopties, goedgekeurde leveranciers van trackingservices van derden en aanbevolen procedures voor [!DNL Roku]-specifieke stages.
 feature: DSP On Demand Inventory, DSP Private Inventory
 exl-id: 0cd42782-f006-4aa8-b879-322f86cfac4b
-source-git-commit: 39f491a39bdc9d8dd820eb4c69594dda71d8b3c2
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
 
 # Gebruiken [!DNL Roku] Inventaris
 
-Advertising Cloud DSP biedt unieke functies voor advertenties op [!DNL Roku].
+Reclame DSP biedt unieke kenmerken voor advertenties op [!DNL Roku].
 
-## De Advertising Cloud DSP en [!DNL Roku] Partnerschap
+## De DSP en [!DNL Roku] Partnerschap
 
-Roku en Advertising Cloud DSP hebben een uniek partnerschap dat aansluit bij uw [!DNL DSP] publiek naar [!DNL Roku] ID&#39;s voor deterministische doelgroepen van 1:1 die zich richten op [!DNL Roku] voorraad.
+Roku en DSP hebben een uniek partnerschap dat overeenkomt met uw [!DNL DSP] publiek naar [!DNL Roku] ID&#39;s voor deterministische doelgroepen van 1:1 die zich richten op [!DNL Roku] voorraad.
 
-Buiten Roku&#39;s eigen DSP (OneView) heeft Advertising Cloud DSP de enige toegang tot deze doelmogelijkheden. Advertising Cloud DSP is ook de enige DSP met toestemming om te meten [!DNL Roku] levering naast alle andere voorraad van de aangesloten tv (CTV). Omdat [!DNL Roku] deelt niet alle standaard RTB- en pixelsignalen, geen andere DSP kan zich richten of meten over de door Roku verkochte CTV-apparatuur.
+Buiten Roku&#39;s eigen DSP (OneView) heeft DSP alleen toegang tot deze doelfuncties. DSP is ook de enige DSP met toestemming [!DNL Roku] levering naast alle andere voorraad van de aangesloten tv (CTV). Omdat [!DNL Roku] deelt niet alle standaard RTB- en pixelsignalen, geen andere DSP kan zich richten of meten over de door Roku verkochte CTV-apparatuur.
 
 ## [!DNL Roku] Inventarisopties
 

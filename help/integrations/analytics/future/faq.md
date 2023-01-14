@@ -1,7 +1,7 @@
 ---
 title: Veelgestelde vragen
 description: xxx
-source-git-commit: 2e0395dc1e5aa52adc83c1aaea49793fd5555390
+source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ## titel
 
-https://adobeadcloud.zendesk.com/agent/tickets/14214 Standaard rapporteert Adobe Analytics alle vastgelegde gebeurtenissen in elk rapport. &quot;[!UICONTROL Unspecified]&quot;-gebeurtenissen vertegenwoordigen formuliervoltooiingsgebeurtenissen die niet met Advertising Cloud zijn verbonden. In het rapport Ad Platform vallen organische conversies of conversies die door een e-mailcampagne worden gestuurd bijvoorbeeld in &quot;unspecified&quot;.
+https://adobeadcloud.zendesk.com/agent/tickets/14214 Standaard rapporteert Adobe Analytics alle vastgelegde gebeurtenissen in elk rapport. &quot;[!UICONTROL Unspecified]&quot;-gebeurtenissen vertegenwoordigen formuliervoltooiingsgebeurtenissen die geen verband hielden met Adobe Advertising. In het rapport Ad Platform vallen organische conversies of conversies die door een e-mailcampagne worden gestuurd bijvoorbeeld in &quot;unspecified&quot;.
 
 Met dit filter kunt u niet-opgegeven gebeurtenissen uit rapporten verwijderen door het vinkje &quot;Niet-opgegeven opnemen (geen)&quot; te verwijderen. <!-- Not sure if this is in DSP or in Analytics Workspace -->
 

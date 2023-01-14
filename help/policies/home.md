@@ -1,19 +1,19 @@
 ---
-title: Beleid en richtlijnen voor Advertising Cloud
-description: Meer informatie over beleid en richtlijnen voor Advertising Cloud DSP en Advertising Cloud Search.
+title: Beleid en richtsnoeren voor reclame Adobe
+description: Meer informatie over het beleid en de richtlijnen voor DSP voor advertenties en het zoeken naar advertenties.
 index: true
 cloud: Experience Cloud
 product: advertising cloud
-source-git-commit: 1ae45d0ceee2efc4fc52b86fd6737d4c7467a6ca
+source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Beleid en richtlijnen voor Advertising Cloud
+# Beleid en richtsnoeren voor reclame Adobe
 
-Meer informatie over beleid en richtlijnen voor Advertising Cloud DSP en Advertising Cloud Search:
+Meer informatie over het beleid en de richtlijnen voor DSP voor advertenties en Zoeken in advertenties:
 
 * [Beleid voor advertenties](/help/policies/ad-requirements-policy.md)
 * [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](/help/policies/health-segment-guidelines.md)
