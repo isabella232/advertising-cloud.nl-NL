@@ -2,9 +2,9 @@
 title: A/B-tests configureren voor advertenties van Adobe in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP en [!DNL Search] advertenties.
 exl-id: 97055645-4b2f-4795-830d-9ce89ae2ad15
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '1654'
+source-wordcount: '1647'
 ht-degree: 0%
 
 ---
@@ -220,7 +220,7 @@ Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens mi
 * [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Beschrijft A/B testactiviteiten, die u met DSP advertenties kunt gebruiken.
 * [Ervaringen en aanbiedingen](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html) - Verklaringen [!DNL Target] hulpmiddelen om de inhoud ter plaatse te bepalen waaraan DSP testgebruikers worden blootgesteld.
 * [Signalen, Traits en Segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) - Hiermee definieert u een aantal Audience Managers die u kunnen helpen bij DSP doorkijktests.
-* [Overzicht van analytische gegevens voor reclame](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html) - Introduceert Analytics voor Advertising, waarmee u doorklikinteracties en doorkijkinteracties van sites in uw Analytics-instanties kunt bijhouden.
+* [Overzicht van analytische gegevens voor reclame](/help/integrations/analytics/overview.md) - Introduceert Analytics voor Advertising, waarmee u doorklikinteracties en doorkijkinteracties van sites in uw Analytics-instanties kunt bijhouden.
 
 <!-- 
 >[!MORELIKETHIS]

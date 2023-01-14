@@ -3,7 +3,7 @@ title: Overzicht van [!DNL Analytics for Advertising]
 description: Overzicht van [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Te gebruiken [!DNL Analytics] uw organisatie heeft als betaalmiddel voor mediara
 
 [Reclame-id&#39;s Adobe binnen [!DNL Analytics]](ids.md) werkt zoals andere eVars, met een aangepaste, blijvende vervaldatum. Standaard wordt het terugkijkvenster voor toewijzingen ingesteld op 60 dagen tijdens de Adobe-advertentie-implementatie. Werk met uw [!DNL Adobe] accountteam.
 
-Adobe De advertentiedrempels worden toegevoegd met het achtervoegsel &quot;(AMO ID)&quot; (zoals &quot;Advertentietype (AMO ID)&quot;). Zie &quot;[Adobe Advertising Metrics in Analysis Workspace](advertising-cloud-metrics-in-analytics.md)&quot; voor een lijst van de beschikbare afmetingen.
+Adobe De advertentiedrempels worden toegevoegd met het achtervoegsel &quot;(AMO ID)&quot; (zoals &quot;Advertentietype (AMO ID)&quot;). Zie &quot;[Adobe Advertising Metrics in Analysis Workspace](advertising-metrics-in-analytics.md)&quot; voor een lijst van de beschikbare afmetingen.
 
 >[!NOTE]
 >
@@ -78,7 +78,7 @@ U kunt uw standaardgebeurtenissen en aangepaste gebeurtenissen gebruiken vanuit 
 
 Uw Adobe-advertentieteam helpt u de gebeurtenissen die van toepassing zijn op betaalde mediaprestaties te identificeren en in kaart te brengen in Adobe-advertentie, waar ze worden weergegeven in [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Transaction Properties].
 
-Zie &quot;[Analysemetriek in Adobe-reclame](analytics-data-in-advertising-cloud.md)&quot; voor een lijst van beschikbare metriek.
+Zie &quot;[Analysemetriek in Adobe-reclame](analytics-data-in-advertising.md)&quot; voor een lijst van beschikbare metriek.
 
 ### Analysesegmenten voor het opnieuw oprichten van sites
 
@@ -111,6 +111,6 @@ Als u wilt zien hoe u een Adobe Advertising site-ingrapport kunt maken voor de d
 >* [Adobe-advertentie-id&#39;s gebruikt door Analytics](ids.md)
 >* [JavaScript-code voor analyses voor advertenties](/help/integrations/analytics/javascript.md)
 >* [Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame](data-variances.md)
->* [Adobe Advertising Metrics in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
->* [[!DNL Analytics] Gegevens in Adobe-reclame](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
+>* [Adobe Advertising Metrics in Analysis Workspace](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+>* [[!DNL Analytics] Gegevens in Adobe-reclame](/help/integrations/analytics/analytics-data-in-advertising.md)
 

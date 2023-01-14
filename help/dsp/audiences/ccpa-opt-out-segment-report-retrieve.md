@@ -3,9 +3,9 @@ title: Rapporten over verkoopopties voor consumenten ophalen
 description: Leer hoe u rapporten ophaalt van id's die zijn ingediend voor aanvragen om niet te verkopen.
 feature: CCPA, DSP Segments
 exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ U kunt maandelijkse rapporten ophalen van id&#39;s die klanten hebben ingediend 
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+>* [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](/help/privacy/ccpa-opt-out-of-sale.md)
 >* [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en rapporten](ccpa-opt-out-about.md)
 >* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Over Audience Management](audience-about.md)

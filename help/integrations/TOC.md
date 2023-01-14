@@ -3,7 +3,7 @@ user-guide-title: Integratie met Adobe Experience Cloud
 user-guide-description: Meer informatie over de integratie van DSP en advertenties in zoekopdrachten met andere Adobe Experience Cloud-producten en -services.
 breadcrumb-title: Integratie met Experience Cloud
 index: true
-source-git-commit: b00fd99b90efe7eff3e8d633422917a74ebbb66e
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -27,8 +27,8 @@ ht-degree: 0%
          + [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](/help/integrations/analytics/macros-flashtalking.md)
          + [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md)
    + Gegevens uitgewisseld {#data}
-      + [Adobe Advertising Metrics in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
-      + [[!DNL Analytics] Gegevens in Adobe-reclame](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
+      + [Adobe Advertising Metrics in Analysis Workspace](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+      + [[!DNL Analytics] Gegevens in Adobe-reclame](/help/integrations/analytics/analytics-data-in-advertising.md)
       + [Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame](/help/integrations/analytics/data-variances.md)
    + Werken in [!DNL Analytics Marketing Channels] {#mc}
       + [Grondbeginselen van [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-overview.md)

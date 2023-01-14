@@ -3,9 +3,9 @@ title: Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en rapporten
 description: Leer over het creëren van segmenten om IDs van opt-out van CCPA te volgen verzoeken en hoe te om rapporten van identiteitskaarts terug te winnen.
 feature: CCPA, DSP Segments
 exl-id: 9256d34e-d0dd-4abf-bc96-2b599caf2a8e
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ U kunt [koppelingen naar de maandelijkse rapporten ophalen](ccpa-opt-out-segment
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+>* [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](/help/privacy/ccpa-opt-out-of-sale.md)
 >* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Rapporten over verkoopopties voor consumenten ophalen](ccpa-opt-out-segment-report-retrieve.md)
 >* [Over Audience Management](audience-about.md)

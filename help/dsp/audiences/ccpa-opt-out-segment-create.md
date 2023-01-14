@@ -3,9 +3,9 @@ title: Creeer en voer een CCPA uit Opt-uit-van-Verkoop segment
 description: Leer hoe u een segment maakt en implementeert om gebruikers-id's te traceren op basis van verzoeken van consumenten om te weigeren een product te verkopen.
 feature: CCPA, DSP Segments
 exl-id: aebe0c5b-382f-4e4a-b145-c32f32d216ca
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Wanneer de segmentpixel-tag is geïmplementeerd, begint Adobe-advertentie namens
 
 >[!NOTE]
 >
->* Voor informatie over het communiceren van CCPA-aanvragen voor niet-verkoop aan Adobe Advertising met de Adobe Experience Platform Privacy Service API, raadpleegt u [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html).
+>* Voor informatie over het communiceren van CCPA-aanvragen voor niet-verkoop aan Adobe Advertising met de Adobe Experience Platform Privacy Service API, raadpleegt u [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html).
 >* Als u gebruikers wilt volgen die webpagina&#39;s bezoeken voor doeleinden die geen verband houden met het volgen van CCPA-opt-out-of-sale gebeurtenissen, en gebruikers die worden blootgesteld aan advertenties van desktop-, mobiele en CTV-apparaten, maakt u een [aangepast segment](/help/dsp/audiences/custom-segment-create.md).
 
 
@@ -61,7 +61,7 @@ Wanneer de segmentpixel-tag is geïmplementeerd, begint Adobe-advertentie namens
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ad-cloud-ccpa-opt-out-of-sale.html)
+>* [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](/help/privacy/ccpa-opt-out-of-sale.md)
 >* [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en rapporten](ccpa-opt-out-about.md)
 >* [Rapporten over verkoopopties voor consumenten ophalen](ccpa-opt-out-segment-report-retrieve.md)
 >* [Een aangepast segment maken en implementeren](custom-segment-create.md)

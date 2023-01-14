@@ -3,7 +3,7 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
 source-wordcount: '3278'
 ht-degree: 0%
@@ -223,7 +223,7 @@ De klikgegevens kunnen ook worden geregistreerd in milieu&#39;s die klikdoorgang
 
 ### Adobe Advertising Traffic Metrics gebruiken voor niet-Adobe-Dimension voor advertenties
 
-Adobe Advertising biedt Analytics met [advertentiespecifieke verkeersmetingen en de daarmee verband houdende afmetingen van DSP en [!DNL [!DNL Search]]](advertising-cloud-metrics-in-analytics.md). De door Adobe-advertenties verschafte meetgegevens zijn alleen van toepassing op de opgegeven Adobe Advertising-afmetingen en de gegevens zijn niet beschikbaar voor andere dimensies in [!DNL Analytics].
+Adobe Advertising biedt Analytics met [advertentiespecifieke verkeersmetingen en de daarmee verband houdende afmetingen van DSP en [!DNL [!DNL Search]]](advertising-metrics-in-analytics.md). De door Adobe-advertenties verschafte meetgegevens zijn alleen van toepassing op de opgegeven Adobe Advertising-afmetingen en de gegevens zijn niet beschikbaar voor andere dimensies in [!DNL Analytics].
 
 Als u bijvoorbeeld de [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] Metriek per Rekening, dat een Adobe Advertising dimensie is, dan zult u het totaal zien [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] per rekening.
 
@@ -243,7 +243,7 @@ Omdat u het niet kunt gebruiken [!UICONTROL AMO Clicks] met onsite afmetingen, w
 >
 >* [Overzicht van [!DNL Analytics for Advertising]](overview.md)
 >* [Adobe advertentie-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md)
->* [Adobe Advertising Metrics in Analysis Workspace](/help/integrations/analytics/advertising-cloud-metrics-in-analytics.md)
->* [[!DNL Analytics] Gegevens in Adobe-reclame](/help/integrations/analytics/analytics-data-in-advertising-cloud.md)
+>* [Adobe Advertising Metrics in Analysis Workspace](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+>* [[!DNL Analytics] Gegevens in Adobe-reclame](/help/integrations/analytics/analytics-data-in-advertising.md)
 >* [Waarom gegevens kunnen verschillen tussen Adobe-reclame en [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md)
 

@@ -3,9 +3,9 @@ title: Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden
 description: Leer hoe u uw [!DNL Adobe] publiek naar DSP en zoeken met Adobe Audience Manager
 feature: Integration with Adobe Audience Manager
 exl-id: 08a40148-b7d2-442b-81e8-f3aec4fca7df
-source-git-commit: ad4ab8b9b0a4b5b1cc4aab540900363d2fe671c2
+source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '764'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,7 @@ Segment membership data is sent only after one of the following events occurs:
 
 In DSP, worden de segmentnamen georganiseerd door de taxonomie van de Audience Manager en beschikbaar met de overeenkomstige tellingen van het segmentlidmaatschap in:
 
-* [Plaatsingsinstellingen](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/placement-settings.html?#audience-targeting): Op de [!UICONTROL Adobe Segments] tabblad van het dialoogvenster [!UICONTROL Audience Targeting] sectie.
+* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md#audience-targeting): Op de [!UICONTROL Adobe Segments] tabblad van het dialoogvenster [!UICONTROL Audience Targeting] sectie.
 
 * In [doelinstellingen](/help/dsp/audiences/audience-settings.md): Op de [!UICONTROL Adobe Segments] tab.
 
