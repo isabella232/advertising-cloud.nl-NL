@@ -1,8 +1,7 @@
 ---
 title: A/B-tests configureren voor advertenties van Adobe in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP en [!DNL Search] advertenties.
-exl-id: 97055645-4b2f-4795-830d-9ce89ae2ad15
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '1647'
 ht-degree: 0%
@@ -17,7 +16,7 @@ ht-degree: 0%
 
 *Adverteerders DSP alleen reclame*
 
-Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
+Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op alle betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
 
 * Verlaag de mate van verschuiving van de site door de advertenties van klanten te koppelen van DSP campagnes aan hun ervaringen ter plaatse.
 

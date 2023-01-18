@@ -2,8 +2,7 @@
 title: Informatie over de weergaven van Campagnegegevens
 description: Leer hoe u de gegevensweergaven voor campagnes, pakketten, plaatsingen en advertenties kunt aanpassen.
 feature: DSP Campaign Data Views
-exl-id: acc312b9-2de4-4e2f-9b59-b91f23d82357
-source-git-commit: 19d6a2edf07eecf874537dd9d356737ed9156bd9
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -45,6 +44,6 @@ In alle weergaven voor campagnebeheer ([!UICONTROL Campaigns], [!UICONTROL Packa
 >* [Gegevensvisualisatie beheren](campaign-data-visualization-manage.md)
 >* [De sites, advertenties en frequentiedetails voor een plaatsing weergeven](placement-details-view.md)
 >* [De Placement Diagnostic Reports weergeven](placement-diagnostics.md)
->* [Gegevens exporteren uit een Campagnebeheerweergave](campaign-export-data.md)
+>* [Gegevens exporteren uit een Campaign Management-weergave](campaign-export-data.md)
 >* [Video: Accountstructuur en gebruikersinterface DSP](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
 

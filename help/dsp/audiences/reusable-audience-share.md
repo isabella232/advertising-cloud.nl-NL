@@ -2,7 +2,7 @@
 title: Een herbruikbaar publiek delen
 description: Leer hoe u een herbruikbaar publiek deelt met andere adverteerders die beschikbaar zijn voor uw account.
 feature: DSP Audiences
-source-git-commit: b0166338edca9f8928aa72241c815f0149e78689
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

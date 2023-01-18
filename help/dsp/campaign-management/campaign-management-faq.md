@@ -1,16 +1,15 @@
 ---
-title: Veelgestelde vragen over Campagnebeheer
+title: Veelgestelde vragen over Campaign Management
 description: Meer informatie over campagnebeheer, waaronder de latentieperiode voor wijzigingen en wat er gebeurt wanneer u budgetwijzigingen aanbrengt tijdens een vlucht.
 feature: DSP Packages, DSP Placements
-exl-id: 9034ab2c-b8b0-4759-bc87-5f73857bb062
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-# Veelgestelde vragen over Campagnebeheer
+# Veelgestelde vragen over Campaign Management
 
 <!-- Most of this information should be moved into the relevant topics (especially editing topics). -->
 
@@ -40,7 +39,7 @@ ht-degree: 0%
 
 * Hoe verandert het pakket op de laatste dag van een vlucht?
 
-   Op de laatste dag van een vlucht wordt de dag verkort van 24 uur tot 23 uur, zodat het budget voor het pakket niet wordt overschreden. Ook, verandert de het verpakken vulstrategie van het pakket automatisch in &quot;[!UICONTROL Frontload],&quot;zelfs als het aan &quot;[!UICONTROL even]&quot;wordt geplaatst. Dit betekent dat 65% van de dagelijkse begroting voor 2011:30 uur EST moet zijn.
+   Op de laatste dag van een vlucht wordt de dag verkort van 24 uur tot 23 uur, zodat het budget voor het pakket niet wordt overschreden. De strategie voor het vullen met pakketten wordt ook automatisch gewijzigd in &quot;[!UICONTROL Frontload],&quot; zelfs als deze is ingesteld op &quot;[!UICONTROL even].&quot; Dit betekent dat 65% van de dagelijkse begroting voor 2011:30 uur EST moet zijn.
 
 >[!MORELIKETHIS]
 >

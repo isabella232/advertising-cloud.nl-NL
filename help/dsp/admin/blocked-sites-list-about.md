@@ -1,8 +1,7 @@
 ---
 title: Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau
 description: Meer weten over de lijst met geblokkeerde sites voor een account of adverteerder?
-exl-id: 1216d671-0cce-4401-a71e-948279a03845
-source-git-commit: ad978a021c063377e4c91ed41e902d98a03749e4
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%

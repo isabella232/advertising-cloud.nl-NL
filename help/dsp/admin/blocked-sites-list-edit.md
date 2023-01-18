@@ -1,7 +1,7 @@
 ---
 title: Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken
 description: Leer hoe u de lijst met geblokkeerde sites beheert voor een account of adverteerder.
-source-git-commit: 4a5c4a2f180eba26818137bf9c31f212b342543a
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%

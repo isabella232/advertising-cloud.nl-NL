@@ -2,8 +2,7 @@
 title: Plaatsingsinstellingen voor een campagne uploaden
 description: Leer hoe u wijzigingen in belangrijke plaatsingsinstellingen voor een campagne kunt uploaden met Excel QA-werkbladen.
 feature: DSP Placements
-exl-id: 0f5fdc7e-3a90-4b4b-a23c-75bed7703100
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -12,11 +11,11 @@ ht-degree: 0%
 
 # Plaatsingsinstellingen voor een campagne uploaden
 
-Als u wijzigingen in bepaalde plaatsingsinstellingen voor een campagne wilt posten, kunt u een spreadsheet uploaden dat u eerder [hebt gedownload](qa-sheet-download.md) en hebt bewerkt. Wijzigingen zijn alleen toegestaan in de [bewerkbare kolommen](qa-sheet-columns.md).
+Als u wijzigingen wilt posten in bepaalde plaatsingsinstellingen voor een campagne, kunt u een spreadsheet uploaden die u eerder hebt gebruikt [gedownload](qa-sheet-download.md) en heeft bewerkt. Wijzigingen zijn alleen toegestaan in het dialoogvenster [bewerkbare kolommen](qa-sheet-columns.md).
 
 >[!TIP]
 >
->Als u uitgebreidere wijzigingen wilt aanbrengen in de plaatsingsinstellingen, gebruikt u de functie voor het bewerken van grote hoeveelheden.<!-- add link once we have help on it -->
+>Als u uitgebreidere wijzigingen wilt aanbrengen in de plaatsingsinstellingen, gebruikt u de functie voor het bulksgewijs bewerken.<!-- add link once we have help on it -->
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
@@ -26,13 +25,13 @@ Als u wijzigingen in bepaalde plaatsingsinstellingen voor een campagne wilt post
 
    * Klik op de naam van de campagne om de details van de campagne weer te geven. Klik in de rechterbovenhoek op **[!UICONTROL ...]>[!UICONTROL Upload Excel QA sheet]**.
 
-1. In het dialoogvenster [!UICONTROL Edit in Excel]:
+1. In de [!UICONTROL Edit in Excel] dialoogvenster:
 
    1. Sleep een bestand naar het vak of klik in het vak om een bestand van het apparaat of het netwerk te selecteren.
 
    1. Klik op **[!UICONTROL Upload]**.
 
-1. (Optioneel) Als u wilt controleren of de updates zijn verwerkt, klikt u op ![Taken](/help/dsp/assets/downloads.png) rechts van de bovenste menubalk.
+1. (Optioneel) Klik op ![Taken](/help/dsp/assets/downloads.png) rechts van de bovenste menubalk.
 
 >[!MORELIKETHIS]
 >

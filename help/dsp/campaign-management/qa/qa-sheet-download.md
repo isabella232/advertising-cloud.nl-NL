@@ -2,8 +2,7 @@
 title: Plaatsingsinstellingen voor een campagne downloaden
 description: Leer hoe te om de plaatsingsmontages voor een campagne te downloaden gebruikend de spreadsheets van Excel QA.
 feature: DSP Placements
-exl-id: c3b0cbf2-7095-4608-977a-9a5dd0bbd585
-source-git-commit: d10e1c24ee7c93eaab3fd4fefe853860226cc8e2
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -14,7 +13,7 @@ ht-degree: 0%
 
 U kunt de plaatsingsinstellingen voor een campagne downloaden in de XLSX-indeling (Excel-spreadsheet).
 
-Indien nodig, kunt u [velden ](qa-sheet-columns.md) in het gedownloade bestand later bewerken en [de wijzigingen uploaden](qa-sheet-upload.md) naar DSP.
+Indien nodig kunt u later bewerken [velden selecteren](qa-sheet-columns.md) in het gedownloade bestand en [uploaden de wijzigingen](qa-sheet-upload.md) tot DSP.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
@@ -30,8 +29,8 @@ Indien nodig, kunt u [velden ](qa-sheet-columns.md) in het gedownloade bestand l
 
    * Klik in het meldingsbericht op **[!UICONTROL Download].**
 
-   * Klik rechts van de bovenste menubalk op ![Jobs](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
-   Het bestand wordt opgeslagen in de downloadmap van de browser. Zie &quot;[Kolommen in Gedownloade/Geüploade Spreadsheets](qa-sheet-columns.md)&quot;voor een lijst van de inbegrepen kolommen.
+   * Klik rechts van de bovenste menubalk op ![Taken](/help/dsp/assets/downloads.png). Klikken **[!UICONTROL Download]** naast de taak.
+   Het bestand wordt opgeslagen in de downloadmap van de browser. Zie &quot;[Kolommen in gedownloade/geüploade werkbladen](qa-sheet-columns.md)&quot; voor een lijst van de opgenomen kolommen.
 
 >[!MORELIKETHIS]
 >

@@ -2,13 +2,12 @@
 title: Info [!UICONTROL Report Destinations]
 description: Meer informatie over het beheren van leveringslocaties voor uw aangepaste rapporten.
 feature: DSP Custom Reports
-source-git-commit: ff14691fd2b6fa56c303dca3ac0e4c897c322f72
+source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Info [!UICONTROL Report Destinations]
 
@@ -43,3 +42,4 @@ U kunt nieuwe bestemmingen tot stand brengen, en bestaande bestemmingen uitgeven
 >* [[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md)
 >* [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
 >* [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
+
