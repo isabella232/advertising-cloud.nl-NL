@@ -4,9 +4,10 @@ description: Meer informatie over de nieuwste updates en nieuwe functies in DSP 
 cloud: Experience Cloud
 product: advertising cloud
 index: true
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
+source-git-commit: 03e395432ff3d840a895f4e5d65843e3ac4c11a5
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1089'
 ht-degree: 0%
 
 ---
@@ -17,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 25 januari 2023 | Overeenkomsten | Een nieuwe &quot;Pacing van de Impressie van PG&quot;uitgavenkolom in de Inventaris > de meningsrapporten van Overeenkomsten die voor gewaarborgde overeenkomsten in pakket plaatsen. | Zie &quot;[Een aangepaste kolomweergave bewerken](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 14 december 2022 | Plaatsen, advertenties | (De bètafunctie openen) Nieuw &quot;[!UICONTROL Universal Video]&quot; Dankzij plaatsingen en advertenties kunt u zich richten op meerdere apparaatomgevingen voor VPAID- en VAST-inventarisatie met behulp van één videoplaatsing.<br><br>Universele videokoppelingen bevatten de instelling &quot;Apparaatomgeving&quot; om apparaattypedoelen op te geven ([!UICONTROL Desktop], [!UICONTROL Mobile], en [!UICONTROL Connected TV]). Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.<br><br>Aangepaste rapporten bevatten de nieuwe dimensie Apparaatomgeving op plaatsingsniveau. | Zie &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)&quot; en &quot;[Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md).&quot;<br><br>Zie ook &quot;[Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; en &quot;[Een advertentie maken](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
 | 23 november 2022 | Overeenkomsten | De [!UICONTROL Inventory] > [!UICONTROL Deals] weergave bevat nu een &quot;[!UICONTROL Deal Health]&quot; kolom, die op de gezondheidsstatus van elke privé overeenkomst wijst: &quot;[!UICONTROL Success],&quot; &quot;[!UICONTROL Warning],&quot; &quot;[!UICONTROL Critical],&quot; of &quot;[!UICONTROL Unavailable].&quot; U kunt de status klikken om meer details, met inbegrip van te zien waarom een overeenkomst niet uitvoert of zoals verwacht uitgeeft en de stappen om potentiële kwesties problemen op te lossen. | — |
 | 27 oktober 2022 | [!UICONTROL Campaigns] | Een veranderingslogboek, dat veranderingen toont die tijdens de geselecteerde datumwaaier worden aangebracht, is nu beschikbaar voor elk pakket en plaatsing. | Zie &quot;[Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md)&quot; en &quot;[Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
