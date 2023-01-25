@@ -8,9 +8,9 @@ user-guide-title: DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: d928b19b868ffc87d5962391f06d765f9da7c13a
+source-git-commit: 62966cd8d903d20b42444ac65d7c70a3a3806a1e
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '881'
 ht-degree: 0%
 
 ---
@@ -35,15 +35,8 @@ ht-degree: 0%
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
-   + Steun voor Consumentenprivacy {#privacy}
-      + [Steun voor de algemene verordening inzake gegevensbescherming](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
-      + Ondersteuning voor CCPA {#ccpa}
-         + [Ondersteuning voor de California Consumer Privacy Act: Toegang tot consumentengegevens en verwijderen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
-         + [Ondersteuning voor de California Consumer Privacy Act: Consumenten kiezen uit de uitverkoop](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
-   + Beleid en richtsnoeren {#policies}
-      + [Beleid voor advertenties](/help/policies/ad-requirements-policy.md)
-      + [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](/help/policies/health-segment-guidelines.md)
-      + [[!DNL DSP] Richtlijnen voor gegevensgebruik](/help/policies/data-usage-guidelines.md)
+   + [Steun voor Consumentenprivacy](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [Beleid en richtsnoeren](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Overzicht van de Campaign Management-structuur](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -231,6 +224,6 @@ ht-degree: 0%
    + Meldingen {#notifications}
       + [Informatie over abonnementen op berichten](/help/dsp/admin/alerts-about.md)
       + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
-+ [Integratie met Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
++ [Integratie met Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [Klantenondersteuning](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html)
 + [Opmerkingen bij de release van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
