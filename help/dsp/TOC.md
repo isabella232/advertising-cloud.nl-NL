@@ -8,9 +8,9 @@ user-guide-title: DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: 17482b831c5db7ef6c211f87b2e408443180746e
+source-git-commit: f04fdb7f4f9787804e526b49da2aad0f4e15679a
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '910'
 ht-degree: 0%
 
 ---
@@ -36,14 +36,14 @@ ht-degree: 0%
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
    + Steun voor Consumentenprivacy {#privacy}
-      + [Steun voor de algemene verordening inzake gegevensbescherming](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
+      + [Steun voor de algemene verordening inzake gegevensbescherming](/help/privacy/advertising-gdpr.md)
       + Ondersteuning voor CCPA {#ccpa}
-         + [Ondersteuning voor de California Consumer Privacy Act: Toegang tot consumentengegevens en verwijderen](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
-         + [Ondersteuning voor de California Consumer Privacy Act: Consumenten kiezen uit de uitverkoop](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
+         + [Ondersteuning voor de California Consumer Privacy Act: Toegang tot consumentengegevens en verwijderen](/help/privacy/ccpa-access-delete.md)
+         + [Ondersteuning voor de California Consumer Privacy Act: Consumenten kiezen uit de uitverkoop](/help/privacy/ccpa-opt-out-of-sale.md)
    + Beleid en richtsnoeren {#policies}
-      + [Beleid voor advertenties](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
-      + [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
-      + [[!DNL DSP] Richtlijnen voor gegevensgebruik](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
+      + [Beleid voor advertenties](/help/policies/ad-requirements-policy.md)
+      + [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](/help/policies/health-segment-guidelines.md)
+      + [[!DNL DSP] Richtlijnen voor gegevensgebruik](/help/policies/data-usage-guidelines.md)
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Overzicht van de Campaign Management-structuur](/help/dsp/campaign-management/campaign-management-overview.md)
