@@ -8,7 +8,7 @@ user-guide-title: DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: f04fdb7f4f9787804e526b49da2aad0f4e15679a
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
 source-wordcount: '910'
 ht-degree: 0%
@@ -36,10 +36,10 @@ ht-degree: 0%
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
    + Steun voor Consumentenprivacy {#privacy}
-      + [Steun voor de algemene verordening inzake gegevensbescherming](/help/privacy/advertising-gdpr.md)
+      + [Steun voor de algemene verordening inzake gegevensbescherming](/help/privacy/gdpr.md)
       + Ondersteuning voor CCPA {#ccpa}
-         + [Ondersteuning voor de California Consumer Privacy Act: Toegang tot consumentengegevens en verwijderen](/help/privacy/ccpa-access-delete.md)
-         + [Ondersteuning voor de California Consumer Privacy Act: Consumenten kiezen uit de uitverkoop](/help/privacy/ccpa-opt-out-of-sale.md)
+         + [Ondersteuning voor de California Consumer Privacy Act: Toegang tot consumentengegevens en verwijderen](/help/privacy/ccpa/ccpa-access-delete.md)
+         + [Ondersteuning voor de California Consumer Privacy Act: Consumenten kiezen uit de uitverkoop](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
    + Beleid en richtsnoeren {#policies}
       + [Beleid voor advertenties](/help/policies/ad-requirements-policy.md)
       + [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](/help/policies/health-segment-guidelines.md)

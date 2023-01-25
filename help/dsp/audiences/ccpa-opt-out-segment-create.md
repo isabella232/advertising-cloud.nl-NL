@@ -2,9 +2,10 @@
 title: Creeer en voer een CCPA uit Opt-uit-van-Verkoop segment
 description: Leer hoe u een segment maakt en implementeert om gebruikers-id's te traceren op basis van verzoeken van consumenten om te weigeren een product te verkopen.
 feature: CCPA, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ Wanneer de segmentpixel-tag is geïmplementeerd, begint Adobe-advertentie namens
 
 >[!NOTE]
 >
->* Voor informatie over het communiceren van CCPA-aanvragen voor niet-verkoop aan Adobe Advertising met de Adobe Experience Platform Privacy Service API, raadpleegt u [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html).
+>* Voor informatie over het communiceren van CCPA-aanvragen voor niet-verkoop aan Adobe Advertising met de Adobe Experience Platform Privacy Service API, raadpleegt u [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 >* Als u gebruikers wilt volgen die webpagina&#39;s bezoeken voor doeleinden die geen verband houden met het volgen van CCPA-opt-out-of-sale gebeurtenissen, en gebruikers die worden blootgesteld aan advertenties van desktop-, mobiele en CTV-apparaten, maakt u een [aangepast segment](/help/dsp/audiences/custom-segment-create.md).
 
 
@@ -60,7 +61,7 @@ Wanneer de segmentpixel-tag is geïmplementeerd, begint Adobe-advertentie namens
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en rapporten](ccpa-opt-out-about.md)
 >* [Rapporten over verkoopopties voor consumenten ophalen](ccpa-opt-out-segment-report-retrieve.md)
 >* [Een aangepast segment maken en implementeren](custom-segment-create.md)

@@ -2,7 +2,8 @@
 title: Over het beheer van het publiek in DSP
 description: Meer informatie over functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
+source-git-commit: e9d9d51302d32b06af805917db2f46e5f6daee62
 workflow-type: tm+mt
 source-wordcount: '1036'
 ht-degree: 0%
@@ -19,7 +20,7 @@ In DSP kunt u publiekssegmenten en publiekssets maken en beheren, die u kunt geb
 
    * [CCPA opt-out of-of-sale segmenten](/help/dsp/audiences/ccpa-opt-out-segment-create.md) om de gebruikers-id&#39;s op uw website te traceren van de door de consument ingediende opt-out-of-sale aanvragen, overeenkomstig de California Consumer Privacy Act (CCPA). U kunt maandelijkse rapporten van de gebruikers-id&#39;s ophalen uit aanvragen om niet te verkopen.
 
-      Voor meer informatie over Adobe Advertising support for CCPA opt-out of-of-sales request, raadpleegt u [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](/help/privacy/ccpa-opt-out-of-sale.md).
+      Voor meer informatie over Adobe Advertising support for CCPA opt-out of-of-sales request, raadpleegt u [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
 * U kunt een publieksbibliotheek maken van [herbruikbaar publiek](/help/dsp/audiences/reusable-audience-create.md). Opgeslagen doelgroepen bestaan uit een van uw beschikbare doelsegmenten en een van uw andere opgeslagen doelgroepen. Wijzigingen die u aanbrengt in een opgeslagen publiek, worden automatisch toegepast op alle plaatsen die het publiek als doel hebben of uitsluiten en op alle andere soorten publiek die het opgeslagen publiek bevatten.
 
