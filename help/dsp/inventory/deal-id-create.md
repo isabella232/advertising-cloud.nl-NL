@@ -3,9 +3,9 @@ title: Handmatig details van deal-id maken
 description: Leer hoe te om details voor een identiteitskaart van de Overeenkomst manueel in te gaan.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
-source-git-commit: bc5f05faf96d455bd8954e7f7f44cc9fe849e562
+source-git-commit: c2b83922ba5d4b40ad5a436f0ea052d051fb1d37
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
    1. In de [!UICONTROL Deal ID basics] van de sectie, specificeer de overeenkomstendetails en adverteerders die tot de overeenkomst kunnen toegang hebben. Voor gegarandeerde deals moet u ook de geplande vluchtdata en het geschatte aantal indrukken specificeren, alleen voor traceringsdoeleinden.
 
-      U kunt gewaarborgde overeenkomstenplaatsing volgen door &quot;PG het Pacing van de Impressie&quot;te omvatten doorgeeft kolom in de Inventaris > de mening van Overeenkomsten.
+      U kunt het afvangen van gewaarborgde overeenkomsten volgen door de &quot;Pacing van de Impressie Pacing&quot;uitgavenkolom van PG in de Inventaris > de mening van Overeenkomsten te omvatten.
 
    1. (Alleen gebruikers van beheerders; (optioneel) In de [!UICONTROL Technical] de standaardinstellingen naar wens bewerken.
 
