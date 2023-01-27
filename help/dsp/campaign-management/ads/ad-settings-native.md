@@ -2,9 +2,10 @@
 title: Instellingen voor eigen weergave
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor native weergaveadvertenties.
 feature: DSP Ads
-source-git-commit: 3059a5b211a8a219b02930f7f5763d5ec1467b8e
+exl-id: 64ce1946-072d-4ca9-b3a8-348987580403
+source-git-commit: ca4be4d13d5ce818aeb66c011f3af8c8fd87c2e4
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -45,7 +46,7 @@ Alle bestaande pixels voor het bijhouden van gebeurtenissen voor de plaatsing wo
 
 De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerkt.
 
-**[!UICONTROL Integration Event]:** De gebeurtenis die de pixel activeert. Gebruik voor dit advertentietype pixels die op het *[!UICONTROL Impression]* of *[!UICONTROL Click-through]*.
+**[!UICONTROL Integration Event]:** De gebeurtenis die de pixel activeert. Voor dit advertentietype is de enige optie *[!UICONTROL Impression]*.
 
 **[!UICONTROL Pixel Type]:** Of de pixel een *[!UICONTROL IMG URL]* (afbeeldingsbestand van 1 x 1 pixel), *[!UICONTROL HTML]*, of *[!UICONTROL JavaScript URL]*.
 
